@@ -9225,20 +9225,14 @@ window.HD_TEMPLATES = [
     // â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 
     {
-        id: 'brand_minimal_luxury',
-        name: 'Elegant Logo Presentation',
-        category: 'branding',
-        categoryLabel: 'ðŸ·ï¸ Branding',
-        width: 1080, height: 1080,
-        html: `
-        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f9f9f9;z-index:1;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:600px;height:600px;background:#fff;border-radius:50%;box-shadow:0 10px 30px rgba(0,0,0,0.05);z-index:2;"></div>
-        <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-        <h1 class="hd-draggable" data-type="text" style="position:absolute;top:55%;left:0;width:100%;text-align:center;color:#111;font-size:42px;font-weight:900;letter-spacing:10px;z-index:4;">AURELIA</h1>
-        <p class="hd-draggable" data-type="text" style="position:absolute;top:62%;left:0;width:100%;text-align:center;color:#888;font-size:18px;letter-spacing:5px;z-index:4;">PREMIUM JEWELRY BRAND</p>
-        <p class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;left:0;width:100%;text-align:center;color:#444;font-size:20px;z-index:4;padding:0 100px;line-height:1.5;">Defining luxury through timeless craftsmanship and exceptional design. Every piece tells a story of elegance and sophistication.</p>
-        `
-    },
+    "id": "brand_minimal_luxury",
+    "name": "Elegant Logo Presentation",
+    "category": "branding",
+    "subCategory": "sub-fb-ads",
+    "width": 1080,
+    "height": 1080,
+    "html": "<div id=\"design-bg\" style=\"position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background: linear-gradient(135deg, rgb(0, 9, 30), rgb(10, 36, 114), rgb(19, 56, 190)); z-index: 1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; inset: 342px auto auto 411px; transform: rotate(-9.65deg); width: 196px; height: 204px; background: rgb(255, 255, 255); border-radius: 50%; box-shadow: rgba(0, 0, 0, 0.05) 0px 10px 30px; z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        \n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 507px auto auto -15px; width: 100%; text-align: center; color: rgb(255, 255, 255); font-size: 70px !important; font-weight: 900; letter-spacing: 10px; z-index: 4; text-shadow: rgba(79, 140, 255, 0.8) 0px 0px 20px; outline: none; cursor: grab;\" contenteditable=\"false\">AURELIA</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 663.594px auto auto -6px; width: 100%; text-align: center; color: rgb(147, 197, 253); font-size: 33px !important; letter-spacing: 5px; z-index: 4; text-shadow: none; outline: none; cursor: grab;\" contenteditable=\"false\">PREMIUM JEWELRY BRAND</p>"
+},
     {
         id: 'brand_tech_future',
         name: 'Tech Brand Guidelines',
