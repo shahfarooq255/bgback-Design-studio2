@@ -1133,23 +1133,14 @@ window.HD_TEMPLATES = [
 
     // --- GOOGLE BANNERS SUB-CATEGORY ---
     {
-        id: 'g_banner_saas_001',
-        name: 'SaaS Leaderboard',
-        category: 'ad-creator',
-        subCategory: 'ad-g-banner',
-        categoryLabel: 'ðŸ–¼ï¸ Google Banner',
-        width: 728,
-        height: 90,
-        html: `
-                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(90deg, #f8f9fa 0%, #e9ecef 100%);z-index:1;"></div>
-                <div class="hd-draggable" data-type="shape" style="position:absolute;top:-50px;right:-50px;width:300px;height:200px;background:#0d6efd;border-radius:50%;opacity:0.1;z-index:2;"></div>
-                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:8px;height:100%;background:#0d6efd;z-index:3;"></div>
-                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:18px;left:40px;color:#212529 !important;font-size:28px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:1;letter-spacing:-1px;white-space:nowrap;">Scale Your Startup <span style="color:#0d6efd;">10x Faster</span></h1>
-                <p class="hd-draggable" data-type="text" style="position:absolute;top:56px;left:40px;color:#495057 !important;font-size:15px;font-weight:500;font-family:'Inter',sans-serif;z-index:5;margin:0;white-space:nowrap;">The ultimate all-in-one platform for modern teams.</p>
-                <div class="hd-draggable" data-type="text" style="position:absolute;top:22px;right:40px;background:#0d6efd;color:#fff;padding:12px 35px;font-size:16px;font-weight:800;border-radius:30px;box-shadow:0 10px 20px rgba(13,110,253,0.3);z-index:7;cursor:pointer;font-family:'Inter',sans-serif;">Start Free Trial</div>
-                <div class="hd-draggable" data-type="text" style="position:absolute;top:15px;left:470px;color:#0d6efd;font-size:45px;z-index:6;opacity:0.2;"><i class="fa-solid fa-rocket"></i></div>
-                `
-    },
+    "id": "g_banner_saas_001",
+    "name": "SaaS Leaderboard",
+    "category": "ad-creator",
+    "subCategory": "ad-g-banner",
+    "width": 777,
+    "height": 100,
+    "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(90deg, #f8f9fa 0%, #e9ecef 100%);z-index:1;\"></div>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; inset: -50px auto auto 478px; width: 300px; height: 200px; background: rgb(13, 110, 253); border-radius: 50%; opacity: 0.1; z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 0px; left: 0px; width: 8px; height: 100%; background: rgb(13, 110, 253); z-index: 3; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n                <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: -5.99402px auto auto 42.1813px; font-size: 28px; font-weight: 900; font-family: Inter, sans-serif; z-index: 5; margin: 0px; line-height: 1; letter-spacing: -1px; white-space: nowrap; color: rgb(33, 37, 41) !important; outline: none; cursor: grab;\" contenteditable=\"false\">Scale Your Startup <span style=\"color:#0d6efd;\">10x Faster</span></h1>\n                <p class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 60.3625px auto auto 43.2719px; font-size: 15px; font-weight: 500; font-family: Inter, sans-serif; z-index: 5; margin: 0px; white-space: nowrap; color: rgb(73, 80, 87) !important; outline: none; cursor: grab;\" contenteditable=\"false\">The ultimate all-in-one platform for modern teams.</p>\n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 22px; right: 40px; background: rgb(13, 110, 253); color: rgb(255, 255, 255); padding: 12px 35px; font-size: 16px; font-weight: 800; border-radius: 30px; box-shadow: rgba(13, 110, 253, 0.3) 0px 10px 20px; z-index: 7; cursor: grab; font-family: Inter, sans-serif; outline: none;\" contenteditable=\"false\">Start Free Trial</div>\n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 15px; left: 470px; color: rgb(13, 110, 253); font-size: 45px; z-index: 6; opacity: 0.2; outline: none; cursor: grab;\" contenteditable=\"false\"><i class=\"fa-solid fa-rocket\"></i></div>"
+},
 
     {
         id: 'g_banner_shop_001',
