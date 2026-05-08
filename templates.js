@@ -1208,22 +1208,14 @@ window.HD_TEMPLATES = [
     },
 
     {
-        id: 'g_banner_realestate_001',
-        name: 'Real Estate Leaderboard',
-        category: 'ad-creator',
-        subCategory: 'ad-g-banner',
-        categoryLabel: 'ðŸ¢ Home Banner',
-        width: 728,
-        height: 90,
-        html: `
-                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
-                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=300&q=80" alt="Luxury Home" style="position:absolute;top:5px;left:5px;width:180px;height:80px;object-fit:cover;border-radius:8px;z-index:2;box-shadow:0 4px 10px rgba(0,0,0,0.1);">
-                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:200px;width:2px;height:90px;background:#f1f3f5;z-index:2;"></div>
-                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:20px;left:220px;color:#212529 !important;font-size:28px;font-weight:800;font-family:'Playfair Display',serif;z-index:5;margin:0;letter-spacing:0.5px;">Find Your Luxury Home</h1>
-                <p class="hd-draggable" data-type="text" style="position:absolute;top:55px;left:220px;color:#6c757d !important;font-size:14px;font-weight:500;font-family:'Inter',sans-serif;z-index:5;margin:0;letter-spacing:0.5px;"><i class="fa-solid fa-location-dot" style="color:#d4af37;"></i> Beverly Hills, CA &bull; Premium Listings</p>
-                <div class="hd-draggable" data-type="text" style="position:absolute;top:25px;right:30px;background:#212529;color:#d4af37;padding:12px 30px;font-size:14px;font-weight:700;border-radius:4px;z-index:7;font-family:'Inter',sans-serif;text-transform:uppercase;letter-spacing:1px;border:1px solid #d4af37;">View Properties</div>
-                `
-    },
+    "id": "g_banner_realestate_001",
+    "name": "Real Estate Leaderboard",
+    "category": "ad-creator",
+    "subCategory": "ad-g-banner",
+    "width": 1004,
+    "height": 135,
+    "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;\"></div>\n                <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&amp;fit=crop&amp;w=300&amp;q=80\" alt=\"Luxury Home\" style=\"position: absolute; top: 5px; left: 5px; width: 180px; height: 80px; object-fit: cover; border-radius: 8px; z-index: 2; box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 10px; outline: none; cursor: grab;\" contenteditable=\"false\">\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 0px; left: 200px; width: 2px; height: 90px; background: rgb(241, 243, 245); z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n                <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: -27.988px auto auto 217.819px; font-size: 45px !important; font-weight: 800; font-family: &quot;Playfair Display&quot;, serif; z-index: 5; margin: 0px; letter-spacing: 0.5px; color: rgb(33, 37, 41) !important; outline: none; cursor: grab;\" contenteditable=\"false\">Find Your Luxury Home</h1>\n                <p class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 79.7445px auto auto 206.912px; font-size: 26px !important; font-weight: 500; font-family: Inter, sans-serif; z-index: 5; margin: 0px; letter-spacing: 0.5px; color: rgb(108, 117, 125) !important; outline: none; cursor: grab;\" contenteditable=\"false\"><i class=\"fa-solid fa-location-dot\" style=\"color:#d4af37;\"></i> Beverly Hills, CA • Premium Listings</p>\n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 25px; right: 30px; background: rgb(33, 37, 41); color: rgb(212, 175, 55); padding: 12px 30px; font-size: 14px; font-weight: 700; border-radius: 4px; z-index: 7; font-family: Inter, sans-serif; text-transform: uppercase; letter-spacing: 1px; border: 1px solid rgb(212, 175, 55); outline: none; cursor: grab;\" contenteditable=\"false\">View Properties</div>"
+},
 
     // --- TWITCH OVERLAYS SUB-CATEGORY ---
     {
