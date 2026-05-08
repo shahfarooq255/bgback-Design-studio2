@@ -24,25 +24,14 @@ window.HD_TEMPLATES = [
     },
 
     {
-        id: 'fb_product_premium_001',
-        name: 'Clean Product Showcase',
-        category: 'ad-creator',
-        subCategory: 'sub-fb-ads',
-        categoryLabel: 'ðŸ›ï¸ Product Ad',
-        width: 1080,
-        height: 1080,
-        html: `
-                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f8f9fa;z-index:1;"></div>
-                <div class="hd-draggable" data-type="shape" style="position:absolute;top:100px;left:100px;right:100px;bottom:100px;background:linear-gradient(135deg, #232526 0%, #414345 100%);border-radius:40px;z-index:2;box-shadow:0 30px 60px rgba(0,0,0,0.3);"></div>
-                <div class="hd-draggable" data-type="shape" style="position:absolute;top:150px;left:150px;width:300px;height:300px;background:rgba(255,255,255,0.05);border-radius:50%;z-index:3;backdrop-filter:blur(20px);"></div>
-                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:200px;left:150px;color:#ffffff;font-size:75px;font-weight:800;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:1.1;letter-spacing:-2px;">Premium<br>Collection</h1>
-                <p class="hd-draggable" data-type="text" style="position:absolute;top:400px;left:150px;color:rgba(255,255,255,0.6);font-size:24px;font-weight:400;font-family:'Inter',sans-serif;z-index:5;width:400px;line-height:1.6;">Experience the perfect blend of innovation and aesthetic excellence.</p>
-                <div class="hd-draggable" data-type="text" style="position:absolute;top:550px;left:150px;font-size:22px;font-weight:bold;color:#fff;border:2px solid #fff;padding:15px 40px;border-radius:15px;text-align:center;z-index:5;">EXPLORE MORE</div>
-                <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;right:150px;width:400px;height:550px;background:rgba(255,255,255,0.1);border-radius:30px;z-index:4;backdrop-filter:blur(15px);border:1px solid rgba(255,255,255,0.2);"></div>
-                <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:150px;right:180px;color:#fff;font-size:40px;font-weight:900;z-index:5;">$199.99</div>
-                `
-    },
+    "id": "fb_product_premium_001",
+    "name": "Clean Product Showcase",
+    "category": "ad-creator",
+    "subCategory": "sub-fb-ads",
+    "width": 1080,
+    "height": 1080,
+    "html": "<div id=\"design-bg\" style=\"position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background: rgb(26, 28, 35); z-index: 1;\"></div>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:100px;left:100px;right:100px;bottom:100px;background:linear-gradient(135deg, #232526 0%, #414345 100%);border-radius:40px;z-index:2;box-shadow:0 30px 60px rgba(0,0,0,0.3);\"></div>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:150px;left:150px;width:300px;height:300px;background:rgba(255,255,255,0.05);border-radius:50%;z-index:3;backdrop-filter:blur(20px);\"></div>\n                <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 200px; left: 150px; color: rgb(241, 196, 15); font-size: 75px; font-weight: 800; font-family: Inter, sans-serif; z-index: 5; margin: 0px; line-height: 1.1; letter-spacing: -2px; text-shadow: rgba(0, 0, 0, 0.8) 0px 4px 10px;\">Premium<br>Collection</h1>\n                <p class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 400px; left: 150px; color: rgb(170, 170, 170); font-size: 24px; font-weight: 400; font-family: Inter, sans-serif; z-index: 5; width: 400px; line-height: 1.6; text-shadow: none;\">Experience the perfect blend of innovation and aesthetic excellence.</p>\n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:550px;left:150px;font-size:22px;font-weight:bold;color:#fff;border:2px solid #fff;padding:15px 40px;border-radius:15px;text-align:center;z-index:5;\">EXPLORE MORE</div>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:200px;right:150px;width:400px;height:550px;background:rgba(255,255,255,0.1);border-radius:30px;z-index:4;backdrop-filter:blur(15px);border:1px solid rgba(255,255,255,0.2);\"></div>\n                <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:150px;right:180px;color:#fff;font-size:40px;font-weight:900;z-index:5;\">$199.99</div>"
+},
 
     {
         id: 'fb_webinar_event_001',
