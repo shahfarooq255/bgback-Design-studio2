@@ -223,9 +223,9 @@ window.HD_TEMPLATES = [
         width: 1080,
         height: 1080,
         html: `
-            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#1a1a2e 0%,#16213e 50%,#0f3460 100%);z-index:1;"></div>
-            <div class="hd-draggable" data-type="shape" style="position:absolute;top:-100px;left:-100px;width:500px;height:500px;background:rgba(83,52,255,0.3);border-radius:50%;z-index:2;filter:blur(80px);"></div>
-            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:-100px;right:-100px;width:500px;height:500px;background:rgba(255,52,120,0.2);border-radius:50%;z-index:2;filter:blur:80px;"></div>
+           <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#1a1a2e 0%,#16213e 50%,#0f3460 100%);z-index:1;"></div>
+<div class="hd-draggable" data-type="shape" style="position:absolute;top:-100px;left:-100px;width:500px;height:500px;background:rgba(83,52,255,0.3);border-radius:50%;z-index:2;filter:blur(80px);"></div>
+<div class="hd-draggable" data-type="shape" style="position:absolute;bottom:-100px;right:-100px;width:500px;height:500px;background:rgba(255,52,120,0.2);border-radius:50%;z-index:2;filter:blur(80px);"></div>
             <div class="hd-draggable" data-type="shape" style="position:absolute;top:120px;left:80px;right:80px;bottom:120px;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.15);border-radius:30px;z-index:3;backdrop-filter:blur(20px);"></div>
             <div class="hd-draggable" data-type="text" style="position:absolute;top:170px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.5);font-size:20px;letter-spacing:10px;z-index:5;">✦ EXCLUSIVE OFFER ✦</div>
             <h1 class="hd-draggable" data-type="text" style="position:absolute;top:220px;left:0;width:100%;text-align:center;color:#fff;font-size:140px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.85;text-shadow:0 20px 60px rgba(83,52,255,0.6);">NEW<br><span style="background:linear-gradient(90deg,#a855f7,#ec4899);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">ARRIVALS</span></h1>
