@@ -4,14 +4,379 @@ window.HD_TEMPLATES = [
     // â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 
     {
-    "id": "fb_flash_sale_001",
-    "name": "Bold Flash Sale",
-    "category": "ad-creator",
-    "subCategory": "sub-fb-ads",
-    "width": 1080,
-    "height": 1080,
-    "html": "<div id=\"design-bg\" style=\"position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background: linear-gradient(135deg, rgb(10, 10, 10), rgb(26, 26, 46), rgb(22, 33, 62)); z-index: 1;\"></div>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: -150px; right: -150px; width: 600px; height: 600px; background: rgba(255, 255, 255, 0.1); border-radius: 50%; z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n                <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position: absolute; top: 25px; left: 60px; color: rgb(255, 255, 255); font-size: 100px; z-index: 4; padding: 10px; cursor: grab; border: 2px dashed transparent; user-select: none; resize: both; overflow: visible; outline: none;\" contenteditable=\"false\">🚀</div>\n                <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 218.764px auto auto -20.8243px; width: 100%; text-align: center; color: rgb(226, 232, 240); font-size: 120px; font-weight: 900; font-family: Inter, sans-serif; text-shadow: rgba(255, 255, 255, 0.15) 0px 0px 30px; z-index: 5; margin: 0px; line-height: 1; outline: none; cursor: grab; user-select: text;\" contenteditable=\"false\" spellcheck=\"false\">FLASH SALE</h1>\n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 449.457px auto auto 308.763px; color: rgb(255, 255, 255); background: rgba(0, 0, 0, 0.3); padding: 15px 60px; border-radius: 100px; font-weight: 900; font-size: 80px; z-index: 5; backdrop-filter: blur(10px); border: 2px solid rgba(255, 255, 255, 0.3); outline: none; cursor: grab; user-select: text;\" contenteditable=\"false\" spellcheck=\"false\">40% OFF</div>\n                <p class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 676.313px auto auto 18.2213px; width: 100%; text-align: center; color: rgb(148, 163, 184); font-size: 35px; font-weight: 500; font-family: Inter, sans-serif; z-index: 5; letter-spacing: 2px; text-shadow: none; outline: none; cursor: grab;\" contenteditable=\"false\">LIMITED TIME OFFER â€¢ ENDS TONIGHT</p>\n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 793.709px auto auto 416.03px; font-size: 32px; font-weight: bold; color: rgb(255, 65, 108); background: rgb(255, 255, 255); padding: 20px 60px; border-radius: 50px; text-align: center; box-shadow: rgba(0, 0, 0, 0.2) 0px 15px 35px; z-index: 5; outline: none; cursor: grab; user-select: text;\" contenteditable=\"false\" spellcheck=\"false\">SHOP NOW&nbsp;</div>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; bottom: 50px; left: 440px; width: 200px; height: 5px; background: rgba(255, 255, 255, 0.5); border-radius: 5px; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\"></div>"
-},
+        id: 'fb_flash_sale_001',
+        name: 'Bold Flash Sale',
+        category: 'ad-creator',
+        subCategory: 'sub-fb-ads',
+        categoryLabel: 'ðŸ“˜ Facebook Post',
+        width: 1080,
+        height: 1080,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg, #ff416c 0%, #ff4b2b 100%);z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:-150px;right:-150px;width:600px;height:600px;background:rgba(255,255,255,0.1);border-radius:50%;z-index:2;"></div>
+                <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:250px;left:0;width:100%;text-align:center;color:#ffffff;font-size:120px;font-weight:900;font-family:'Inter',sans-serif;text-shadow:0 15px 40px rgba(0,0,0,0.3);z-index:5;margin:0;line-height:1;">FLASH SALE</h1>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:400px;left:340px;color:#fff;background:rgba(0,0,0,0.3);padding:15px 60px;border-radius:100px;font-weight:900;font-size:80px;z-index:5;backdrop-filter:blur(10px);border:2px solid rgba(255,255,255,0.3);">70% OFF</div>
+                <p class="hd-draggable" data-type="text" style="position:absolute;top:580px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.9);font-size:35px;font-weight:500;font-family:'Inter',sans-serif;z-index:5;letter-spacing:2px;">LIMITED TIME OFFER â€¢ ENDS TONIGHT</p>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:700px;left:390px;font-size:32px;font-weight:bold;color:#ff416c;background:#fff;padding:20px 60px;border-radius:50px;text-align:center;box-shadow:0 15px 35px rgba(0,0,0,0.2);z-index:5;">SHOP NOW â†’</div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:50px;left:440px;width:200px;height:5px;background:rgba(255,255,255,0.5);border-radius:5px;z-index:5;"></div>
+                `
+    },
+
+    {
+        id: 'fb_aurora_neon_012',
+        name: 'Aurora Neon Glow Sale',
+        category: 'ad-creator',
+        subCategory: 'sub-fb-ads',
+        categoryLabel: '🌌 Aurora Sale',
+        width: 1080,
+        height: 1080,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#020008;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:-50px;left:-50px;width:700px;height:700px;background:radial-gradient(ellipse,rgba(0,200,255,0.25) 0%,transparent 65%);z-index:2;filter:blur(40px);"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:-100px;right:-100px;width:800px;height:800px;background:radial-gradient(ellipse,rgba(180,0,255,0.2) 0%,transparent 65%);z-index:2;filter:blur(60px);"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:400px;left:200px;width:600px;height:300px;background:radial-gradient(ellipse,rgba(0,255,180,0.15) 0%,transparent 70%);z-index:2;filter:blur(30px);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:0;width:100%;text-align:center;color:rgba(0,200,255,0.7);font-size:20px;letter-spacing:12px;z-index:5;font-weight:300;">✦ THE AURORA COLLECTION ✦</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:0;width:100%;text-align:center;color:#fff;font-size:155px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.85;text-shadow:0 0 80px rgba(0,200,255,0.6),0 0 160px rgba(180,0,255,0.3);">DREAM<br><span style="background:linear-gradient(90deg,#00c8ff,#b400ff,#00ffb4);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">BIG.</span></h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:500px;left:100px;right:100px;height:1px;background:linear-gradient(to right,transparent,rgba(0,200,255,0.6),rgba(180,0,255,0.6),transparent);z-index:4;"></div>
+            <p class="hd-draggable" data-type="text" style="position:absolute;top:540px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.6);font-size:28px;z-index:5;letter-spacing:3px;font-weight:300;">Exclusive drops. Unreal prices. Limited time.</p>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:640px;left:0;width:100%;text-align:center;font-size:90px;font-weight:900;z-index:5;background:linear-gradient(90deg,#00c8ff,#b400ff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">UP TO 65%</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:760px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.4);font-size:22px;z-index:5;letter-spacing:5px;">OFF SELECTED STYLES</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:110px;left:50%;transform:translateX(-50%);width:420px;height:80px;background:linear-gradient(90deg,#00c8ff,#b400ff);border-radius:50px;z-index:5;box-shadow:0 0 60px rgba(0,200,255,0.4),0 0 60px rgba(180,0,255,0.3);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:130px;left:0;width:100%;text-align:center;color:#fff;font-size:28px;font-weight:900;z-index:6;letter-spacing:3px;">EXPLORE DROPS ✦</div>
+        `
+    },
+
+    {
+        id: 'fb_brutalist_bold_013',
+        name: 'Brutalist Typography Sale',
+        category: 'ad-creator',
+        subCategory: 'sub-fb-ads',
+        categoryLabel: '🖤 Brutalist Ad',
+        width: 1080,
+        height: 1080,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f0eb00;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:repeating-linear-gradient(90deg,transparent,transparent 109px,rgba(0,0,0,0.04) 109px,rgba(0,0,0,0.04) 110px);z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:20px;left:20px;width:200px;height:200px;background:#000;z-index:3;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:55px;left:35px;color:#f0eb00;font-size:28px;font-weight:900;z-index:4;letter-spacing:2px;line-height:1.3;">HOT<br>SALE</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:50px;left:240px;color:#000;font-size:180px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.85;letter-spacing:-10px;">SALE<br>NOW!</h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:450px;left:0;width:100%;height:12px;background:#000;z-index:4;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:480px;left:0;width:100%;height:12px;background:#000;z-index:4;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:510px;left:20px;color:#000;font-size:100px;font-weight:900;z-index:5;line-height:0.9;letter-spacing:-5px;">UPTO 80% OFF.</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:630px;left:0;width:100%;height:8px;background:#000;z-index:4;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:660px;left:20px;color:#000;font-size:32px;font-weight:700;z-index:5;line-height:1.5;width:900px;">Every single item. Every single category. No exceptions. No hidden fees. Just raw deals.</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:80px;left:20px;width:500px;height:100px;background:#000;z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:103px;left:20px;width:500px;text-align:center;color:#f0eb00;font-size:36px;font-weight:900;letter-spacing:3px;z-index:6;">BUY NOW — NO REGRETS</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;right:20px;color:#000;font-size:60px;font-weight:900;z-index:5;line-height:1;text-align:right;">USE<br>CODE:<br><span style="font-size:80px;">BOLD80</span></div>
+        `
+    },
+
+    {
+        id: 'fb_cinematic_dark_014',
+        name: 'Cinematic Dark Promo',
+        category: 'ad-creator',
+        subCategory: 'sub-fb-ads',
+        categoryLabel: '🎬 Cinematic Ad',
+        width: 1080,
+        height: 1080,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0c0c0c;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:160px;background:#000;z-index:6;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:160px;background:#000;z-index:6;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:160px;left:0;right:0;bottom:160px;background:linear-gradient(to right,rgba(0,0,0,0.9) 0%,rgba(0,0,0,0.3) 40%,transparent 100%);z-index:3;"></div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=1080&q=80" alt="Store" style="position:absolute;top:160px;left:0;width:100%;height:760px;object-fit:cover;z-index:2;filter:brightness(0.5) saturate(0.8);">
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:30px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.5);font-size:18px;letter-spacing:12px;z-index:7;font-weight:300;">▬▬▬ SEASON PREMIERE ▬▬▬</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:200px;left:80px;color:#fff;font-size:110px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.9;text-shadow:0 5px 40px rgba(0,0,0,0.8);width:700px;">THE<br>GRAND<br><span style="color:#e4b84a;">FINALE</span><br>SALE.</h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:220px;right:100px;width:3px;height:500px;background:linear-gradient(to bottom,transparent,#e4b84a,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:300px;right:120px;color:rgba(255,255,255,0.8);font-size:28px;z-index:5;text-align:right;line-height:2;writing-mode:horizontal-tb;">UP TO<br><span style="font-size:70px;font-weight:900;color:#e4b84a;">55%</span><br>OFF</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:25px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.4);font-size:16px;letter-spacing:8px;z-index:7;">ONE WEEK ONLY — SHOP BEFORE THE CURTAIN FALLS</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:750px;left:80px;color:#fff;background:#e4b84a;padding:18px 55px;font-size:26px;font-weight:900;border-radius:5px;z-index:5;letter-spacing:2px;">SHOP THE COLLECTION</div>
+        `
+    },
+
+    {
+        id: 'fb_pastel_soft_015',
+        name: 'Pastel Soft Sale Card',
+        category: 'ad-creator',
+        subCategory: 'sub-fb-ads',
+        categoryLabel: '🌸 Pastel Sale',
+        width: 1080,
+        height: 1080,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#ffecd2 0%,#fcb69f 100%);z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:-150px;right:-150px;width:500px;height:500px;background:rgba(255,182,155,0.5);border-radius:50%;z-index:2;filter:blur(60px);"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:-100px;left:-100px;width:400px;height:400px;background:rgba(255,236,210,0.6);border-radius:50%;z-index:2;filter:blur(40px);"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:100px;left:100px;right:100px;bottom:100px;background:rgba(255,255,255,0.55);backdrop-filter:blur(20px);border-radius:50px;z-index:3;border:2px solid rgba(255,255,255,0.8);box-shadow:0 30px 80px rgba(252,182,159,0.3);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:145px;left:0;width:100%;text-align:center;color:rgba(180,80,60,0.6);font-size:18px;letter-spacing:10px;z-index:5;font-weight:500;">✿ SPRING SPECIAL OFFER ✿</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:185px;left:0;width:100%;text-align:center;color:#c0392b;font-size:130px;font-weight:900;font-family:serif;z-index:5;margin:0;line-height:0.9;">Sweet<br><span style="color:#e67e22;font-style:italic;">Deals.</span></h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:510px;left:200px;right:200px;height:2px;background:linear-gradient(to right,transparent,rgba(192,57,43,0.4),transparent);z-index:4;"></div>
+            <p class="hd-draggable" data-type="text" style="position:absolute;top:540px;left:150px;right:150px;text-align:center;color:#7d3c2b;font-size:26px;z-index:5;line-height:1.7;font-style:italic;">"Life is short. Buy the things that make you smile."</p>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:680px;left:0;width:100%;text-align:center;color:#c0392b;font-size:60px;font-weight:900;z-index:5;">45% OFF TODAY</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:770px;left:0;width:100%;text-align:center;color:rgba(125,60,43,0.7);font-size:22px;z-index:5;letter-spacing:3px;">🚚 Free Shipping  •  🎁 Gift Wrapping  •  💝 Easy Returns</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:130px;left:50%;transform:translateX(-50%);width:380px;height:75px;background:linear-gradient(135deg,#c0392b,#e67e22);border-radius:50px;z-index:5;box-shadow:0 15px 40px rgba(192,57,43,0.3);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:148px;left:0;width:100%;text-align:center;color:#fff;font-size:28px;font-weight:900;z-index:6;letter-spacing:2px;">SHOP WITH LOVE 🌸</div>
+        `
+    },
+
+    {
+        id: 'fb_holo_dark_016',
+        name: 'Dark Holographic Promo',
+        category: 'ad-creator',
+        subCategory: 'sub-fb-ads',
+        categoryLabel: '✨ Holo Promo',
+        width: 1080,
+        height: 1080,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#080808;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:conic-gradient(from 180deg at 50% 120%,rgba(255,0,128,0.15) 0deg,rgba(255,165,0,0.1) 60deg,rgba(0,255,200,0.15) 120deg,rgba(0,128,255,0.1) 180deg,rgba(128,0,255,0.15) 240deg,rgba(255,0,128,0.1) 300deg,transparent 360deg);z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:900px;height:900px;border:1px solid rgba(255,255,255,0.06);border-radius:50%;z-index:3;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:700px;height:700px;border:1px solid rgba(255,255,255,0.08);border-radius:50%;z-index:3;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:500px;height:500px;background:rgba(255,255,255,0.03);border:1px solid rgba(255,255,255,0.1);border-radius:50%;z-index:3;backdrop-filter:blur(5px);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.3);font-size:16px;letter-spacing:14px;z-index:5;font-weight:300;">◈ ULTRA PREMIUM DROPS ◈</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:150px;left:0;width:100%;text-align:center;font-size:135px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.85;background:linear-gradient(135deg,#ff0080,#ff8c00,#00ffc8,#0080ff,#8000ff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;filter:drop-shadow(0 0 30px rgba(255,100,200,0.3));">HOLO<br>SALE</h1>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:490px;left:0;width:100%;text-align:center;color:#fff;font-size:35px;font-weight:300;letter-spacing:8px;z-index:5;opacity:0.7;">THE FUTURE OF SHOPPING</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:570px;left:150px;right:150px;height:1px;background:linear-gradient(to right,transparent,rgba(255,100,200,0.5),rgba(0,255,200,0.5),transparent);z-index:4;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:610px;left:0;width:100%;text-align:center;font-size:80px;font-weight:900;z-index:5;background:linear-gradient(90deg,#00ffc8,#0080ff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">UP TO 70%</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:720px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.4);font-size:20px;letter-spacing:6px;z-index:5;">ACROSS ALL DIMENSIONS OF STYLE</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:120px;left:50%;transform:translateX(-50%);width:400px;height:80px;background:linear-gradient(90deg,#ff0080,#8000ff);border-radius:50px;z-index:5;box-shadow:0 0 50px rgba(255,0,128,0.4),0 0 100px rgba(128,0,255,0.2);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:140px;left:0;width:100%;text-align:center;color:#fff;font-size:26px;font-weight:900;z-index:6;letter-spacing:4px;">ENTER THE DROP ✦</div>
+        `
+    },
+
+    {
+        id: 'fb_countdown_sale_002',
+        name: 'Countdown Flash Sale',
+        category: 'ad-creator',
+        subCategory: 'sub-fb-ads',
+        categoryLabel: '⏰ Flash Sale',
+        width: 1080,
+        height: 1080,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0f0f0f;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 80% 20%, rgba(255,80,0,0.3) 0%, transparent 50%),radial-gradient(circle at 20% 80%, rgba(255,200,0,0.2) 0%, transparent 50%);z-index:2;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:0;width:100%;text-align:center;color:#ff5000;font-size:28px;font-weight:700;letter-spacing:8px;z-index:5;">⚡ LIMITED TIME OFFER ⚡</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:0;width:100%;text-align:center;color:#ffffff;font-size:160px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.9;text-shadow:0 0 60px rgba(255,80,0,0.5);">MEGA<br><span style="color:#ff5000;">SALE</span></h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:460px;left:100px;right:100px;height:200px;background:rgba(255,255,255,0.05);border:1px solid rgba(255,80,0,0.5);border-radius:20px;z-index:4;backdrop-filter:blur(10px);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:480px;left:0;width:100%;text-align:center;color:#fff;font-size:24px;font-weight:400;z-index:5;letter-spacing:4px;">SALE ENDS IN</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:520px;left:0;width:100%;text-align:center;color:#ff5000;font-size:90px;font-weight:900;z-index:5;letter-spacing:10px;">08 : 42 : 17</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:700px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.6);font-size:28px;z-index:5;letter-spacing:2px;">UP TO 80% OFF ON ALL ITEMS</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:120px;left:50%;transform:translateX(-50%);width:400px;height:80px;background:linear-gradient(135deg,#ff5000,#ffb800);border-radius:15px;z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:138px;left:0;width:100%;text-align:center;color:#000;font-size:32px;font-weight:900;z-index:6;letter-spacing:3px;">GRAB THE DEAL →</div>
+        `
+    },
+
+    {
+        id: 'fb_gold_luxury_003',
+        name: 'Gold Luxury Brand Ad',
+        category: 'ad-creator',
+        subCategory: 'sub-fb-ads',
+        categoryLabel: '👑 Luxury Ad',
+        width: 1080,
+        height: 1080,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0a0700;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(ellipse at center, rgba(212,175,55,0.12) 0%, transparent 70%);z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:60px;left:60px;right:60px;bottom:60px;border:1px solid rgba(212,175,55,0.4);z-index:3;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:80px;left:80px;right:80px;bottom:80px;border:1px solid rgba(212,175,55,0.15);z-index:3;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:140px;left:0;width:100%;text-align:center;color:#d4af37;font-size:22px;letter-spacing:12px;z-index:5;font-weight:300;">E S T A B L I S H E D  2 0 2 4</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:190px;left:50%;transform:translateX(-50%);width:80px;height:1px;background:#d4af37;z-index:4;"></div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:220px;left:0;width:100%;text-align:center;color:#ffffff;font-size:130px;font-weight:200;font-family:serif;z-index:5;margin:0;letter-spacing:5px;">MAISON<br><span style="color:#d4af37;font-weight:700;">ÉLITE</span></h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:540px;left:50%;transform:translateX(-50%);width:200px;height:1px;background:linear-gradient(to right, transparent, #d4af37, transparent);z-index:4;"></div>
+            <p class="hd-draggable" data-type="text" style="position:absolute;top:570px;left:0;width:100%;text-align:center;color:rgba(212,175,55,0.8);font-size:24px;font-weight:300;letter-spacing:6px;z-index:5;font-style:italic;">Crafted for the Discerning Few</p>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:700px;left:0;width:100%;text-align:center;color:#fff;font-size:30px;z-index:5;line-height:2;opacity:0.6;">✦ Bespoke Collections  ✦ Premium Materials  ✦ Timeless Design</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:130px;left:0;width:100%;text-align:center;color:#000;z-index:6;font-size:20px;font-weight:700;letter-spacing:5px;"><span style="background:#d4af37;padding:15px 60px;border-radius:2px;">DISCOVER COLLECTION</span></div>
+        `
+    },
+
+    {
+        id: 'fb_split_bold_004',
+        name: 'Split Color Bold Sale',
+        category: 'ad-creator',
+        subCategory: 'sub-fb-ads',
+        categoryLabel: '🎨 Bold Ad',
+        width: 1080,
+        height: 1080,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fff;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:50%;height:100%;background:#111111;z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;right:0;width:50%;height:100%;background:#f5f5f5;z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:50%;transform:translateX(-50%);width:10px;height:680px;background:linear-gradient(to bottom, #e74c3c, #f39c12);z-index:6;"></div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:150px;left:30px;color:#ffffff;font-size:130px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.9;width:480px;">BIG<br>SALE<br>NOW</h1>
+            <h2 class="hd-draggable" data-type="text" style="position:absolute;top:150px;right:30px;color:#111;font-size:130px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.9;width:480px;text-align:right;">UP<br>TO<br><span style="color:#e74c3c;">70%</span></h2>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:600px;left:30px;color:#e74c3c;font-size:26px;font-weight:700;z-index:5;letter-spacing:3px;width:480px;">FREE SHIPPING INCLUDED</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:600px;right:30px;color:#111;font-size:26px;font-weight:700;z-index:5;letter-spacing:3px;width:480px;text-align:right;">ALL CATEGORIES</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:680px;left:30px;width:460px;height:2px;background:#444;z-index:5;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:680px;right:30px;width:460px;height:2px;background:#ccc;z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:730px;left:30px;color:rgba(255,255,255,0.7);font-size:22px;z-index:5;width:450px;line-height:1.6;">Shop the biggest deals of the season. Limited time offer.</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;left:30px;background:#e74c3c;color:#fff;padding:20px 50px;font-size:26px;font-weight:900;border-radius:5px;z-index:5;">SHOP NOW</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;right:30px;background:#111;color:#fff;padding:20px 50px;font-size:26px;font-weight:900;border-radius:5px;z-index:5;">EXPLORE ALL</div>
+        `
+    },
+
+    {
+        id: 'fb_glass_dark_005',
+        name: 'Dark Glassmorphism Promo',
+        category: 'ad-creator',
+        subCategory: 'sub-fb-ads',
+        categoryLabel: '💎 Premium Ad',
+        width: 1080,
+        height: 1080,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#1a1a2e 0%,#16213e 50%,#0f3460 100%);z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:-100px;left:-100px;width:500px;height:500px;background:rgba(83,52,255,0.3);border-radius:50%;z-index:2;filter:blur(80px);"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:-100px;right:-100px;width:500px;height:500px;background:rgba(255,52,120,0.2);border-radius:50%;z-index:2;filter:blur:80px;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:120px;left:80px;right:80px;bottom:120px;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.15);border-radius:30px;z-index:3;backdrop-filter:blur(20px);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:170px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.5);font-size:20px;letter-spacing:10px;z-index:5;">✦ EXCLUSIVE OFFER ✦</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:220px;left:0;width:100%;text-align:center;color:#fff;font-size:140px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.85;text-shadow:0 20px 60px rgba(83,52,255,0.6);">NEW<br><span style="background:linear-gradient(90deg,#a855f7,#ec4899);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">ARRIVALS</span></h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:580px;left:150px;right:150px;height:1px;background:linear-gradient(to right,transparent,rgba(255,255,255,0.3),transparent);z-index:4;"></div>
+            <p class="hd-draggable" data-type="text" style="position:absolute;top:610px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.7);font-size:30px;z-index:5;letter-spacing:2px;">Curated for the modern lifestyle</p>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:720px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.5);font-size:22px;z-index:5;letter-spacing:1px;">🚀 Free Delivery &nbsp;&nbsp;|&nbsp;&nbsp; ✅ Easy Returns &nbsp;&nbsp;|&nbsp;&nbsp; 💳 Secure Payment</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:155px;left:50%;transform:translateX(-50%);width:350px;height:75px;background:linear-gradient(135deg,#a855f7,#ec4899);border-radius:50px;z-index:5;box-shadow:0 20px 50px rgba(168,85,247,0.5);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:173px;left:0;width:100%;text-align:center;color:#fff;font-size:28px;font-weight:900;z-index:6;letter-spacing:2px;">SHOP THE DROP</div>
+        `
+    },
+
+    {
+        id: 'fb_diagonal_flash_006',
+        name: 'Diagonal Flash Banner',
+        category: 'ad-creator',
+        subCategory: 'sub-fb-ads',
+        categoryLabel: '⚡ Flash Banner',
+        width: 1080,
+        height: 1080,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fafafa;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:-100px;width:700px;height:110%;background:#1a1a1a;z-index:2;transform:skew(-8deg);transform-origin:top left;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:-100px;width:680px;height:110%;background:#e74c3c;z-index:2;transform:skew(-8deg);transform-origin:top left;opacity:0.15;"></div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:120px;left:80px;color:#ffffff;font-size:155px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.85;">SALE<br>ON!</h1>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:460px;left:80px;color:#e74c3c;font-size:40px;font-weight:900;z-index:5;letter-spacing:2px;">50% OFF EVERYTHING</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:520px;left:80px;width:300px;height:4px;background:#e74c3c;z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:560px;left:80px;color:rgba(255,255,255,0.7);font-size:24px;z-index:5;width:450px;line-height:1.7;">From electronics to fashion — every category, every brand, every deal.</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:130px;left:80px;color:#fff;background:#e74c3c;padding:22px 55px;font-size:28px;font-weight:900;border-radius:8px;z-index:5;">BUY NOW ↗</div>
+            <h2 class="hd-draggable" data-type="text" style="position:absolute;top:150px;right:60px;color:#1a1a1a;font-size:150px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.85;text-align:right;">UP<br>TO</h2>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:450px;right:40px;color:#e74c3c;font-size:220px;font-weight:900;z-index:5;line-height:0.85;text-align:right;">50<span style="font-size:100px;">%</span></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:150px;right:60px;color:#555;font-size:22px;z-index:5;text-align:right;">Use code: <b>FLASH50</b></div>
+        `
+    },
+
+    {
+        id: 'fb_neon_grid_007',
+        name: 'Neon Grid Sale Ad',
+        category: 'ad-creator',
+        subCategory: 'sub-fb-ads',
+        categoryLabel: '🟩 Neon Sale',
+        width: 1080,
+        height: 1080,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#04050a;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background-image:linear-gradient(rgba(0,255,150,0.04) 1px,transparent 1px),linear-gradient(90deg,rgba(0,255,150,0.04) 1px,transparent 1px);background-size:60px 60px;z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:700px;height:700px;background:radial-gradient(circle,rgba(0,255,150,0.08) 0%,transparent 70%);z-index:2;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:90px;left:0;width:100%;text-align:center;color:#00ff96;font-size:20px;letter-spacing:12px;font-weight:700;z-index:5;">▶ FLASH DEAL ACTIVATED ◀</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:140px;left:0;width:100%;text-align:center;color:#fff;font-size:180px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.8;text-shadow:0 0 40px rgba(0,255,150,0.4);">60<span style="color:#00ff96;">%</span><br><span style="font-size:100px;color:rgba(255,255,255,0.5);">OFF</span></h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:530px;left:80px;right:80px;height:2px;background:linear-gradient(to right,transparent,#00ff96,transparent);z-index:4;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:570px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.7);font-size:26px;z-index:5;letter-spacing:3px;">SITEWIDE CLEARANCE SALE</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:650px;left:0;width:100%;text-align:center;color:rgba(0,255,150,0.8);font-size:22px;z-index:5;letter-spacing:2px;">Electronics · Fashion · Home · Sports</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:730px;left:200px;width:680px;height:80px;border:2px solid #00ff96;border-radius:12px;z-index:4;box-shadow:0 0 30px rgba(0,255,150,0.3);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:748px;left:0;width:100%;text-align:center;color:#00ff96;font-size:32px;font-weight:900;z-index:5;letter-spacing:5px;">SHOP THE SALE</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:80px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.3);font-size:18px;z-index:5;letter-spacing:3px;">OFFER VALID WHILE STOCKS LAST</div>
+        `
+    },
+
+    {
+        id: 'fb_minimal_bold_008',
+        name: 'Minimal Bold White Sale',
+        category: 'ad-creator',
+        subCategory: 'sub-fb-ads',
+        categoryLabel: '🤍 Minimal Sale',
+        width: 1080,
+        height: 1080,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:60%;background:#111111;z-index:2;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:70px;left:80px;color:rgba(255,255,255,0.3);font-size:20px;letter-spacing:8px;z-index:5;">THE ULTIMATE</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:110px;left:70px;color:#ffffff;font-size:200px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.85;letter-spacing:-8px;">SALE.</h1>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:480px;left:80px;color:#fff;font-size:36px;font-weight:300;z-index:5;letter-spacing:4px;">THIS SEASON ONLY.</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:580px;left:0;width:100%;height:1px;background:#e0e0e0;z-index:3;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:620px;left:80px;color:#111;font-size:70px;font-weight:900;z-index:5;">UP TO 50% OFF</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:720px;left:80px;color:#666;font-size:28px;z-index:5;width:700px;line-height:1.6;">Discover our best collection of the year at unbeatable prices. New stock every day.</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:80px;width:280px;height:75px;background:#111;border-radius:5px;z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:118px;left:80px;width:280px;text-align:center;color:#fff;font-size:26px;font-weight:900;z-index:6;letter-spacing:2px;">SHOP NOW</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:118px;right:80px;color:#111;font-size:26px;font-weight:700;z-index:5;border-bottom:3px solid #111;">VIEW ALL ITEMS →</div>
+        `
+    },
+
+    {
+        id: 'fb_retro_vintage_009',
+        name: 'Retro Vintage Flash Sale',
+        category: 'ad-creator',
+        subCategory: 'sub-fb-ads',
+        categoryLabel: '🎞️ Retro Sale',
+        width: 1080,
+        height: 1080,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f5e6c8;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:repeating-linear-gradient(0deg,transparent,transparent 39px,rgba(139,90,43,0.08) 39px,rgba(139,90,43,0.08) 40px);z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:50px;left:50px;right:50px;bottom:50px;border:4px solid #3d1f00;z-index:3;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:65px;left:65px;right:65px;bottom:65px;border:2px solid #3d1f00;z-index:3;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:100px;left:50%;transform:translateX(-50%);width:600px;height:120px;background:#3d1f00;z-index:4;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:115px;left:0;width:100%;text-align:center;color:#f5e6c8;font-size:55px;font-weight:900;letter-spacing:6px;z-index:5;">FLASH SALE EVENT</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:250px;left:0;width:100%;text-align:center;color:#3d1f00;font-size:220px;font-weight:900;font-family:serif;z-index:5;margin:0;line-height:0.8;">75<span style="font-size:120px;">%</span></h1>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:550px;left:0;width:100%;text-align:center;color:#3d1f00;font-size:45px;letter-spacing:10px;z-index:5;">◆ OFF EVERYTHING ◆</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:640px;left:150px;right:150px;height:3px;background:#3d1f00;z-index:4;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:670px;left:0;width:100%;text-align:center;color:#6b4c2a;font-size:26px;letter-spacing:4px;z-index:5;font-style:italic;">Limited Stock Available — Shop Before It's Gone!</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:110px;left:50%;transform:translateX(-50%);width:450px;height:80px;background:#3d1f00;border-radius:0px;z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:128px;left:0;width:100%;text-align:center;color:#f5e6c8;font-size:30px;font-weight:900;letter-spacing:4px;z-index:6;">CLAIM YOUR DEAL</div>
+        `
+    },
+
+    {
+        id: 'fb_stack_offer_010',
+        name: '3D Stack Exclusive Offer',
+        category: 'ad-creator',
+        subCategory: 'sub-fb-ads',
+        categoryLabel: '📦 Stack Offer',
+        width: 1080,
+        height: 1080,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(160deg,#0d0d0d 0%,#1a0533 100%);z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:300px;left:300px;width:600px;height:600px;background:rgba(147,51,234,0.15);border-radius:50%;z-index:2;filter:blur(60px);"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:140px;left:140px;width:800px;height:200px;background:rgba(255,255,255,0.03);border:1px solid rgba(147,51,234,0.3);border-radius:20px;z-index:3;transform:perspective(800px) rotateX(10deg);"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:320px;left:110px;width:860px;height:200px;background:rgba(255,255,255,0.05);border:1px solid rgba(147,51,234,0.4);border-radius:20px;z-index:3;transform:perspective(800px) rotateX(8deg);"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:500px;left:80px;width:920px;height:200px;background:rgba(255,255,255,0.08);border:1px solid rgba(147,51,234,0.6);border-radius:20px;z-index:3;transform:perspective(800px) rotateX(5deg);backdrop-filter:blur(5px);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:155px;left:200px;color:rgba(255,255,255,0.4);font-size:28px;letter-spacing:5px;z-index:5;">DEAL #3 — 30% OFF</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:340px;left:165px;color:rgba(255,255,255,0.6);font-size:35px;letter-spacing:4px;z-index:5;">DEAL #2 — 50% OFF</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:520px;left:130px;color:#fff;font-size:55px;font-weight:900;letter-spacing:3px;z-index:5;">🔥 DEAL #1 — <span style="color:#a855f7;">70% OFF</span></div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:730px;left:0;width:100%;text-align:center;color:#fff;font-size:90px;font-weight:900;z-index:5;margin:0;line-height:1;">EXCLUSIVE STACK OFFERS</h1>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:840px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.5);font-size:24px;z-index:5;letter-spacing:3px;">UNLOCK BIGGER SAVINGS WITH EVERY ITEM</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:80px;left:50%;transform:translateX(-50%);width:380px;height:70px;background:linear-gradient(135deg,#7c3aed,#a855f7);border-radius:50px;z-index:5;box-shadow:0 15px 40px rgba(124,58,237,0.5);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:96px;left:0;width:100%;text-align:center;color:#fff;font-size:28px;font-weight:900;z-index:6;">UNLOCK DEALS →</div>
+        `
+    },
+
+    {
+        id: 'fb_geo_gradient_011',
+        name: 'Geometric Gradient Sale',
+        category: 'ad-creator',
+        subCategory: 'sub-fb-ads',
+        categoryLabel: '🔷 Geo Sale',
+        width: 1080,
+        height: 1080,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:-200px;right:-200px;width:700px;height:700px;background:rgba(255,255,255,0.08);border-radius:50%;z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:-300px;left:-200px;width:800px;height:800px;background:rgba(0,0,0,0.1);border-radius:50%;z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:50%;transform:translateX(-50%) rotate(45deg);width:600px;height:600px;background:rgba(255,255,255,0.07);border:2px solid rgba(255,255,255,0.2);z-index:3;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:260px;left:50%;transform:translateX(-50%) rotate(45deg);width:500px;height:500px;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.15);z-index:3;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.6);font-size:20px;letter-spacing:10px;z-index:5;">◆ SEASON SPECIAL ◆</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:120px;left:0;width:100%;text-align:center;color:#ffffff;font-size:160px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.85;text-shadow:0 20px 50px rgba(0,0,0,0.3);">FLAT<br><span style="font-size:100px;font-weight:300;">40% OFF</span></h1>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:490px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.9);font-size:28px;z-index:5;letter-spacing:2px;">On Your Entire First Order</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:565px;left:200px;right:200px;height:1px;background:rgba(255,255,255,0.4);z-index:4;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:600px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.6);font-size:22px;z-index:5;line-height:2;letter-spacing:1px;">🎁 Exclusive welcome offer for new customers<br>⚡ Use code: <b style="color:#fff;font-size:26px;">WELCOME40</b> at checkout</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:130px;left:80px;right:80px;height:90px;background:rgba(255,255,255,0.15);border:2px solid rgba(255,255,255,0.4);border-radius:20px;z-index:4;backdrop-filter:blur(10px);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:150px;left:0;width:100%;text-align:center;color:#fff;font-size:32px;font-weight:900;z-index:5;letter-spacing:4px;">START SHOPPING NOW →</div>
+        `
+    },
 
     {
         id: 'fb_product_premium_001',
@@ -393,14 +758,14 @@ window.HD_TEMPLATES = [
                 `
     },
     {
-    id: 'story_gaming_neon_004',
-    name: 'E-Sports Tournament',
-    category: 'ad-creator',
-    subCategory: 'ad-insta-story',
-    categoryLabel: '🎮 Gaming Story',
-    width: 1080,
-    height: 1920,
-    html: `
+        id: 'story_gaming_neon_004',
+        name: 'E-Sports Tournament',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-story',
+        categoryLabel: '🎮 Gaming Story',
+        width: 1080,
+        height: 1920,
+        html: `
         <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0B0B0B;z-index:1;"></div>
         <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(180deg, #9D00FF 0%, #000 100%);opacity:0.3;z-index:2;"></div>
         
@@ -413,16 +778,16 @@ window.HD_TEMPLATES = [
         
         <div class="hd-draggable" data-type="text" style="position:absolute;bottom:150px;left:50%;transform:translateX(-50%);background:#9D00FF;color:#fff;padding:25px 120px;font-size:40px;font-weight:900;border-radius:100px;z-index:7;box-shadow:0 0 40px #9D00FF;">REGISTER FREE 🖱️</div>
     `
-},
-{
-    id: 'story_fitness_006',
-    name: 'Fitness Transformation',
-    category: 'ad-creator',
-    subCategory: 'ad-insta-story',
-    categoryLabel: '💪 Fitness Story',
-    width: 1080,
-    height: 1920,
-    html: `
+    },
+    {
+        id: 'story_fitness_006',
+        name: 'Fitness Transformation',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-story',
+        categoryLabel: '💪 Fitness Story',
+        width: 1080,
+        height: 1920,
+        html: `
         <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
         
         <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:400px;height:100%;background:#000;z-index:2;"></div>
@@ -435,16 +800,16 @@ window.HD_TEMPLATES = [
         
         <div class="hd-draggable" data-type="text" style="position:absolute;bottom:150px;left:50%;transform:translateX(-50%);background:#000;color:#fff;padding:30px 150px;font-size:40px;font-weight:900;border-radius:10px;z-index:7;text-transform:uppercase;">Get 7 Days Free Trial 🏋️‍♂️</div>
     `
-},
-{
-    id: 'story_fashion_drop_002',
-    name: 'Luxury Fashion Drop',
-    category: 'ad-creator',
-    subCategory: 'ad-insta-story',
-    categoryLabel: '👗 Fashion Story',
-    width: 1080,
-    height: 1920,
-    html: `
+    },
+    {
+        id: 'story_fashion_drop_002',
+        name: 'Luxury Fashion Drop',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-story',
+        categoryLabel: '👗 Fashion Story',
+        width: 1080,
+        height: 1920,
+        html: `
 
     <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0c0c0c;z-index:1;"></div>
 
@@ -478,16 +843,16 @@ window.HD_TEMPLATES = [
     </div>
 
     `
-},
-{
-    id: 'story_food_burger_003',
-    name: 'Burger Blast',
-    category: 'ad-creator',
-    subCategory: 'ad-insta-story',
-    categoryLabel: '🍔 Food Story',
-    width: 1080,
-    height: 1920,
-    html: `
+    },
+    {
+        id: 'story_food_burger_003',
+        name: 'Burger Blast',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-story',
+        categoryLabel: '🍔 Food Story',
+        width: 1080,
+        height: 1920,
+        html: `
 
     <div id="design-bg" style="position:absolute;inset:0;background:#1b120d;z-index:1;"></div>
 
@@ -527,16 +892,16 @@ window.HD_TEMPLATES = [
     </div>
 
     `
-},
-{
-    id: 'story_crypto_trade_006',
-    name: 'Crypto Trading',
-    category: 'ad-creator',
-    subCategory: 'ad-insta-story',
-    categoryLabel: '💎 Crypto Story',
-    width: 1080,
-    height: 1920,
-    html: `
+    },
+    {
+        id: 'story_crypto_trade_006',
+        name: 'Crypto Trading',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-story',
+        categoryLabel: '💎 Crypto Story',
+        width: 1080,
+        height: 1920,
+        html: `
 
     <div id="design-bg" style="position:absolute;inset:0;background:#07120f;z-index:1;"></div>
 
@@ -571,16 +936,16 @@ window.HD_TEMPLATES = [
     </div>
 
     `
-},
-{
-    id: 'story_auto_premium_007',
-    name: 'Luxury Car Rental',
-    category: 'ad-creator',
-    subCategory: 'ad-insta-story',
-    categoryLabel: '🚗 Auto Story',
-    width: 1080,
-    height: 1920,
-    html: `
+    },
+    {
+        id: 'story_auto_premium_007',
+        name: 'Luxury Car Rental',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-story',
+        categoryLabel: '🚗 Auto Story',
+        width: 1080,
+        height: 1920,
+        html: `
         <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0a0a0a;z-index:1;"></div>
         <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:50%;background:linear-gradient(180deg, #1e1e1e 0%, #0a0a0a 100%);z-index:2;"></div>
         
@@ -596,16 +961,16 @@ window.HD_TEMPLATES = [
         
         <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;right:80px;background:#fff;color:#000;padding:25px 60px;font-size:32px;font-weight:900;border-radius:50px 0 50px 50px;z-index:7;">BOOK NOW</div>
     `
-},
-{
-    id: 'story_travel_adventure_009',
-    name: 'Explore the World',
-    category: 'ad-creator',
-    subCategory: 'ad-insta-story',
-    categoryLabel: '✈️ Travel Story',
-    width: 1080,
-    height: 1920,
-    html: `
+    },
+    {
+        id: 'story_travel_adventure_009',
+        name: 'Explore the World',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-story',
+        categoryLabel: '✈️ Travel Story',
+        width: 1080,
+        height: 1920,
+        html: `
         <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#e0f2fe;z-index:1;"></div>
         
         <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1080&q=80" alt="Beach" style="position:absolute;top:0;left:0;width:100%;height:70%;object-fit:cover;z-index:2;clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);">
@@ -618,16 +983,16 @@ window.HD_TEMPLATES = [
         
         <div class="hd-draggable" data-type="text" style="position:absolute;bottom:150px;left:80px;background:#0ea5e9;color:#fff;padding:30px 100px;font-size:45px;font-weight:900;border-radius:15px;z-index:7;box-shadow:0 15px 30px rgba(14,165,233,0.3);">FLY TODAY ✈️</div>
     `
-},
-{
-    id: 'story_webinar_pro_010',
-    name: 'Business Masterclass',
-    category: 'ad-creator',
-    subCategory: 'ad-insta-story',
-    categoryLabel: '🏢 Career Story',
-    width: 1080,
-    height: 1920,
-    html: `
+    },
+    {
+        id: 'story_webinar_pro_010',
+        name: 'Business Masterclass',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-story',
+        categoryLabel: '🏢 Career Story',
+        width: 1080,
+        height: 1920,
+        html: `
         <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
         <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;right:0;width:300px;height:100%;background:#f3f4f6;z-index:2;"></div>
         
@@ -644,16 +1009,16 @@ window.HD_TEMPLATES = [
         
         <div class="hd-draggable" data-type="text" style="position:absolute;bottom:150px;left:100px;color:#111827;font-size:45px;font-weight:900;z-index:7;text-decoration:underline;">RESERVE MY SPOT ✍️</div>
     `
-},
-{
-    id: 'story_podcast_vibe_011',
-    name: 'New Podcast Episode',
-    category: 'ad-creator',
-    subCategory: 'ad-insta-story',
-    categoryLabel: '🎧 Media Story',
-    width: 1080,
-    height: 1920,
-    html: `
+    },
+    {
+        id: 'story_podcast_vibe_011',
+        name: 'New Podcast Episode',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-story',
+        categoryLabel: '🎧 Media Story',
+        width: 1080,
+        height: 1920,
+        html: `
         <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#8b5cf6;z-index:1;"></div>
         <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:repeating-linear-gradient(45deg, transparent, transparent 20px, rgba(255,255,255,0.05) 20px, rgba(255,255,255,0.05) 40px);z-index:2;"></div>
         
@@ -669,16 +1034,16 @@ window.HD_TEMPLATES = [
         
         <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;left:50%;transform:translateX(-50%);width:900px;background:#000;color:#fff;padding:30px;font-size:40px;font-weight:900;text-align:center;border-radius:20px;z-index:7;box-shadow:0 10px 40px rgba(0,0,0,0.3);">SWIPE UP TO LISTEN 🎧</div>
     `
-},
-{
-    id: 'story_health_organic_012',
-    name: 'Fresh Organic Bowl',
-    category: 'ad-creator',
-    subCategory: 'ad-insta-story',
-    categoryLabel: '🥗 Health Story',
-    width: 1080,
-    height: 1920,
-    html: `
+    },
+    {
+        id: 'story_health_organic_012',
+        name: 'Fresh Organic Bowl',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-story',
+        categoryLabel: '🥗 Health Story',
+        width: 1080,
+        height: 1920,
+        html: `
         <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f0f4f1;z-index:1;"></div>
         <div class="hd-draggable" data-type="shape" style="position:absolute;top:-100px;left:-100px;width:600px;height:600px;background:#2d5a27;border-radius:50%;z-index:2;opacity:0.1;"></div>
         
@@ -694,16 +1059,16 @@ window.HD_TEMPLATES = [
         
         <div class="hd-draggable" data-type="text" style="position:absolute;bottom:80px;left:50%;transform:translateX(-50%);background:#8bc34a;color:#fff;padding:25px 100px;font-size:40px;font-weight:900;border-radius:15px;z-index:7;">ORDER NOW 🥗</div>
     `
-},
-{
-    id: 'story_interior_art_013',
-    name: 'Modern Interior Design',
-    category: 'ad-creator',
-    subCategory: 'ad-insta-story',
-    categoryLabel: '🏠 Decor Story',
-    width: 1080,
-    height: 1920,
-    html: `
+    },
+    {
+        id: 'story_interior_art_013',
+        name: 'Modern Interior Design',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-story',
+        categoryLabel: '🏠 Decor Story',
+        width: 1080,
+        height: 1920,
+        html: `
         <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fff;z-index:1;"></div>
         <div class="hd-draggable" data-type="shape" style="position:absolute;top:100px;left:100px;width:200px;height:5px;background:#333;z-index:5;"></div>
         
@@ -717,16 +1082,16 @@ window.HD_TEMPLATES = [
         
         <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;right:100px;color:#333;font-size:45px;font-weight:700;z-index:7;border-bottom:3px solid #333;">EXPLORE SHOP 🛋️</div>
     `
-},
-{
-    id: 'story_app_launch_014',
-    name: 'New App Feature',
-    category: 'ad-creator',
-    subCategory: 'ad-insta-story',
-    categoryLabel: '📱 Tech Story',
-    width: 1080,
-    height: 1920,
-    html: `
+    },
+    {
+        id: 'story_app_launch_014',
+        name: 'New App Feature',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-story',
+        categoryLabel: '📱 Tech Story',
+        width: 1080,
+        height: 1920,
+        html: `
         <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#6366f1;z-index:1;"></div>
         <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:-200px;width:1000px;height:1000px;background:rgba(255,255,255,0.1);border-radius:50%;z-index:2;"></div>
         
@@ -738,16 +1103,16 @@ window.HD_TEMPLATES = [
         
         <div class="hd-draggable" data-type="text" style="position:absolute;bottom:150px;left:50%;transform:translateX(-50%);background:#fff;color:#6366f1;padding:30px 120px;font-size:45px;font-weight:900;border-radius:20px;z-index:7;box-shadow:0 20px 40px rgba(0,0,0,0.2);">DOWNLOAD FREE 📲</div>
     `
-},
-{
-    id: 'story_beauty_glow_015',
-    name: 'Skincare Routine',
-    category: 'ad-creator',
-    subCategory: 'ad-insta-story',
-    categoryLabel: '💄 Beauty Story',
-    width: 1080,
-    height: 1920,
-    html: `
+    },
+    {
+        id: 'story_beauty_glow_015',
+        name: 'Skincare Routine',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-story',
+        categoryLabel: '💄 Beauty Story',
+        width: 1080,
+        height: 1920,
+        html: `
         <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fff5f5;z-index:1;"></div>
         <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:800px;background:#fecaca;z-index:2;border-radius:0 0 50% 50%;"></div>
         
@@ -759,16 +1124,16 @@ window.HD_TEMPLATES = [
         
         <div class="hd-draggable" data-type="text" style="position:absolute;bottom:150px;left:50%;transform:translateX(-50%);width:800px;background:#991b1b;color:#fff;padding:30px;font-size:40px;font-weight:700;text-align:center;border-radius:50px;z-index:7;">GET THE GLOW 🧴</div>
     `
-},
-{
-    id: 'story_edu_mastery_016',
-    name: 'Learn Pro Skills',
-    category: 'ad-creator',
-    subCategory: 'ad-insta-story',
-    categoryLabel: '🎓 Education Story',
-    width: 1080,
-    height: 1920,
-    html: `
+    },
+    {
+        id: 'story_edu_mastery_016',
+        name: 'Learn Pro Skills',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-story',
+        categoryLabel: '🎓 Education Story',
+        width: 1080,
+        height: 1920,
+        html: `
         <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#111827;z-index:1;"></div>
         <div class="hd-draggable" data-type="shape" style="position:absolute;top:100px;right:-100px;width:500px;height:500px;background:#fbbf24;border-radius:100px;transform:rotate(45deg);z-index:2;opacity:0.2;"></div>
         
@@ -783,16 +1148,16 @@ window.HD_TEMPLATES = [
         
         <div class="hd-draggable" data-type="text" style="position:absolute;bottom:120px;left:50%;transform:translateX(-50%);background:#fbbf24;color:#000;padding:30px 150px;font-size:45px;font-weight:900;border-radius:10px;z-index:7;">ENROLL NOW</div>
     `
-},
-{
-    id: 'story_podcast_vibe_012',
-    name: 'Podcast Neon Glow',
-    category: 'ad-creator',
-    subCategory: 'ad-insta-story',
-    categoryLabel: '🎧 Media Story',
-    width: 1080,
-    height: 1920,
-    html: `
+    },
+    {
+        id: 'story_podcast_vibe_012',
+        name: 'Podcast Neon Glow',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-story',
+        categoryLabel: '🎧 Media Story',
+        width: 1080,
+        height: 1920,
+        html: `
         <div id="design-bg" style="position:absolute;inset:0;background:radial-gradient(circle at top right,#22d3ee 0%,#0f172a 45%,#020617 100%);z-index:1;"></div>
 
         <div class="hd-draggable" data-type="shape" style="position:absolute;top:-150px;right:-100px;width:500px;height:500px;background:rgba(34,211,238,0.25);filter:blur(80px);border-radius:50%;z-index:2;"></div>
@@ -822,16 +1187,16 @@ window.HD_TEMPLATES = [
             TAP TO LISTEN 🎧
         </div>
     `
-},
-{
-    id: 'story_podcast_vibe_013',
-    name: 'Glassmorphism Podcast',
-    category: 'ad-creator',
-    subCategory: 'ad-insta-story',
-    categoryLabel: '🎧 Media Story',
-    width: 1080,
-    height: 1920,
-    html: `
+    },
+    {
+        id: 'story_podcast_vibe_013',
+        name: 'Glassmorphism Podcast',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-story',
+        categoryLabel: '🎧 Media Story',
+        width: 1080,
+        height: 1920,
+        html: `
         <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(135deg,#f8fafc 0%,#dbeafe 50%,#c4b5fd 100%);z-index:1;"></div>
 
         <div class="hd-draggable" data-type="shape"
@@ -867,16 +1232,16 @@ window.HD_TEMPLATES = [
             ▶ LISTEN NOW
         </div>
     `
-},
-{
-    id: 'story_podcast_vibe_014',
-    name: 'Bold Editorial Podcast',
-    category: 'ad-creator',
-    subCategory: 'ad-insta-story',
-    categoryLabel: '🎧 Media Story',
-    width: 1080,
-    height: 1920,
-    html: `
+    },
+    {
+        id: 'story_podcast_vibe_014',
+        name: 'Bold Editorial Podcast',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-story',
+        categoryLabel: '🎧 Media Story',
+        width: 1080,
+        height: 1920,
+        html: `
         <div id="design-bg" style="position:absolute;inset:0;background:#fef2f2;z-index:1;"></div>
 
         <div class="hd-draggable" data-type="shape"
@@ -910,16 +1275,16 @@ window.HD_TEMPLATES = [
             SWIPE UP TO STREAM 🎙️
         </div>
     `
-},
-{
-    id: 'story_podcast_vibe_015',
-    name: 'Dark Luxury Podcast',
-    category: 'ad-creator',
-    subCategory: 'ad-insta-story',
-    categoryLabel: '🎧 Media Story',
-    width: 1080,
-    height: 1920,
-    html: `
+    },
+    {
+        id: 'story_podcast_vibe_015',
+        name: 'Dark Luxury Podcast',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-story',
+        categoryLabel: '🎧 Media Story',
+        width: 1080,
+        height: 1920,
+        html: `
         <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(180deg,#020617 0%,#111827 100%);z-index:1;"></div>
 
         <div class="hd-draggable" data-type="shape"
@@ -950,16 +1315,16 @@ window.HD_TEMPLATES = [
             LISTEN ON ALL PLATFORMS
         </div>
     `
-},
-{
-    id: 'story_podcast_vibe_016',
-    name: 'Retro Wave Podcast',
-    category: 'ad-creator',
-    subCategory: 'ad-insta-story',
-    categoryLabel: '🎧 Media Story',
-    width: 1080,
-    height: 1920,
-    html: `
+    },
+    {
+        id: 'story_podcast_vibe_016',
+        name: 'Retro Wave Podcast',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-story',
+        categoryLabel: '🎧 Media Story',
+        width: 1080,
+        height: 1920,
+        html: `
         <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(180deg,#0f172a 0%,#1e1b4b 50%,#312e81 100%);z-index:1;"></div>
 
         <div class="hd-draggable" data-type="shape"
@@ -990,7 +1355,7 @@ window.HD_TEMPLATES = [
             PLAY NOW ▶
         </div>
     `
-},
+    },
 
     {
         id: 'story_food_001',
@@ -1283,6 +1648,448 @@ window.HD_TEMPLATES = [
     },
 
     {
+        id: 'portrait_sushi_dark_002',
+        name: 'Premium Sushi Dark Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🍣 Sushi Ad',
+        width: 1080,
+        height: 1350,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0a0a0a;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 50% 30%,rgba(180,0,80,0.2) 0%,transparent 60%);z-index:2;"></div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1579871494447-9811cf80d66c?auto=format&fit=crop&w=1080&q=80" alt="Sushi" style="position:absolute;top:80px;left:50%;transform:translateX(-50%);width:950px;height:600px;object-fit:cover;z-index:3;border-radius:30px;filter:brightness(0.85);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:80px;left:50%;transform:translateX(-50%);width:950px;height:600px;background:linear-gradient(to bottom,transparent 40%,#0a0a0a 100%);z-index:4;border-radius:30px;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:115px;color:#b40050;font-size:18px;letter-spacing:10px;font-weight:700;z-index:6;">✦ CHEF'S SPECIAL ✦</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:550px;left:115px;width:200px;height:3px;background:#b40050;z-index:5;"></div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:580px;left:115px;color:#fff;font-size:100px;font-weight:900;font-family:serif;z-index:5;margin:0;line-height:0.9;">OMAKASE<br><span style="color:#b40050;font-size:70px;">EXPERIENCE</span></h1>
+            <p class="hd-draggable" data-type="text" style="position:absolute;top:800px;left:115px;right:115px;color:rgba(255,255,255,0.65);font-size:26px;z-index:5;line-height:1.7;">Handcrafted with the finest ingredients. Each piece tells a story of tradition and passion.</p>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:960px;left:115px;color:#b40050;font-size:24px;font-weight:700;z-index:5;letter-spacing:3px;">🍣 20 Pieces &nbsp;|&nbsp; 🥢 Premium Grade &nbsp;|&nbsp; 🎌 Authentic</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:1040px;left:115px;width:200px;height:1px;background:rgba(255,255,255,0.2);z-index:4;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:115px;width:480px;height:80px;background:#b40050;border-radius:10px;z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:118px;left:115px;width:480px;text-align:center;color:#fff;font-size:28px;font-weight:900;z-index:6;letter-spacing:2px;">RESERVE A TABLE</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:115px;right:115px;color:rgba(255,255,255,0.5);font-size:24px;z-index:5;text-align:right;">From<br><span style="color:#fff;font-size:55px;font-weight:900;line-height:1;">$89</span></div>
+        `
+    },
+
+    {
+        id: 'portrait_burger_neon_003',
+        name: 'Neon Burger Night Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🍔 Burger Neon',
+        width: 1080,
+        height: 1350,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0d0100;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(ellipse at 50% 0%,rgba(255,60,0,0.25) 0%,transparent 55%);z-index:2;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:60px;left:0;width:100%;text-align:center;color:rgba(255,60,0,0.7);font-size:18px;letter-spacing:14px;z-index:5;font-weight:300;">◈ MIDNIGHT CRAVINGS ◈</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:0;width:100%;text-align:center;color:#fff;font-size:160px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.8;text-shadow:0 0 40px rgba(255,60,0,0.6);">THE<br><span style="color:#ff3c00;">BEAST</span><br>BURGER</h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80" alt="Burger" style="position:absolute;top:520px;left:50%;transform:translateX(-50%);width:950px;height:auto;z-index:6;filter:drop-shadow(0 20px 60px rgba(255,60,0,0.5));">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:490px;left:50%;transform:translateX(-50%);width:700px;height:700px;background:radial-gradient(circle,rgba(255,60,0,0.12) 0%,transparent 70%);z-index:3;filter:blur(30px);"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:400px;background:linear-gradient(to top,#0d0100 50%,transparent 100%);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:200px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.6);font-size:22px;z-index:7;letter-spacing:3px;">DOUBLE PATTY · SMOKED CHEDDAR · TRUFFLE MAYO</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:50%;transform:translateX(-50%);width:550px;height:80px;background:linear-gradient(90deg,#ff3c00,#ff8c00);border-radius:50px;z-index:7;box-shadow:0 0 50px rgba(255,60,0,0.5);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:118px;left:0;width:100%;text-align:center;color:#fff;font-size:30px;font-weight:900;z-index:8;letter-spacing:3px;">ORDER NOW — ONLY $14.99 🔥</div>
+        `
+    },
+
+    {
+        id: 'portrait_coffee_minimal_004',
+        name: 'Minimal Coffee Shop Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '☕ Coffee Ad',
+        width: 1080,
+        height: 1350,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f5f0e8;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:50%;height:100%;background:#2c1a0e;z-index:2;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:60px;color:rgba(255,255,255,0.4);font-size:16px;letter-spacing:8px;z-index:5;font-weight:300;">EST. 2020</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:140px;left:60px;color:#fff;font-size:110px;font-weight:200;font-family:serif;z-index:5;margin:0;line-height:0.9;letter-spacing:-3px;">CRAFT<br><b>COFFEE</b><br>CO.</h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:420px;left:60px;width:120px;height:3px;background:#c8963c;z-index:4;"></div>
+            <p class="hd-draggable" data-type="text" style="position:absolute;top:455px;left:60px;color:rgba(255,255,255,0.6);font-size:22px;z-index:5;width:380px;line-height:1.7;font-style:italic;">"From bean to cup, every sip is a journey worth taking."</p>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:680px;left:60px;color:#c8963c;font-size:20px;font-weight:700;z-index:5;line-height:2;letter-spacing:3px;">☕ Single Origin Beans<br>🌿 Oat & Almond Milk<br>🎯 Cold Brew & Espresso</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:60px;width:380px;height:70px;background:#c8963c;border-radius:5px;z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:118px;left:60px;width:380px;text-align:center;color:#fff;font-size:26px;font-weight:900;z-index:6;letter-spacing:2px;">VISIT US TODAY</div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=600&q=80" alt="Coffee" style="position:absolute;top:200px;right:60px;width:430px;height:750px;object-fit:cover;z-index:4;border-radius:200px 200px 20px 20px;box-shadow:20px 20px 0 rgba(200,150,60,0.3);">
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:200px;right:60px;color:#2c1a0e;font-size:60px;font-weight:900;z-index:5;text-align:right;line-height:1;">From<br><span style="font-size:90px;color:#c8963c;">$4.5</span></div>
+        `
+    },
+
+    {
+        id: 'portrait_taco_fiesta_005',
+        name: 'Street Taco Fiesta Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🌮 Taco Fiesta',
+        width: 1080,
+        height: 1350,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#1a0a00;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(160deg,rgba(255,150,0,0.1) 0%,transparent 40%),linear-gradient(340deg,rgba(220,38,38,0.1) 0%,transparent 40%);z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:60px;left:60px;right:60px;bottom:60px;border:2px solid rgba(255,150,0,0.2);border-radius:30px;z-index:3;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:0;width:100%;text-align:center;color:#ff9600;font-size:22px;letter-spacing:10px;z-index:5;font-weight:700;">🌮 TACO TUESDAY SPECIAL 🌮</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:150px;left:0;width:100%;text-align:center;color:#fff;font-size:150px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.85;text-shadow:5px 5px 0 rgba(220,38,38,0.5);">TACO<br><span style="color:#ff9600;">FIESTA!</span></h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&w=800&q=80" alt="Tacos" style="position:absolute;top:520px;left:50%;transform:translateX(-50%);width:900px;height:auto;z-index:6;filter:drop-shadow(0 20px 40px rgba(0,0,0,0.8));">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:450px;background:linear-gradient(to top,#1a0a00 60%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:300px;left:0;width:100%;text-align:center;color:#ff9600;font-size:28px;font-weight:700;z-index:7;letter-spacing:2px;">3 TACOS + NACHOS + DRINK</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:200px;left:0;width:100%;text-align:center;color:#fff;font-size:22px;z-index:7;opacity:0.6;letter-spacing:3px;">🌶️ Spicy Chorizo · 🧀 Queso Fresco · 🥑 Fresh Guacamole</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:50%;transform:translateX(-50%);width:600px;height:85px;background:linear-gradient(90deg,#dc2626,#ff9600);border-radius:50px;z-index:7;box-shadow:0 15px 40px rgba(255,150,0,0.3);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:118px;left:0;width:100%;text-align:center;color:#fff;font-size:32px;font-weight:900;z-index:8;letter-spacing:2px;">COMBO DEAL — ONLY $12.99</div>
+        `
+    },
+
+    {
+        id: 'portrait_dessert_pastel_006',
+        name: 'Sweet Dessert Pastel Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🍰 Dessert Ad',
+        width: 1080,
+        height: 1350,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(160deg,#fff0f5 0%,#fce4ec 100%);z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:-100px;right:-100px;width:400px;height:400px;background:rgba(255,182,193,0.4);border-radius:50%;z-index:2;filter:blur(50px);"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:-100px;left:-100px;width:500px;height:500px;background:rgba(255,218,226,0.5);border-radius:50%;z-index:2;filter:blur(60px);"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:80px;left:80px;right:80px;height:700px;background:rgba(255,255,255,0.6);backdrop-filter:blur(15px);border-radius:40px;z-index:3;border:2px solid rgba(255,255,255,0.9);box-shadow:0 30px 80px rgba(255,150,170,0.15);"></div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1571115177098-24ec42ed204d?auto=format&fit=crop&w=800&q=80" alt="Dessert" style="position:absolute;top:110px;left:50%;transform:translateX(-50%);width:870px;height:640px;object-fit:cover;z-index:4;border-radius:30px;">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:110px;left:50%;transform:translateX(-50%);width:870px;height:640px;background:linear-gradient(to bottom,transparent 60%,rgba(255,240,245,0.95) 100%);z-index:5;border-radius:30px;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:120px;left:130px;color:rgba(180,60,90,0.6);font-size:18px;letter-spacing:8px;z-index:6;font-weight:500;">✿ PATISSERIE COLLECTION ✿</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:620px;left:0;width:100%;text-align:center;color:#b43c5a;font-size:100px;font-weight:900;font-family:serif;z-index:6;margin:0;line-height:0.9;">INDULGE<br><span style="font-size:65px;font-weight:300;font-style:italic;color:#d4687e;">in every bite.</span></h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:840px;left:200px;right:200px;height:1px;background:linear-gradient(to right,transparent,rgba(180,60,90,0.3),transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:875px;left:0;width:100%;text-align:center;color:#b43c5a;font-size:22px;z-index:5;line-height:2;letter-spacing:1px;">🍓 Strawberry Cream Cake &nbsp;|&nbsp; 🍫 Chocolate Mousse<br>🧁 Artisan Cupcakes &nbsp;|&nbsp; 🍮 Crème Brûlée</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:1060px;left:0;width:100%;text-align:center;color:#c45070;font-size:45px;font-weight:900;z-index:5;">20% OFF TODAY ONLY 🎀</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:90px;left:50%;transform:translateX(-50%);width:500px;height:80px;background:linear-gradient(135deg,#b43c5a,#e8799a);border-radius:50px;z-index:6;box-shadow:0 15px 40px rgba(180,60,90,0.3);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:108px;left:0;width:100%;text-align:center;color:#fff;font-size:28px;font-weight:900;z-index:7;letter-spacing:2px;">ORDER YOUR SWEET BOX 🍰</div>
+        `
+    },
+
+    {
+        id: 'portrait_pizza_rustic_007',
+        name: 'Rustic Pizza Oven Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🍕 Pizza Ad',
+        width: 1080,
+        height: 1350,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#1a0f0a;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:url('https://www.transparenttextures.com/patterns/wood-pattern.png');opacity:0.2;z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 50% 50%, transparent 0%, rgba(0,0,0,0.8) 100%);z-index:3;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:0;width:100%;text-align:center;color:#ff9f43;font-size:24px;letter-spacing:8px;font-weight:700;z-index:5;">WOOD-FIRED AUTHENTICITY</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:0;width:100%;text-align:center;color:#fff;font-size:140px;font-weight:900;font-family:'Oswald',sans-serif;z-index:5;margin:0;line-height:0.9;text-transform:uppercase;text-shadow: 4px 4px 0px #ee5253;">Rustic<br>Pizza</h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1541745537411-b8046dc6d66c?auto=format&fit=crop&w=800&q=80" alt="Pizza" style="position:absolute;top:500px;left:50%;transform:translateX(-50%);width:900px;height:auto;z-index:6;filter:drop-shadow(0 20px 40px rgba(0,0,0,0.9));border-radius:20px;">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:400px;background:linear-gradient(to top,#1a0f0a 40%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:250px;left:0;width:100%;text-align:center;color:#ff9f43;font-size:32px;font-weight:700;z-index:7;">FRESH INGREDIENTS · HAND-TOSSED</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:50%;transform:translateX(-50%);width:500px;height:80px;background:#ee5253;border-radius:10px;z-index:7;box-shadow:0 10px 30px rgba(238,82,83,0.4);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:118px;left:0;width:100%;text-align:center;color:#fff;font-size:30px;font-weight:900;z-index:8;">TASTE THE FIRE — $16.00</div>
+        `
+    },
+
+    {
+        id: 'portrait_healthy_bowl_008',
+        name: 'Clean Healthy Bowl Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🥗 Healthy Ad',
+        width: 1080,
+        height: 1350,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f0f7f4;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:-100px;left:-100px;width:600px;height:600px;background:rgba(46,204,113,0.1);border-radius:50%;z-index:2;filter:blur(60px);"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;right:0;width:400px;height:400px;background:rgba(46,204,113,0.15);border-radius:50%;z-index:2;filter:blur(40px);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:80px;color:#27ae60;font-size:20px;letter-spacing:10px;font-weight:700;z-index:5;">EAT FRESH • FEEL GOOD</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:80px;color:#2c3e50;font-size:120px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:1;">Purely<br><span style="color:#27ae60;">Green.</span></h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80" alt="Salad Bowl" style="position:absolute;top:400px;left:50%;transform:translateX(-50%);width:950px;height:auto;z-index:6;filter:drop-shadow(0 30px 60px rgba(0,0,0,0.1));">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:400px;left:50%;transform:translateX(-50%);width:800px;height:800px;background:radial-gradient(circle, rgba(46,204,113,0.05) 0%, transparent 70%);z-index:3;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:220px;left:80px;right:80px;color:#2c3e50;font-size:28px;z-index:7;line-height:1.6;font-weight:400;">Organic greens, roasted chickpeas, and avocado lime dressing. Your body will thank you.</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:80px;width:450px;height:80px;background:#27ae60;border-radius:50px;z-index:7;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:118px;left:80px;width:450px;text-align:center;color:#fff;font-size:28px;font-weight:900;z-index:8;">ORDER YOUR BOWL</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:105px;right:80px;color:#27ae60;font-size:60px;font-weight:900;z-index:8;">$12</div>
+        `
+    },
+
+    {
+        id: 'portrait_steak_luxury_009',
+        name: 'Luxury Steakhouse Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🥩 Steak Ad',
+        width: 1080,
+        height: 1350,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#050505;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:60px;left:60px;right:60px;bottom:60px;border:1px solid rgba(212,175,55,0.3);z-index:2;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:120px;left:0;width:100%;text-align:center;color:#d4af37;font-size:18px;letter-spacing:15px;font-weight:300;z-index:5;">EXCEPTIONAL QUALITY</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:180px;left:0;width:100%;text-align:center;color:#fff;font-size:110px;font-weight:200;font-family:serif;z-index:5;margin:0;letter-spacing:5px;">PRIME<br><span style="font-weight:900;color:#d4af37;">CUTS</span></h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1546241072-48010ad28c2c?auto=format&fit=crop&w=800&q=80" alt="Steak" style="position:absolute;top:450px;left:50%;transform:translateX(-50%);width:900px;height:550px;object-fit:cover;z-index:4;filter:brightness(0.7) contrast(1.2);border-radius:10px;">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:450px;left:50%;transform:translateX(-50%);width:900px;height:550px;background:linear-gradient(to bottom, transparent 50%, #050505 100%);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:1020px;left:0;width:100%;text-align:center;color:rgba(212,175,55,0.8);font-size:24px;font-weight:300;letter-spacing:6px;z-index:5;font-style:italic;">Dry-aged for 28 days. Perfection in every slice.</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:50%;transform:translateX(-50%);width:400px;height:1px;background:#d4af37;z-index:4;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:130px;left:0;width:100%;text-align:center;color:#fff;z-index:6;font-size:24px;font-weight:700;letter-spacing:5px;"><span style="border:1px solid #d4af37;padding:20px 60px;">BOOK YOUR TABLE</span></div>
+        `
+    },
+
+    {
+        id: 'portrait_juice_vibrant_010',
+        name: 'Vibrant Fresh Juice Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🍹 Juice Ad',
+        width: 1080,
+        height: 1350,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fffa65;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(45deg, #ff9f43, transparent);z-index:2;opacity:0.6;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:0;width:100%;text-align:center;color:#fff;font-size:180px;font-weight:900;z-index:3;opacity:0.2;letter-spacing:-10px;">REFRESH</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:150px;left:0;width:100%;text-align:center;color:#2d3436;font-size:110px;font-weight:900;z-index:5;margin:0;line-height:0.9;">100%<br><span style="color:#ee5253;">PURE</span><br>ENERGY</h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1573504100231-77826f43e110?auto=format&fit=crop&w=600&q=80" alt="Juice" style="position:absolute;top:500px;left:50%;transform:translateX(-50%);width:600px;height:auto;z-index:6;filter:drop-shadow(0 20px 40px rgba(255,159,67,0.5));">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:450px;background:linear-gradient(to top,#ff9f43 50%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:220px;left:0;width:100%;text-align:center;color:#fff;font-size:32px;font-weight:700;z-index:7;letter-spacing:2px;">NO ADDED SUGAR · COLD PRESSED</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:50%;transform:translateX(-50%);width:450px;height:80px;background:#2d3436;border-radius:10px;z-index:7;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:118px;left:0;width:100%;text-align:center;color:#fff;font-size:28px;font-weight:900;z-index:8;">GET REFRESHED NOW</div>
+        `
+    },
+
+    {
+        id: 'portrait_bakery_vintage_011',
+        name: 'Vintage Bakery Flour Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🥖 Bakery Ad',
+        width: 1080,
+        height: 1350,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#dfd3c3;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:url('https://www.transparenttextures.com/patterns/natural-paper.png');opacity:0.4;z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:40px;left:40px;right:40px;bottom:40px;border:2px solid #7d5a50;z-index:3;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:0;width:100%;text-align:center;color:#7d5a50;font-size:20px;letter-spacing:10px;font-weight:400;z-index:5;">SINCE 1924</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:160px;left:0;width:100%;text-align:center;color:#7d5a50;font-size:130px;font-weight:900;font-family:serif;z-index:5;margin:0;line-height:0.8;">The Art of<br>Baking</h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80" alt="Bread" style="position:absolute;top:500px;left:50%;transform:translateX(-50%);width:900px;height:550px;object-fit:cover;z-index:4;border-radius:5px;filter:sepia(0.3);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:500px;left:50%;transform:translateX(-50%);width:900px;height:550px;background:linear-gradient(to bottom, transparent 60%, #dfd3c3 100%);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:1080px;left:100px;right:100px;text-align:center;color:#7d5a50;font-size:26px;z-index:5;line-height:1.5;font-style:italic;">"There is no love sincerer than the love of food."</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:50%;transform:translateX(-50%);width:500px;height:80px;background:#7d5a50;z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:118px;left:0;width:100%;text-align:center;color:#dfd3c3;font-size:26px;font-weight:900;letter-spacing:3px;z-index:6;">VISIT OUR BAKERY</div>
+        `
+    },
+
+    {
+        id: 'portrait_pasta_elegant_012',
+        name: 'Elegant Italian Pasta Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🍝 Pasta Ad',
+        width: 1080,
+        height: 1350,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:400px;background:#f8f5f0;z-index:2;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:60px;left:0;width:100%;text-align:center;color:#b08d57;font-size:18px;letter-spacing:12px;font-weight:700;z-index:5;">L'ARTISTA DELLA PASTA</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:0;width:100%;text-align:center;color:#1a1a1a;font-size:110px;font-weight:200;font-family:serif;z-index:5;margin:0;line-height:1;letter-spacing:-2px;">Handmade<br><span style="font-weight:900;color:#b08d57;">Authentic</span></h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1473093226795-af9932fe5856?auto=format&fit=crop&w=800&q=80" alt="Pasta" style="position:absolute;top:400px;left:50%;transform:translateX(-50%);width:850px;height:650px;object-fit:cover;z-index:4;border-radius:20px;box-shadow:0 30px 60px rgba(0,0,0,0.1);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:380px;left:50%;transform:translateX(-50%);width:150px;height:40px;background:#b08d57;z-index:6;border-radius:5px;display:flex;align-items:center;justify-content:center;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:388px;left:0;width:100%;text-align:center;color:#fff;font-size:20px;font-weight:700;z-index:7;letter-spacing:2px;">DAL 1985</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:220px;left:100px;right:100px;text-align:center;color:#555;font-size:26px;z-index:5;line-height:1.6;">"A recipe has no soul. You as the cook must bring soul to the recipe."</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:50%;transform:translateX(-50%);width:450px;height:75px;background:#1a1a1a;border-radius:0;z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:120px;left:0;width:100%;text-align:center;color:#fff;font-size:24px;font-weight:700;letter-spacing:4px;z-index:6;">VIEW OUR MENU</div>
+        `
+    },
+
+    {
+        id: 'portrait_seafood_fresh_013',
+        name: 'Fresh Ocean Catch Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🐟 Seafood Ad',
+        width: 1080,
+        height: 1350,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg, #e0f2f1 0%, #ffffff 100%);z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 100% 0%, rgba(0,121,107,0.1) 0%, transparent 50%);z-index:2;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:80px;color:#00796b;font-size:20px;letter-spacing:8px;font-weight:700;z-index:5;">STRAIGHT FROM THE OCEAN</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:80px;color:#004d40;font-size:120px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.9;">TODAY'S<br>FRESH<br><span style="color:#00796b;">CATCH.</span></h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1551248429-40975aa4de74?auto=format&fit=crop&w=800&q=80" alt="Seafood" style="position:absolute;top:450px;left:50%;transform:translateX(-50%);width:950px;height:600px;object-fit:cover;z-index:4;border-radius:30px 30px 0 0;box-shadow:0 -20px 40px rgba(0,121,107,0.1);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:400px;background:#004d40;z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:250px;left:80px;right:80px;color:#ffffff;font-size:26px;z-index:7;line-height:1.6;">Sustainability sourced. Hand-selected. Prepared with perfection.</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:80px;width:350px;height:80px;background:#00796b;border-radius:10px;z-index:7;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:118px;left:80px;width:350px;text-align:center;color:#fff;font-size:28px;font-weight:900;z-index:8;">ORDER NOW</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:105px;right:80px;color:#fff;font-size:60px;font-weight:900;z-index:8;">$24</div>
+        `
+    },
+
+    {
+        id: 'portrait_bbq_grill_014',
+        name: 'Industrial BBQ Grill Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🔥 BBQ Grill',
+        width: 1080,
+        height: 1350,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#111111;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:url('https://www.transparenttextures.com/patterns/carbon-fibre.png');opacity:0.2;z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(to bottom, transparent 60%, #ff4b2b 100%);opacity:0.1;z-index:3;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:60px;left:0;width:100%;text-align:center;color:#ff4b2b;font-size:22px;letter-spacing:15px;font-weight:900;z-index:5;">THE GRILL MASTER</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:120px;left:0;width:100%;text-align:center;color:#fff;font-size:160px;font-weight:900;font-family:'Oswald',sans-serif;z-index:5;margin:0;line-height:0.8;text-shadow:10px 10px 0 #333;">BBQ<br>NIGHT</h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80" alt="Grill" style="position:absolute;top:450px;left:50%;transform:translateX(-50%);width:950px;height:auto;z-index:6;filter:drop-shadow(0 0 40px rgba(255,75,43,0.3));">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:450px;left:50%;transform:translateX(-50%);width:700px;height:700px;background:radial-gradient(circle, rgba(255,75,43,0.1) 0%, transparent 70%);z-index:4;filter:blur(40px);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:250px;left:0;width:100%;text-align:center;color:#fff;font-size:30px;font-weight:700;z-index:7;letter-spacing:2px;">SMOKY · TENDER · LEGENDARY</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:50%;transform:translateX(-50%);width:600px;height:85px;background:#ff4b2b;z-index:7;box-shadow:0 0 30px rgba(255,75,43,0.5);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:118px;left:0;width:100%;text-align:center;color:#fff;font-size:32px;font-weight:900;z-index:8;">GET THE PLATTER — $29.99</div>
+        `
+    },
+
+    {
+        id: 'portrait_smoothie_tropical_015',
+        name: 'Tropical Smoothie Burst Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🥤 Smoothie Ad',
+        width: 1080,
+        height: 1350,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fff9c4;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:-200px;right:-200px;width:700px;height:700px;background:#ffeb3b;border-radius:50%;z-index:2;opacity:0.4;filter:blur(80px);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:0;width:100%;text-align:center;color:#fbc02d;font-size:22px;letter-spacing:10px;font-weight:900;z-index:5;">TROPICAL VIBES ONLY</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:140px;left:0;width:100%;text-align:center;color:#43a047;font-size:130px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.85;text-shadow:4px 4px 0 #fff;">SMOOTHIE<br><span style="color:#fbc02d;">BURST!</span></h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1502741224143-90386d7f8c82?auto=format&fit=crop&w=600&q=80" alt="Smoothie" style="position:absolute;top:480px;left:50%;transform:translateX(-50%);width:700px;height:auto;z-index:6;filter:drop-shadow(0 30px 60px rgba(251,192,45,0.4));">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:400px;background:linear-gradient(to top,#43a047 50%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:220px;left:0;width:100%;text-align:center;color:#fff;font-size:28px;font-weight:700;z-index:7;letter-spacing:2px;">MANGO · PINEAPPLE · COCONUT</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:50%;transform:translateX(-50%);width:450px;height:80px;background:#fbc02d;border-radius:50px;z-index:7;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:118px;left:0;width:100%;text-align:center;color:#fff;font-size:28px;font-weight:900;z-index:8;">TASTE THE TROPICS</div>
+        `
+    },
+
+    {
+        id: 'portrait_dimsum_minimal_016',
+        name: 'Zen Dim Sum Minimal Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🥟 Dim Sum Zen',
+        width: 1080,
+        height: 1350,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:url('https://www.transparenttextures.com/patterns/handmade-paper.png');opacity:0.3;z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:50px;left:50px;width:1px;height:200px;background:#333;z-index:3;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:60px;left:70px;color:#333;font-size:18px;letter-spacing:5px;font-weight:300;z-index:5;writing-mode:vertical-rl;">ZEN KITCHEN</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:0;width:100%;text-align:center;color:#1a1a1a;font-size:130px;font-weight:200;font-family:serif;z-index:5;margin:0;line-height:0.9;">Art of<br><b>Dim Sum</b></h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1496116218417-1a781b1c416c?auto=format&fit=crop&w=800&q=80" alt="Dim Sum" style="position:absolute;top:450px;left:50%;transform:translateX(-50%);width:950px;height:600px;object-fit:cover;z-index:4;border-radius:20px;filter:contrast(1.1) saturate(0.9);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:450px;left:50%;transform:translateX(-50%);width:950px;height:600px;background:linear-gradient(to bottom, transparent 60%, #ffffff 100%);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:1080px;left:0;width:100%;text-align:center;color:#666;font-size:24px;z-index:5;line-height:1.8;letter-spacing:2px;">Simple. Fresh. Handcrafted. Every bite is a moment of peace.</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:80px;left:50%;transform:translateX(-50%);width:350px;height:70px;border:2px solid #333;z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;left:0;width:100%;text-align:center;color:#333;font-size:24px;font-weight:700;letter-spacing:4px;z-index:6;">VISIT THE ZEN GARDEN</div>
+        `
+    },
+
+    {
+        id: 'portrait_breakfast_sunny_017',
+        name: 'Sunny Breakfast Morning Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🥞 Breakfast Ad',
+        width: 1080,
+        height: 1350,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fffde7;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:-150px;left:-150px;width:500px;height:500px;background:#fff176;border-radius:50%;z-index:2;opacity:0.6;filter:blur(60px);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:0;width:100%;text-align:center;color:#fbc02d;font-size:20px;letter-spacing:12px;font-weight:700;z-index:5;">SUNRISE SPECIALS</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:0;width:100%;text-align:center;color:#4e342e;font-size:120px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.9;">Wake Up<br><span style="color:#f9a825;">Happy.</span></h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1473093226795-af9932fe5856?auto=format&fit=crop&w=800&q=80" alt="Breakfast" style="position:absolute;top:420px;left:50%;transform:translateX(-50%);width:950px;height:650px;object-fit:cover;z-index:4;border-radius:40px;box-shadow:0 20px 50px rgba(0,0,0,0.05);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:450px;background:linear-gradient(to top,#ffffff 60%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:280px;left:0;width:100%;text-align:center;color:#4e342e;font-size:28px;font-weight:700;z-index:7;letter-spacing:2px;">PANCAKES · FRESH FRUIT · COFFEE</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:220px;left:150px;right:150px;text-align:center;color:#795548;font-size:22px;z-index:7;line-height:1.5;">Start your morning with our handcrafted breakfast platters. Delivered hot to your door.</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:50%;transform:translateX(-50%);width:550px;height:80px;background:#f9a825;border-radius:15px;z-index:7;box-shadow:0 10px 30px rgba(249,168,37,0.3);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:118px;left:0;width:100%;text-align:center;color:#fff;font-size:30px;font-weight:900;z-index:8;letter-spacing:2px;">ORDER BREAKFAST — $10.99</div>
+        `
+    },
+
+    {
+        id: 'portrait_indian_spice_018',
+        name: 'Vibrant Indian Spice Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🍛 Indian Spice',
+        width: 1080,
+        height: 1350,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#3e2723;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 50% 0%,rgba(239,108,0,0.3) 0%,transparent 70%);z-index:2;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:60px;left:0;width:100%;text-align:center;color:#ef6c00;font-size:20px;letter-spacing:10px;font-weight:900;z-index:5;">A SYMPHONY OF SPICES</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:110px;left:0;width:100%;text-align:center;color:#fff;font-size:150px;font-weight:900;font-family:'Oswald',sans-serif;z-index:5;margin:0;line-height:0.85;text-shadow:5px 5px 0 #bf360c;">ROYAL<br><span style="color:#ef6c00;">INDIA</span></h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1517244681291-03efda320e8a?auto=format&fit=crop&w=800&q=80" alt="Indian Food" style="position:absolute;top:480px;left:50%;transform:translateX(-50%);width:950px;height:550px;object-fit:cover;z-index:6;border-radius:20px;box-shadow:0 30px 60px rgba(0,0,0,0.5);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:450px;background:linear-gradient(to top,#3e2723 60%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:250px;left:0;width:100%;text-align:center;color:#ef6c00;font-size:28px;font-weight:700;z-index:7;letter-spacing:3px;">BUTTER CHICKEN · NAAN · BIRYANI</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:50%;transform:translateX(-50%);width:600px;height:90px;background:linear-gradient(90deg,#bf360c,#ef6c00);border-radius:10px;z-index:7;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:120px;left:0;width:100%;text-align:center;color:#fff;font-size:32px;font-weight:900;z-index:8;">EXPERIENCE THE FLAVOR ↗</div>
+        `
+    },
+
+    {
+        id: 'portrait_bowl_poke_019',
+        name: 'Tropical Poke Bowl Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🥑 Poke Bowl',
+        width: 1080,
+        height: 1350,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#e0f7fa;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:400px;background:#00bcd4;z-index:2;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:0;width:100%;text-align:center;color:#ffffff;font-size:20px;letter-spacing:10px;font-weight:700;z-index:5;">ALOHA IN EVERY BOWL</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:140px;left:0;width:100%;text-align:center;color:#ffffff;font-size:160px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.8;letter-spacing:-5px;">POKE<br>VIBE</h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80" alt="Poke Bowl" style="position:absolute;top:400px;left:50%;transform:translateX(-50%);width:850px;height:850px;object-fit:cover;z-index:6;border-radius:50%;border:20px solid #fff;box-shadow:0 30px 60px rgba(0,0,0,0.1);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;right:80px;width:250px;height:250px;background:#00bcd4;border-radius:50%;z-index:7;display:flex;align-items:center;justify-content:center;border:10px solid #fff;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:170px;right:115px;color:#fff;font-size:60px;font-weight:900;z-index:8;">$18</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:140px;right:135px;color:#fff;font-size:20px;font-weight:700;z-index:8;letter-spacing:3px;">FRESH</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:120px;left:80px;color:#00838f;font-size:32px;font-weight:900;z-index:8;border-bottom:4px solid #00bcd4;">ORDER ONLINE →</div>
+        `
+    },
+
+    {
+        id: 'portrait_donut_sweet_020',
+        name: 'Sweet Donut Party Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🍩 Donut Ad',
+        width: 1080,
+        height: 1350,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fce4ec;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 0% 0%, rgba(240,98,146,0.2) 0%, transparent 50%), radial-gradient(circle at 100% 100%, rgba(77,208,225,0.2) 0%, transparent 50%);z-index:2;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:0;width:100%;text-align:center;color:#ec407a;font-size:18px;letter-spacing:15px;font-weight:900;z-index:5;">SWEET CRAVINGS SOLVED</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:0;width:100%;text-align:center;color:#fff;font-size:180px;font-weight:900;font-family:'Inter',sans-serif;z-index:3;margin:0;line-height:0.8;text-shadow:10px 10px 0 #f06292;">OOH<br>YES!</h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?auto=format&fit=crop&w=600&q=80" alt="Donut" style="position:absolute;top:500px;left:50%;transform:translateX(-50%);width:900px;height:auto;z-index:6;filter:drop-shadow(0 20px 40px rgba(240,98,146,0.3));">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:400px;background:linear-gradient(to top,#ffffff 50%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:250px;left:0;width:100%;text-align:center;color:#ec407a;font-size:32px;font-weight:900;z-index:7;letter-spacing:3px;">DOZEN BOX — JUST $12.99</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:50%;transform:translateX(-50%);width:500px;height:80px;background:#4dd0e1;border-radius:10px;z-index:7;box-shadow:0 10px 30px rgba(77,208,225,0.4);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:118px;left:0;width:100%;text-align:center;color:#fff;font-size:30px;font-weight:900;z-index:8;">TREAT YOURSELF 🍩</div>
+        `
+    },
+
+    {
+        id: 'portrait_tea_afternoon_021',
+        name: 'Classy Afternoon Tea Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🫖 Afternoon Tea',
+        width: 1080,
+        height: 1350,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fdfaf6;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:50px;left:50px;right:50px;bottom:50px;border:1px solid #c19a6b;z-index:2;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:120px;left:0;width:100%;text-align:center;color:#c19a6b;font-size:18px;letter-spacing:12px;font-weight:300;z-index:5;">A TRADITION OF ELEGANCE</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:180px;left:0;width:100%;text-align:center;color:#3e2723;font-size:110px;font-weight:200;font-family:serif;z-index:5;margin:0;letter-spacing:2px;line-height:1;">Afternoon<br><span style="font-weight:900;color:#c19a6b;">Tea</span></h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1544787210-2211d7c3bc92?auto=format&fit=crop&w=800&q=80" alt="Tea" style="position:absolute;top:450px;left:50%;transform:translateX(-50%);width:800px;height:600px;object-fit:cover;z-index:4;border-radius:5px;filter:sepia(0.2);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:430px;left:50%;transform:translateX(-50%);width:840px;height:640px;border:1px solid #c19a6b;z-index:3;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:1080px;left:0;width:100%;text-align:center;color:#c19a6b;font-size:24px;z-index:5;line-height:2;letter-spacing:1px;font-style:italic;">"Each cup is a story. Each sip is a memory."</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:50%;transform:translateX(-50%);width:350px;height:1px;background:#c19a6b;z-index:4;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:130px;left:0;width:100%;text-align:center;color:#3e2723;z-index:6;font-size:22px;font-weight:700;letter-spacing:5px;">RESERVE YOUR TABLE</div>
+        `
+    },
+
+    {
         id: 'portrait_interior_sale_001',
         name: 'Luxury Interior Sale',
         category: 'ad-creator',
@@ -1342,14 +2149,14 @@ window.HD_TEMPLATES = [
                 `
     },
     {
-    id: 'portrait_food_deal_004',
-    name: 'Neon Taco Night',
-    category: 'ad-creator',
-    subCategory: 'ad-insta-portrait',
-    categoryLabel: '🌮 Food Deal',
-    width: 1080,
-    height: 1350,
-    html: `
+        id: 'portrait_food_deal_004',
+        name: 'Neon Taco Night',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🌮 Food Deal',
+        width: 1080,
+        height: 1350,
+        html: `
         <div id="design-bg" style="position:absolute;inset:0;background:radial-gradient(circle at top,#22d3ee 0%,#1e1b4b 45%,#020617 100%);z-index:1;"></div>
 
         <img class="hd-draggable" data-type="image"
@@ -1376,16 +2183,16 @@ window.HD_TEMPLATES = [
             GRAB THIS DEAL NOW
         </div>
     `
-},
-{
-    id: 'portrait_food_deal_005',
-    name: 'Elegant Pasta Offer',
-    category: 'ad-creator',
-    subCategory: 'ad-insta-portrait',
-    categoryLabel: '🍝 Food Deal',
-    width: 1080,
-    height: 1350,
-    html: `
+    },
+    {
+        id: 'portrait_food_deal_005',
+        name: 'Elegant Pasta Offer',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🍝 Food Deal',
+        width: 1080,
+        height: 1350,
+        html: `
         <div id="design-bg" style="position:absolute;inset:0;background:#fff7ed;z-index:1;"></div>
 
         <div class="hd-draggable" data-type="shape"
@@ -1416,16 +2223,16 @@ window.HD_TEMPLATES = [
             BOOK TABLE – $18.99
         </div>
     `
-},
-{
-    id: 'portrait_food_deal_006',
-    name: 'Dessert Pink Promo',
-    category: 'ad-creator',
-    subCategory: 'ad-insta-portrait',
-    categoryLabel: '🍰 Food Deal',
-    width: 1080,
-    height: 1350,
-    html: `
+    },
+    {
+        id: 'portrait_food_deal_006',
+        name: 'Dessert Pink Promo',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🍰 Food Deal',
+        width: 1080,
+        height: 1350,
+        html: `
         <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(180deg,#fdf2f8 0%,#ffe4e6 100%);z-index:1;"></div>
 
         <div class="hd-draggable" data-type="shape"
@@ -1457,16 +2264,16 @@ window.HD_TEMPLATES = [
             ORDER YOUR SWEET BOX
         </div>
     `
-},
-{
-    id: 'portrait_bakery_sweet_004',
-    name: 'Bakery Special Treat',
-    category: 'ad-creator',
-    subCategory: 'ad-insta-portrait',
-    categoryLabel: '🧁 Bakery Portrait',
-    width: 1080,
-    height: 1350,
-    html: `
+    },
+    {
+        id: 'portrait_bakery_sweet_004',
+        name: 'Bakery Special Treat',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🧁 Bakery Portrait',
+        width: 1080,
+        height: 1350,
+        html: `
         <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fff1f2;z-index:1;"></div>
         
         <!-- Geometric Shapes -->
@@ -1482,16 +2289,16 @@ window.HD_TEMPLATES = [
         
         <div class="hd-draggable" data-type="text" style="position:absolute;bottom:80px;left:50%;transform:translateX(-50%);width:880px;background:#e11d48;color:#fff;padding:30px;font-size:40px;font-weight:900;text-align:center;border-radius:25px;z-index:7;">VISIT OUR STORE 🧁</div>
     `
-},
-{
-    id: 'portrait_backpack_sale_003',
-    name: 'Trendy Backpack Promo',
-    category: 'ad-creator',
-    subCategory: 'ad-insta-portrait',
-    categoryLabel: '🎒 Product Portrait',
-    width: 1080,
-    height: 1350,
-    html: `
+    },
+    {
+        id: 'portrait_backpack_sale_003',
+        name: 'Trendy Backpack Promo',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🎒 Product Portrait',
+        width: 1080,
+        height: 1350,
+        html: `
         <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f3f4f6;z-index:1;"></div>
         
         <!-- Slanted Background -->
@@ -1509,16 +2316,16 @@ window.HD_TEMPLATES = [
         
         <div class="hd-draggable" data-type="text" style="position:absolute;bottom:120px;left:100px;background:#1e3a8a;color:#fff;padding:30px 100px;font-size:35px;font-weight:800;border-radius:15px;z-index:7;">SHOP COLLECTION 🎒</div>
     `
-},
-{
-    id: 'portrait_fitness_gym_005',
-    name: 'Gym Membership Offer',
-    category: 'ad-creator',
-    subCategory: 'ad-insta-portrait',
-    categoryLabel: '🏋️‍♂️ Fitness Portrait',
-    width: 1080,
-    height: 1350,
-    html: `
+    },
+    {
+        id: 'portrait_fitness_gym_005',
+        name: 'Gym Membership Offer',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🏋️‍♂️ Fitness Portrait',
+        width: 1080,
+        height: 1350,
+        html: `
         <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#000;z-index:1;"></div>
         
         <!-- Texture Overlay (Simulated) -->
@@ -1536,7 +2343,7 @@ window.HD_TEMPLATES = [
         
         <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;left:80px;background:#000;color:#fbbf24;padding:30px 80px;font-size:35px;font-weight:900;border-radius:10px;z-index:7;">JOIN NOW 💪</div>
     `
-},
+    },
 
     // --- TIKTOK ADS SUB-CATEGORY ---
     {
