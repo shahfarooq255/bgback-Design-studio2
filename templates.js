@@ -2090,6 +2090,112 @@ window.HD_TEMPLATES = [
     },
 
     {
+        id: 'portrait_sandwich_club_022',
+        name: 'Fresh Club Sandwich Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🥪 Sandwich Ad',
+        width: 1080,
+        height: 1350,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f4f1ea;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:350px;background:#2d3436;z-index:2;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:60px;left:0;width:100%;text-align:center;color:#fab1a0;font-size:22px;letter-spacing:10px;font-weight:700;z-index:5;">THE PERFECT LUNCH CRUNCH</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:0;width:100%;text-align:center;color:#fff;font-size:120px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.9;">TRIPLE<br><span style="color:#55efc4;">CLUB.</span></h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=800&q=80" alt="Sandwich" style="position:absolute;top:400px;left:50%;transform:translateX(-50%);width:900px;height:auto;z-index:6;filter:drop-shadow(0 20px 40px rgba(0,0,0,0.1));">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:380px;left:50%;transform:translateX(-50%);width:700px;height:700px;background:radial-gradient(circle, rgba(85,239,196,0.15) 0%, transparent 70%);z-index:3;filter:blur(30px);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:250px;left:0;width:100%;text-align:center;color:#2d3436;font-size:28px;font-weight:700;z-index:7;letter-spacing:2px;">FRESH TURKEY · CRISPY BACON · AVOCADO</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:50%;transform:translateX(-50%);width:500px;height:80px;background:#2d3436;border-radius:5px;z-index:7;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:118px;left:0;width:100%;text-align:center;color:#fff;font-size:28px;font-weight:900;z-index:8;">GRAB A BITE — $9.50</div>
+        `
+    },
+
+    {
+        id: 'portrait_ramen_glow_023',
+        name: 'Neon Ramen Night Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🍜 Ramen Glow',
+        width: 1080,
+        height: 1350,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#050000;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 50% 50%, rgba(255,0,0,0.15) 0%, transparent 70%);z-index:2;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:60px;left:0;width:100%;text-align:center;color:#ff3e3e;font-size:18px;letter-spacing:14px;font-weight:300;z-index:5;">TOKYO STREET FLAVORS</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:0;width:100%;text-align:center;color:#fff;font-size:160px;font-weight:900;font-family:'Oswald',sans-serif;z-index:5;margin:0;line-height:0.8;text-shadow:0 0 30px rgba(255,62,62,0.6);">RAMEN<br><span style="color:#ff3e3e;">GLOW.</span></h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80" alt="Ramen" style="position:absolute;top:500px;left:50%;transform:translateX(-50%);width:950px;height:auto;z-index:6;filter:drop-shadow(0 0 50px rgba(255,62,62,0.4));">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:400px;background:linear-gradient(to top,#050000 60%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:250px;left:0;width:100%;text-align:center;color:#ff3e3e;font-size:26px;font-weight:700;z-index:7;letter-spacing:3px;">TONKOTSU · SPICY MISO · SHIO</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:50%;transform:translateX(-50%);width:550px;height:85px;background:linear-gradient(90deg,#ff3e3e,#990000);border-radius:0;z-index:7;box-shadow:0 0 40px rgba(255,62,62,0.3);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:120px;left:0;width:100%;text-align:center;color:#fff;font-size:30px;font-weight:900;z-index:8;letter-spacing:2px;">SLURP IT UP ↗</div>
+        `
+    },
+
+    {
+        id: 'portrait_icecream_summer_024',
+        name: 'Summer Ice Cream Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🍦 Ice Cream',
+        width: 1080,
+        height: 1350,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#e0f7fa;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:500px;background:#00bcd4;z-index:2;border-radius:0 0 100% 100% / 0 0 30% 30%;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:0;width:100%;text-align:center;color:#ffffff;font-size:20px;letter-spacing:10px;font-weight:700;z-index:5;">STAY COOL ALL SUMMER</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:140px;left:0;width:100%;text-align:center;color:#ffffff;font-size:140px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.8;text-shadow:5px 5px 0 #0097a7;">CHILL<br>OUT.</h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1501443762994-82bd5dabb8d2?auto=format&fit=crop&w=600&q=80" alt="Ice Cream" style="position:absolute;top:450px;left:50%;transform:translateX(-50%);width:600px;height:auto;z-index:6;filter:drop-shadow(0 20px 40px rgba(0,188,212,0.3));">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:450px;background:linear-gradient(to top,#ffffff 50%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:250px;left:0;width:100%;text-align:center;color:#0097a7;font-size:32px;font-weight:900;z-index:7;letter-spacing:3px;">BUY 1 GET 1 HALF PRICE</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:50%;transform:translateX(-50%);width:450px;height:80px;background:#00bcd4;border-radius:50px;z-index:7;box-shadow:0 10px 30px rgba(0,188,212,0.2);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:118px;left:0;width:100%;text-align:center;color:#fff;font-size:28px;font-weight:900;z-index:8;">TASTE THE SUMMER</div>
+        `
+    },
+
+    {
+        id: 'portrait_grill_skewers_025',
+        name: 'Rustic Grill Skewers Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🍢 Grill Ad',
+        width: 1080,
+        height: 1350,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#1a1110;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:url('https://www.transparenttextures.com/patterns/natural-paper.png');opacity:0.1;z-index:2;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:0;width:100%;text-align:center;color:#d35400;font-size:20px;letter-spacing:12px;font-weight:700;z-index:5;">SIZZLING FROM THE PIT</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:0;width:100%;text-align:center;color:#fff;font-size:150px;font-weight:900;font-family:'Oswald',sans-serif;z-index:5;margin:0;line-height:0.85;text-shadow:4px 4px 10px rgba(0,0,0,0.8);">FIRE<br><span style="color:#d35400;">PIT.</span></h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80" alt="Skewers" style="position:absolute;top:500px;left:50%;transform:translateX(-50%);width:950px;height:600px;object-fit:cover;z-index:6;border-radius:10px;box-shadow:0 20px 60px rgba(0,0,0,0.7);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:400px;background:linear-gradient(to top,#1a1110 60%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:250px;left:0;width:100%;text-align:center;color:#d35400;font-size:28px;font-weight:700;z-index:7;letter-spacing:2px;">AUTHENTIC KEBABS · SMOKED VEGGIES</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:50%;transform:translateX(-50%);width:550px;height:85px;background:#d35400;border-radius:2px;z-index:7;box-shadow:0 10px 30px rgba(211,84,0,0.3);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:118px;left:0;width:100%;text-align:center;color:#fff;font-size:30px;font-weight:900;z-index:8;letter-spacing:3px;">GRAB A SKEWER — $15.00</div>
+        `
+    },
+
+    {
+        id: 'portrait_fruit_exotic_026',
+        name: 'Minimal Exotic Fruit Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-insta-portrait',
+        categoryLabel: '🥝 Exotic Fruit',
+        width: 1080,
+        height: 1350,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:400px;background:#f9f9f9;z-index:2;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:100px;color:#2ecc71;font-size:18px;letter-spacing:10px;font-weight:700;z-index:5;">NATURE'S BEST CANDY</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:100px;color:#2c3e50;font-size:110px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.9;">Purely<br><span style="color:#2ecc71;">Exotic.</span></h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1519996529931-28324d5a630e?auto=format&fit=crop&w=800&q=80" alt="Fruit" style="position:absolute;top:400px;left:50%;transform:translateX(-50%);width:850px;height:650px;object-fit:cover;z-index:4;border-radius:20px;box-shadow:0 20px 40px rgba(0,0,0,0.05);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:380px;left:100px;width:150px;height:40px;background:#2ecc71;z-index:6;border-radius:5px;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:388px;left:100px;width:150px;text-align:center;color:#fff;font-size:20px;font-weight:700;z-index:7;">NEW ARRIVAL</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:220px;left:100px;right:100px;text-align:center;color:#7f8c8d;font-size:24px;z-index:5;line-height:1.6;">"The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:100px;right:100px;height:75px;border:2px solid #2ecc71;z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:120px;left:0;width:100%;text-align:center;color:#2ecc71;font-size:24px;font-weight:900;letter-spacing:4px;z-index:6;">EXPLORE THE HARVEST</div>
+        `
+    },
+
+    {
         id: 'portrait_interior_sale_001',
         name: 'Luxury Interior Sale',
         category: 'ad-creator',
@@ -2486,6 +2592,997 @@ window.HD_TEMPLATES = [
                 `
     },
 
+    {
+        id: 'tiktok_cyber_glow_002',
+        name: 'TikTok Cyberpunk Glow Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#020014;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:repeating-linear-gradient(0deg,rgba(0,255,180,0.03) 0px,rgba(0,255,180,0.03) 1px,transparent 1px,transparent 60px),repeating-linear-gradient(90deg,rgba(0,255,180,0.03) 0px,rgba(0,255,180,0.03) 1px,transparent 1px,transparent 60px);z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 50% 30%, rgba(0,255,180,0.15) 0%, transparent 60%);z-index:3;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:120px;left:0;width:100%;text-align:center;color:#00ffb4;font-size:22px;letter-spacing:15px;font-weight:300;z-index:5;">NEXT GENERATION</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:170px;left:0;width:100%;text-align:center;color:#ffffff;font-size:180px;font-weight:900;font-family:'Oswald',sans-serif;z-index:5;margin:0;line-height:0.8;text-shadow:0 0 60px rgba(0,255,180,0.4),0 0 120px rgba(0,255,180,0.2);">CYBER<br><span style="color:#00ffb4;">SALE</span></h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:600px;left:50%;transform:translateX(-50%);width:900px;height:2px;background:linear-gradient(90deg,transparent,#00ffb4,transparent);z-index:4;"></div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1491553895911-0055eca6402d?auto=format&fit=crop&w=800&q=80" alt="Product" style="position:absolute;top:650px;left:50%;transform:translateX(-50%);width:900px;height:700px;object-fit:cover;z-index:4;border-radius:20px;filter:drop-shadow(0 0 60px rgba(0,255,180,0.3));">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:600px;background:linear-gradient(to top,#020014 60%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:380px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.6);font-size:30px;letter-spacing:5px;z-index:7;">ONLY 48 HOURS LEFT</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:300px;left:0;width:100%;text-align:center;color:#00ffb4;font-size:80px;font-weight:900;z-index:7;">75% OFF</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:150px;left:50%;transform:translateX(-50%);width:700px;height:100px;background:transparent;border:2px solid #00ffb4;z-index:7;box-shadow:0 0 30px rgba(0,255,180,0.3),inset 0 0 30px rgba(0,255,180,0.1);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:175px;left:0;width:100%;text-align:center;color:#00ffb4;font-size:34px;font-weight:900;letter-spacing:8px;z-index:8;">UNLOCK DEAL NOW</div>
+        `
+    },
+
+    {
+        id: 'tiktok_pastel_aesthetic_003',
+        name: 'TikTok Pastel Aesthetic Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffeef8;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:-200px;left:-200px;width:700px;height:700px;background:#ffd6f0;border-radius:50%;z-index:2;filter:blur(80px);"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:-200px;right:-200px;width:700px;height:700px;background:#d6f0ff;border-radius:50%;z-index:2;filter:blur(80px);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:140px;left:0;width:100%;text-align:center;color:#d4a0c0;font-size:22px;letter-spacing:12px;font-weight:400;z-index:5;">YOUR DAILY GLOW UP ✨</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:200px;left:0;width:100%;text-align:center;color:#6b2d5e;font-size:150px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.85;">SO<br>DREAMY.</h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80" alt="Beauty" style="position:absolute;top:600px;left:50%;transform:translateX(-50%);width:800px;height:800px;object-fit:cover;z-index:4;border-radius:50%;border:20px solid #fff;box-shadow:0 40px 80px rgba(200,100,180,0.2);">
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:420px;left:0;width:100%;text-align:center;color:#6b2d5e;font-size:34px;font-weight:700;z-index:7;letter-spacing:3px;">BESTSELLER OF THE WEEK 💕</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:330px;left:0;width:100%;text-align:center;color:#d4a0c0;font-size:28px;font-weight:500;z-index:7;">Only $24.99 · Free Shipping</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:160px;left:50%;transform:translateX(-50%);width:600px;height:100px;background:linear-gradient(135deg,#f472b6,#c084fc);border-radius:50px;z-index:7;box-shadow:0 20px 40px rgba(244,114,182,0.3);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:185px;left:0;width:100%;text-align:center;color:#fff;font-size:36px;font-weight:900;z-index:8;">SHOP THE LOOK 💖</div>
+        `
+    },
+
+    {
+        id: 'tiktok_motivation_bold_004',
+        name: 'TikTok Bold Motivation Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fff;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f3f3f3;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:960px;background:#111111;z-index:2;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:0;left:0;width:100%;height:100%;text-align:center;color:rgba(255,255,255,0.03);font-size:300px;font-weight:900;z-index:3;overflow:hidden;line-height:1;">WIN WIN WIN WIN</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:200px;left:80px;color:#ffffff;font-size:200px;font-weight:900;font-family:'Oswald',sans-serif;z-index:5;margin:0;line-height:0.75;">YOU<br>CAN<br><span style="color:#f59e0b;">WIN.</span></h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=800&q=80" alt="Gym" style="position:absolute;top:900px;left:0;width:100%;height:600px;object-fit:cover;z-index:2;opacity:0.4;">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:880px;left:0;width:100%;height:50px;background:#f59e0b;z-index:4;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:960px;left:80px;right:80px;color:#111;font-size:36px;font-weight:700;z-index:5;line-height:1.6;">The only person who can stop you is YOU. Start your transformation today.</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:350px;left:80px;color:#f59e0b;font-size:30px;font-weight:700;z-index:7;letter-spacing:5px;">JOIN 50,000 WINNERS</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:200px;left:80px;right:80px;height:100px;background:#f59e0b;z-index:7;border-radius:0;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:225px;left:0;width:100%;text-align:center;color:#111;font-size:38px;font-weight:900;z-index:8;letter-spacing:3px;">START FREE TODAY →</div>
+        `
+    },
+
+    {
+        id: 'tiktok_perfume_luxury_005',
+        name: 'TikTok Luxury Perfume Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0c0c0c;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(ellipse at 50% 40%, rgba(212,175,55,0.08) 0%, transparent 70%);z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:80px;left:80px;right:80px;bottom:80px;border:1px solid rgba(212,175,55,0.2);z-index:3;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:100px;left:100px;right:100px;bottom:100px;border:1px solid rgba(212,175,55,0.1);z-index:3;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:160px;left:0;width:100%;text-align:center;color:#d4af37;font-size:18px;letter-spacing:20px;font-weight:200;z-index:5;">MAISON DE LUXE</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:220px;left:0;width:100%;text-align:center;color:#fff;font-size:130px;font-weight:100;font-family:serif;z-index:5;margin:0;letter-spacing:10px;line-height:1;">L'OR<br><span style="font-weight:900;color:#d4af37;letter-spacing:5px;">NOIR</span></h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1541643600914-78b084683702?auto=format&fit=crop&w=600&q=80" alt="Perfume" style="position:absolute;top:580px;left:50%;transform:translateX(-50%);width:500px;height:auto;z-index:6;filter:drop-shadow(0 0 80px rgba(212,175,55,0.2));">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:580px;left:50%;transform:translateX(-50%);width:300px;height:700px;background:radial-gradient(circle, rgba(212,175,55,0.05) 0%, transparent 80%);z-index:4;filter:blur(30px);"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:600px;background:linear-gradient(to top,#0c0c0c 70%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:420px;left:0;width:100%;text-align:center;color:rgba(212,175,55,0.6);font-size:22px;font-weight:200;letter-spacing:8px;z-index:7;font-style:italic;">The essence of sophistication</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:280px;left:50%;transform:translateX(-50%);width:300px;height:1px;background:linear-gradient(90deg,transparent,#d4af37,transparent);z-index:6;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:180px;left:0;width:100%;text-align:center;color:#d4af37;font-size:28px;font-weight:700;letter-spacing:10px;z-index:7;">DISCOVER THE COLLECTION</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:120px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.4);font-size:20px;letter-spacing:5px;z-index:7;">ONLY $195 · LIMITED EDITION</div>
+        `
+    },
+
+    {
+        id: 'tiktok_streetfashion_dark_006',
+        name: 'TikTok Street Fashion Dark Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#000;z-index:1;"></div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=800&q=80" alt="Fashion" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;z-index:2;opacity:0.5;">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(to bottom,rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.2) 40%,rgba(0,0,0,0.9) 100%);z-index:3;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:8px;height:100%;background:#e11d48;z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:140px;left:80px;color:#e11d48;font-size:20px;letter-spacing:10px;font-weight:900;z-index:6;">DROP 01 — 2026</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:190px;left:80px;color:#ffffff;font-size:170px;font-weight:900;font-family:'Oswald',sans-serif;z-index:6;margin:0;line-height:0.8;text-transform:uppercase;">DARK<br>SIDE.</h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:700px;background:linear-gradient(to top, #000 40%, transparent);z-index:4;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:500px;left:80px;right:80px;color:rgba(255,255,255,0.7);font-size:28px;z-index:7;line-height:1.7;">Limited pieces. No restocks. Built for those who move different.</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:400px;left:80px;color:#e11d48;font-size:35px;font-weight:900;z-index:7;letter-spacing:5px;">—— STREETWEAR CULT ——</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:200px;left:80px;right:80px;height:110px;background:#e11d48;z-index:7;clip-path:polygon(0 0,100% 0,97% 100%,3% 100%);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:230px;left:0;width:100%;text-align:center;color:#fff;font-size:40px;font-weight:900;z-index:8;letter-spacing:5px;">SHOP THE DROP</div>
+        `
+    },
+
+    {
+        id: 'tiktok_retro_y2k_007',
+        name: 'TikTok Retro Y2K Vibe',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ff6ec7;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:repeating-linear-gradient(45deg,rgba(255,255,255,0.05) 0px,rgba(255,255,255,0.05) 2px,transparent 2px,transparent 20px);z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:120px;left:60px;width:960px;height:960px;border:6px solid #fffb00;z-index:3;border-radius:50%;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:160px;left:100px;width:880px;height:880px;border:3px dashed rgba(255,251,0,0.4);z-index:3;border-radius:50%;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:180px;left:0;width:100%;text-align:center;color:#fffb00;font-size:20px;letter-spacing:12px;font-weight:900;z-index:5;">★ Y2K EDITION ★</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:230px;left:0;width:100%;text-align:center;color:#ffffff;font-size:160px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.8;text-shadow:6px 6px 0 #c700a0,-6px -6px 0 #fffb00;">GLOW<br>UP!</h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=700&q=80" alt="Fashion" style="position:absolute;top:650px;left:50%;transform:translateX(-50%);width:850px;height:700px;object-fit:cover;z-index:4;border-radius:30px;border:8px solid #fffb00;box-shadow:12px 12px 0 #c700a0;">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:500px;background:linear-gradient(to top,#ff6ec7 50%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:310px;left:0;width:100%;text-align:center;color:#fffb00;font-size:36px;font-weight:900;z-index:7;letter-spacing:5px;">🌟 NEW DROP ALERT 🌟</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:160px;left:80px;right:80px;height:110px;background:#fffb00;z-index:7;border-radius:10px;border:4px solid #fff;box-shadow:6px 6px 0 #c700a0;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:187px;left:0;width:100%;text-align:center;color:#000;font-size:40px;font-weight:900;z-index:8;">SHOP THE VIBES →</div>
+        `
+    },
+
+    {
+        id: 'tiktok_minimal_product_008',
+        name: 'TikTok Clean Minimal Product',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f8f8f6;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:980px;background:#1c1c1e;z-index:2;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:140px;left:100px;color:rgba(255,255,255,0.3);font-size:16px;letter-spacing:15px;font-weight:300;z-index:5;">MINIMAL STUDIO</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:200px;left:100px;color:#ffffff;font-size:120px;font-weight:100;font-family:serif;z-index:5;margin:0;line-height:1;letter-spacing:5px;">The Only<br><em style="font-style:italic;font-weight:900;">Watch</em><br>You Need.</h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=700&q=80" alt="Watch" style="position:absolute;top:600px;left:50%;transform:translateX(-50%);width:700px;height:auto;z-index:6;filter:drop-shadow(0 40px 80px rgba(0,0,0,0.6));">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:1050px;background:linear-gradient(to top,#f8f8f6 55%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:1050px;left:100px;color:#1c1c1e;font-size:36px;font-weight:300;z-index:7;line-height:1.8;letter-spacing:2px;">Swiss Movement · Sapphire Crystal<br>316L Stainless Steel</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:1230px;left:100px;width:200px;height:1px;background:#1c1c1e;z-index:7;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:1270px;left:100px;color:#1c1c1e;font-size:60px;font-weight:900;z-index:7;">$349</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:150px;left:100px;right:100px;height:90px;background:#1c1c1e;z-index:7;border-radius:5px;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:173px;left:0;width:100%;text-align:center;color:#fff;font-size:32px;font-weight:700;letter-spacing:5px;z-index:8;">ORDER NOW</div>
+        `
+    },
+
+    {
+        id: 'tiktok_neon_music_009',
+        name: 'TikTok Neon Music Party',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#07001a;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 30% 20%,rgba(138,43,226,0.4) 0%,transparent 50%),radial-gradient(circle at 80% 80%,rgba(0,191,255,0.3) 0%,transparent 50%);z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:350px;left:50%;transform:translateX(-50%);width:800px;height:800px;border-radius:50%;background:radial-gradient(circle, rgba(138,43,226,0.2) 0%, transparent 70%);z-index:3;filter:blur(40px);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:0;width:100%;text-align:center;color:#00bfff;font-size:22px;letter-spacing:15px;font-weight:300;z-index:5;">FRIDAY NIGHT</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:190px;left:0;width:100%;text-align:center;color:#fff;font-size:170px;font-weight:900;font-family:'Oswald',sans-serif;z-index:5;margin:0;line-height:0.8;text-shadow:0 0 40px rgba(138,43,226,0.8),0 0 80px rgba(0,191,255,0.4);">DROP<br><span style="color:#8a2be2;">THE</span><br>BEAT.</h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=800&q=80" alt="Party" style="position:absolute;top:680px;left:50%;transform:translateX(-50%);width:950px;height:600px;object-fit:cover;z-index:4;border-radius:30px;filter:saturate(1.5) brightness(0.8);box-shadow:0 0 80px rgba(138,43,226,0.4);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:700px;background:linear-gradient(to top,#07001a 50%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:420px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.6);font-size:28px;letter-spacing:5px;z-index:7;">📍 TONIGHT ONLY — 9PM</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:330px;left:0;width:100%;text-align:center;color:#8a2be2;font-size:40px;font-weight:900;z-index:7;text-shadow:0 0 20px rgba(138,43,226,0.8);">FREE ENTRY BEFORE 10PM</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:160px;left:80px;right:80px;height:110px;background:linear-gradient(135deg,#8a2be2,#00bfff);z-index:7;border-radius:15px;box-shadow:0 0 40px rgba(138,43,226,0.5);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:185px;left:0;width:100%;text-align:center;color:#fff;font-size:38px;font-weight:900;z-index:8;letter-spacing:3px;">GET YOUR TICKETS 🎟</div>
+        `
+    },
+
+    {
+        id: 'tiktok_realestate_launch_010',
+        name: 'TikTok Real Estate Launch',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0a1628;z-index:1;"></div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=800&q=80" alt="Home" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;z-index:2;opacity:0.25;">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(to bottom, rgba(10,22,40,0.6) 0%, rgba(10,22,40,0.4) 50%, rgba(10,22,40,1) 100%);z-index:3;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:120px;left:80px;width:6px;height:200px;background:linear-gradient(to bottom,#c9a84c,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:110px;color:#c9a84c;font-size:18px;letter-spacing:10px;font-weight:300;z-index:5;">PRESTIGE LIVING</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:200px;left:80px;color:#ffffff;font-size:130px;font-weight:900;font-family:serif;z-index:5;margin:0;line-height:0.85;">YOUR<br>DREAM<br><span style="color:#c9a84c;font-style:italic;">HOME.</span></h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:700px;left:80px;right:80px;height:1px;background:linear-gradient(90deg,#c9a84c,transparent);z-index:5;"></div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=800&q=80" alt="Interior" style="position:absolute;top:730px;left:80px;width:920px;height:600px;object-fit:cover;z-index:4;border-radius:15px;border:2px solid rgba(201,168,76,0.3);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:650px;background:linear-gradient(to top,#0a1628 60%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:430px;left:80px;color:rgba(255,255,255,0.6);font-size:26px;z-index:7;line-height:1.8;">🛏 4 Beds · 🛁 3 Baths · 📐 3,200 sq ft<br>Starting from <span style="color:#c9a84c;font-weight:900;">$1.2M</span></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:330px;left:80px;color:#c9a84c;font-size:22px;font-weight:700;letter-spacing:5px;z-index:7;">LIMITED UNITS AVAILABLE</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:160px;left:80px;right:80px;height:110px;background:transparent;border:2px solid #c9a84c;z-index:7;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:185px;left:0;width:100%;text-align:center;color:#c9a84c;font-size:34px;font-weight:700;letter-spacing:8px;z-index:8;">BOOK A VIEWING →</div>
+        `
+    },
+
+    {
+        id: 'tiktok_fooddelivery_vibrant_011',
+        name: 'TikTok Vibrant Food Delivery',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ff4500;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#ff6a00 0%,#ee0979 100%);z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:-300px;right:-300px;width:900px;height:900px;background:rgba(255,255,255,0.06);border-radius:50%;z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:-300px;left:-300px;width:800px;height:800px;background:rgba(255,255,255,0.06);border-radius:50%;z-index:2;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:140px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.8);font-size:24px;letter-spacing:10px;font-weight:700;z-index:5;">🔥 FLASH DEAL — TODAY ONLY</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:200px;left:0;width:100%;text-align:center;color:#ffffff;font-size:140px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.85;text-shadow:5px 5px 0 rgba(0,0,0,0.2);">HUNGRY?<br>WE GOT<br>YOU. 🍕</h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=800&q=80" alt="Food" style="position:absolute;top:680px;left:50%;transform:translateX(-50%);width:950px;height:700px;object-fit:cover;z-index:4;border-radius:40px;box-shadow:0 40px 80px rgba(0,0,0,0.3);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:600px;background:linear-gradient(to top,rgba(238,9,121,1) 40%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:400px;left:0;width:100%;text-align:center;color:#fff;font-size:50px;font-weight:900;z-index:7;text-shadow:2px 2px 0 rgba(0,0,0,0.2);">FREE DELIVERY TODAY</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:320px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.8);font-size:28px;z-index:7;">Use code: <strong>HUNGRY50</strong> — Save 50%</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:160px;left:80px;right:80px;height:120px;background:#fff;border-radius:20px;z-index:7;box-shadow:0 20px 40px rgba(0,0,0,0.2);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:188px;left:0;width:100%;text-align:center;color:#ee0979;font-size:42px;font-weight:900;z-index:8;">ORDER IN 30 SECS ⚡</div>
+        `
+    },
+
+    {
+        id: 'tiktok_glass_tech_012',
+        name: 'TikTok Glassmorphism Tech Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#0f2027,#203a43,#2c5364);z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:-200px;left:-200px;width:800px;height:800px;background:radial-gradient(circle,rgba(0,212,255,0.3) 0%,transparent 70%);z-index:2;filter:blur(60px);"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:-200px;right:-200px;width:700px;height:700px;background:radial-gradient(circle,rgba(255,0,150,0.25) 0%,transparent 70%);z-index:2;filter:blur(60px);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:0;width:100%;text-align:center;color:rgba(0,212,255,0.7);font-size:18px;letter-spacing:15px;font-weight:300;z-index:5;">NEXT-GEN TECHNOLOGY</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:180px;left:0;width:100%;text-align:center;color:#ffffff;font-size:150px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.85;letter-spacing:-5px;">THINK<br><span style="color:#00d4ff;">SMARTER.</span></h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:600px;left:80px;right:80px;height:700px;background:rgba(255,255,255,0.05);backdrop-filter:blur(30px);border:1px solid rgba(255,255,255,0.15);border-radius:40px;z-index:4;box-shadow:0 20px 60px rgba(0,0,0,0.3);"></div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1677442135703-1787eea5ce01?auto=format&fit=crop&w=800&q=80" alt="AI Tech" style="position:absolute;top:640px;left:50%;transform:translateX(-50%);width:860px;height:620px;object-fit:cover;z-index:5;border-radius:30px;opacity:0.85;">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:550px;background:linear-gradient(to top,#0f2027 55%,transparent);z-index:6;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:380px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.7);font-size:28px;font-weight:300;letter-spacing:3px;z-index:7;">AI-POWERED · CLOUD-NATIVE · SECURE</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:200px;left:80px;right:80px;height:110px;background:rgba(255,255,255,0.08);backdrop-filter:blur(20px);border:1px solid rgba(0,212,255,0.4);border-radius:20px;z-index:7;box-shadow:0 0 40px rgba(0,212,255,0.15);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:225px;left:0;width:100%;text-align:center;color:#00d4ff;font-size:34px;font-weight:700;letter-spacing:5px;z-index:8;">TRY FREE — 30 DAYS</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:140px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.3);font-size:20px;letter-spacing:3px;z-index:7;">No credit card required</div>
+        `
+    },
+
+    {
+        id: 'tiktok_tattoo_grunge_013',
+        name: 'TikTok Grunge Tattoo Studio',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#111;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(to bottom,rgba(20,0,0,0.8) 0%,rgba(0,0,0,0) 50%,rgba(20,0,0,0.9) 100%);z-index:2;"></div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1565058379802-bbe93b2f703a?auto=format&fit=crop&w=800&q=80" alt="Tattoo" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;z-index:1;opacity:0.35;filter:grayscale(40%);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:100px;left:80px;width:300px;height:4px;background:#b91c1c;z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:80px;color:rgba(255,255,255,0.5);font-size:18px;letter-spacing:10px;font-weight:300;z-index:5;">EST. 2014 · DOWNTOWN</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:180px;left:80px;color:#ffffff;font-size:160px;font-weight:900;font-family:'Oswald',sans-serif;z-index:5;margin:0;line-height:0.8;text-transform:uppercase;">INK<br>YOUR<br><span style="color:#b91c1c;-webkit-text-stroke:2px #b91c1c;">SOUL.</span></h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:700px;left:80px;right:80px;height:2px;background:linear-gradient(90deg,#b91c1c,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:740px;left:80px;right:80px;color:rgba(255,255,255,0.65);font-size:30px;font-weight:400;z-index:5;line-height:1.8;">Custom Designs · Fine Line · Traditional<br>Blackwork · Realism · Watercolor</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:500px;left:80px;color:#b91c1c;font-size:28px;font-weight:700;letter-spacing:5px;z-index:7;">⚡ BOOK YOUR SESSION NOW ⚡</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:420px;left:80px;color:rgba(255,255,255,0.4);font-size:24px;z-index:7;">Limited slots available this weekend</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:250px;left:80px;right:80px;height:110px;background:#b91c1c;z-index:7;clip-path:polygon(2% 0,98% 0,100% 100%,0% 100%);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:275px;left:0;width:100%;text-align:center;color:#fff;font-size:38px;font-weight:900;z-index:8;letter-spacing:4px;">DM TO BOOK</div>
+        `
+    },
+
+    {
+        id: 'tiktok_spa_wellness_014',
+        name: 'TikTok Luxury Spa Wellness',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f5f0eb;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:600px;background:#2d4a3e;z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:550px;left:50%;transform:translateX(-50%);width:900px;height:200px;background:#2d4a3e;border-radius:0 0 50% 50%;z-index:3;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.5);font-size:16px;letter-spacing:15px;font-weight:300;z-index:5;">SERENITY · BALANCE · GLOW</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:160px;left:0;width:100%;text-align:center;color:#ffffff;font-size:120px;font-weight:200;font-family:serif;z-index:5;margin:0;letter-spacing:8px;line-height:1.1;">PURELY<br><em style="font-style:italic;font-weight:900;color:#a8d5b5;">YOU.</em></h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1600334129128-685c5582fd35?auto=format&fit=crop&w=800&q=80" alt="Spa" style="position:absolute;top:430px;left:50%;transform:translateX(-50%);width:700px;height:700px;object-fit:cover;z-index:6;border-radius:50%;border:15px solid #f5f0eb;box-shadow:0 30px 60px rgba(45,74,62,0.2);">
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:1200px;left:0;width:100%;text-align:center;color:#2d4a3e;font-size:30px;font-weight:300;letter-spacing:5px;z-index:7;line-height:2;">Full Body Massage · Aromatherapy<br>Facial · Hot Stone Therapy</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:1380px;left:50%;transform:translateX(-50%);width:200px;height:1px;background:#2d4a3e;z-index:7;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:1430px;left:0;width:100%;text-align:center;color:#2d4a3e;font-size:36px;font-weight:700;z-index:7;letter-spacing:3px;">PACKAGES FROM $89</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:150px;left:100px;right:100px;height:100px;background:#2d4a3e;border-radius:50px;z-index:7;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:173px;left:0;width:100%;text-align:center;color:#a8d5b5;font-size:34px;font-weight:700;letter-spacing:3px;z-index:8;">BOOK YOUR ESCAPE ✿</div>
+        `
+    },
+
+    {
+        id: 'tiktok_anime_comic_015',
+        name: 'TikTok Anime Comic Sale',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fef08a;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:repeating-radial-gradient(circle at 50% 50%,rgba(0,0,0,0.03) 0,rgba(0,0,0,0.03) 2px,transparent 2px,transparent 20px);z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:80px;left:80px;right:80px;bottom:80px;border:8px solid #000;z-index:3;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:120px;left:120px;right:-20px;bottom:-20px;background:#000;z-index:2;border-radius:5px;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:80px;left:80px;right:80px;bottom:80px;background:#fef08a;border:8px solid #000;z-index:4;border-radius:5px;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:0;width:100%;text-align:center;color:#dc2626;font-size:28px;font-weight:900;letter-spacing:5px;z-index:5;-webkit-text-stroke:1px #000;">★ LIMITED EDITION ★</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:190px;left:0;width:100%;text-align:center;color:#000;font-size:170px;font-weight:900;font-family:'Oswald',sans-serif;z-index:5;margin:0;line-height:0.8;-webkit-text-stroke:3px #000;">EPIC<br><span style="color:#dc2626;-webkit-text-stroke:3px #dc2626;">SALE!</span></h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?auto=format&fit=crop&w=800&q=80" alt="Collectibles" style="position:absolute;top:600px;left:50%;transform:translateX(-50%);width:800px;height:700px;object-fit:cover;z-index:5;border:8px solid #000;border-radius:10px;box-shadow:10px 10px 0 #000;">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:280px;left:120px;right:120px;height:130px;background:#dc2626;border:6px solid #000;z-index:7;box-shadow:6px 6px 0 #000;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:312px;left:0;width:100%;text-align:center;color:#fef08a;font-size:50px;font-weight:900;z-index:8;-webkit-text-stroke:1px #000;">UP TO 70% OFF!</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:190px;left:0;width:100%;text-align:center;color:#000;font-size:26px;font-weight:700;z-index:7;letter-spacing:3px;">SHOP NOW · WHILE STOCKS LAST</div>
+        `
+    },
+
+    {
+        id: 'tiktok_typo_quote_016',
+        name: 'TikTok Minimalist Typography Quote',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f9f9f9;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:12px;height:100%;background:#111;z-index:3;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;right:0;width:12px;height:100%;background:#111;z-index:3;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:0;left:80px;height:100%;color:rgba(0,0,0,0.04);font-size:320px;font-weight:900;z-index:2;line-height:0.9;overflow:hidden;font-family:'Oswald',sans-serif;">TEXT</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:160px;left:80px;color:#999;font-size:18px;letter-spacing:12px;font-weight:300;z-index:5;">WORDS THAT MOVE YOU</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:250px;left:80px;color:#111;font-size:40px;font-weight:100;font-family:serif;z-index:5;line-height:1.5;width:900px;font-style:italic;">"The secret of getting ahead is getting started. The secret of getting started is breaking your complex tasks into small, manageable ones."</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:740px;left:80px;width:80px;height:8px;background:#111;z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:780px;left:80px;color:#555;font-size:26px;font-weight:300;letter-spacing:5px;z-index:5;">— Mark Twain</div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=800&q=80" alt="Writing" style="position:absolute;top:900px;left:80px;width:920px;height:600px;object-fit:cover;z-index:4;border-radius:5px;filter:grayscale(20%);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:400px;background:linear-gradient(to top,#f9f9f9 60%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:300px;left:80px;color:#111;font-size:32px;font-weight:700;letter-spacing:5px;z-index:7;">DAILY MOTIVATION APP</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:240px;left:80px;color:#888;font-size:24px;z-index:7;letter-spacing:3px;">10,000+ Quotes · Daily Reminders</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:130px;left:80px;right:80px;height:80px;background:#111;z-index:7;border-radius:3px;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:150px;left:0;width:100%;text-align:center;color:#f9f9f9;font-size:30px;font-weight:700;letter-spacing:6px;z-index:8;">DOWNLOAD FREE</div>
+        `
+    },
+
+    {
+        id: 'tiktok_holographic_aurora_017',
+        name: 'TikTok Holographic Aurora Drop',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0d0d0d;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:-300px;left:-200px;width:900px;height:900px;background:conic-gradient(from 0deg,#ff006e,#8338ec,#3a86ff,#06d6a0,#ffbe0b,#ff006e);border-radius:50%;filter:blur(100px);opacity:0.5;z-index:2;animation:spin 8s linear infinite;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:-300px;right:-200px;width:800px;height:800px;background:conic-gradient(from 180deg,#06d6a0,#3a86ff,#8338ec,#ff006e,#ffbe0b,#06d6a0);border-radius:50%;filter:blur(100px);opacity:0.4;z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:80px;left:80px;right:80px;bottom:80px;border:1px solid rgba(255,255,255,0.08);z-index:3;border-radius:5px;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:150px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.4);font-size:16px;letter-spacing:20px;font-weight:200;z-index:5;">✦ EXCLUSIVE COLLECTION ✦</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:210px;left:0;width:100%;text-align:center;font-size:160px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.82;background:linear-gradient(135deg,#ff006e,#8338ec,#3a86ff,#06d6a0,#ffbe0b);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;">HOLO<br>DRIP.</h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:620px;left:50%;transform:translateX(-50%);width:750px;height:750px;background:rgba(255,255,255,0.03);backdrop-filter:blur(40px);border-radius:50%;border:1px solid rgba(255,255,255,0.1);z-index:4;box-shadow:0 0 100px rgba(131,56,236,0.2),inset 0 0 100px rgba(6,214,160,0.1);"></div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=700&q=80" alt="Product" style="position:absolute;top:650px;left:50%;transform:translateX(-50%);width:650px;height:auto;z-index:6;filter:drop-shadow(0 0 60px rgba(131,56,236,0.5));">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:600px;background:linear-gradient(to top,#0d0d0d 50%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:370px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.5);font-size:22px;font-weight:300;letter-spacing:8px;z-index:7;">LIMITED · HANDCRAFTED · RARE</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:200px;left:80px;right:80px;height:120px;background:linear-gradient(135deg,rgba(255,0,110,0.15),rgba(131,56,236,0.15),rgba(58,134,255,0.15));backdrop-filter:blur(20px);border:1px solid rgba(255,255,255,0.2);border-radius:20px;z-index:7;box-shadow:0 0 60px rgba(131,56,236,0.15);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:228px;left:0;width:100%;text-align:center;font-size:36px;font-weight:700;letter-spacing:6px;z-index:8;background:linear-gradient(90deg,#ff006e,#8338ec,#3a86ff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">SHOP THE DROP NOW</div>
+        `
+    },
+
+    {
+        id: 'tiktok_diagonal_split_018',
+        name: 'TikTok Diagonal Split Product',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#111;z-index:2;clip-path:polygon(0 0,100% 0,100% 40%,0 70%);"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#e63946;z-index:2;clip-path:polygon(0 68%,100% 38%,100% 100%,0 100%);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:80px;color:rgba(255,255,255,0.4);font-size:16px;letter-spacing:12px;z-index:5;">SEASON 2026</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:180px;left:80px;color:#ffffff;font-size:170px;font-weight:900;font-family:'Oswald',sans-serif;z-index:5;margin:0;line-height:0.78;">NEW<br>ERA.</h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:500px;left:80px;width:500px;height:6px;background:#e63946;z-index:5;"></div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=800&q=80" alt="Sneakers" style="position:absolute;top:400px;right:-60px;width:750px;height:auto;z-index:6;transform:rotate(-15deg);filter:drop-shadow(-30px 30px 60px rgba(0,0,0,0.4));">
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:560px;left:80px;color:rgba(255,255,255,0.6);font-size:28px;font-weight:300;z-index:5;line-height:1.8;width:500px;">Engineered for speed.<br>Crafted for style.</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:420px;left:0;width:100%;text-align:center;color:#ffffff;font-size:80px;font-weight:900;z-index:7;letter-spacing:-2px;">$129.99</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:340px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.7);font-size:24px;font-weight:400;z-index:7;letter-spacing:5px;">FREE SHIPPING WORLDWIDE</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:200px;left:80px;right:80px;height:110px;background:#ffffff;z-index:7;border-radius:5px;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:225px;left:0;width:100%;text-align:center;color:#111;font-size:38px;font-weight:900;letter-spacing:5px;z-index:8;">ORDER NOW →</div>
+        `
+    },
+
+    {
+        id: 'tiktok_horror_dark_019',
+        name: 'TikTok Dark Horror Event',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#000;z-index:1;"></div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1504701954957-2010ec3bcec1?auto=format&fit=crop&w=800&q=80" alt="Dark" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;z-index:2;opacity:0.2;filter:saturate(0);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 50% 50%, rgba(180,0,0,0.1) 0%, transparent 70%);z-index:3;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(to bottom,rgba(0,0,0,0.8) 0%,transparent 40%,transparent 60%,rgba(0,0,0,0.95) 100%);z-index:3;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:150px;left:0;width:100%;text-align:center;color:rgba(180,0,0,0.6);font-size:18px;letter-spacing:20px;font-weight:200;z-index:5;">HALLOWEEN SPECIAL</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:200px;left:0;width:100%;text-align:center;color:#fff;font-size:160px;font-weight:900;font-family:'Oswald',sans-serif;z-index:5;margin:0;line-height:0.8;text-shadow:0 0 80px rgba(180,0,0,0.6);">DARE<br>TO<br><span style="color:#b40000;text-shadow:0 0 40px rgba(180,0,0,1);">ENTER.</span></h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:700px;left:50%;transform:translateX(-50%);width:800px;height:4px;background:linear-gradient(90deg,transparent,#b40000,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:750px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.5);font-size:26px;font-weight:200;letter-spacing:8px;z-index:5;">ESCAPE ROOM · HORROR EXPERIENCE</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:500px;left:0;width:100%;text-align:center;color:#fff;font-size:36px;font-weight:700;z-index:7;">📅 OCT 31 — MIDNIGHT SPECIAL</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:420px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.4);font-size:24px;z-index:7;">Only 13 tickets remaining</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:230px;left:80px;right:80px;height:120px;background:#b40000;z-index:7;border-radius:0;clip-path:polygon(1% 0,99% 0,100% 100%,0 100%);box-shadow:0 0 60px rgba(180,0,0,0.5);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:260px;left:0;width:100%;text-align:center;color:#fff;font-size:40px;font-weight:900;letter-spacing:5px;z-index:8;">GET YOUR TICKET 💀</div>
+        `
+    },
+
+    {
+        id: 'tiktok_countdown_neon_020',
+        name: 'TikTok Neon Countdown Launch',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#03001c;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(ellipse at 50% 0%,rgba(123,44,191,0.4) 0%,transparent 60%);z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(ellipse at 50% 100%,rgba(0,212,255,0.2) 0%,transparent 60%);z-index:2;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:0;width:100%;text-align:center;color:rgba(123,44,191,0.7);font-size:18px;letter-spacing:15px;z-index:5;font-weight:300;">LAUNCHING IN</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:80px;right:80px;height:300px;background:rgba(255,255,255,0.03);border:1px solid rgba(123,44,191,0.3);border-radius:30px;z-index:4;backdrop-filter:blur(10px);box-shadow:0 0 60px rgba(123,44,191,0.15),inset 0 0 60px rgba(0,212,255,0.05);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:240px;left:0;width:100%;text-align:center;color:#ffffff;font-size:200px;font-weight:900;font-family:'Oswald',sans-serif;z-index:6;letter-spacing:20px;text-shadow:0 0 40px rgba(123,44,191,0.8),0 0 80px rgba(0,212,255,0.4);">24:00</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:450px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.3);font-size:22px;letter-spacing:15px;z-index:6;">HOURS · MINUTES · SECONDS</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:580px;left:0;width:100%;text-align:center;color:#ffffff;font-size:130px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.85;letter-spacing:-3px;">THE BIGGEST<br><span style="background:linear-gradient(90deg,#7b2cbf,#00d4ff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">LAUNCH EVER.</span></h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80" alt="Launch" style="position:absolute;top:980px;left:50%;transform:translateX(-50%);width:900px;height:500px;object-fit:cover;z-index:4;border-radius:20px;opacity:0.6;border:1px solid rgba(123,44,191,0.3);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:500px;background:linear-gradient(to top,#03001c 55%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:340px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.5);font-size:26px;letter-spacing:5px;z-index:7;">⚡ EARLY ACCESS · 50% OFF ⚡</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:180px;left:80px;right:80px;height:115px;background:linear-gradient(135deg,#7b2cbf,#00d4ff);border-radius:15px;z-index:7;box-shadow:0 0 60px rgba(123,44,191,0.4);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:208px;left:0;width:100%;text-align:center;color:#fff;font-size:38px;font-weight:900;letter-spacing:5px;z-index:8;">JOIN THE WAITLIST →</div>
+        `
+    },
+
+    {
+        id: 'tiktok_brutalist_bold_021',
+        name: 'TikTok Brutalist Bold Statement',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f5f500;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:repeating-linear-gradient(0deg,rgba(0,0,0,0.04) 0px,rgba(0,0,0,0.04) 1px,transparent 1px,transparent 40px);z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:20px;left:20px;right:20px;bottom:20px;border:6px solid #000;z-index:3;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:600px;left:20px;right:20px;height:6px;background:#000;z-index:4;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:1300px;left:20px;right:20px;height:6px;background:#000;z-index:4;"></div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:60px;color:#000;font-size:220px;font-weight:900;font-family:'Oswald',sans-serif;z-index:5;margin:0;line-height:0.75;text-transform:uppercase;-webkit-text-stroke:3px #000;">WE<br>DON'T<br>DO<br>BORING.</h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1609921212029-bb5a28e60960?auto=format&fit=crop&w=800&q=80" alt="Bold Art" style="position:absolute;top:640px;left:60px;width:920px;height:620px;object-fit:cover;z-index:5;filter:grayscale(100%) contrast(1.2);mix-blend-mode:multiply;">
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:1350px;left:60px;color:#000;font-size:46px;font-weight:900;z-index:5;line-height:1.5;letter-spacing:-1px;">Creative Agency.<br>No filters. No rules.<br>Just results.</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:180px;left:60px;right:60px;height:130px;background:#000;z-index:7;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:215px;left:0;width:100%;text-align:center;color:#f5f500;font-size:46px;font-weight:900;z-index:8;letter-spacing:5px;text-transform:uppercase;">LET'S WORK →</div>
+        `
+    },
+
+    {
+        id: 'tiktok_duotone_fashion_022',
+        name: 'TikTok Duotone Fashion Split',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fff;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:50%;height:100%;background:#1a0533;z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;right:0;width:50%;height:100%;background:#f0e6ff;z-index:2;"></div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=800&q=80" alt="Fashion" style="position:absolute;top:200px;left:50%;transform:translateX(-50%);width:700px;height:1000px;object-fit:cover;z-index:6;filter:drop-shadow(0 40px 80px rgba(0,0,0,0.4));">
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:60px;color:rgba(255,255,255,0.4);font-size:16px;letter-spacing:12px;z-index:5;">NEW SEASON</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:180px;left:60px;color:#c084fc;font-size:130px;font-weight:900;font-family:'Oswald',sans-serif;z-index:5;margin:0;line-height:0.8;writing-mode:vertical-lr;text-orientation:mixed;transform:rotate(180deg);height:600px;">VOGUE</h1>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:130px;right:60px;color:#1a0533;font-size:16px;letter-spacing:12px;z-index:5;text-align:right;">2026 DROP</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:180px;right:60px;color:#1a0533;font-size:130px;font-weight:900;font-family:'Oswald',sans-serif;z-index:5;margin:0;line-height:0.8;writing-mode:vertical-lr;text-orientation:mixed;height:600px;">LUXE</h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:350px;background:linear-gradient(135deg,#1a0533 50%,#f0e6ff 50%);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:220px;left:0;width:50%;text-align:center;color:#c084fc;font-size:28px;font-weight:700;z-index:7;">SHOP NOW</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:220px;right:0;width:50%;text-align:center;color:#1a0533;font-size:28px;font-weight:700;z-index:7;">FROM $89</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:150px;left:50%;transform:translateX(-50%);width:400px;height:2px;background:linear-gradient(90deg,#c084fc,#1a0533);z-index:8;"></div>
+        `
+    },
+
+    {
+        id: 'tiktok_coffee_warm_023',
+        name: 'TikTok Coffee Lifestyle Warm',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#2c1a0e;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(ellipse at 50% 30%,rgba(210,140,60,0.15) 0%,transparent 70%);z-index:2;"></div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=800&q=80" alt="Coffee" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;z-index:2;opacity:0.3;filter:saturate(0.5);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(to bottom,rgba(44,26,14,0.7) 0%,rgba(44,26,14,0.2) 50%,rgba(44,26,14,0.95) 100%);z-index:3;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:150px;left:0;width:100%;text-align:center;color:rgba(210,140,60,0.6);font-size:18px;letter-spacing:15px;font-weight:200;z-index:5;">ARTISAN ROASTERS</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:210px;left:0;width:100%;text-align:center;color:#f5e6c8;font-size:140px;font-weight:200;font-family:serif;z-index:5;margin:0;line-height:1;letter-spacing:10px;font-style:italic;">Slow<br>Sip.</h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:530px;left:50%;transform:translateX(-50%);width:150px;height:2px;background:rgba(210,140,60,0.5);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:570px;left:0;width:100%;text-align:center;color:rgba(245,230,200,0.6);font-size:26px;font-weight:200;letter-spacing:8px;z-index:5;">SINGLE ORIGIN · HAND POURED</div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=800&q=80" alt="Coffee Cup" style="position:absolute;top:700px;left:50%;transform:translateX(-50%);width:800px;height:700px;object-fit:cover;z-index:4;border-radius:20px;filter:brightness(0.8) saturate(1.3);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:550px;background:linear-gradient(to top,#2c1a0e 60%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:380px;left:0;width:100%;text-align:center;color:#d28c3c;font-size:34px;font-weight:300;letter-spacing:5px;z-index:7;">☕ Morning Ritual Blend</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:300px;left:0;width:100%;text-align:center;color:rgba(245,230,200,0.5);font-size:24px;z-index:7;">12 oz · Free Grinding · Home Delivery</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:160px;left:100px;right:100px;height:100px;background:transparent;border:1px solid rgba(210,140,60,0.4);border-radius:5px;z-index:7;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:183px;left:0;width:100%;text-align:center;color:#d28c3c;font-size:32px;font-weight:600;letter-spacing:8px;z-index:8;">ORDER YOUR BAG</div>
+        `
+    },
+
+    {
+        id: 'tiktok_crypto_finance_024',
+        name: 'TikTok Crypto Finance Dark',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#060a10;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 70% 20%,rgba(247,147,26,0.12) 0%,transparent 50%),radial-gradient(circle at 30% 80%,rgba(0,255,136,0.08) 0%,transparent 50%);z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:repeating-linear-gradient(90deg,rgba(247,147,26,0.02) 0px,rgba(247,147,26,0.02) 1px,transparent 1px,transparent 80px);z-index:2;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:80px;color:rgba(247,147,26,0.5);font-size:16px;letter-spacing:15px;font-weight:300;z-index:5;">DECENTRALIZED FINANCE</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:180px;left:80px;color:#ffffff;font-size:160px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.8;letter-spacing:-5px;">OWN<br><span style="color:#f7931a;">YOUR</span><br>FUTURE.</h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:650px;left:80px;right:80px;height:400px;background:rgba(255,255,255,0.02);border:1px solid rgba(247,147,26,0.15);border-radius:20px;z-index:4;backdrop-filter:blur(5px);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:690px;left:120px;color:#00ff88;font-size:28px;font-weight:700;z-index:6;">BTC +12.4% ↑</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:730px;left:120px;right:120px;height:1px;background:rgba(255,255,255,0.08);z-index:6;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:760px;left:120px;color:#fff;font-size:24px;font-weight:300;z-index:6;line-height:1.9;">ETH  +8.7% ↑<br>SOL  +22.1% ↑<br>BNB  +5.3% ↑</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:950px;left:120px;color:rgba(255,255,255,0.3);font-size:20px;z-index:6;">Portfolio updated 2 mins ago</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:480px;left:80px;right:80px;color:rgba(255,255,255,0.5);font-size:26px;line-height:1.7;z-index:7;">Start trading with as little as $10. Zero fees for the first 90 days. AI-powered insights included.</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:380px;left:80px;color:#f7931a;font-size:24px;font-weight:700;letter-spacing:5px;z-index:7;">⚡ LIMITED OFFER EXPIRES SOON</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:210px;left:80px;right:80px;height:115px;background:linear-gradient(90deg,#f7931a,#ffcc02);border-radius:10px;z-index:7;box-shadow:0 0 50px rgba(247,147,26,0.3);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:238px;left:0;width:100%;text-align:center;color:#000;font-size:36px;font-weight:900;letter-spacing:3px;z-index:8;">START TRADING FREE →</div>
+        `
+    },
+
+    {
+        id: 'tiktok_handwritten_quote_025',
+        name: 'TikTok Handwritten Script Brand',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#faf6f0;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(ellipse at 50% 0%,rgba(230,200,160,0.3) 0%,transparent 60%);z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:1200px;background:url('https://www.transparenttextures.com/patterns/paper.png');opacity:0.4;z-index:3;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:120px;left:80px;width:920px;height:3px;background:rgba(0,0,0,0.08);z-index:4;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:220px;left:80px;width:920px;height:1px;background:rgba(0,0,0,0.05);z-index:4;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:320px;left:80px;width:920px;height:1px;background:rgba(0,0,0,0.05);z-index:4;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:0;width:100%;text-align:center;color:rgba(100,70,40,0.4);font-size:16px;letter-spacing:10px;z-index:5;">YOUR DAILY JOURNAL</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:200px;left:80px;color:#3d2b1f;font-size:130px;font-weight:400;font-family:serif;z-index:5;margin:0;line-height:1;font-style:italic;letter-spacing:-2px;">"Write your<br>own story,<br><span style="font-weight:900;color:#8b4513;">darling."</span></h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=800&q=80" alt="Journal" style="position:absolute;top:750px;left:50%;transform:translateX(-50%);width:920px;height:700px;object-fit:cover;z-index:4;border-radius:10px;filter:sepia(20%) brightness(0.9);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:500px;background:linear-gradient(to top,#faf6f0 55%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:380px;left:80px;color:#8b4513;font-size:34px;font-weight:400;font-style:italic;font-family:serif;z-index:7;">The Artisan Journal Co.</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:300px;left:80px;color:rgba(61,43,31,0.5);font-size:24px;font-weight:300;z-index:7;letter-spacing:3px;">Handmade · 200 pages · Lay-flat binding</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:160px;left:80px;right:80px;height:100px;background:#3d2b1f;border-radius:3px;z-index:7;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:185px;left:0;width:100%;text-align:center;color:#faf6f0;font-size:34px;font-weight:300;letter-spacing:8px;font-family:serif;font-style:italic;z-index:8;">Shop the Collection</div>
+        `
+    },
+
+    {
+        id: 'tiktok_sports_energy_026',
+        name: 'TikTok Bold Sports Energy Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#000;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,rgba(234,179,8,0.08) 0%,transparent 50%,rgba(234,179,8,0.05) 100%);z-index:2;"></div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=800&q=80" alt="Sports" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;z-index:2;opacity:0.35;filter:contrast(1.2) saturate(0.8);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(to bottom,rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.1) 30%,rgba(0,0,0,0.1) 60%,rgba(0,0,0,0.95) 100%);z-index:3;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:15px;background:#eab308;z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:60px;left:0;width:100%;text-align:center;color:rgba(234,179,8,0.6);font-size:18px;letter-spacing:15px;z-index:5;font-weight:300;">NO LIMITS · NO EXCUSES</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:120px;left:0;width:100%;text-align:center;color:#eab308;font-size:260px;font-weight:900;font-family:'Oswald',sans-serif;z-index:5;margin:0;line-height:0.75;-webkit-text-stroke:2px #eab308;text-shadow:0 0 100px rgba(234,179,8,0.3);">GO.</h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:700px;background:linear-gradient(to top,#000 50%,transparent);z-index:4;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:520px;left:80px;right:80px;color:#ffffff;font-size:52px;font-weight:900;line-height:1.1;z-index:7;text-transform:uppercase;letter-spacing:-1px;">Train Hard.<br>Recover Faster.<br>Win More.</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:470px;left:80px;width:120px;height:5px;background:#eab308;z-index:7;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:370px;left:80px;color:rgba(255,255,255,0.5);font-size:26px;z-index:7;line-height:1.8;">⚡ Energy Boost Formula<br>🏋️ Pre-workout · Post-workout<br>🔥 30 servings per tub</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:200px;left:80px;right:80px;height:120px;background:#eab308;z-index:7;clip-path:polygon(0 0,100% 0,97% 100%,3% 100%);box-shadow:0 0 60px rgba(234,179,8,0.4);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:232px;left:0;width:100%;text-align:center;color:#000;font-size:42px;font-weight:900;letter-spacing:5px;z-index:8;">GET 20% OFF TODAY</div>
+        `
+    },
+
+    {
+        id: 'tiktok_ar_beauty_027',
+        name: 'TikTok AR Filter Beauty Ad',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0a0a0a;z-index:1;"></div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=800&q=80" alt="Beauty" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;z-index:2;opacity:0.55;filter:saturate(1.4);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(to bottom,rgba(10,10,10,0.5) 0%,transparent 30%,transparent 60%,rgba(10,10,10,1) 100%);z-index:3;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:50%;transform:translateX(-50%);width:700px;height:700px;border:1px solid rgba(255,180,220,0.3);border-radius:50%;z-index:4;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:240px;left:50%;transform:translateX(-50%);width:620px;height:620px;border:1px dashed rgba(255,180,220,0.15);border-radius:50%;z-index:4;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:150px;left:50%;transform:translateX(-50%);width:10px;height:100px;background:linear-gradient(to bottom,rgba(255,100,180,0.8),transparent);z-index:5;border-radius:5px;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:150px;left:50%;transform:translateX(-50%) rotate(60deg);width:10px;height:100px;background:linear-gradient(to bottom,rgba(180,100,255,0.8),transparent);z-index:5;border-radius:5px;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:150px;left:50%;transform:translateX(-50%) rotate(120deg);width:10px;height:100px;background:linear-gradient(to bottom,rgba(100,200,255,0.8),transparent);z-index:5;border-radius:5px;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:120px;left:0;width:100%;text-align:center;color:rgba(255,180,220,0.8);font-size:16px;letter-spacing:15px;z-index:6;">✦ TRY THE AR FILTER ✦</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:650px;background:linear-gradient(to top,#0a0a0a 55%,transparent);z-index:5;"></div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;bottom:380px;left:0;width:100%;text-align:center;color:#fff;font-size:110px;font-weight:900;font-family:'Inter',sans-serif;z-index:6;margin:0;line-height:0.85;letter-spacing:-3px;">GLOW<br><span style="background:linear-gradient(90deg,#ff64b4,#b464ff,#64c8ff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">FILTER.</span></h1>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:280px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.5);font-size:26px;font-weight:300;letter-spacing:5px;z-index:6;">Skin · Contour · Lips · Eyes</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:170px;left:80px;right:80px;height:80px;background:linear-gradient(90deg,#ff64b4,#b464ff,#64c8ff);border-radius:40px;z-index:7;box-shadow:0 0 50px rgba(180,100,255,0.4);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:192px;left:0;width:100%;text-align:center;color:#fff;font-size:30px;font-weight:700;letter-spacing:5px;z-index:8;">DOWNLOAD THE APP</div>
+        `
+    },
+
+    {
+        id: 'tiktok_retro_travel_028',
+        name: 'TikTok Vintage Retro Travel',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#e8d5b0;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(180,130,60,0.08);z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:40px;left:40px;right:40px;bottom:40px;border:4px solid rgba(100,60,20,0.3);z-index:3;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:60px;left:60px;right:60px;bottom:60px;border:1px solid rgba(100,60,20,0.15);z-index:3;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:110px;left:0;width:100%;text-align:center;color:rgba(100,60,20,0.5);font-size:14px;letter-spacing:15px;z-index:5;">EST. 1924 · WORLD EXPEDITIONS</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:150px;left:50%;transform:translateX(-50%);width:600px;height:2px;background:rgba(100,60,20,0.2);z-index:4;"></div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:180px;left:0;width:100%;text-align:center;color:#3d2408;font-size:130px;font-weight:900;font-family:serif;z-index:5;margin:0;line-height:0.85;font-style:italic;">WANDER<br>FAR.</h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:500px;left:50%;transform:translateX(-50%);width:600px;height:2px;background:rgba(100,60,20,0.2);z-index:4;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:540px;left:0;width:100%;text-align:center;color:rgba(61,36,8,0.5);font-size:20px;letter-spacing:8px;z-index:5;">CURATED JOURNEYS · SINCE 1924</div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=800&q=80" alt="Travel" style="position:absolute;top:620px;left:80px;width:920px;height:700px;object-fit:cover;z-index:4;border-radius:5px;filter:sepia(30%) saturate(1.2) brightness(0.85);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:420px;background:linear-gradient(to top,#e8d5b0 50%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:280px;left:0;width:100%;text-align:center;color:#3d2408;font-size:30px;font-weight:300;letter-spacing:5px;z-index:7;font-family:serif;font-style:italic;">Europe · Asia · Americas · Africa</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:210px;left:0;width:100%;text-align:center;color:rgba(61,36,8,0.5);font-size:20px;letter-spacing:5px;z-index:7;">Packages from $1,299 per person</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:120px;left:80px;right:80px;height:65px;background:#3d2408;z-index:7;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:135px;left:0;width:100%;text-align:center;color:#e8d5b0;font-size:26px;font-weight:700;letter-spacing:10px;z-index:8;">EXPLORE NOW</div>
+        `
+    },
+
+    {
+        id: 'tiktok_gaming_neon_029',
+        name: 'TikTok Neon Gaming Drop',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#020110;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 20% 50%,rgba(0,255,100,0.08) 0%,transparent 50%),radial-gradient(circle at 80% 50%,rgba(255,0,100,0.08) 0%,transparent 50%);z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:repeating-linear-gradient(0deg,rgba(0,255,100,0.015) 0px,rgba(0,255,100,0.015) 1px,transparent 1px,transparent 6px);z-index:2;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:0;width:100%;text-align:center;color:rgba(0,255,100,0.4);font-size:16px;letter-spacing:20px;z-index:5;font-weight:300;">NEXT-GEN GAMING GEAR</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:185px;left:0;width:100%;text-align:center;color:#ffffff;font-size:165px;font-weight:900;font-family:'Oswald',sans-serif;z-index:5;margin:0;line-height:0.78;text-shadow:0 0 60px rgba(0,255,100,0.4);">PLAY<br><span style="color:#00ff64;text-shadow:0 0 40px rgba(0,255,100,0.8);">HARD.</span></h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?auto=format&fit=crop&w=800&q=80" alt="Gaming" style="position:absolute;top:580px;left:50%;transform:translateX(-50%);width:950px;height:700px;object-fit:cover;z-index:4;border-radius:20px;filter:saturate(1.5) brightness(0.75);box-shadow:0 0 80px rgba(0,255,100,0.15);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:560px;left:80px;right:80px;height:4px;background:linear-gradient(90deg,transparent,#00ff64,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:620px;background:linear-gradient(to top,#020110 55%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:430px;left:80px;color:rgba(255,255,255,0.4);font-size:22px;letter-spacing:5px;z-index:7;">🎮 144Hz · 0.1ms Response · RGB Pro</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:350px;left:80px;color:#ffffff;font-size:60px;font-weight:900;z-index:7;letter-spacing:-2px;">$299<span style="font-size:28px;color:rgba(255,255,255,0.4);font-weight:300;"> /set</span></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:275px;left:80px;color:#00ff64;font-size:22px;font-weight:700;letter-spacing:5px;z-index:7;">▶ LIMITED STOCK · ORDER NOW</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:170px;left:80px;right:80px;height:75px;background:transparent;border:1px solid #00ff64;z-index:7;box-shadow:0 0 30px rgba(0,255,100,0.2),inset 0 0 30px rgba(0,255,100,0.05);border-radius:5px;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:188px;left:0;width:100%;text-align:center;color:#00ff64;font-size:30px;font-weight:700;letter-spacing:8px;z-index:8;">ADD TO CART →</div>
+        `
+    },
+
+    {
+        id: 'tiktok_skincare_lab_030',
+        name: 'TikTok Skincare Science Lab',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f0f4f8;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:900px;background:#0a2540;z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:800px;left:0;width:100%;height:200px;background:#0a2540;border-radius:0 0 50% 50%;z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:900px;background:radial-gradient(circle at 80% 20%,rgba(0,200,150,0.1) 0%,transparent 60%);z-index:3;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:80px;color:rgba(0,200,150,0.6);font-size:16px;letter-spacing:12px;z-index:5;font-weight:300;">DERMA · SCIENCE</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:185px;left:80px;color:#ffffff;font-size:120px;font-weight:200;font-family:serif;z-index:5;margin:0;line-height:1;letter-spacing:3px;">Proven.<br>Pure.<br><span style="font-weight:900;color:#00c896;">Perfect.</span></h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:580px;left:80px;width:500px;height:1px;background:rgba(0,200,150,0.3);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:615px;left:80px;color:rgba(255,255,255,0.5);font-size:24px;font-weight:300;z-index:5;line-height:1.9;">✓ Clinically Tested<br>✓ Dermatologist Approved<br>✓ 0% Parabens · 0% Fragrance</div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=700&q=80" alt="Skincare" style="position:absolute;top:550px;right:60px;width:420px;height:500px;object-fit:cover;z-index:6;border-radius:10px;box-shadow:0 30px 60px rgba(0,0,0,0.3);">
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:1130px;left:0;width:100%;text-align:center;color:#0a2540;font-size:30px;font-weight:700;letter-spacing:3px;z-index:7;">THE GLOW SERUM — 30ml</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:1200px;left:0;width:100%;text-align:center;color:#00c896;font-size:60px;font-weight:900;z-index:7;">$68</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:1290px;left:0;width:100%;text-align:center;color:rgba(10,37,64,0.4);font-size:22px;z-index:7;letter-spacing:3px;">★★★★★  4.9 · 12,400 reviews</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:160px;left:80px;right:80px;height:90px;background:#0a2540;border-radius:5px;z-index:7;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:182px;left:0;width:100%;text-align:center;color:#00c896;font-size:30px;font-weight:700;letter-spacing:5px;z-index:8;">SHOP WITH FREE SHIPPING</div>
+        `
+    },
+
+    {
+        id: 'tiktok_abstract_art_031',
+        name: 'TikTok Abstract Aurora Art',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#04001a;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:-100px;left:-100px;width:800px;height:800px;background:radial-gradient(circle,rgba(72,0,255,0.5) 0%,transparent 70%);filter:blur(80px);z-index:2;border-radius:50%;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:300px;right:-100px;width:700px;height:700px;background:radial-gradient(circle,rgba(0,200,255,0.4) 0%,transparent 70%);filter:blur(80px);z-index:2;border-radius:50%;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:-100px;left:200px;width:600px;height:600px;background:radial-gradient(circle,rgba(255,0,180,0.3) 0%,transparent 70%);filter:blur(80px);z-index:2;border-radius:50%;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;backdrop-filter:blur(0px);background:rgba(4,0,26,0.2);z-index:3;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:100px;left:80px;right:80px;height:1px;background:linear-gradient(90deg,transparent,rgba(255,255,255,0.2),transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.3);font-size:14px;letter-spacing:20px;z-index:5;">DIGITAL ART COLLECTIVE</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:200px;left:0;width:100%;text-align:center;color:#ffffff;font-size:170px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.8;letter-spacing:-8px;background:linear-gradient(135deg,#4800ff,#00c8ff,#ff00b4);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">ART<br>IS<br>ALIVE.</h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:680px;left:80px;right:80px;height:700px;background:rgba(255,255,255,0.03);backdrop-filter:blur(20px);border:1px solid rgba(255,255,255,0.08);border-radius:30px;z-index:4;"></div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1541961017774-22349e4a1262?auto=format&fit=crop&w=800&q=80" alt="Abstract Art" style="position:absolute;top:700px;left:100px;width:880px;height:660px;object-fit:cover;z-index:5;border-radius:20px;opacity:0.85;filter:saturate(1.4);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:500px;background:linear-gradient(to top,#04001a 55%,transparent);z-index:6;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:340px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.5);font-size:24px;font-weight:300;letter-spacing:5px;z-index:7;">Limited Editions · NFT + Print · Worldwide Ship</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:200px;left:80px;right:80px;height:110px;background:linear-gradient(90deg,rgba(72,0,255,0.6),rgba(0,200,255,0.6),rgba(255,0,180,0.6));backdrop-filter:blur(10px);border:1px solid rgba(255,255,255,0.15);border-radius:15px;z-index:7;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:228px;left:0;width:100%;text-align:center;color:#fff;font-size:34px;font-weight:700;letter-spacing:6px;z-index:8;">COLLECT YOUR PIECE</div>
+        `
+    },
+
+    {
+        id: 'tiktok_isometric_tech_032',
+        name: 'TikTok Isometric 3D Tech',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0c0c1d;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:repeating-linear-gradient(60deg,rgba(99,102,241,0.04) 0px,rgba(99,102,241,0.04) 1px,transparent 1px,transparent 60px),repeating-linear-gradient(-60deg,rgba(99,102,241,0.04) 0px,rgba(99,102,241,0.04) 1px,transparent 1px,transparent 60px),repeating-linear-gradient(0deg,rgba(99,102,241,0.04) 0px,rgba(99,102,241,0.04) 1px,transparent 1px,transparent 60px);z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:300px;left:50%;transform:translateX(-50%);width:900px;height:900px;background:radial-gradient(circle,rgba(99,102,241,0.15) 0%,transparent 70%);z-index:2;filter:blur(40px);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:120px;left:0;width:100%;text-align:center;color:rgba(99,102,241,0.5);font-size:16px;letter-spacing:20px;z-index:5;font-weight:300;">QUANTUM COMPUTING</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:170px;left:0;width:100%;text-align:center;color:#fff;font-size:155px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.82;letter-spacing:-6px;">BUILD<br><span style="color:#6366f1;text-shadow:0 0 40px rgba(99,102,241,0.6);">THE</span><br>FUTURE.</h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:640px;left:140px;width:340px;height:340px;background:rgba(99,102,241,0.1);border:1px solid rgba(99,102,241,0.3);transform:rotate(45deg);z-index:4;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:680px;left:180px;width:260px;height:260px;background:rgba(99,102,241,0.08);border:1px solid rgba(99,102,241,0.2);transform:rotate(45deg);z-index:4;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:640px;right:140px;width:340px;height:340px;background:rgba(99,102,241,0.1);border:1px solid rgba(99,102,241,0.3);transform:rotate(45deg);z-index:4;"></div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&w=800&q=80" alt="Tech" style="position:absolute;top:600px;left:50%;transform:translateX(-50%);width:800px;height:700px;object-fit:cover;z-index:5;border-radius:20px;filter:saturate(1.4) brightness(0.7);mix-blend-mode:lighten;opacity:0.7;">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:600px;background:linear-gradient(to top,#0c0c1d 55%,transparent);z-index:6;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:410px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.4);font-size:24px;font-weight:300;letter-spacing:5px;z-index:7;">AI · QUANTUM · BLOCKCHAIN · CLOUD</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:320px;left:80px;right:80px;color:rgba(255,255,255,0.6);font-size:28px;z-index:7;text-align:center;line-height:1.6;">Join 50,000+ engineers building tomorrow's infrastructure today.</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:195px;left:80px;right:80px;height:90px;background:#6366f1;border-radius:8px;z-index:7;box-shadow:0 0 60px rgba(99,102,241,0.4);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:218px;left:0;width:100%;text-align:center;color:#fff;font-size:32px;font-weight:700;letter-spacing:4px;z-index:8;">START BUILDING FREE</div>
+        `
+    },
+
+    {
+        id: 'tiktok_newspaper_editorial_033',
+        name: 'TikTok Newspaper Editorial',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f2ede4;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(180,160,120,0.1);z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:180px;background:#111;z-index:3;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:40px;left:0;width:100%;text-align:center;color:#f2ede4;font-size:90px;font-weight:900;font-family:serif;z-index:4;margin:0;letter-spacing:-2px;line-height:1;">THE DAILY</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:180px;left:60px;right:60px;height:4px;background:#111;z-index:4;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:195px;left:0;width:100%;text-align:center;color:#555;font-size:16px;letter-spacing:10px;z-index:4;">VOL. CXXXIV · No. 46,891 · FRIDAY, MAY 9 2026</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:230px;left:60px;right:60px;height:1px;background:#111;z-index:4;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:240px;left:50%;width:2px;height:900px;background:rgba(0,0,0,0.15);z-index:4;"></div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:260px;left:80px;color:#111;font-size:100px;font-weight:900;font-family:serif;z-index:5;margin:0;line-height:0.88;width:500px;">STYLE<br>MAKES<br>THE<br>MAN.</h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1550246140-29f40b909e5a?auto=format&fit=crop&w=600&q=80" alt="Fashion" style="position:absolute;top:260px;right:80px;width:430px;height:600px;object-fit:cover;z-index:5;filter:grayscale(20%);">
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:760px;left:80px;color:#333;font-size:22px;font-weight:400;font-family:serif;z-index:5;line-height:1.7;width:470px;font-style:italic;">"The suit is the armour of the modern gentleman — cut clean, worn sharp, and built to last a lifetime of moments."</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:1180px;left:60px;right:60px;height:3px;background:#111;z-index:4;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:1200px;left:80px;color:#555;font-size:18px;letter-spacing:5px;z-index:5;">ADVERTISEMENT</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:1250px;left:80px;color:#111;font-size:50px;font-weight:900;font-family:serif;z-index:5;line-height:1.1;">Premium Suits<br>from £299.</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:1430px;left:80px;color:#555;font-size:22px;font-family:serif;z-index:5;">Free tailoring · 30-day returns</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:160px;left:80px;right:80px;height:75px;background:#111;z-index:7;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:178px;left:0;width:100%;text-align:center;color:#f2ede4;font-size:28px;font-weight:700;letter-spacing:8px;z-index:8;">SHOP THE EDIT</div>
+        `
+    },
+
+    {
+        id: 'tiktok_liquid_blob_034',
+        name: 'TikTok Liquid Blob Fashion',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fff5f0;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:-200px;left:-200px;width:900px;height:900px;background:#ff9a8b;border-radius:60% 40% 30% 70% / 60% 30% 70% 40%;z-index:2;opacity:0.5;filter:blur(40px);"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:400px;right:-300px;width:800px;height:800px;background:#a18cd1;border-radius:30% 70% 70% 30% / 30% 30% 70% 70%;z-index:2;opacity:0.35;filter:blur(60px);"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:-200px;left:100px;width:700px;height:700px;background:#fbc2eb;border-radius:70% 30% 30% 70% / 70% 70% 30% 30%;z-index:2;opacity:0.4;filter:blur(50px);"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:100px;left:80px;right:80px;bottom:100px;background:rgba(255,255,255,0.5);backdrop-filter:blur(30px);border:1px solid rgba(255,255,255,0.8);border-radius:40px;z-index:3;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:160px;left:0;width:100%;text-align:center;color:rgba(100,50,80,0.5);font-size:16px;letter-spacing:12px;z-index:5;">✿ BLOOM COLLECTION 2026 ✿</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:210px;left:0;width:100%;text-align:center;color:#3d0030;font-size:145px;font-weight:900;font-family:serif;z-index:5;margin:0;line-height:0.82;font-style:italic;">Soft.<br>Bold.<br>Free.</h1>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=700&q=80" alt="Fashion" style="position:absolute;top:620px;left:50%;transform:translateX(-50%);width:750px;height:800px;object-fit:cover;z-index:5;border-radius:50% 50% 50% 50% / 40% 40% 60% 60%;box-shadow:0 30px 80px rgba(100,50,80,0.15);">
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:340px;left:0;width:100%;text-align:center;color:rgba(61,0,48,0.5);font-size:24px;font-weight:300;letter-spacing:5px;z-index:7;">Spring · Summer · Resort</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:270px;left:0;width:100%;text-align:center;color:#3d0030;font-size:38px;font-weight:700;z-index:7;">New Arrivals From $49</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:160px;left:120px;right:120px;height:85px;background:linear-gradient(135deg,#ff9a8b,#a18cd1,#fbc2eb);border-radius:50px;z-index:7;box-shadow:0 20px 40px rgba(161,140,209,0.3);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:183px;left:0;width:100%;text-align:center;color:#fff;font-size:30px;font-weight:700;letter-spacing:4px;z-index:8;">SHOP THE DROP ✿</div>
+        `
+    },
+
+    {
+        id: 'tiktok_dark_academia_035',
+        name: 'TikTok Dark Academia Books',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#1a1209;z-index:1;"></div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1481627834876-b7833e8f5570?auto=format&fit=crop&w=800&q=80" alt="Books" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;z-index:2;opacity:0.2;filter:sepia(60%) saturate(0.8);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 50% 40%,rgba(180,130,60,0.08) 0%,transparent 60%),linear-gradient(to bottom,rgba(26,18,9,0.85) 0%,rgba(26,18,9,0.4) 50%,rgba(26,18,9,0.95) 100%);z-index:3;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:100px;left:80px;width:3px;height:600px;background:linear-gradient(to bottom,#b8860b,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:100px;right:80px;width:3px;height:600px;background:linear-gradient(to bottom,#b8860b,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:0;width:100%;text-align:center;color:#b8860b;font-size:16px;letter-spacing:15px;z-index:5;font-weight:300;font-style:italic;">EST. MMXVIII · CURATED READS</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:200px;left:0;width:100%;text-align:center;color:#f5e6c8;font-size:130px;font-weight:400;font-family:serif;z-index:5;margin:0;line-height:0.88;font-style:italic;">"Lost in<br>the right<br><span style="font-weight:900;color:#b8860b;">pages."</span></h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:650px;left:80px;right:80px;height:1px;background:rgba(184,134,11,0.3);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:690px;left:0;width:100%;text-align:center;color:rgba(245,230,200,0.4);font-size:22px;letter-spacing:8px;z-index:5;">PHILOSOPHY · CLASSICS · POETRY</div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=800&q=80" alt="Library" style="position:absolute;top:760px;left:80px;width:920px;height:600px;object-fit:cover;z-index:4;border-radius:5px;filter:sepia(40%) brightness(0.7);border:1px solid rgba(184,134,11,0.2);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:500px;background:linear-gradient(to top,#1a1209 55%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:360px;left:80px;color:#f5e6c8;font-size:36px;font-weight:700;font-family:serif;z-index:7;">The Antiquarian Bookshop</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:290px;left:80px;color:rgba(245,230,200,0.4);font-size:22px;z-index:7;letter-spacing:3px;">Rare · First Edition · Curated</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:220px;left:80px;color:#b8860b;font-size:26px;font-weight:700;letter-spacing:5px;z-index:7;">📚 Free delivery on all orders</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:130px;left:80px;right:80px;height:65px;background:transparent;border:1px solid #b8860b;z-index:7;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:148px;left:0;width:100%;text-align:center;color:#b8860b;font-size:26px;font-weight:700;letter-spacing:10px;font-style:italic;z-index:8;">Browse the Shelves</div>
+        `
+    },
+
+    {
+        id: 'tiktok_pastel_wellness_036',
+        name: 'TikTok Pastel Gradient Wellness',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#e0f2fe 0%,#f0fdf4 35%,#fdf4ff 65%,#fff7ed 100%);z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 30% 20%,rgba(186,230,253,0.5) 0%,transparent 40%),radial-gradient(circle at 70% 80%,rgba(253,230,138,0.4) 0%,transparent 40%);z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:60px;left:60px;right:60px;bottom:60px;border:1px solid rgba(100,150,200,0.15);border-radius:60px;z-index:3;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:0;width:100%;text-align:center;color:rgba(100,130,180,0.6);font-size:16px;letter-spacing:12px;z-index:5;">✦ MIND · BODY · SOUL ✦</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:185px;left:0;width:100%;text-align:center;color:#2d4a6b;font-size:130px;font-weight:200;font-family:serif;z-index:5;margin:0;line-height:1;letter-spacing:5px;font-style:italic;">You<br>are<br><span style="font-weight:900;background:linear-gradient(90deg,#60a5fa,#a78bfa,#f472b6);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">enough.</span></h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:650px;left:50%;transform:translateX(-50%);width:800px;height:800px;background:rgba(255,255,255,0.6);backdrop-filter:blur(10px);border-radius:50%;border:1px solid rgba(255,255,255,0.9);z-index:4;box-shadow:0 20px 80px rgba(100,130,200,0.1);"></div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1545205597-3d9d02c29597?auto=format&fit=crop&w=700&q=80" alt="Yoga" style="position:absolute;top:670px;left:50%;transform:translateX(-50%);width:700px;height:760px;object-fit:cover;z-index:5;border-radius:50%;filter:saturate(1.1) brightness(1.05);">
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:380px;left:0;width:100%;text-align:center;color:#2d4a6b;font-size:30px;font-weight:300;letter-spacing:5px;z-index:7;">Daily Yoga · Meditation · Breathwork</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:310px;left:0;width:100%;text-align:center;color:rgba(45,74,107,0.5);font-size:22px;z-index:7;">7-day free trial · Cancel anytime</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:180px;left:100px;right:100px;height:100px;background:linear-gradient(135deg,#60a5fa,#a78bfa,#f472b6);border-radius:50px;z-index:7;box-shadow:0 20px 50px rgba(167,139,250,0.3);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:205px;left:0;width:100%;text-align:center;color:#fff;font-size:32px;font-weight:700;letter-spacing:4px;z-index:8;">START YOUR JOURNEY ✦</div>
+        `
+    },
+
+    {
+        id: 'tiktok_halftone_popart_037',
+        name: 'TikTok Halftone Pop Art Sale',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffd900;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle,rgba(0,0,0,0.06) 1px,transparent 1px);background-size:24px 24px;z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:50%;background:#ff2d55;z-index:2;clip-path:polygon(0 0,100% 0,100% 80%,0 100%);"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:50%;background:radial-gradient(circle,rgba(255,255,255,0.08) 1px,transparent 1px);background-size:24px 24px;z-index:3;clip-path:polygon(0 0,100% 0,100% 80%,0 100%);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.6);font-size:18px;letter-spacing:15px;z-index:5;font-weight:300;">LIMITED TIME OFFER</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:150px;left:0;width:100%;text-align:center;color:#fff;font-size:220px;font-weight:900;font-family:'Oswald',sans-serif;z-index:5;margin:0;line-height:0.75;-webkit-text-stroke:4px #fff;text-shadow:8px 8px 0 rgba(0,0,0,0.2);">50%<br>OFF!</h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:600px;left:80px;right:80px;height:8px;background:#fff;z-index:5;"></div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=700&q=80" alt="Watch" style="position:absolute;top:640px;left:50%;transform:translateX(-50%) rotate(-8deg);width:600px;height:auto;z-index:6;filter:drop-shadow(10px 10px 0 rgba(0,0,0,0.3));">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:400px;left:0;width:100%;height:50px;background:#0a0a0a;z-index:5;transform:skewY(-2deg);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:310px;left:0;width:100%;text-align:center;color:#0a0a0a;font-size:55px;font-weight:900;font-family:'Oswald',sans-serif;z-index:7;letter-spacing:3px;text-shadow:4px 4px 0 rgba(255,45,85,0.4);">MEGA FLASH SALE</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:230px;left:0;width:100%;text-align:center;color:#0a0a0a;font-size:28px;z-index:7;font-weight:700;">🔥 Ends in 06:23:41 · Today Only</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:120px;left:80px;right:80px;height:85px;background:#0a0a0a;z-index:7;transform:skewX(-3deg);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:142px;left:0;width:100%;text-align:center;color:#ffd900;font-size:34px;font-weight:900;letter-spacing:5px;z-index:8;">GRAB THE DEAL →</div>
+        `
+    },
+
+    {
+        id: 'tiktok_architecture_mono_038',
+        name: 'TikTok Monochrome Architecture',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#e8e4de;z-index:1;"></div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1486325212027-8081e485255e?auto=format&fit=crop&w=800&q=80" alt="Architecture" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;z-index:2;filter:grayscale(100%) contrast(1.1) brightness(0.9);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(to bottom,rgba(232,228,222,0.95) 0%,rgba(232,228,222,0.3) 40%,rgba(232,228,222,0.3) 60%,rgba(232,228,222,0.98) 100%);z-index:3;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:200px;width:1px;height:100%;background:rgba(0,0,0,0.06);z-index:4;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;right:200px;width:1px;height:100%;background:rgba(0,0,0,0.06);z-index:4;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:200px;color:rgba(0,0,0,0.3);font-size:14px;letter-spacing:12px;z-index:5;text-transform:uppercase;">Studio · Architecture</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:190px;left:200px;color:#111;font-size:155px;font-weight:200;font-family:serif;z-index:5;margin:0;line-height:0.82;letter-spacing:-3px;">Space<br>as<br><em style="font-weight:900;font-style:normal;">Art.</em></h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:650px;left:200px;width:300px;height:1px;background:rgba(0,0,0,0.2);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:680px;left:200px;color:rgba(0,0,0,0.4);font-size:22px;font-weight:300;z-index:5;line-height:1.8;width:680px;">We design spaces that breathe.<br>Residential · Commercial · Bespoke.</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:420px;left:200px;color:rgba(0,0,0,0.25);font-size:16px;letter-spacing:8px;z-index:5;">PORTFOLIO · 2026</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:330px;left:200px;color:#111;font-size:48px;font-weight:900;z-index:5;letter-spacing:-1px;">Book a Free<br>Consultation</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:220px;left:200px;width:500px;height:70px;background:#111;z-index:7;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:237px;left:200px;width:500px;text-align:center;color:#e8e4de;font-size:24px;font-weight:700;letter-spacing:6px;z-index:8;">GET IN TOUCH</div>
+        `
+    },
+
+    {
+        id: 'tiktok_graffiti_street_039',
+        name: 'TikTok Neon Graffiti Street',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0a0a0a;z-index:1;"></div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1499781350541-7783f6c6a0c8?auto=format&fit=crop&w=800&q=80" alt="Street" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;z-index:2;opacity:0.25;filter:saturate(1.5);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(to bottom,rgba(10,10,10,0.6) 0%,transparent 30%,transparent 70%,rgba(10,10,10,0.95) 100%);z-index:3;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:6px;height:100%;background:linear-gradient(to bottom,#39ff14,#00e5ff,#ff073a);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:120px;left:60px;color:rgba(57,255,20,0.7);font-size:18px;letter-spacing:15px;z-index:5;font-weight:300;">⚡ URBAN DROPS · SERIES 07</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:170px;left:60px;color:#fff;font-size:175px;font-weight:900;font-family:'Oswald',sans-serif;z-index:5;margin:0;line-height:0.75;text-shadow:0 0 40px rgba(57,255,20,0.3);">STAY<br><span style="color:#39ff14;text-shadow:0 0 30px rgba(57,255,20,0.8);">RAW.</span></h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:580px;left:60px;width:900px;height:3px;background:linear-gradient(90deg,#39ff14,#00e5ff,#ff073a);z-index:5;"></div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=700&q=80" alt="Streetwear" style="position:absolute;top:620px;left:50%;transform:translateX(-50%);width:800px;height:700px;object-fit:cover;z-index:4;filter:contrast(1.1) saturate(1.3);opacity:0.9;">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:560px;background:linear-gradient(to top,#0a0a0a 55%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:390px;left:60px;color:#39ff14;font-size:28px;font-weight:700;letter-spacing:8px;z-index:7;">NEW DROP — FRIDAY 9PM</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:310px;left:60px;color:rgba(255,255,255,0.5);font-size:26px;z-index:7;line-height:1.8;">Hoodies · Tees · Cargo Pants<br>Sizes XS–4XL · Ships Worldwide</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:190px;left:60px;right:60px;height:90px;background:transparent;border:2px solid #39ff14;z-index:7;box-shadow:0 0 30px rgba(57,255,20,0.2),inset 0 0 30px rgba(57,255,20,0.05);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:212px;left:0;width:100%;text-align:center;color:#39ff14;font-size:32px;font-weight:900;letter-spacing:8px;z-index:8;">SET A REMINDER ↗</div>
+        `
+    },
+
+    {
+        id: 'tiktok_luxury_watch_040',
+        name: 'TikTok Luxury Watch Closeup',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0e0b08;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(ellipse at 50% 40%,rgba(200,160,80,0.08) 0%,transparent 65%);z-index:2;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:300px;left:50%;transform:translateX(-50%);width:900px;height:900px;border:1px solid rgba(200,160,80,0.08);border-radius:50%;z-index:3;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:360px;left:50%;transform:translateX(-50%);width:780px;height:780px;border:1px solid rgba(200,160,80,0.05);border-radius:50%;z-index:3;"></div>
+            <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1548169874-53e85f753f1e?auto=format&fit=crop&w=800&q=80" alt="Luxury Watch" style="position:absolute;top:280px;left:50%;transform:translateX(-50%);width:920px;height:920px;object-fit:cover;z-index:4;border-radius:50%;filter:brightness(0.85) contrast(1.1) saturate(0.9);box-shadow:0 0 120px rgba(200,160,80,0.15);">
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:380px;background:linear-gradient(to bottom,#0e0b08 40%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:700px;background:linear-gradient(to top,#0e0b08 55%,transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:140px;left:0;width:100%;text-align:center;color:rgba(200,160,80,0.5);font-size:14px;letter-spacing:20px;z-index:6;font-weight:200;">MAISON DE HORLOGERIE</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:195px;left:0;width:100%;text-align:center;color:#c8a050;font-size:120px;font-weight:200;font-family:serif;z-index:6;margin:0;line-height:0.88;font-style:italic;letter-spacing:5px;">Timeless.<br>Precise.<br>Yours.</h1>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:440px;left:0;width:100%;text-align:center;color:rgba(200,160,80,0.6);font-size:18px;letter-spacing:15px;z-index:7;font-weight:200;">SWISS MADE · EST. 1887</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:370px;left:50%;transform:translateX(-50%);width:400px;height:1px;background:rgba(200,160,80,0.2);z-index:7;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:270px;left:0;width:100%;text-align:center;color:#f5e6c8;font-size:70px;font-weight:900;z-index:7;letter-spacing:-2px;font-family:serif;">From $4,800</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:200px;left:0;width:100%;text-align:center;color:rgba(200,160,80,0.4);font-size:20px;z-index:7;letter-spacing:8px;">White glove delivery · Lifetime warranty</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:115px;left:120px;right:120px;height:60px;background:transparent;border:1px solid rgba(200,160,80,0.4);z-index:7;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:132px;left:0;width:100%;text-align:center;color:#c8a050;font-size:22px;font-weight:300;letter-spacing:12px;z-index:8;">BOOK A VIEWING</div>
+        `
+    },
+
+    {
+        id: 'tiktok_social_proof_041',
+        name: 'TikTok Social Proof Testimonial',
+        category: 'ad-creator',
+        subCategory: 'ad-tiktok',
+        categoryLabel: '⚡ Flash Ad',
+        width: 1080,
+        height: 1920,
+        html: `
+            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:1;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 80% 10%,rgba(99,102,241,0.12) 0%,transparent 50%),radial-gradient(circle at 20% 90%,rgba(16,185,129,0.08) 0%,transparent 50%);z-index:2;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:0;width:100%;text-align:center;color:rgba(99,102,241,0.6);font-size:16px;letter-spacing:15px;z-index:5;">⭐ REAL RESULTS · REAL PEOPLE ⭐</div>
+            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:185px;left:0;width:100%;text-align:center;color:#fff;font-size:110px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.82;letter-spacing:-4px;">50,000+<br><span style="background:linear-gradient(90deg,#6366f1,#10b981);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Happy</span><br>Clients.</h1>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:560px;left:80px;right:80px;height:330px;background:rgba(255,255,255,0.04);border:1px solid rgba(99,102,241,0.2);border-radius:20px;z-index:4;backdrop-filter:blur(5px);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:590px;left:120px;color:#10b981;font-size:60px;z-index:6;">❝</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:640px;left:120px;right:120px;color:rgba(255,255,255,0.8);font-size:28px;font-weight:300;z-index:6;line-height:1.6;font-style:italic;">This product changed my entire workflow. I'm saving 20 hours a week. Absolutely incredible.</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:840px;left:120px;color:rgba(255,255,255,0.4);font-size:20px;z-index:6;">— Sarah K. · Product Designer · 🇺🇸</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:950px;left:80px;right:80px;height:240px;background:rgba(255,255,255,0.03);border:1px solid rgba(16,185,129,0.15);border-radius:20px;z-index:4;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:980px;left:120px;right:120px;color:rgba(255,255,255,0.7);font-size:26px;font-weight:300;z-index:6;line-height:1.5;font-style:italic;">ROI of 340% in the first month. No brainer for any serious business.</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:1120px;left:120px;color:rgba(255,255,255,0.3);font-size:18px;z-index:6;">— Marcus T. · CEO · Scale Labs · 🇬🇧</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;top:1230px;left:80px;right:80px;height:3px;background:linear-gradient(90deg,transparent,rgba(99,102,241,0.4),rgba(16,185,129,0.4),transparent);z-index:5;"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:1270px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.4);font-size:24px;z-index:5;letter-spacing:3px;">Trusted by teams at Google · Stripe · Figma</div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;top:1380px;left:0;width:100%;text-align:center;color:#10b981;font-size:30px;font-weight:700;letter-spacing:5px;z-index:5;">★★★★★ 4.9 / 5 · 12,400 Reviews</div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:200px;left:80px;right:80px;height:110px;background:linear-gradient(135deg,#6366f1,#10b981);border-radius:12px;z-index:7;box-shadow:0 0 60px rgba(99,102,241,0.3);"></div>
+            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:228px;left:0;width:100%;text-align:center;color:#fff;font-size:34px;font-weight:900;letter-spacing:3px;z-index:8;">TRY FREE FOR 14 DAYS →</div>
+        `
+    },
+
     // --- LINKEDIN ADS SUB-CATEGORY ---
     {
         id: 'linkedin_saas_001',
@@ -2627,6 +3724,696 @@ window.HD_TEMPLATES = [
                 `
     },
 
+    {
+        id: 'linkedin_summit_002',
+        name: 'Global Tech Summit',
+        category: 'ad-creator',
+        subCategory: 'ad-linkedin',
+        categoryLabel: '💼 LinkedIn Ad',
+        width: 1200,
+        height: 627,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#050a15;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:-100px;right:-100px;width:600px;height:600px;background:radial-gradient(circle,rgba(0,119,181,0.2) 0%,transparent 70%);z-index:2;filter:blur(60px);"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:5px;height:100%;background:linear-gradient(to bottom,#0077b5,#00a0dc);z-index:5;"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:60px;left:80px;color:#0077b5;font-size:16px;font-weight:800;letter-spacing:6px;z-index:5;text-transform:uppercase;">October 15-17, 2026</div>
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:80px;color:#ffffff;font-size:75px;font-weight:900;z-index:5;margin:0;line-height:1;width:650px;letter-spacing:-2px;">Global Tech<br><span style="color:#0077b5;">Summit 2026</span></h1>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:280px;left:80px;width:550px;color:rgba(255,255,255,0.7);font-size:24px;z-index:5;line-height:1.5;">Join 10,000+ industry leaders to discuss the next wave of innovation in AI, Web3, and Sustainable Tech.</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:80px;left:80px;width:280px;height:70px;background:#0077b5;border-radius:4px;z-index:7;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;left:115px;color:#ffffff;font-size:22px;font-weight:700;z-index:8;">Register Now →</div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1540575861501-7c914d4239ad?auto=format&fit=crop&w=800&q=80" alt="Tech Hall" style="position:absolute;top:60px;right:60px;width:400px;height:500px;object-fit:cover;z-index:3;border-radius:12px;filter:brightness(0.8) contrast(1.1);">
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:80px;right:40px;width:400px;height:500px;border:2px solid rgba(0,119,181,0.3);border-radius:12px;z-index:2;"></div>
+        `
+    },
+
+    {
+        id: 'linkedin_product_002',
+        name: 'Modern SaaS Product',
+        category: 'ad-creator',
+        subCategory: 'ad-linkedin',
+        categoryLabel: '🚀 Product Ad',
+        width: 1200,
+        height: 627,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:10px;background:#6366f1;z-index:5;"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:80px;color:#6366f1;font-size:18px;font-weight:800;z-index:5;">JUST RELEASED</div>
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:120px;left:80px;color:#1e293b;font-size:65px;font-weight:900;z-index:5;margin:0;line-height:1.1;width:550px;">Collaborate<br>Without Limits.</h1>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:280px;left:80px;width:500px;color:#64748b;font-size:24px;z-index:5;line-height:1.6;">The all-in-one workspace for modern teams. Manage projects, docs, and goals in one unified platform.</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:80px;left:80px;width:320px;height:75px;background:#1e293b;border-radius:8px;z-index:7;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:102px;left:125px;color:#ffffff;font-size:22px;font-weight:700;z-index:8;">Get Started for Free</div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?auto=format&fit=crop&w=800&q=80" alt="Work" style="position:absolute;top:60px;right:80px;width:450px;height:500px;object-fit:cover;z-index:3;border-radius:24px;box-shadow:0 30px 60px rgba(0,0,0,0.1);">
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:40px;right:60px;width:120px;height:120px;background:#6366f1;border-radius:50%;z-index:2;opacity:0.1;"></div>
+        `
+    },
+
+    {
+        id: 'linkedin_coach_001',
+        name: 'Leadership Coaching',
+        category: 'ad-creator',
+        subCategory: 'ad-linkedin',
+        categoryLabel: '🤝 Coaching Ad',
+        width: 1200,
+        height: 627,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fcf8f1;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:50%;height:100%;background:#ffffff;z-index:2;"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:80px;color:#854d0e;font-size:18px;font-weight:800;letter-spacing:4px;z-index:5;">EXECUTIVE COACHING</div>
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:120px;left:80px;color:#1c1917;font-size:75px;font-weight:900;z-index:5;margin:0;line-height:1;width:500px;">Unlock Your<br>Full Potential.</h1>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:300px;left:80px;width:450px;color:#44403c;font-size:24px;z-index:5;line-height:1.6;font-style:italic;">"Strategy is about making choices, trade-offs; it's about deliberately choosing to be different."</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:80px;left:80px;width:300px;height:4px;background:#854d0e;z-index:5;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:50px;left:80px;color:#1c1917;font-size:20px;font-weight:700;z-index:5;">Book Your Strategy Call Today.</div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=800&q=80" alt="Executive" style="position:absolute;top:0;right:0;width:50%;height:100%;object-fit:cover;z-index:3;filter:sepia(10%);">
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:50px;right:400px;width:250px;height:120px;background:#ffffff;z-index:6;box-shadow:0 10px 30px rgba(0,0,0,0.05);display:flex;align-items:center;justify-content:center;border-radius:10px;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:80px;right:425px;color:#1c1917;font-size:28px;font-weight:900;z-index:7;">Limited Spots</div>
+        `
+    },
+
+    {
+        id: 'linkedin_insights_001',
+        name: 'Data Insights Report',
+        category: 'ad-creator',
+        subCategory: 'ad-linkedin',
+        categoryLabel: '📊 Insight Ad',
+        width: 1200,
+        height: 627,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(45deg,rgba(16,185,129,0.05) 0%,transparent 100%);z-index:2;"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:60px;left:80px;color:#10b981;font-size:18px;font-weight:800;letter-spacing:5px;z-index:5;">2026 INDUSTRY REPORT</div>
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:80px;color:#ffffff;font-size:65px;font-weight:900;z-index:5;margin:0;line-height:1.1;width:750px;">The State of Enterprise<br><span style="color:#10b981;">Decision Making.</span></h1>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:260px;left:80px;width:150px;height:6px;background:#10b981;z-index:5;"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:310px;left:80px;width:650px;color:rgba(255,255,255,0.7);font-size:24px;z-index:5;line-height:1.6;">Download our latest research on how 500+ global enterprises are pivoting their data strategy for the AI decade.</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:80px;left:80px;width:340px;height:80px;background:#10b981;border-radius:4px;z-index:7;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:105px;left:115px;color:#0f172a;font-size:24px;font-weight:800;z-index:8;">Download Free PDF</div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1551288049-bbbda50d5871?auto=format&fit=crop&w=400&q=80" alt="Data" style="position:absolute;top:80px;right:80px;width:300px;height:450px;object-fit:cover;z-index:3;border-radius:8px;box-shadow:0 0 40px rgba(16,185,129,0.2);">
+        `
+    },
+
+    {
+        id: 'linkedin_quote_001',
+        name: 'Client Testimonial',
+        category: 'ad-creator',
+        subCategory: 'ad-linkedin',
+        categoryLabel: '🌟 Quote Ad',
+        width: 1200,
+        height: 627,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 100% 100%,rgba(0,119,181,0.05) 0%,transparent 50%);z-index:2;"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:0;width:100%;text-align:center;color:#0077b5;font-size:80px;font-weight:900;z-index:5;opacity:0.2;">❝</div>
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:150px;left:50%;transform:translateX(-50%);color:#1e293b;font-size:42px;font-weight:800;z-index:5;margin:0;line-height:1.4;width:900px;text-align:center;font-style:italic;">"The impact was immediate. We saw a 40% increase in team productivity within the first three months of implementation."</h1>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:220px;left:50%;transform:translateX(-50%);width:100px;height:2px;background:#0077b5;z-index:5;"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:160px;left:0;width:100%;text-align:center;color:#1e293b;font-size:26px;font-weight:900;z-index:5;">David Chen</div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:120px;left:0;width:100%;text-align:center;color:#64748b;font-size:18px;font-weight:500;z-index:5;">CTO at Innovation Labs</div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:50px;left:0;width:100%;text-align:center;color:#0077b5;font-size:20px;font-weight:800;z-index:5;letter-spacing:2px;">TRUSTED BY 5,000+ COMPANIES</div>
+        `
+    },
+
+    {
+        id: 'linkedin_podcast_001',
+        name: 'Executive Podcast Series',
+        category: 'ad-creator',
+        subCategory: 'ad-linkedin',
+        categoryLabel: '🎙️ Podcast Ad',
+        width: 1200,
+        height: 627,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0a0a0a;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 10% 10%,rgba(234,179,8,0.15) 0%,transparent 50%);z-index:2;"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:60px;left:80px;color:#eab308;font-size:16px;font-weight:800;letter-spacing:5px;z-index:5;">NEW EPISODE NOW LIVE</div>
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:80px;color:#ffffff;font-size:70px;font-weight:900;z-index:5;margin:0;line-height:1.1;width:600px;">The Future of<br>B2B Marketing.</h1>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:280px;left:80px;width:120px;height:4px;background:#eab308;z-index:5;"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:320px;left:80px;width:500px;color:rgba(255,255,255,0.6);font-size:22px;z-index:5;line-height:1.5;">Available on Spotify, Apple Podcasts, and Google Podcasts. Featuring CMOs from top SaaS companies.</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:80px;left:80px;width:240px;height:70px;background:#ffffff;border-radius:40px;z-index:7;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;left:120px;color:#000;font-size:20px;font-weight:800;z-index:8;">Listen Now 🎧</div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=800&q=80" alt="Podcast" style="position:absolute;top:60px;right:60px;width:400px;height:500px;object-fit:cover;z-index:3;border-radius:200px 200px 0 0;border:4px solid #eab308;">
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:60px;right:100px;width:320px;height:20px;background:repeating-linear-gradient(90deg,#eab308,#eab308 2px,transparent 2px,transparent 10px);z-index:4;opacity:0.5;"></div>
+        `
+    },
+
+    {
+        id: 'linkedin_hiring_002',
+        name: 'Global Talent Search',
+        category: 'ad-creator',
+        subCategory: 'ad-linkedin',
+        categoryLabel: '🌍 Hiring Ad',
+        width: 1200,
+        height: 627,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:40%;height:100%;background:#0077b5;z-index:2;"></div>
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:60px;color:#ffffff;font-size:80px;font-weight:900;z-index:5;margin:0;line-height:0.9;">WE ARE<br>SEARCHING<br>FOR YOU.</h1>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:380px;left:60px;width:400px;color:rgba(255,255,255,0.8);font-size:24px;z-index:5;line-height:1.4;">Scale your career at a global leader in AI and cloud infrastructure.</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:80px;left:60px;width:280px;height:70px;background:#ffffff;border-radius:4px;z-index:7;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;left:95px;color:#0077b5;font-size:22px;font-weight:800;z-index:8;">View Openings →</div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=800&q=80" alt="Meeting" style="position:absolute;top:60px;right:60px;width:600px;height:500px;object-fit:cover;z-index:3;border-radius:12px;box-shadow:0 20px 40px rgba(0,0,0,0.15);">
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:80px;right:80px;color:#0077b5;font-size:18px;font-weight:800;z-index:5;letter-spacing:2px;">#REMOTE #GLOBAL #AI</div>
+        `
+    },
+
+    {
+        id: 'linkedin_feature_001',
+        name: 'Feature Spotlight UI',
+        category: 'ad-creator',
+        subCategory: 'ad-linkedin',
+        categoryLabel: '💻 Tool Ad',
+        width: 1200,
+        height: 627,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f8fafc;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:40px;left:40px;right:40px;bottom:40px;background:#ffffff;border:1px solid #e2e8f0;border-radius:16px;z-index:2;"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:80px;color:#0ea5e9;font-size:18px;font-weight:800;z-index:5;">PLATFORM UPDATE</div>
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:120px;left:80px;color:#0f172a;font-size:55px;font-weight:900;z-index:5;margin:0;line-height:1.1;width:550px;">Real-time Data,<br><span style="color:#0ea5e9;">Better Decisions.</span></h1>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:260px;left:80px;width:480px;color:#64748b;font-size:22px;z-index:5;line-height:1.6;">Our new dashboard gives you a 360° view of your business operations in real-time. No more guesswork.</div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:400px;left:80px;color:#0f172a;font-size:20px;font-weight:700;z-index:5;">
+                    ✅ Predictive Analytics<br>
+                    ✅ Custom Reporting<br>
+                    ✅ Team Dashboards
+                </div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:80px;left:80px;width:280px;height:70px;background:#0ea5e9;border-radius:8px;z-index:7;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;left:115px;color:#ffffff;font-size:22px;font-weight:700;z-index:8;">Try Demo Now</div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1551288049-bbbda50d5871?auto=format&fit=crop&w=800&q=80" alt="Dashboard" style="position:absolute;top:80px;right:80px;width:500px;height:450px;object-fit:cover;z-index:3;border-radius:12px;border:8px solid #f1f5f9;box-shadow:0 25px 50px rgba(0,0,0,0.1);">
+        `
+    },
+
+    {
+        id: 'linkedin_analysis_001',
+        name: 'Annual Market Analysis',
+        category: 'ad-creator',
+        subCategory: 'ad-linkedin',
+        categoryLabel: '📉 Market Ad',
+        width: 1200,
+        height: 627,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 100% 0%,rgba(0,119,181,0.08) 0%,transparent 45%);z-index:2;"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:80px;color:#0077b5;font-size:18px;font-weight:800;letter-spacing:4px;z-index:5;">MARKET ANALYSIS · 2026</div>
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:120px;left:80px;color:#1e293b;font-size:60px;font-weight:900;z-index:5;margin:0;line-height:1.1;width:650px;">The Shift to Autonomous<br>Supply Chains.</h1>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:280px;left:80px;width:600px;color:#475569;font-size:22px;z-index:5;line-height:1.6;">How global logistics leaders are using AI to reduce operational costs by 25% and improve delivery speed.</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:420px;left:80px;width:650px;height:120px;background:#f8fafc;border-left:6px solid #0077b5;z-index:4;padding:30px;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:455px;left:110px;color:#1e293b;font-size:32px;font-weight:800;z-index:5;">"The most comprehensive logistics report of the year."</div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=400&q=80" alt="Logistics" style="position:absolute;top:80px;right:80px;width:350px;height:450px;object-fit:cover;z-index:3;border-radius:8px;filter:grayscale(30%);">
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:80px;left:80px;background:#1e293b;color:#fff;padding:18px 50px;font-size:22px;font-weight:700;z-index:7;border-radius:4px;">Read Full Analysis</div>
+        `
+    },
+
+    {
+        id: 'linkedin_brand_001',
+        name: 'Elite Brand Statement',
+        category: 'ad-creator',
+        subCategory: 'ad-linkedin',
+        categoryLabel: '💎 Brand Ad',
+        width: 1200,
+        height: 627,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,rgba(212,175,55,0.1) 0%,transparent 100%);z-index:2;"></div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:60px;left:60px;right:60px;bottom:60px;border:1px solid rgba(212,175,55,0.3);z-index:3;"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:140px;left:0;width:100%;text-align:center;color:#d4af37;font-size:16px;font-weight:800;letter-spacing:10px;z-index:5;">EXCELLENCE IN EXECUTION</div>
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:200px;left:0;width:100%;text-align:center;color:#ffffff;font-size:100px;font-weight:900;z-index:5;margin:0;letter-spacing:-3px;line-height:0.9;">BEYOND<br>THE STANDARD.</h1>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:420px;left:50%;transform:translateX(-50%);width:100px;height:3px;background:#d4af37;z-index:5;"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:460px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.6);font-size:24px;z-index:5;line-height:1.6;width:800px;left:50%;transform:translateX(-50%);">Partner with the world's most innovative consultancy to drive your digital transformation and long-term growth.</div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;left:0;width:100%;text-align:center;color:#d4af37;font-size:22px;font-weight:700;z-index:7;letter-spacing:5px;">TRUSTED BY THE GLOBAL 500</div>
+        `
+    },
+
+    {
+        id: 'linkedin_finance_001',
+        name: 'Wealth Management Advisory',
+        category: 'ad-creator',
+        subCategory: 'ad-linkedin',
+        categoryLabel: '💰 Finance Ad',
+        width: 1200,
+        height: 627,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0c1a30;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(to right,rgba(12,26,48,1) 30%,rgba(12,26,48,0.2) 100%);z-index:3;"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:80px;color:#c5a059;font-size:16px;font-weight:800;letter-spacing:5px;z-index:5;">PRIVATE WEALTH ADVISORY</div>
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:120px;left:80px;color:#ffffff;font-size:65px;font-weight:900;z-index:5;margin:0;line-height:1.1;width:550px;font-family:serif;">Secure Your Legacy<br>for Generations.</h1>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:280px;left:80px;width:100px;height:2px;background:#c5a059;z-index:5;"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:320px;left:80px;width:500px;color:rgba(255,255,255,0.7);font-size:22px;z-index:5;line-height:1.6;">Customized portfolio strategies and tax-efficient wealth planning for high-net-worth individuals and families.</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:80px;left:80px;width:320px;height:70px;background:transparent;border:1px solid #c5a059;z-index:7;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:102px;left:105px;color:#c5a059;font-size:20px;font-weight:700;z-index:8;letter-spacing:2px;">REQUEST A CONSULTATION</div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=800&q=80" alt="Finance" style="position:absolute;top:0;right:0;width:60%;height:100%;object-fit:cover;z-index:2;filter:brightness(0.7);">
+        `
+    },
+
+    {
+        id: 'linkedin_realestate_001',
+        name: 'Commercial Real Estate',
+        category: 'ad-creator',
+        subCategory: 'ad-linkedin',
+        categoryLabel: '🏢 Property Ad',
+        width: 1200,
+        height: 627,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:40px;left:40px;right:40px;bottom:40px;border:1px solid #eee;z-index:2;"></div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=800&q=80" alt="Office" style="position:absolute;top:40px;left:40px;width:45%;height:547px;object-fit:cover;z-index:3;">
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:55%;color:#1e293b;font-size:18px;font-weight:800;letter-spacing:4px;z-index:5;">PREMIUM OFFICE SPACE</div>
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:150px;left:55%;color:#0f172a;font-size:70px;font-weight:900;z-index:5;margin:0;line-height:0.95;width:450px;">Where Innovation Lives.</h1>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:320px;left:55%;width:400px;color:#64748b;font-size:22px;z-index:5;line-height:1.6;">Luxury corporate suites in the heart of the financial district. Now accepting lease applications for Q3 2026.</div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:450px;left:55%;color:#0f172a;font-size:20px;font-weight:700;z-index:5;">
+                    📍 Prime Downtown Location<br>
+                    ⚡ High-speed Fiber Infrastructure<br>
+                    ☕ Executive Lounge & Café
+                </div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:80px;left:55%;width:280px;height:70px;background:#0f172a;z-index:7;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;left:55%;width:280px;text-align:center;color:#ffffff;font-size:20px;font-weight:700;z-index:8;">Schedule a Tour →</div>
+        `
+    },
+
+    {
+        id: 'linkedin_compare_001',
+        name: 'Platform Comparison',
+        category: 'ad-creator',
+        subCategory: 'ad-linkedin',
+        categoryLabel: '🆚 Compare Ad',
+        width: 1200,
+        height: 627,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f1f5f9;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:50%;width:50%;height:100%;background:#ffffff;z-index:2;"></div>
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:60px;left:0;width:100%;text-align:center;color:#0f172a;font-size:50px;font-weight:900;z-index:5;margin:0;">The Smarter Choice for Enterprise.</h1>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:180px;left:100px;color:#64748b;font-size:24px;font-weight:800;z-index:5;">Legacy Systems</div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:180px;right:100px;color:#0077b5;font-size:24px;font-weight:800;z-index:5;">Our Platform</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:240px;left:80px;right:80px;height:1px;background:#e2e8f0;z-index:5;"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:270px;left:100px;color:#94a3b8;font-size:20px;z-index:5;">❌ High Setup Costs</div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:270px;right:100px;color:#1e293b;font-size:20px;font-weight:600;z-index:5;">✅ Zero Upfront Costs</div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:330px;left:100px;color:#94a3b8;font-size:20px;z-index:5;">❌ Slow Onboarding (6 months)</div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:330px;right:100px;color:#1e293b;font-size:20px;font-weight:600;z-index:5;">✅ Instant Deployment</div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:390px;left:100px;color:#94a3b8;font-size:20px;z-index:5;">❌ Complex UI & Manual Work</div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:390px;right:100px;color:#1e293b;font-size:20px;font-weight:600;z-index:5;">✅ AI-Powered Automation</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:80px;left:50%;transform:translateX(-50%);width:350px;height:75px;background:#0077b5;border-radius:8px;z-index:7;box-shadow:0 15px 30px rgba(0,119,181,0.2);"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:102px;left:0;width:100%;text-align:center;color:#ffffff;font-size:22px;font-weight:700;z-index:8;">Switch and Save 40% Today</div>
+        `
+    },
+
+    {
+        id: 'linkedin_masterclass_001',
+        name: 'Executive Masterclass',
+        category: 'ad-creator',
+        subCategory: 'ad-linkedin',
+        categoryLabel: '🎓 Training Ad',
+        width: 1200,
+        height: 627,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;right:0;width:40%;height:100%;background:#f8fafc;z-index:2;"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:60px;left:80px;background:#fef3c7;color:#92400e;padding:8px 20px;font-size:14px;font-weight:800;border-radius:20px;z-index:5;">LIMITED TO 50 EXECUTIVES</div>
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:120px;left:80px;color:#0f172a;font-size:75px;font-weight:900;z-index:5;margin:0;line-height:1;width:650px;">Master the Art of<br><span style="color:#0077b5;">Digital Strategy.</span></h1>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:300px;left:80px;width:550px;color:#475569;font-size:24px;z-index:5;line-height:1.6;">A 4-week intensive program designed for senior leaders to navigate the complexities of digital transformation.</div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:140px;left:80px;color:#0f172a;font-size:22px;font-weight:700;z-index:5;">🗓️ STARTS NOV 12 · ONLINE & NYC</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:50px;left:80px;width:300px;height:70px;background:#0077b5;border-radius:4px;z-index:7;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:72px;left:120px;color:#ffffff;font-size:20px;font-weight:700;z-index:8;">Request Syllabus →</div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&w=400&q=80" alt="Masterclass" style="position:absolute;top:80px;right:80px;width:400px;height:450px;object-fit:cover;z-index:3;border-radius:12px;box-shadow:0 25px 50px rgba(0,0,0,0.1);">
+        `
+    },
+
+    {
+        id: 'linkedin_startup_001',
+        name: 'Startup Launch Pitch',
+        category: 'ad-creator',
+        subCategory: 'ad-linkedin',
+        categoryLabel: '🚀 Launch Ad',
+        width: 1200,
+        height: 627,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:-200px;left:-200px;width:600px;height:600px;background:radial-gradient(circle,rgba(56,189,248,0.15) 0%,transparent 70%);z-index:2;filter:blur(80px);"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:0;width:100%;text-align:center;color:#38bdf8;font-size:18px;font-weight:800;letter-spacing:10px;z-index:5;">THE FUTURE IS HERE</div>
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:160px;left:0;width:100%;text-align:center;color:#ffffff;font-size:95px;font-weight:900;z-index:5;margin:0;letter-spacing:-4px;line-height:0.9;">MEET NEXUS AI.</h1>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:280px;left:50%;transform:translateX(-50%);width:700px;text-align:center;color:rgba(255,255,255,0.6);font-size:26px;z-index:5;line-height:1.5;">The first self-evolving OS for decentralized enterprise management. Secure, scalable, and completely autonomous.</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:420px;left:50%;transform:translateX(-50%);width:800px;height:1px;background:linear-gradient(90deg,transparent,rgba(56,189,248,0.5),transparent);z-index:5;"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:460px;left:0;width:100%;text-align:center;color:#ffffff;font-size:22px;font-weight:700;z-index:5;">Early Access Now Open for Beta Partners.</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:60px;left:50%;transform:translateX(-50%);width:320px;height:75px;background:linear-gradient(135deg,#38bdf8,#818cf8);border-radius:40px;z-index:7;box-shadow:0 0 40px rgba(56,189,248,0.3);"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:85px;left:0;width:100%;text-align:center;color:#ffffff;font-size:22px;font-weight:800;z-index:8;letter-spacing:1px;">Join the Waitlist →</div>
+        `
+    },
+
+    {
+        id: 'linkedin_ecommerce_001',
+        name: 'B2B Supply Chain',
+        category: 'ad-creator',
+        subCategory: 'ad-linkedin',
+        categoryLabel: '📦 Supply Chain Ad',
+        width: 1200,
+        height: 627,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;right:0;width:45%;height:100%;background:#f97316;z-index:2;clip-path:polygon(10% 0, 100% 0, 100% 100%, 0 100%);"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:80px;color:#f97316;font-size:18px;font-weight:900;letter-spacing:4px;z-index:5;">ENTERPRISE LOGISTICS</div>
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:120px;left:80px;color:#1e293b;font-size:65px;font-weight:900;z-index:5;margin:0;line-height:1;width:550px;">Scale Your Global<br>Supply Chain.</h1>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:280px;left:80px;width:480px;color:#64748b;font-size:24px;z-index:5;line-height:1.5;">End-to-end visibility. Automated fulfillment. Reduce operational costs by up to 30%.</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:80px;width:300px;height:70px;background:#1e293b;border-radius:4px;z-index:7;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:122px;left:100px;width:260px;text-align:center;color:#ffffff;font-size:20px;font-weight:700;z-index:8;">View Enterprise Plans</div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=600&q=80" alt="Warehouse" style="position:absolute;top:60px;right:60px;width:450px;height:500px;object-fit:cover;z-index:3;border-radius:12px;box-shadow:0 20px 40px rgba(0,0,0,0.2);">
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:80px;right:40px;width:450px;height:500px;border:3px solid rgba(255,255,255,0.4);border-radius:12px;z-index:2;"></div>
+        `
+    },
+
+    {
+        id: 'linkedin_cyber_001',
+        name: 'Cybersecurity Solutions',
+        category: 'ad-creator',
+        subCategory: 'ad-linkedin',
+        categoryLabel: '🛡️ Security Ad',
+        width: 1200,
+        height: 627,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#09090b;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(90deg, rgba(34,197,94,0.1) 0%, transparent 50%);z-index:2;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background-image:radial-gradient(rgba(34,197,94,0.2) 1px, transparent 1px);background-size:30px 30px;z-index:3;opacity:0.5;"></div>
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:80px;color:#ffffff;font-size:75px;font-weight:900;z-index:5;margin:0;line-height:1;width:600px;">Zero Trust.<br><span style="color:#22c55e;">Total Security.</span></h1>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:280px;left:80px;width:550px;color:#a1a1aa;font-size:24px;z-index:5;line-height:1.6;">Protect your enterprise infrastructure against next-gen threats with our AI-driven security fabric.</div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:420px;left:80px;color:#e4e4e7;font-size:20px;font-weight:600;z-index:5;">
+                    🔒 24/7 Threat Monitoring<br>
+                    🔒 Automated Compliance<br>
+                    🔒 Instant Remediation
+                </div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:100px;right:80px;width:400px;height:420px;background:rgba(255,255,255,0.03);border:1px solid rgba(34,197,94,0.3);border-radius:16px;z-index:4;backdrop-filter:blur(10px);"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:150px;right:100px;width:360px;text-align:center;color:#22c55e;font-size:60px;font-weight:900;z-index:5;">100%</div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:230px;right:100px;width:360px;text-align:center;color:#a1a1aa;font-size:20px;z-index:5;">Ransomware Protection Rate</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:140px;right:140px;width:280px;height:60px;background:#22c55e;border-radius:4px;z-index:7;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:158px;right:140px;width:280px;text-align:center;color:#09090b;font-size:20px;font-weight:800;z-index:8;">Get Free Assessment</div>
+        `
+    },
+
+    {
+        id: 'linkedin_agency_001',
+        name: 'Creative Agency Portfolio',
+        category: 'ad-creator',
+        subCategory: 'ad-linkedin',
+        categoryLabel: '🎨 Agency Ad',
+        width: 1200,
+        height: 627,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#111111;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:-100px;left:-100px;width:700px;height:700px;background:radial-gradient(circle,rgba(236,72,153,0.3) 0%,rgba(139,92,246,0.2) 50%,transparent 80%);z-index:2;filter:blur(60px);"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:80px;color:#f472b6;font-size:16px;font-weight:800;letter-spacing:8px;z-index:5;">CREATIVE STUDIO</div>
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:80px;color:#ffffff;font-size:80px;font-weight:200;z-index:5;margin:0;line-height:1;width:600px;font-family:serif;font-style:italic;">Design that<br>moves people.</h1>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:320px;left:80px;width:500px;color:rgba(255,255,255,0.7);font-size:24px;z-index:5;line-height:1.6;">Award-winning branding, digital experiences, and campaigns for visionary companies.</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:80px;left:80px;width:300px;height:70px;background:transparent;border:2px solid #ffffff;border-radius:40px;z-index:7;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:102px;left:80px;width:300px;text-align:center;color:#ffffff;font-size:20px;font-weight:700;z-index:8;">View Our Work →</div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1558655146-d09347e92766?auto=format&fit=crop&w=600&q=80" alt="Design" style="position:absolute;top:60px;right:60px;width:450px;height:500px;object-fit:cover;z-index:3;border-radius:24px;transform:rotate(2deg);box-shadow:0 30px 60px rgba(0,0,0,0.5);">
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=400&q=80" alt="Abstract" style="position:absolute;bottom:40px;right:400px;width:250px;height:250px;object-fit:cover;z-index:4;border-radius:50%;border:8px solid #111111;transform:rotate(-5deg);">
+        `
+    },
+
+    {
+        id: 'linkedin_health_001',
+        name: 'Healthcare MedTech',
+        category: 'ad-creator',
+        subCategory: 'ad-linkedin',
+        categoryLabel: '⚕️ Health Ad',
+        width: 1200,
+        height: 627,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f0f9ff;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;right:0;width:55%;height:100%;background:#0284c7;z-index:2;clip-path:ellipse(100% 100% at 100% 50%);"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:80px;color:#0284c7;font-size:18px;font-weight:900;letter-spacing:4px;z-index:5;">MEDTECH INNOVATION</div>
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:80px;color:#0f172a;font-size:65px;font-weight:900;z-index:5;margin:0;line-height:1.1;width:500px;">Transforming<br>Patient Care.</h1>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:300px;left:80px;width:450px;color:#475569;font-size:24px;z-index:5;line-height:1.6;">AI-powered diagnostics and secure patient data management for modern healthcare providers.</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:80px;left:80px;width:300px;height:70px;background:#0284c7;border-radius:35px;z-index:7;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:102px;left:80px;width:300px;text-align:center;color:#ffffff;font-size:22px;font-weight:700;z-index:8;">Schedule Demo</div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=800&q=80" alt="Doctor" style="position:absolute;top:60px;right:60px;width:500px;height:500px;object-fit:cover;z-index:3;border-radius:24px;box-shadow:0 20px 40px rgba(0,0,0,0.15);">
+        `
+    },
+
+    {
+        id: 'linkedin_panel_001',
+        name: 'Panel Discussion Event',
+        category: 'ad-creator',
+        subCategory: 'ad-linkedin',
+        categoryLabel: '🎤 Panel Ad',
+        width: 1200,
+        height: 627,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#1e1b4b;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(45deg, rgba(99,102,241,0.2) 0%, transparent 100%);z-index:2;"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:60px;left:0;width:100%;text-align:center;color:#818cf8;font-size:16px;font-weight:800;letter-spacing:6px;z-index:5;">LIVE VIRTUAL ROUNDTABLE</div>
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:0;width:100%;text-align:center;color:#ffffff;font-size:60px;font-weight:900;z-index:5;margin:0;">The AI-Driven Organization.</h1>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:180px;left:0;width:100%;text-align:center;color:#a5b4fc;font-size:24px;z-index:5;">Thursday, October 24 | 1:00 PM EST</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:260px;left:180px;width:840px;height:200px;background:rgba(255,255,255,0.05);border:1px solid rgba(99,102,241,0.3);border-radius:16px;z-index:3;"></div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=200&q=80" alt="Speaker 1" style="position:absolute;top:300px;left:230px;width:120px;height:120px;object-fit:cover;z-index:4;border-radius:50%;border:3px solid #818cf8;">
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:320px;left:380px;color:#ffffff;font-size:24px;font-weight:800;z-index:5;">Michael Chen</div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:355px;left:380px;color:#a5b4fc;font-size:18px;z-index:5;">CEO, TechVentures</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:280px;left:590px;width:1px;height:160px;background:rgba(255,255,255,0.1);z-index:4;"></div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=200&q=80" alt="Speaker 2" style="position:absolute;top:300px;left:640px;width:120px;height:120px;object-fit:cover;z-index:4;border-radius:50%;border:3px solid #818cf8;">
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:320px;left:790px;color:#ffffff;font-size:24px;font-weight:800;z-index:5;">Sarah Jenkins</div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:355px;left:790px;color:#a5b4fc;font-size:18px;z-index:5;">CTO, Innovate Inc</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:60px;left:50%;transform:translateX(-50%);width:300px;height:65px;background:#6366f1;border-radius:8px;z-index:7;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:80px;left:0;width:100%;text-align:center;color:#ffffff;font-size:20px;font-weight:700;z-index:8;">Save Your Seat</div>
+        `
+    },
+
+    {
+        id: 'linkedin_re_luxury_001',
+        name: 'Luxury Residential Listing',
+        category: 'ad-creator',
+        subCategory: 'ad-linkedin',
+        categoryLabel: '🏡 Real Estate',
+        width: 1200,
+        height: 627,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;right:0;width:60%;height:100%;background:#111111;z-index:2;"></div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=800&q=80" alt="Mansion" style="position:absolute;top:0;right:0;width:60%;height:100%;object-fit:cover;z-index:3;opacity:0.85;">
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:40%;width:150px;height:100%;background:linear-gradient(90deg, #ffffff 0%, transparent 100%);z-index:4;"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:60px;color:#d4af37;font-size:16px;font-weight:800;letter-spacing:6px;z-index:5;">EXCLUSIVE LISTING</div>
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:120px;left:60px;color:#111111;font-size:60px;font-weight:900;z-index:5;margin:0;line-height:1.1;width:400px;font-family:serif;">The Pinnacle of<br>Luxury Living.</h1>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:280px;left:60px;width:80px;height:2px;background:#d4af37;z-index:5;"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:320px;left:60px;width:350px;color:#666666;font-size:20px;z-index:5;line-height:1.6;">Beverly Hills, CA<br>5 Beds • 7 Baths • 8,500 sqft</div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:400px;left:60px;color:#111111;font-size:32px;font-weight:800;z-index:5;">$12,500,000</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:80px;left:60px;width:280px;height:60px;background:#111111;z-index:7;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:98px;left:60px;width:280px;text-align:center;color:#ffffff;font-size:18px;font-weight:700;z-index:8;letter-spacing:2px;">VIEW GALLERY</div>
+        `
+    },
+
+    {
+        id: 'linkedin_re_commercial_001',
+        name: 'Commercial Investment',
+        category: 'ad-creator',
+        subCategory: 'ad-linkedin',
+        categoryLabel: '🏢 Real Estate',
+        width: 1200,
+        height: 627,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(45deg, rgba(2,132,199,0.2) 0%, transparent 100%);z-index:2;"></div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=800&q=80" alt="Commercial" style="position:absolute;top:60px;left:60px;width:500px;height:507px;object-fit:cover;z-index:3;border-radius:8px;box-shadow:20px 20px 0px rgba(2,132,199,0.3);">
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:640px;color:#38bdf8;font-size:16px;font-weight:800;letter-spacing:4px;z-index:5;">COMMERCIAL ASSET</div>
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:140px;left:640px;color:#ffffff;font-size:55px;font-weight:900;z-index:5;margin:0;line-height:1.1;width:500px;">Prime Downtown<br>Office Portfolio.</h1>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:300px;left:640px;width:480px;height:120px;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);border-radius:8px;z-index:4;display:flex;justify-content:space-around;align-items:center;padding:20px;"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:320px;left:670px;color:#38bdf8;font-size:32px;font-weight:900;z-index:5;">7.2%</div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:365px;left:670px;color:#94a3b8;font-size:16px;z-index:5;">Cap Rate</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:320px;left:770px;width:1px;height:80px;background:rgba(255,255,255,0.2);z-index:5;"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:320px;left:820px;color:#38bdf8;font-size:32px;font-weight:900;z-index:5;">95%</div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:365px;left:820px;color:#94a3b8;font-size:16px;z-index:5;">Occupancy</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:640px;width:260px;height:60px;background:#0284c7;border-radius:4px;z-index:7;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:118px;left:640px;width:260px;text-align:center;color:#ffffff;font-size:18px;font-weight:700;z-index:8;">Download OM</div>
+        `
+    },
+
+    {
+        id: 'linkedin_re_openhouse_001',
+        name: 'Open House Event',
+        category: 'ad-creator',
+        subCategory: 'ad-linkedin',
+        categoryLabel: '🚪 Real Estate',
+        width: 1200,
+        height: 627,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f8fafc;z-index:1;"></div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80" alt="Interior" style="position:absolute;top:0;left:0;width:100%;height:400px;object-fit:cover;z-index:2;">
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:400px;background:linear-gradient(to bottom, rgba(0,0,0,0.4) 0%, transparent 100%);z-index:3;"></div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:300px;left:80px;right:80px;height:260px;background:#ffffff;border-radius:16px;z-index:4;box-shadow:0 25px 50px rgba(0,0,0,0.1);"></div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:260px;left:120px;width:120px;height:120px;background:#ef4444;border-radius:12px;z-index:5;display:flex;flex-direction:column;align-items:center;justify-content:center;box-shadow:0 10px 20px rgba(239,68,68,0.3);"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:280px;left:120px;width:120px;text-align:center;color:#ffffff;font-size:24px;font-weight:800;z-index:6;text-transform:uppercase;">OCT</div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:310px;left:120px;width:120px;text-align:center;color:#ffffff;font-size:48px;font-weight:900;z-index:6;line-height:1;">24</div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:350px;left:280px;color:#ef4444;font-size:18px;font-weight:800;letter-spacing:3px;z-index:5;">YOU ARE INVITED</div>
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:390px;left:280px;color:#0f172a;font-size:48px;font-weight:900;z-index:5;margin:0;">Exclusive Open House</h1>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:470px;left:280px;color:#64748b;font-size:22px;font-weight:600;z-index:5;">📍 1234 Silicon Valley Blvd. • 1:00 PM - 4:00 PM</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:390px;right:120px;width:240px;height:60px;background:#0f172a;border-radius:30px;z-index:7;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:408px;right:120px;width:240px;text-align:center;color:#ffffff;font-size:18px;font-weight:700;z-index:8;">RSVP NOW</div>
+        `
+    },
+
+    {
+        id: 'linkedin_re_agent_001',
+        name: 'Agent Personal Branding',
+        category: 'ad-creator',
+        subCategory: 'ad-linkedin',
+        categoryLabel: '🤝 Real Estate',
+        width: 1200,
+        height: 627,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:50%;height:100%;background:#082f49;z-index:2;"></div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=600&q=80" alt="Agent" style="position:absolute;bottom:0;left:60px;width:480px;height:550px;object-fit:cover;z-index:3;mask-image:linear-gradient(to top, rgba(0,0,0,1) 80%, transparent 100%);-webkit-mask-image:linear-gradient(to top, rgba(0,0,0,1) 80%, transparent 100%);">
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:40px;left:40px;width:320px;height:100px;background:#ffffff;border-radius:12px;z-index:4;box-shadow:0 15px 30px rgba(0,0,0,0.2);"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:75px;left:60px;color:#0ea5e9;font-size:32px;font-weight:900;z-index:5;">$150M+</div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:55px;left:60px;color:#475569;font-size:14px;font-weight:700;z-index:5;letter-spacing:1px;text-transform:uppercase;">Sales Volume in 2025</div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:55%;color:#0ea5e9;font-size:18px;font-weight:900;letter-spacing:3px;z-index:5;">TOP 1% PRODUCER</div>
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:140px;left:55%;color:#0f172a;font-size:65px;font-weight:900;z-index:5;margin:0;line-height:1.1;">Your Trusted<br>Real Estate<br>Advisor.</h1>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:380px;left:55%;width:420px;color:#64748b;font-size:22px;z-index:5;line-height:1.6;font-style:italic;">"He negotiated an incredible deal for our commercial space. Unmatched market knowledge." - CEO, TechStart</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:80px;left:55%;width:260px;height:65px;background:#082f49;border-radius:8px;z-index:7;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;left:55%;width:260px;text-align:center;color:#ffffff;font-size:18px;font-weight:700;z-index:8;">Book a Strategy Call</div>
+        `
+    },
+
+    {
+        id: 'linkedin_re_development_001',
+        name: 'New Development Pitch',
+        category: 'ad-creator',
+        subCategory: 'ad-linkedin',
+        categoryLabel: '🏗️ Real Estate',
+        width: 1200,
+        height: 627,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#000000;z-index:1;"></div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1486325212027-8081e485255e?auto=format&fit=crop&w=1200&q=80" alt="Development" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;z-index:2;opacity:0.6;filter:grayscale(50%);">
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(to right, #000000 30%, transparent 100%);z-index:3;"></div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:8px;height:100%;background:#ffffff;z-index:4;"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:120px;left:80px;color:#ffffff;font-size:16px;font-weight:500;letter-spacing:15px;z-index:5;">NEW DEVELOPMENT</div>
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:160px;left:80px;color:#ffffff;font-size:80px;font-weight:200;z-index:5;margin:0;line-height:1;width:600px;font-family:sans-serif;">THE AURA<br>RESIDENCES.</h1>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:350px;left:80px;width:450px;color:rgba(255,255,255,0.7);font-size:20px;z-index:5;line-height:1.6;font-weight:300;">Architectural brilliance meets sustainable living. Pre-construction pricing available for early investors.</div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;left:80px;color:#ffffff;font-size:24px;font-weight:800;z-index:5;letter-spacing:2px;">COMPLETION Q4 2027</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:80px;right:80px;width:280px;height:60px;background:transparent;border:2px solid #ffffff;z-index:7;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:98px;right:80px;width:280px;text-align:center;color:#ffffff;font-size:18px;font-weight:700;z-index:8;letter-spacing:4px;">VIEW BROCHURE</div>
+        `
+    },
+
     // --- YOUTUBE THUMB SUB-CATEGORY ---
     {
         id: 'yt_tutorial_001',
@@ -2745,6 +4532,386 @@ window.HD_TEMPLATES = [
                 
                 <div class="hd-draggable" data-type="text" style="position:absolute;bottom:80px;right:80px;background:#000;color:#fff;padding:15px 50px;font-size:24px;font-weight:900;z-index:7;border-radius:50px;">EPISODE #42</div>
                 `
+    },
+
+    {
+        id: 'yt_gaming_001',
+        name: 'Gaming Let\'s Play',
+        category: 'ad-creator',
+        subCategory: 'ad-yt-thumb',
+        categoryLabel: '🎮 Gaming Thumb',
+        width: 1280,
+        height: 720,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#09090b;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 80% 50%, rgba(139,92,246,0.6) 0%, transparent 60%);z-index:2;"></div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80" alt="Gaming Setup" style="position:absolute;top:0;right:0;width:55%;height:100%;object-fit:cover;z-index:3;mask-image:linear-gradient(to right, transparent 0%, black 30%);-webkit-mask-image:linear-gradient(to right, transparent 0%, black 30%);">
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:60px;left:60px;color:#a78bfa;font-size:24px;font-weight:900;letter-spacing:10px;z-index:5;text-shadow:0 0 20px rgba(167,139,250,0.5);">EPISODE 01</div>
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:140px;left:60px;color:#ffffff;font-size:120px;font-weight:900;z-index:5;margin:0;line-height:0.85;text-transform:uppercase;text-shadow:4px 4px 0 #8b5cf6, 8px 8px 0 #4c1d95;transform:skewX(-5deg);">NEXT GEN<br><span style="color:#fcd34d;text-shadow:4px 4px 0 #d97706, 8px 8px 0 #78350f;">GAMING</span></h1>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:60px;width:350px;height:80px;background:#fcd34d;border-radius:10px;transform:skewX(-5deg);z-index:4;box-shadow:0 0 30px rgba(252,211,77,0.4);"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:118px;left:90px;color:#09090b;font-size:36px;font-weight:900;z-index:5;transform:skewX(-5deg);">INSANE GRAPHICS!</div>
+                
+                <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; right:60px; color:#ffffff; font-size:120px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible; filter:drop-shadow(0 0 20px rgba(255,255,255,0.5));">🤯</div>
+        `
+    },
+
+    {
+        id: 'yt_fitness_001',
+        name: 'Fitness Workout Challenge',
+        category: 'ad-creator',
+        subCategory: 'ad-yt-thumb',
+        categoryLabel: '💪 Fitness Thumb',
+        width: 1280,
+        height: 720,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#000000;z-index:1;"></div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1200&q=80" alt="Workout" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;z-index:2;opacity:0.8;filter:contrast(1.2) grayscale(0.2);">
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.4) 60%, transparent 100%);z-index:3;"></div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:20px;height:100%;background:#eab308;z-index:4;"></div>
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:80px;color:#ffffff;font-size:140px;font-weight:900;z-index:5;margin:0;line-height:0.85;text-transform:uppercase;">BURN FAT<br><span style="color:#eab308;">FAST!</span></h1>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:380px;left:80px;width:120px;height:10px;background:#eab308;z-index:5;"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:430px;left:80px;color:#ffffff;font-size:45px;font-weight:800;z-index:5;letter-spacing:2px;text-shadow:2px 2px 4px rgba(0,0,0,0.5);">NO EQUIPMENT NEEDED</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:60px;right:60px;width:220px;height:220px;background:#eab308;border-radius:50%;z-index:4;display:flex;align-items:center;justify-content:center;box-shadow:0 0 50px rgba(234,179,8,0.3);"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:115px;right:90px;width:160px;text-align:center;color:#000000;font-size:75px;font-weight:900;z-index:5;line-height:0.9;">15<br><span style="font-size:30px;">MINS</span></div>
+        `
+    },
+
+    {
+        id: 'yt_cooking_001',
+        name: 'Cooking Recipe',
+        category: 'ad-creator',
+        subCategory: 'ad-yt-thumb',
+        categoryLabel: '🍳 Food Thumb',
+        width: 1280,
+        height: 720,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fffbeb;z-index:1;"></div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&w=1200&q=80" alt="Food" style="position:absolute;top:0;left:0;width:60%;height:100%;object-fit:cover;z-index:2;clip-path:polygon(0 0, 100% 0, 85% 100%, 0 100%);">
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:60%;height:100%;background:linear-gradient(to right, rgba(0,0,0,0.4) 0%, transparent 100%);z-index:3;clip-path:polygon(0 0, 100% 0, 85% 100%, 0 100%);"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;right:80px;width:450px;text-align:right;color:#d97706;font-size:24px;font-weight:800;letter-spacing:6px;z-index:5;">MASTERCLASS</div>
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:150px;right:80px;width:550px;text-align:right;color:#78350f;font-size:95px;font-weight:900;z-index:5;margin:0;line-height:0.9;font-family:serif;">The Perfect<br><span style="color:#d97706;">Steak</span> Recipe</h1>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:380px;right:80px;width:400px;text-align:right;color:#92400e;font-size:32px;font-style:italic;z-index:5;">Melt-in-your-mouth tender, every single time.</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:80px;right:80px;width:280px;height:70px;background:#d97706;border-radius:35px;z-index:4;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;right:80px;width:280px;text-align:center;color:#ffffff;font-size:26px;font-weight:700;z-index:5;">Watch Now ▶</div>
+                
+                <div class="hd-draggable" data-type="emoji" style="position:absolute; bottom:60px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible; filter:drop-shadow(0 10px 10px rgba(0,0,0,0.5));">🤤</div>
+        `
+    },
+
+    {
+        id: 'yt_vlog_001',
+        name: 'Aesthetic Vlog',
+        category: 'ad-creator',
+        subCategory: 'ad-yt-thumb',
+        categoryLabel: '📹 Vlog Thumb',
+        width: 1280,
+        height: 720,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fdf2f8;z-index:1;"></div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:-100px;right:-100px;width:600px;height:600px;background:#fbcfe8;border-radius:50%;z-index:2;opacity:0.6;filter:blur(40px);"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:-100px;left:-100px;width:500px;height:500px;background:#fecdd3;border-radius:50%;z-index:2;opacity:0.6;filter:blur(40px);"></div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:80px;right:80px;width:600px;height:560px;background:#ffffff;z-index:3;box-shadow:0 25px 50px rgba(0,0,0,0.05);transform:rotate(3deg);"></div>
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&w=600&q=80" alt="Vlog" style="position:absolute;top:100px;right:100px;width:560px;height:450px;object-fit:cover;z-index:4;transform:rotate(3deg);">
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:150px;left:80px;color:#831843;font-size:110px;font-weight:900;z-index:5;margin:0;line-height:0.9;font-family:serif;">A DAY IN<br>MY LIFE</h1>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:380px;left:80px;width:300px;height:60px;background:#f472b6;transform:rotate(-2deg);z-index:4;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:392px;left:90px;color:#ffffff;font-size:32px;font-weight:800;z-index:5;transform:rotate(-2deg);letter-spacing:2px;">MORNING ROUTINE</div>
+                
+                <div class="hd-draggable" data-type="emoji" style="position:absolute; bottom:80px; left:120px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">✨</div>
+        `
+    },
+
+    {
+        id: 'yt_crypto_001',
+        name: 'Crypto & Market News',
+        category: 'ad-creator',
+        subCategory: 'ad-yt-thumb',
+        categoryLabel: '📈 Finance Thumb',
+        width: 1280,
+        height: 720,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#020617;z-index:1;"></div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80" alt="Chart" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;z-index:2;opacity:0.3;filter:hue-rotate(120deg) contrast(1.5);">
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 50% 50%, transparent 0%, #020617 80%);z-index:3;"></div>
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:0;width:100%;text-align:center;color:#ef4444;font-size:150px;font-weight:900;z-index:5;margin:0;line-height:0.9;text-transform:uppercase;text-shadow:0 0 40px rgba(239,68,68,0.5);">CRASHING?!</h1>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:300px;left:50%;transform:translateX(-50%);width:700px;height:120px;background:#facc15;z-index:4;border-radius:20px;box-shadow:0 20px 40px rgba(250,204,21,0.2);"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:325px;left:0;width:100%;text-align:center;color:#020617;font-size:60px;font-weight:900;z-index:5;">WHAT NO ONE IS TELLING YOU</div>
+                
+                <div class="hd-draggable" data-type="emoji" style="position:absolute; bottom:60px; left:300px; color:#ffffff; font-size:160px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible; filter:drop-shadow(0 0 30px rgba(255,255,255,0.2));">🚨</div>
+                <div class="hd-draggable" data-type="emoji" style="position:absolute; bottom:60px; right:300px; color:#ffffff; font-size:160px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible; filter:drop-shadow(0 0 30px rgba(255,255,255,0.2));">📉</div>
+        `
+    },
+
+    {
+        id: 'yt_podcast_split_001',
+        name: 'Podcast Interview Split',
+        category: 'ad-creator',
+        subCategory: 'ad-yt-thumb',
+        categoryLabel: '🎙️ Podcast Thumb',
+        width: 1280,
+        height: 720,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#1e1b4b;z-index:1;"></div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=800&q=80" alt="Host" style="position:absolute;top:0;left:0;width:50%;height:100%;object-fit:cover;z-index:2;opacity:0.8;">
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:50%;height:100%;background:linear-gradient(to right, transparent 0%, #1e1b4b 100%);z-index:3;"></div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=800&q=80" alt="Guest" style="position:absolute;top:0;right:0;width:50%;height:100%;object-fit:cover;z-index:2;opacity:0.8;">
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;right:0;width:50%;height:100%;background:linear-gradient(to left, transparent 0%, #1e1b4b 100%);z-index:3;"></div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:50%;transform:translateX(-50%);width:20px;height:100%;background:#eab308;z-index:4;"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:50%;transform:translateX(-50%);width:600px;text-align:center;color:#eab308;font-size:30px;font-weight:900;letter-spacing:15px;z-index:5;text-shadow:0 0 20px rgba(234,179,8,0.5);">EPISODE 142</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:280px;left:50%;transform:translateX(-50%);width:900px;height:160px;background:rgba(30,27,75,0.9);border:4px solid #eab308;z-index:4;box-shadow:0 0 50px rgba(0,0,0,0.8);"></div>
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:315px;left:50%;transform:translateX(-50%);width:850px;text-align:center;color:#ffffff;font-size:75px;font-weight:900;z-index:5;margin:0;line-height:1;">THE CEO MINDSET</h1>
+        `
+    },
+
+    {
+        id: 'yt_unboxing_001',
+        name: 'Product Unboxing Review',
+        category: 'ad-creator',
+        subCategory: 'ad-yt-thumb',
+        categoryLabel: '📦 Unboxing Thumb',
+        width: 1280,
+        height: 720,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0ea5e9;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 50% 50%, #38bdf8 0%, #0284c7 100%);z-index:2;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background-image:linear-gradient(45deg, rgba(255,255,255,0.1) 25%, transparent 25%, transparent 50%, rgba(255,255,255,0.1) 50%, rgba(255,255,255,0.1) 75%, transparent 75%, transparent);background-size:100px 100px;z-index:3;opacity:0.3;"></div>
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:80px;color:#ffffff;font-size:140px;font-weight:900;z-index:5;margin:0;line-height:0.9;text-shadow:10px 10px 0 #0369a1, 20px 20px 0 #0c4a6e;">WORTH<br><span style="color:#fde047;">IT?</span></h1>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80" alt="Product" style="position:absolute;top:80px;right:40px;width:600px;height:550px;object-fit:cover;z-index:4;border-radius:30px;border:15px solid #ffffff;transform:rotate(5deg);box-shadow:0 30px 60px rgba(0,0,0,0.5);">
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:80px;left:80px;width:400px;height:80px;background:#ffffff;border-radius:40px;z-index:4;box-shadow:0 15px 30px rgba(0,0,0,0.3);"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;left:100px;width:360px;text-align:center;color:#0284c7;font-size:40px;font-weight:900;z-index:5;">UNBOXING & REVIEW</div>
+        `
+    },
+
+    {
+        id: 'yt_documentary_001',
+        name: 'True Crime Documentary',
+        category: 'ad-creator',
+        subCategory: 'ad-yt-thumb',
+        categoryLabel: '🕵️ Doc Thumb',
+        width: 1280,
+        height: 720,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#000000;z-index:1;"></div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1509822929063-6b6cfc9b42f2?auto=format&fit=crop&w=1280&q=80" alt="Gritty" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;z-index:2;filter:grayscale(100%) contrast(1.5) brightness(0.6);">
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle, transparent 0%, #000000 90%);z-index:3;"></div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:50px;left:50px;width:300px;height:50px;background:#dc2626;transform:rotate(-3deg);z-index:4;opacity:0.8;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:55px;left:60px;color:#ffffff;font-size:32px;font-weight:900;letter-spacing:5px;transform:rotate(-3deg);z-index:5;text-transform:uppercase;">UNSOLVED</div>
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:250px;left:80px;color:#ffffff;font-size:130px;font-weight:900;z-index:5;margin:0;line-height:0.85;font-family:serif;text-shadow:0 0 30px #dc2626;">THE LAST<br>MESSAGE.</h1>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:80px;right:80px;width:350px;height:80px;background:#dc2626;z-index:4;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:95px;right:80px;width:350px;text-align:center;color:#ffffff;font-size:45px;font-weight:900;z-index:5;letter-spacing:2px;">FULL MOVIE</div>
+        `
+    },
+
+    {
+        id: 'yt_motivational_001',
+        name: 'Motivational Speech',
+        category: 'ad-creator',
+        subCategory: 'ad-yt-thumb',
+        categoryLabel: '✨ Motivation',
+        width: 1280,
+        height: 720,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:1;"></div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1280&q=80" alt="Runner" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;z-index:2;filter:brightness(0.5) contrast(1.2);">
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(to top, #0f172a 0%, transparent 100%);z-index:3;"></div>
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:180px;left:0;width:100%;text-align:center;color:#ffffff;font-size:160px;font-weight:900;z-index:5;margin:0;line-height:0.9;font-family:serif;text-shadow:0 10px 40px rgba(0,0,0,0.8);">NEVER<br><span style="color:#38bdf8;">GIVE UP</span></h1>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:120px;left:0;width:100%;text-align:center;color:#94a3b8;font-size:32px;font-weight:600;letter-spacing:10px;z-index:5;text-transform:uppercase;">The Speech That Will Change Your Life</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:80px;left:50%;transform:translateX(-50%);width:100px;height:4px;background:#38bdf8;z-index:5;"></div>
+        `
+    },
+
+    {
+        id: 'yt_realestate_tour_001',
+        name: 'Luxury Home Tour',
+        category: 'ad-creator',
+        subCategory: 'ad-yt-thumb',
+        categoryLabel: '🏠 Home Tour',
+        width: 1280,
+        height: 720,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1613490908592-fd5e16f9f2dd?auto=format&fit=crop&w=1280&q=80" alt="Mansion" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;z-index:2;filter:brightness(0.85);">
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:40px;left:40px;right:40px;bottom:40px;border:8px solid #ffffff;z-index:3;opacity:0.9;box-shadow:inset 0 0 40px rgba(0,0,0,0.5), 0 0 40px rgba(0,0,0,0.5);"></div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:120px;left:100px;width:500px;height:140px;background:rgba(0,0,0,0.8);backdrop-filter:blur(10px);z-index:4;border-left:10px solid #22c55e;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:185px;left:140px;color:#22c55e;font-size:45px;font-weight:900;z-index:5;">$45,000,000</div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:145px;left:140px;color:#ffffff;font-size:28px;font-weight:600;z-index:5;letter-spacing:2px;">BEL AIR MEGA MANSION</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:80px;right:80px;width:240px;height:80px;background:#ef4444;z-index:4;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:98px;right:80px;width:240px;text-align:center;color:#ffffff;font-size:36px;font-weight:900;z-index:5;">FULL TOUR</div>
+        `
+    },
+
+    {
+        id: 'yt_coding_001',
+        name: 'Tech & Coding Tutorial',
+        category: 'ad-creator',
+        subCategory: 'ad-yt-thumb',
+        categoryLabel: '💻 Tech Thumb',
+        width: 1280,
+        height: 720,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0d1117;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 100% 0%, rgba(88,166,255,0.15) 0%, transparent 60%);z-index:2;"></div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:80px;right:60px;width:600px;height:560px;background:#161b22;border:1px solid #30363d;border-radius:12px;z-index:3;box-shadow:0 30px 60px rgba(0,0,0,0.8);"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:80px;right:60px;width:600px;height:40px;background:#21262d;border-radius:12px 12px 0 0;z-index:4;border-bottom:1px solid #30363d;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:95px;right:620px;width:12px;height:12px;background:#ff5f56;border-radius:50%;z-index:5;box-shadow:20px 0 0 #ffbd2e, 40px 0 0 #27c93f;"></div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:150px;right:100px;width:520px;color:#c9d1d9;font-size:22px;font-family:monospace;z-index:5;line-height:1.8;">
+                    <span style="color:#ff7b72;">function</span> <span style="color:#d2a8ff;">buildApp</span>() {<br>
+                    &nbsp;&nbsp;<span style="color:#ff7b72;">const</span> magic = <span style="color:#79c0ff;">true</span>;<br>
+                    &nbsp;&nbsp;<span style="color:#ff7b72;">if</span> (magic) {<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a5d6ff;">console</span>.<span style="color:#d2a8ff;">log</span>(<span style="color:#a5d6ff;">"Subscribe!"</span>);<br>
+                    &nbsp;&nbsp;}<br>
+                    }
+                </div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:150px;left:80px;color:#58a6ff;font-size:28px;font-weight:900;letter-spacing:6px;z-index:5;font-family:monospace;">FULL COURSE 2026</div>
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:220px;left:80px;color:#ffffff;font-size:120px;font-weight:900;z-index:5;margin:0;line-height:0.95;text-shadow:0 10px 30px rgba(0,0,0,0.5);">BUILD<br>THIS<br><span style="color:#58a6ff;">APP.</span></h1>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:80px;width:280px;height:65px;background:#238636;border-radius:6px;z-index:4;border:1px solid rgba(240,246,252,0.1);"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:118px;left:80px;width:280px;text-align:center;color:#ffffff;font-size:24px;font-weight:700;z-index:5;font-family:sans-serif;">BEGINNER FRIENDLY</div>
+        `
+    },
+
+    {
+        id: 'yt_music_001',
+        name: 'Cinematic Music Cover',
+        category: 'ad-creator',
+        subCategory: 'ad-yt-thumb',
+        categoryLabel: '🎵 Music Thumb',
+        width: 1280,
+        height: 720,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#000000;z-index:1;"></div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1516280440502-86927d21b36d?auto=format&fit=crop&w=1280&q=80" alt="Musician" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;z-index:2;filter:brightness(0.6) contrast(1.2);">
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 50% 50%, transparent 20%, #000000 100%);z-index:3;"></div>
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:200px;left:0;width:100%;text-align:center;color:#ffffff;font-size:140px;font-weight:400;z-index:5;margin:0;line-height:1;font-family:cursive;text-shadow:0 0 50px rgba(255,255,255,0.4);">Midnight</h1>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:350px;left:0;width:100%;text-align:center;color:#eab308;font-size:40px;font-weight:300;letter-spacing:15px;z-index:5;text-transform:uppercase;">OFFICIAL MUSIC VIDEO</div>
+                
+                <div class="hd-draggable" data-type="emoji" style="position:absolute; bottom:80px; left:50%; transform:translateX(-50%); color:#ffffff; font-size:60px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🎧</div>
+        `
+    },
+
+    {
+        id: 'yt_sports_001',
+        name: 'Sports Highlights',
+        category: 'ad-creator',
+        subCategory: 'ad-yt-thumb',
+        categoryLabel: '⚽ Sports Thumb',
+        width: 1280,
+        height: 720,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#020617;z-index:1;"></div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1508344928928-7165b67de128?auto=format&fit=crop&w=1280&q=80" alt="Stadium" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;z-index:2;opacity:0.4;">
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(45deg, #020617 0%, transparent 100%);z-index:3;"></div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;right:0;width:60%;height:100%;background:#dc2626;z-index:4;clip-path:polygon(20% 0, 100% 0, 100% 100%, 0% 100%);opacity:0.9;"></div>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1552667466-07770ae110d0?auto=format&fit=crop&w=800&q=80" alt="Player" style="position:absolute;bottom:0;right:50px;width:600px;height:700px;object-fit:cover;z-index:5;mask-image:linear-gradient(to top, rgba(0,0,0,1) 80%, transparent 100%);-webkit-mask-image:linear-gradient(to top, rgba(0,0,0,1) 80%, transparent 100%);filter:drop-shadow(-10px 0 0px #ffffff);">
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:60px;color:#dc2626;font-size:30px;font-weight:900;letter-spacing:5px;z-index:6;background:#ffffff;padding:5px 20px;transform:skewX(-10deg);">MATCH BREAKDOWN</div>
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:180px;left:60px;color:#ffffff;font-size:150px;font-weight:900;z-index:6;margin:0;line-height:0.85;text-transform:uppercase;transform:skewX(-5deg);text-shadow:5px 5px 0 #000000;">GAME<br><span style="color:#fcd34d;">CHANGER</span></h1>
+                
+                <div class="hd-draggable" data-type="emoji" style="position:absolute; bottom:80px; left:80px; color:#ffffff; font-size:100px; z-index:6; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🔥</div>
+        `
+    },
+
+    {
+        id: 'yt_before_after_001',
+        name: 'Transformation Split',
+        category: 'ad-creator',
+        subCategory: 'ad-yt-thumb',
+        categoryLabel: '🔄 Transfom Thumb',
+        width: 1280,
+        height: 720,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:50%;height:100%;background:#fecdd3;z-index:2;"></div>
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1584282367464-92794eb88c2f?auto=format&fit=crop&w=600&q=80" alt="Before" style="position:absolute;top:0;left:0;width:50%;height:100%;object-fit:cover;z-index:3;opacity:0.8;filter:grayscale(50%);">
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;right:0;width:50%;height:100%;background:#bbf7d0;z-index:2;"></div>
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=600&q=80" alt="After" style="position:absolute;top:0;right:0;width:50%;height:100%;object-fit:cover;z-index:3;opacity:0.9;">
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:50%;transform:translateX(-50%);width:15px;height:100%;background:#ffffff;z-index:4;box-shadow:0 0 30px rgba(0,0,0,0.5);"></div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:60px;left:60px;width:250px;height:80px;background:#ef4444;border-radius:10px;z-index:5;transform:rotate(-5deg);box-shadow:0 10px 20px rgba(0,0,0,0.3);"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:75px;left:60px;width:250px;text-align:center;color:#ffffff;font-size:40px;font-weight:900;z-index:6;transform:rotate(-5deg);">BEFORE ❌</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:60px;right:60px;width:250px;height:80px;background:#22c55e;border-radius:10px;z-index:5;transform:rotate(5deg);box-shadow:0 10px 20px rgba(0,0,0,0.3);"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:75px;right:60px;width:250px;text-align:center;color:#ffffff;font-size:40px;font-weight:900;z-index:6;transform:rotate(5deg);">AFTER ✅</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:60px;left:50%;transform:translateX(-50%);width:650px;height:120px;background:#000000;border-radius:60px;z-index:5;box-shadow:0 20px 40px rgba(0,0,0,0.4);"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:90px;left:50%;transform:translateX(-50%);width:600px;text-align:center;color:#ffffff;font-size:55px;font-weight:900;z-index:6;">I TRIED IT FOR 30 DAYS</div>
+        `
+    },
+
+    {
+        id: 'yt_asmr_001',
+        name: 'ASMR Relaxation',
+        category: 'ad-creator',
+        subCategory: 'ad-yt-thumb',
+        categoryLabel: '🌙 Relax Thumb',
+        width: 1280,
+        height: 720,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#2e1065;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 50% 50%, #8b5cf6 0%, #2e1065 100%);z-index:2;opacity:0.8;"></div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:20%;left:20%;width:300px;height:300px;background:#c4b5fd;border-radius:50%;z-index:3;opacity:0.3;filter:blur(80px);"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:20%;right:20%;width:400px;height:400px;background:#fbcfe8;border-radius:50%;z-index:3;opacity:0.2;filter:blur(100px);"></div>
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:250px;left:0;width:100%;text-align:center;color:#ffffff;font-size:120px;font-weight:200;z-index:5;margin:0;letter-spacing:20px;font-family:sans-serif;text-shadow:0 0 30px rgba(255,255,255,0.3);">SLEEP NOW</h1>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:400px;left:0;width:100%;text-align:center;color:#ddd6fe;font-size:30px;font-weight:300;letter-spacing:10px;z-index:5;">99.9% WILL FALL ASLEEP IN 5 MINUTES</div>
+                
+                <div class="hd-draggable" data-type="emoji" style="position:absolute; top:80px; left:50%; transform:translateX(-50%); color:#ffffff; font-size:60px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible; filter:drop-shadow(0 0 20px rgba(255,255,255,0.8));">🌙</div>
+        `
     },
 
     // --- GOOGLE BANNERS SUB-CATEGORY ---
@@ -12966,6 +15133,1233 @@ window.HD_TEMPLATES = [
         <div class="hd-draggable" data-type="text" style="position:absolute;top:560px;left:0;width:800px;text-align:center;color:#ef4444;font-size:14px;font-weight:bold;letter-spacing:8px;z-index:5;">FINE DINING EXPERIENCE</div>
     `
     },
+    {
+    id: 'logo_luxury_gold',
+    name: 'Imperial Gold',
+    category: 'logo',
+    categoryLabel: '💎 Logo',
+    width: 800, height: 800,
+    html: `
+    <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#000;z-index:1;"></div>
+    <!-- Golden Rings -->
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:300px;width:200px;height:200px;border:2px solid #d4af37;border-radius:50%;z-index:2;opacity:0.5;"></div>
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:220px;left:320px;width:160px;height:160px;border:1px solid #f97316;border-radius:50%;z-index:3;"></div>
+    <!-- Central Icon -->
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:260px;left:360px;width:80px;height:80px;background:linear-gradient(135deg,#d4af37,#f97316);transform:rotate(45deg);z-index:4;"></div>
+    <!-- Typography -->
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:480px;left:0;width:800px;text-align:center;color:#d4af37;font-size:55px;font-family:serif;font-weight:300;letter-spacing:12px;z-index:5;">B G B A C K</div>
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:560px;left:300px;width:200px;height:1px;background:#d4af37;z-index:5;"></div>
+    `
+},
+{
+    id: 'logo_abstract_flow',
+    name: 'Geometric Flow',
+    category: 'logo',
+    categoryLabel: '💎 Logo',
+    width: 800, height: 800,
+    html: `
+    <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f8fafc;z-index:1;"></div>
+    <!-- Abstract Shapes -->
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:220px;left:280px;width:180px;height:180px;background:#8b5cf6;border-radius:30% 70% 70% 30% / 30% 30% 70% 70%;z-index:2;opacity:0.8;transform:rotate(-15deg);"></div>
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:240px;left:340px;width:180px;height:180px;background:#ec4899;border-radius:70% 30% 30% 70% / 70% 70% 30% 30%;z-index:3;opacity:0.8;mix-blend-mode:multiply;"></div>
+    <!-- Central Text -->
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:500px;left:0;width:800px;text-align:center;color:#1e293b;font-size:48px;font-weight:900;z-index:5;">CREATIVE <span style="color:#8b5cf6">BGBACK</span></div>
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:565px;left:0;width:800px;text-align:center;color:#94a3b8;font-size:18px;font-weight:bold;letter-spacing:5px;z-index:5;">DESIGN STUDIO SOLUTIONS</div>
+    `
+},
+{
+    id: 'logo_nature_zen',
+    name: 'Organic Zen',
+    category: 'logo',
+    categoryLabel: '💎 Logo',
+    width: 800, height: 800,
+    html: `
+    <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f0fdf4;z-index:1;"></div>
+    <!-- Leaf Shapes -->
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:220px;left:350px;width:100px;height:150px;background:linear-gradient(to bottom, #22c55e, #166534);border-radius:100% 0% 100% 0%;z-index:3;transform:rotate(-15deg);"></div>
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:250px;left:300px;width:80px;height:120px;background:rgba(34,197,94,0.3);border-radius:100% 0% 100% 0%;z-index:2;transform:rotate(-45deg);"></div>
+    <!-- Text -->
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:480px;left:0;width:800px;text-align:center;color:#14532d;font-size:42px;font-weight:700;z-index:5;">BGBACK ORGANICS</div>
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:540px;left:0;width:800px;text-align:center;color:#22c55e;font-size:18px;font-weight:bold;letter-spacing:6px;z-index:5;">PURE & NATURAL</div>
+    `
+},
+{
+    id: 'logo_estate_highrise',
+    name: 'Urban Highrise',
+    category: 'logo',
+    categoryLabel: '🏠 Real Estate',
+    width: 800, height: 800,
+    html: `
+    <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:1;"></div>
+    <!-- Building 1 -->
+    <div class="hd-draggable" style="position:absolute;top:280px;left:320px;width:40px;height:120px;background:#3b82f6;z-index:2;"></div>
+    <!-- Building 2 (Main) -->
+    <div class="hd-draggable" style="position:absolute;top:220px;left:370px;width:60px;height:180px;background:linear-gradient(to bottom, #60a5fa, #2563eb);z-index:3;box-shadow: 10px 0 20px rgba(0,0,0,0.3);"></div>
+    <!-- Building 3 -->
+    <div class="hd-draggable" style="position:absolute;top:260px;left:440px;width:40px;height:140px;background:#1e40af;z-index:2;"></div>
+    <!-- Window Detail on Main Building -->
+    <div style="position:absolute;top:240px;left:385px;width:10px;height:10px;background:rgba(255,255,255,0.2);z-index:4;"></div>
+    <div style="position:absolute;top:260px;left:385px;width:10px;height:10px;background:rgba(255,255,255,0.2);z-index:4;"></div>
+    <!-- Text -->
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:480px;left:0;width:800px;text-align:center;color:#fff;font-size:45px;font-weight:900;letter-spacing:2px;z-index:5;">SKYLINE <span style="color:#3b82f6">PROPERTIES</span></div>
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:545px;left:0;width:800px;text-align:center;color:#64748b;font-size:16px;letter-spacing:8px;z-index:5;">ELEVATING LIFESTYLE</div>
+    `
+},
+{
+    id: 'logo_estate_heritage',
+    name: 'Golden Heritage',
+    category: 'logo',
+    categoryLabel: '🏠 Real Estate',
+    width: 800, height: 800,
+    html: `
+    <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
+    <!-- Roof Shape -->
+    <div class="hd-draggable" style="position:absolute;top:230px;left:300px;width:200px;height:100px;background:#b45309;clip-path:polygon(50% 0%, 0% 100%, 100% 100%);z-index:3;"></div>
+    <!-- Chimney -->
+    <div class="hd-draggable" style="position:absolute;top:240px;left:420px;width:30px;height:60px;background:#78350f;z-index:2;"></div>
+    <!-- Main House Block -->
+    <div class="hd-draggable" style="position:absolute;top:330px;left:310px;width:180px;height:90px;border:4px solid #b45309;z-index:2;"></div>
+    <!-- Text -->
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:470px;left:0;width:800px;text-align:center;color:#1e293b;font-size:48px;font-family:serif;font-weight:bold;z-index:5;">HERITAGE <span style="color:#b45309">HOMES</span></div>
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:540px;left:350px;width:100px;height:2px;background:#d97706;z-index:5;"></div>
+    `
+},
+{
+    id: 'logo_estate_key',
+    name: 'Secure Key Estate',
+    category: 'logo',
+    categoryLabel: '🏠 Real Estate',
+    width: 800, height: 800,
+    html: `
+    <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f8fafc;z-index:1;"></div>
+    <!-- Key Ring (Circle) -->
+    <div class="hd-draggable" style="position:absolute;top:220px;left:325px;width:150px;height:150px;border:12px solid #0f172a;border-radius:50%;z-index:2;"></div>
+    <!-- Key Body with House Cutout -->
+    <div class="hd-draggable" style="position:absolute;top:350px;left:388px;width:24px;height:80px;background:#0f172a;z-index:2;"></div>
+    <!-- House Silhouette inside Circle -->
+    <div style="position:absolute;top:270px;left:365px;width:70px;height:50px;background:#3b82f6;clip-path:polygon(50% 0%, 100% 40%, 100% 100%, 0% 100%, 0% 40%);z-index:3;"></div>
+    <!-- Text -->
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:490px;left:0;width:800px;text-align:center;color:#0f172a;font-size:42px;font-weight:900;text-transform:uppercase;z-index:5;">Key<span style="color:#3b82f6">Stone</span> Realty</div>
+    `
+},
+{
+    id: 'logo_estate_green',
+    name: 'Green Valley',
+    category: 'logo',
+    categoryLabel: '🏠 Real Estate',
+    width: 800, height: 800,
+    html: `
+    <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ecfdf5;z-index:1;"></div>
+    <!-- Green Hill 1 -->
+    <div class="hd-draggable" style="position:absolute;top:280px;left:250px;width:200px;height:120px;background:#10b981;clip-path:circle(100% at 50% 100%);opacity:0.6;z-index:2;"></div>
+    <!-- Green Hill 2 -->
+    <div class="hd-draggable" style="position:absolute;top:280px;left:350px;width:200px;height:120px;background:#059669;clip-path:circle(100% at 50% 100%);z-index:3;"></div>
+    <!-- Simple House Shape -->
+    <div class="hd-draggable" style="position:absolute;top:250px;left:375px;width:50px;height:50px;background:#fff;clip-path:polygon(50% 0%, 100% 40%, 100% 100%, 0% 100%, 0% 40%);z-index:4;box-shadow: 0 5px 15px rgba(0,0,0,0.1);"></div>
+    <!-- Text -->
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:480px;left:0;width:800px;text-align:center;color:#064e3b;font-size:44px;font-weight:800;z-index:5;">VALLEY <span style="color:#10b981">ESTATES</span></div>
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:540px;left:0;width:800px;text-align:center;color:#059669;font-size:16px;font-weight:bold;letter-spacing:10px;z-index:5;">NATURE MEETS LUXURY</div>
+    `
+},
+{
+    id: 'logo_estate_isometric',
+    name: 'Isometric Plot',
+    category: 'logo',
+    categoryLabel: '🏠 Real Estate',
+    width: 800, height: 800,
+    html: `
+    <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#111827;z-index:1;"></div>
+    <!-- Isometric Cube Side 1 -->
+    <div class="hd-draggable" style="position:absolute;top:250px;left:350px;width:100px;height:100px;background:#4f46e5;transform:rotateX(45deg) rotateZ(45deg);z-index:4;"></div>
+    <!-- Isometric Cube Side 2 (Shadow) -->
+    <div class="hd-draggable" style="position:absolute;top:310px;left:350px;width:100px;height:100px;background:#3730a3;transform:skewY(30deg);z-index:3;"></div>
+    <!-- Decorative Line -->
+    <div class="hd-draggable" style="position:absolute;top:200px;left:400px;width:2px;height:150px;background:rgba(255,255,255,0.2);z-index:2;"></div>
+    <!-- Text -->
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:500px;left:0;width:800px;text-align:center;color:#fff;font-size:46px;font-weight:200;letter-spacing:5px;z-index:5;">STRUCTURE <span style="color:#6366f1;font-weight:900;">DESIGN</span></div>
+    `
+},
+{
+    id: 'realestate_royal_tower',
+    name: 'Royal Tower',
+    category: 'logo',
+    categoryLabel: '🏢 Real Estate',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#07111f,#0f172a,#111827);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:90px;left:90px;width:620px;height:620px;border-radius:50%;background:radial-gradient(circle,rgba(59,130,246,.15),transparent 70%);filter:blur(10px);z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:170px;left:250px;width:90px;height:260px;background:linear-gradient(180deg,#60a5fa,#2563eb);border-radius:12px;box-shadow:0 0 30px rgba(96,165,250,.5);z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:120px;left:355px;width:90px;height:310px;background:linear-gradient(180deg,#93c5fd,#3b82f6);border-radius:12px;box-shadow:0 0 40px rgba(59,130,246,.7);z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:460px;width:90px;height:230px;background:linear-gradient(180deg,#60a5fa,#1d4ed8);border-radius:12px;box-shadow:0 0 30px rgba(96,165,250,.5);z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:145px;left:330px;width:140px;height:30px;background:#fff;clip-path:polygon(50% 0%,100% 100%,0% 100%);z-index:5;opacity:.95;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:250px;left:282px;width:236px;height:6px;background:rgba(255,255,255,.15);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:510px;left:0;width:800px;text-align:center;color:#fff;font-size:54px;font-weight:900;letter-spacing:4px;z-index:6;text-shadow:0 0 20px rgba(59,130,246,.6);">ROYAL TOWER</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:585px;left:0;width:800px;text-align:center;color:#60a5fa;font-size:18px;letter-spacing:10px;font-weight:bold;z-index:6;">LUXURY REAL ESTATE</div>
+
+    `
+},
+# Advanced Real Estate Logo Templates (HTML + CSS Shapes Based)
+
+```js
+
+{
+    id: 'realestate_royal_tower',
+    name: 'Royal Tower',
+    category: 'logo',
+    categoryLabel: '🏢 Real Estate',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#07111f,#0f172a,#111827);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:90px;left:90px;width:620px;height:620px;border-radius:50%;background:radial-gradient(circle,rgba(59,130,246,.15),transparent 70%);filter:blur(10px);z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:170px;left:250px;width:90px;height:260px;background:linear-gradient(180deg,#60a5fa,#2563eb);border-radius:12px;box-shadow:0 0 30px rgba(96,165,250,.5);z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:120px;left:355px;width:90px;height:310px;background:linear-gradient(180deg,#93c5fd,#3b82f6);border-radius:12px;box-shadow:0 0 40px rgba(59,130,246,.7);z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:460px;width:90px;height:230px;background:linear-gradient(180deg,#60a5fa,#1d4ed8);border-radius:12px;box-shadow:0 0 30px rgba(96,165,250,.5);z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:145px;left:330px;width:140px;height:30px;background:#fff;clip-path:polygon(50% 0%,100% 100%,0% 100%);z-index:5;opacity:.95;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:250px;left:282px;width:236px;height:6px;background:rgba(255,255,255,.15);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:510px;left:0;width:800px;text-align:center;color:#fff;font-size:54px;font-weight:900;letter-spacing:4px;z-index:6;text-shadow:0 0 20px rgba(59,130,246,.6);">ROYAL TOWER</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:585px;left:0;width:800px;text-align:center;color:#60a5fa;font-size:18px;letter-spacing:10px;font-weight:bold;z-index:6;">LUXURY REAL ESTATE</div>
+
+    `
+},
+
+{
+    id: 'realestate_gold_estate',
+    name: 'Gold Estate',
+    category: 'logo',
+    categoryLabel: '🏢 Real Estate',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#1c1917,#0f172a);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:160px;left:250px;width:300px;height:300px;border:2px solid rgba(251,191,36,.2);border-radius:50%;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:185px;left:285px;width:230px;height:230px;background:linear-gradient(135deg,#fbbf24,#b45309);clip-path:polygon(50% 0%,100% 40%,82% 100%,18% 100%,0% 40%);box-shadow:0 0 35px rgba(251,191,36,.5);z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:245px;left:340px;width:120px;height:120px;background:#111827;clip-path:polygon(50% 0%,100% 40%,82% 100%,18% 100%,0% 40%);z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:215px;left:320px;width:160px;height:60px;background:rgba(255,255,255,.08);border-radius:50px;filter:blur(10px);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:285px;left:386px;width:28px;height:80px;background:#fbbf24;border-radius:10px;z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:510px;left:0;width:800px;text-align:center;color:#fbbf24;font-size:50px;font-weight:900;letter-spacing:3px;z-index:6;">GOLD ESTATE</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:575px;left:0;width:800px;text-align:center;color:#fde68a;font-size:17px;letter-spacing:12px;font-weight:bold;z-index:6;">PREMIUM PROPERTIES</div>
+
+    `
+},
+
+{
+    id: 'realestate_orbit_home',
+    name: 'Orbit Home',
+    category: 'logo',
+    categoryLabel: '🏢 Real Estate',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#ecfeff,#dbeafe);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:170px;left:250px;width:300px;height:300px;border:14px solid rgba(14,165,233,.25);border-radius:50%;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:205px;left:285px;width:230px;height:230px;border:12px solid rgba(2,132,199,.6);border-radius:50%;z-index:2;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:250px;left:325px;width:150px;height:120px;background:linear-gradient(135deg,#0ea5e9,#0369a1);clip-path:polygon(50% 0%,100% 40%,100% 100%,0% 100%,0% 40%);z-index:4;box-shadow:0 0 30px rgba(14,165,233,.4);"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:230px;left:320px;width:160px;height:70px;background:#0284c7;clip-path:polygon(50% 0%,100% 100%,0% 100%);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:290px;left:382px;width:36px;height:80px;background:#fff;border-radius:10px;z-index:6;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:155px;left:505px;width:24px;height:24px;background:#38bdf8;border-radius:50%;box-shadow:0 0 20px rgba(56,189,248,.8);z-index:6;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:520px;left:0;width:800px;text-align:center;color:#0f172a;font-size:52px;font-weight:900;letter-spacing:2px;z-index:6;">ORBIT HOME</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:590px;left:0;width:800px;text-align:center;color:#0284c7;font-size:16px;font-weight:bold;letter-spacing:10px;z-index:6;">SMART PROPERTY GROUP</div>
+
+    `
+},
+
+{
+    id: 'realestate_metropolitan_grid',
+    name: 'Metropolitan Grid',
+    category: 'logo',
+    categoryLabel: '🏢 Real Estate',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#020617;overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:150px;left:220px;width:360px;height:360px;background:rgba(255,255,255,.03);border-radius:40px;backdrop-filter:blur(10px);border:1px solid rgba(255,255,255,.08);z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:220px;left:290px;width:70px;height:180px;background:linear-gradient(180deg,#a855f7,#6d28d9);border-radius:10px;z-index:3;box-shadow:0 0 20px rgba(168,85,247,.5);"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:170px;left:380px;width:70px;height:230px;background:linear-gradient(180deg,#c084fc,#7c3aed);border-radius:10px;z-index:4;box-shadow:0 0 30px rgba(192,132,252,.7);"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:250px;left:470px;width:70px;height:150px;background:linear-gradient(180deg,#9333ea,#581c87);border-radius:10px;z-index:3;box-shadow:0 0 20px rgba(147,51,234,.5);"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:205px;left:270px;width:290px;height:6px;background:linear-gradient(90deg,transparent,#c084fc,transparent);z-index:5;opacity:.7;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:425px;left:250px;width:310px;height:2px;background:rgba(255,255,255,.08);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:520px;left:0;width:800px;text-align:center;color:#fff;font-size:46px;font-weight:900;letter-spacing:6px;z-index:6;">METROPOLITAN</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:580px;left:0;width:800px;text-align:center;color:#c084fc;font-size:18px;font-weight:bold;letter-spacing:14px;z-index:6;">REAL ESTATE GRID</div>
+
+    `
+},
+
+{
+    id: 'realestate_green_haven',
+    name: 'Green Haven',
+    category: 'logo',
+    categoryLabel: '🏢 Real Estate',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#f0fdf4,#dcfce7,#ecfccb);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:170px;left:250px;width:300px;height:300px;background:radial-gradient(circle,#86efac,transparent 70%);filter:blur(20px);z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:240px;left:305px;width:190px;height:150px;background:linear-gradient(135deg,#22c55e,#15803d);border-radius:20px;z-index:3;box-shadow:0 0 25px rgba(34,197,94,.4);"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:190px;left:290px;width:220px;height:120px;background:#166534;clip-path:polygon(50% 0%,100% 100%,0% 100%);z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:285px;left:380px;width:40px;height:105px;background:#f0fdf4;border-radius:10px;z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:150px;left:505px;width:60px;height:90px;background:linear-gradient(135deg,#4ade80,#15803d);clip-path:polygon(50% 0%,100% 50%,50% 100%,0% 50%);transform:rotate(25deg);z-index:5;opacity:.9;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:160px;left:525px;width:20px;height:90px;background:#166534;border-radius:20px;transform:rotate(25deg);z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:525px;left:0;width:800px;text-align:center;color:#14532d;font-size:50px;font-weight:900;letter-spacing:4px;z-index:6;">GREEN HAVEN</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:590px;left:0;width:800px;text-align:center;color:#22c55e;font-size:17px;font-weight:bold;letter-spacing:10px;z-index:6;">ECO LIVING ESTATES</div>
+
+    `
+},
+# Advanced Real Estate Logo Templates (HTML + CSS Shapes Based)
+
+```js
+$1
+
+,
+
+{
+    id: 'realestate_quantum_arc',
+    name: 'Quantum Arc',
+    category: 'logo',
+    categoryLabel: '🏢 Real Estate',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:radial-gradient(circle at top,#0f172a,#020617 70%);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:120px;left:220px;width:360px;height:360px;border:2px solid rgba(6,182,212,.2);border-radius:50%;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:150px;left:250px;width:300px;height:300px;border:10px solid rgba(34,211,238,.5);border-radius:50%;clip-path:polygon(0 0,100% 0,100% 58%,0 58%);z-index:2;filter:drop-shadow(0 0 20px rgba(34,211,238,.5));"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:220px;left:315px;width:170px;height:150px;background:linear-gradient(135deg,#22d3ee,#0ea5e9);clip-path:polygon(50% 0%,100% 35%,100% 100%,0% 100%,0% 35%);border-radius:18px;z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:190px;left:300px;width:200px;height:90px;background:#06b6d4;clip-path:polygon(50% 0%,100% 100%,0% 100%);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:275px;left:385px;width:30px;height:95px;background:#ecfeff;border-radius:10px;z-index:6;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:180px;left:525px;width:16px;height:16px;background:#67e8f9;border-radius:50%;box-shadow:0 0 20px #67e8f9,0 0 40px #67e8f9;z-index:6;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:520px;left:0;width:800px;text-align:center;color:#ecfeff;font-size:52px;font-weight:900;letter-spacing:5px;z-index:7;text-shadow:0 0 20px rgba(34,211,238,.5);">QUANTUM ARC</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:590px;left:0;width:800px;text-align:center;color:#67e8f9;font-size:17px;letter-spacing:12px;font-weight:bold;z-index:7;">FUTURE PROPERTY NETWORK</div>
+
+    `
+},
+
+{
+    id: 'realestate_imperial_frame',
+    name: 'Imperial Frame',
+    category: 'logo',
+    categoryLabel: '🏢 Real Estate',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(135deg,#111827,#1e1b4b,#0f172a);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:140px;left:240px;width:320px;height:320px;border:3px solid rgba(255,255,255,.08);transform:rotate(45deg);z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:300px;width:200px;height:200px;background:linear-gradient(135deg,#8b5cf6,#4f46e5);transform:rotate(45deg);border-radius:30px;box-shadow:0 0 35px rgba(139,92,246,.5);z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:250px;left:350px;width:100px;height:100px;background:#0f172a;transform:rotate(45deg);border-radius:18px;z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:190px;left:350px;width:100px;height:55px;background:#c4b5fd;clip-path:polygon(50% 0%,100% 100%,0% 100%);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:272px;left:392px;width:16px;height:55px;background:#8b5cf6;border-radius:8px;z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:520px;left:0;width:800px;text-align:center;color:#fff;font-size:48px;font-weight:900;letter-spacing:7px;z-index:6;">IMPERIAL FRAME</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:585px;left:0;width:800px;text-align:center;color:#c4b5fd;font-size:16px;font-weight:bold;letter-spacing:14px;z-index:6;">LUXURY PROPERTY HUB</div>
+
+    `
+},
+
+{
+    id: 'realestate_skyline_matrix',
+    name: 'Skyline Matrix',
+    category: 'logo',
+    categoryLabel: '🏢 Real Estate',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(135deg,#f8fafc,#e0f2fe);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:130px;left:200px;width:400px;height:400px;background:rgba(255,255,255,.35);backdrop-filter:blur(14px);border:1px solid rgba(255,255,255,.7);border-radius:40px;box-shadow:0 10px 40px rgba(14,165,233,.15);z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:210px;left:270px;width:60px;height:180px;background:linear-gradient(180deg,#38bdf8,#0284c7);border-radius:12px;z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:160px;left:360px;width:70px;height:230px;background:linear-gradient(180deg,#0ea5e9,#0369a1);border-radius:12px;z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:240px;left:460px;width:60px;height:150px;background:linear-gradient(180deg,#7dd3fc,#0284c7);border-radius:12px;z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:190px;left:250px;width:290px;height:6px;background:linear-gradient(90deg,transparent,#0ea5e9,transparent);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:300px;left:285px;width:12px;height:12px;background:#fff;border-radius:50%;box-shadow:80px 0 #fff,160px 0 #fff,240px 0 #fff;z-index:6;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:540px;left:0;width:800px;text-align:center;color:#0f172a;font-size:48px;font-weight:900;letter-spacing:4px;z-index:6;">SKYLINE MATRIX</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:600px;left:0;width:800px;text-align:center;color:#0284c7;font-size:16px;font-weight:bold;letter-spacing:11px;z-index:6;">SMART URBAN DEVELOPERS</div>
+
+    `
+},
+
+{
+    id: 'realestate_vertex_residency',
+    name: 'Vertex Residency',
+    category: 'logo',
+    categoryLabel: '🏢 Real Estate',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(135deg,#052e16,#022c22,#0f172a);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:120px;left:210px;width:380px;height:380px;background:radial-gradient(circle,rgba(34,197,94,.18),transparent 70%);filter:blur(10px);z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:180px;left:290px;width:220px;height:220px;background:linear-gradient(135deg,#22c55e,#14532d);clip-path:polygon(50% 0%,100% 50%,50% 100%,0% 50%);transform:rotate(45deg);box-shadow:0 0 35px rgba(34,197,94,.45);z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:235px;left:345px;width:110px;height:110px;background:#ecfdf5;clip-path:polygon(50% 0%,100% 50%,50% 100%,0% 50%);transform:rotate(45deg);z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:210px;left:340px;width:120px;height:60px;background:#bbf7d0;clip-path:polygon(50% 0%,100% 100%,0% 100%);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:270px;left:392px;width:16px;height:60px;background:#16a34a;border-radius:8px;z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:530px;left:0;width:800px;text-align:center;color:#f0fdf4;font-size:50px;font-weight:900;letter-spacing:5px;z-index:6;">VERTEX RESIDENCY</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:595px;left:0;width:800px;text-align:center;color:#4ade80;font-size:16px;font-weight:bold;letter-spacing:12px;z-index:6;">ELEVATED LIVING SPACES</div>
+
+    `
+},
+
+{
+    id: 'realestate_crystal_horizon',
+    name: 'Crystal Horizon',
+    category: 'logo',
+    categoryLabel: '🏢 Real Estate',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(135deg,#faf5ff,#f1f5f9,#ede9fe);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:150px;left:240px;width:320px;height:320px;background:rgba(255,255,255,.4);backdrop-filter:blur(18px);border:1px solid rgba(255,255,255,.8);border-radius:50%;box-shadow:0 10px 40px rgba(168,85,247,.18);z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:305px;width:190px;height:180px;background:linear-gradient(135deg,#c084fc,#7c3aed);clip-path:polygon(50% 0%,100% 40%,80% 100%,20% 100%,0% 40%);z-index:3;box-shadow:0 0 35px rgba(192,132,252,.4);"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:235px;left:345px;width:110px;height:110px;background:#faf5ff;clip-path:polygon(50% 0%,100% 40%,80% 100%,20% 100%,0% 40%);z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:185px;left:330px;width:140px;height:70px;background:#8b5cf6;clip-path:polygon(50% 0%,100% 100%,0% 100%);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:260px;left:390px;width:20px;height:70px;background:#a855f7;border-radius:10px;z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:175px;left:510px;width:18px;height:18px;background:#c084fc;border-radius:50%;box-shadow:0 0 20px rgba(192,132,252,.8);z-index:6;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:530px;left:0;width:800px;text-align:center;color:#4c1d95;font-size:48px;font-weight:900;letter-spacing:4px;z-index:6;">CRYSTAL HORIZON</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:595px;left:0;width:800px;text-align:center;color:#8b5cf6;font-size:16px;font-weight:bold;letter-spacing:13px;z-index:6;">MODERN PROPERTY VISION</div>
+
+    `
+},
+{
+    id: 'food_flame_fork',
+    name: 'Flame Fork',
+    category: 'logo',
+    categoryLabel: '🍔 Food & Restaurant',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(135deg,#1c1917,#0f172a,#111827);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:140px;left:240px;width:320px;height:320px;background:radial-gradient(circle,rgba(249,115,22,.18),transparent 70%);filter:blur(15px);z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:210px;left:330px;width:140px;height:190px;background:linear-gradient(180deg,#fb923c,#ea580c);clip-path:polygon(50% 0%,70% 25%,100% 60%,75% 100%,25% 100%,0% 60%,30% 25%);border-radius:50px;box-shadow:0 0 35px rgba(249,115,22,.5);z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:250px;left:375px;width:18px;height:150px;background:#fff7ed;border-radius:10px;z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:225px;left:350px;width:18px;height:70px;background:#fff7ed;border-radius:10px;z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:225px;left:390px;width:18px;height:70px;background:#fff7ed;border-radius:10px;z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:225px;left:430px;width:18px;height:70px;background:#fff7ed;border-radius:10px;z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:520px;left:0;width:800px;text-align:center;color:#fff;font-size:54px;font-weight:900;letter-spacing:4px;z-index:5;text-shadow:0 0 25px rgba(249,115,22,.5);">FLAME FORK</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:590px;left:0;width:800px;text-align:center;color:#fdba74;font-size:17px;font-weight:bold;letter-spacing:12px;z-index:5;">GRILL • TASTE • FIRE</div>
+
+    `
+},
+
+{
+    id: 'food_sushi_orbit',
+    name: 'Sushi Orbit',
+    category: 'logo',
+    categoryLabel: '🍔 Food & Restaurant',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(135deg,#fafaf9,#e2e8f0,#f1f5f9);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:160px;left:250px;width:300px;height:300px;border:16px solid rgba(239,68,68,.25);border-radius:50%;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:290px;width:220px;height:220px;background:linear-gradient(135deg,#ef4444,#dc2626);border-radius:50%;box-shadow:0 0 35px rgba(239,68,68,.4);z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:240px;left:330px;width:140px;height:140px;background:#fff;border-radius:50%;z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:275px;left:365px;width:70px;height:70px;background:#fb7185;border-radius:50%;z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:170px;left:510px;width:20px;height:20px;background:#ef4444;border-radius:50%;box-shadow:0 0 20px rgba(239,68,68,.6);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:520px;left:0;width:800px;text-align:center;color:#0f172a;font-size:50px;font-weight:900;letter-spacing:5px;z-index:6;">SUSHI ORBIT</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:590px;left:0;width:800px;text-align:center;color:#ef4444;font-size:16px;font-weight:bold;letter-spacing:13px;z-index:6;">JAPANESE FOOD EXPERIENCE</div>
+
+    `
+},
+
+{
+    id: 'food_burger_stack',
+    name: 'Burger Stack',
+    category: 'logo',
+    categoryLabel: '🍔 Food & Restaurant',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(135deg,#451a03,#78350f,#1e293b);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:180px;left:260px;width:280px;height:90px;background:linear-gradient(135deg,#fbbf24,#f59e0b);border-radius:120px 120px 60px 60px;box-shadow:0 0 35px rgba(251,191,36,.4);z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:295px;left:270px;width:260px;height:24px;background:#22c55e;border-radius:20px;z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:325px;left:260px;width:280px;height:40px;background:#7c2d12;border-radius:20px;z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:375px;left:275px;width:250px;height:24px;background:#facc15;border-radius:20px;z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:410px;left:260px;width:280px;height:70px;background:linear-gradient(135deg,#f59e0b,#d97706);border-radius:40px 40px 120px 120px;z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:210px;left:310px;width:12px;height:12px;background:#fff7ed;border-radius:50%;box-shadow:40px 10px #fff7ed,90px 0px #fff7ed,140px 8px #fff7ed;z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:540px;left:0;width:800px;text-align:center;color:#fff7ed;font-size:52px;font-weight:900;letter-spacing:5px;z-index:6;">BURGER STACK</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:605px;left:0;width:800px;text-align:center;color:#fbbf24;font-size:17px;font-weight:bold;letter-spacing:12px;z-index:6;">FAST FOOD HOUSE</div>
+
+    `
+},
+
+{
+    id: 'food_coffee_pulse',
+    name: 'Coffee Pulse',
+    category: 'logo',
+    categoryLabel: '🍔 Food & Restaurant',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(135deg,#111827,#1e293b,#0f172a);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:190px;left:300px;width:200px;height:180px;background:linear-gradient(135deg,#f8fafc,#e2e8f0);border-radius:0 0 50px 50px;z-index:3;box-shadow:0 0 35px rgba(255,255,255,.15);"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:220px;left:470px;width:60px;height:80px;border:12px solid #f8fafc;border-left:none;border-radius:0 40px 40px 0;z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:150px;left:335px;width:20px;height:80px;background:linear-gradient(180deg,#fb923c,transparent);border-radius:20px;filter:blur(2px);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:130px;left:390px;width:20px;height:100px;background:linear-gradient(180deg,#fdba74,transparent);border-radius:20px;filter:blur(2px);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:160px;left:445px;width:20px;height:70px;background:linear-gradient(180deg,#fb923c,transparent);border-radius:20px;filter:blur(2px);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:390px;left:280px;width:240px;height:10px;background:#fb923c;border-radius:20px;z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:500px;left:0;width:800px;text-align:center;color:#fff;font-size:54px;font-weight:900;letter-spacing:5px;z-index:6;">COFFEE PULSE</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:570px;left:0;width:800px;text-align:center;color:#fdba74;font-size:16px;font-weight:bold;letter-spacing:14px;z-index:6;">CAFE • LOUNGE • BREW</div>
+
+    `
+},
+
+{
+    id: 'food_pizza_crown',
+    name: 'Pizza Crown',
+    category: 'logo',
+    categoryLabel: '🍔 Food & Restaurant',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(135deg,#7f1d1d,#111827,#1e293b);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:170px;left:270px;width:260px;height:260px;background:linear-gradient(135deg,#f59e0b,#ea580c);clip-path:polygon(50% 0%,100% 100%,0% 100%);border-radius:20px;box-shadow:0 0 35px rgba(249,115,22,.4);z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:210px;left:315px;width:170px;height:170px;background:#fcd34d;clip-path:polygon(50% 0%,100% 100%,0% 100%);z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:300px;left:340px;width:24px;height:24px;background:#dc2626;border-radius:50%;z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:260px;left:390px;width:24px;height:24px;background:#dc2626;border-radius:50%;z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:320px;left:420px;width:24px;height:24px;background:#dc2626;border-radius:50%;z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:240px;left:355px;width:14px;height:14px;background:#16a34a;border-radius:50%;box-shadow:60px 60px #16a34a,90px 110px #16a34a;z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:530px;left:0;width:800px;text-align:center;color:#fff7ed;font-size:52px;font-weight:900;letter-spacing:4px;z-index:6;text-shadow:0 0 20px rgba(249,115,22,.5);">PIZZA CROWN</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:600px;left:0;width:800px;text-align:center;color:#fb923c;font-size:16px;font-weight:bold;letter-spacing:12px;z-index:6;">ITALIAN WOOD FIRE KITCHEN</div>
+
+    `
+},
+{
+    id: 'food_neon_bistro',
+    name: 'Neon Bistro',
+    category: 'logo',
+    categoryLabel: '🍔 Food & Restaurant',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:radial-gradient(circle at top,#1e1b4b,#020617 75%);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:120px;left:220px;width:360px;height:360px;border:2px solid rgba(236,72,153,.15);border-radius:50%;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:185px;left:295px;width:210px;height:210px;border:14px solid #ec4899;border-radius:50%;clip-path:polygon(0 0,100% 0,100% 65%,0 65%);box-shadow:0 0 35px rgba(236,72,153,.7);z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:260px;left:350px;width:100px;height:120px;background:linear-gradient(135deg,#f472b6,#db2777);border-radius:0 0 35px 35px;z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:220px;left:360px;width:18px;height:70px;background:#fdf2f8;border-radius:10px;z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:205px;left:390px;width:18px;height:85px;background:#fdf2f8;border-radius:10px;z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:220px;left:420px;width:18px;height:70px;background:#fdf2f8;border-radius:10px;z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:520px;left:0;width:800px;text-align:center;color:#fff;font-size:52px;font-weight:900;letter-spacing:6px;z-index:6;text-shadow:0 0 25px rgba(236,72,153,.6);">NEON BISTRO</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:590px;left:0;width:800px;text-align:center;color:#f9a8d4;font-size:16px;font-weight:bold;letter-spacing:14px;z-index:6;">PREMIUM NIGHT DINING</div>
+
+    `
+},
+
+{
+    id: 'food_crystal_chef',
+    name: 'Crystal Chef',
+    category: 'logo',
+    categoryLabel: '🍔 Food & Restaurant',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(135deg,#f8fafc,#dbeafe,#eef2ff);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:140px;left:230px;width:340px;height:340px;background:rgba(255,255,255,.35);backdrop-filter:blur(18px);border:1px solid rgba(255,255,255,.8);border-radius:40px;box-shadow:0 10px 45px rgba(59,130,246,.15);z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:190px;left:310px;width:180px;height:180px;background:linear-gradient(135deg,#60a5fa,#2563eb);clip-path:polygon(50% 0%,100% 25%,100% 75%,50% 100%,0% 75%,0% 25%);box-shadow:0 0 35px rgba(59,130,246,.4);z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:235px;left:355px;width:90px;height:90px;background:#eff6ff;border-radius:50%;z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:165px;left:370px;width:20px;height:90px;background:#dbeafe;border-radius:20px;filter:blur(1px);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:180px;left:410px;width:20px;height:75px;background:#dbeafe;border-radius:20px;filter:blur(1px);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:525px;left:0;width:800px;text-align:center;color:#1e3a8a;font-size:50px;font-weight:900;letter-spacing:5px;z-index:6;">CRYSTAL CHEF</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:592px;left:0;width:800px;text-align:center;color:#3b82f6;font-size:16px;font-weight:bold;letter-spacing:12px;z-index:6;">MODERN FINE CUISINE</div>
+
+    `
+},
+
+{
+    id: 'food_golden_taco',
+    name: 'Golden Taco',
+    category: 'logo',
+    categoryLabel: '🍔 Food & Restaurant',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(135deg,#451a03,#1e293b,#111827);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:170px;left:260px;width:280px;height:180px;background:linear-gradient(180deg,#facc15,#f59e0b);border-radius:180px 180px 0 0;box-shadow:0 0 35px rgba(250,204,21,.45);z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:250px;left:280px;width:240px;height:90px;background:#22c55e;border-radius:80px;z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:275px;left:300px;width:18px;height:18px;background:#dc2626;border-radius:50%;box-shadow:50px -10px #dc2626,100px 5px #dc2626,150px -8px #dc2626;z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:215px;left:315px;width:10px;height:10px;background:#fff7ed;border-radius:50%;box-shadow:35px 10px #fff7ed,70px -2px #fff7ed,120px 8px #fff7ed,160px -5px #fff7ed;z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:520px;left:0;width:800px;text-align:center;color:#fff7ed;font-size:52px;font-weight:900;letter-spacing:5px;z-index:6;text-shadow:0 0 25px rgba(250,204,21,.5);">GOLDEN TACO</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:590px;left:0;width:800px;text-align:center;color:#facc15;font-size:16px;font-weight:bold;letter-spacing:13px;z-index:6;">MEXICAN STREET FLAVORS</div>
+
+    `
+},
+
+{
+    id: 'food_urban_noodle',
+    name: 'Urban Noodle',
+    category: 'logo',
+    categoryLabel: '🍔 Food & Restaurant',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(135deg,#020617,#0f172a,#111827);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:190px;left:290px;width:220px;height:220px;border:14px solid #f59e0b;border-radius:50%;clip-path:polygon(0 0,100% 0,100% 72%,0 72%);box-shadow:0 0 35px rgba(245,158,11,.45);z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:330px;left:310px;width:180px;height:25px;background:#fbbf24;border-radius:20px;z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:220px;left:360px;width:10px;height:120px;background:#fde68a;border-radius:10px;transform:rotate(-18deg);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:220px;left:410px;width:10px;height:120px;background:#fde68a;border-radius:10px;transform:rotate(18deg);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:235px;left:335px;width:130px;height:60px;border-top:6px solid #fff7ed;border-radius:50%;z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:525px;left:0;width:800px;text-align:center;color:#fff;font-size:50px;font-weight:900;letter-spacing:5px;z-index:6;">URBAN NOODLE</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:595px;left:0;width:800px;text-align:center;color:#fbbf24;font-size:16px;font-weight:bold;letter-spacing:12px;z-index:6;">ASIAN STREET KITCHEN</div>
+
+    `
+},
+
+{
+    id: 'food_royal_dessert',
+    name: 'Royal Dessert',
+    category: 'logo',
+    categoryLabel: '🍔 Food & Restaurant',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(135deg,#4c0519,#111827,#1e293b);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:160px;left:260px;width:280px;height:280px;background:linear-gradient(135deg,#f9a8d4,#ec4899);border-radius:50%;box-shadow:0 0 40px rgba(236,72,153,.45);z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:220px;left:320px;width:160px;height:160px;background:#fff1f2;border-radius:50%;z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:190px;left:350px;width:100px;height:70px;background:#fbcfe8;border-radius:60px 60px 20px 20px;z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:260px;left:375px;width:50px;height:50px;background:#ec4899;border-radius:50%;z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:160px;left:390px;width:16px;height:40px;background:#fff;border-radius:10px;z-index:6;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:145px;left:385px;width:26px;height:26px;background:#fde68a;border-radius:50%;box-shadow:0 0 20px rgba(253,230,138,.7);z-index:6;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:525px;left:0;width:800px;text-align:center;color:#fff1f2;font-size:50px;font-weight:900;letter-spacing:5px;z-index:6;text-shadow:0 0 25px rgba(236,72,153,.5);">ROYAL DESSERT</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:595px;left:0;width:800px;text-align:center;color:#f9a8d4;font-size:16px;font-weight:bold;letter-spacing:13px;z-index:6;">CAKES • SWEETS • LOVE</div>
+
+    `
+},
+{
+    id: 'marketing_growth_wave',
+    name: 'Growth Wave',
+    category: 'logo',
+    categoryLabel: '📈 Digital Marketing',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(135deg,#020617,#0f172a,#111827);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:150px;left:220px;width:360px;height:360px;background:radial-gradient(circle,rgba(59,130,246,.18),transparent 70%);filter:blur(12px);z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:330px;left:270px;width:260px;height:14px;background:linear-gradient(90deg,#06b6d4,#3b82f6,#8b5cf6);border-radius:20px;transform:rotate(-18deg);box-shadow:0 0 25px rgba(59,130,246,.5);z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:250px;left:455px;width:0;height:0;border-left:40px solid #8b5cf6;border-top:25px solid transparent;border-bottom:25px solid transparent;transform:rotate(-18deg);z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:300px;left:310px;width:24px;height:24px;background:#06b6d4;border-radius:50%;box-shadow:80px -40px #3b82f6,160px -85px #8b5cf6;z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:520px;left:0;width:800px;text-align:center;color:#fff;font-size:52px;font-weight:900;letter-spacing:5px;z-index:6;text-shadow:0 0 25px rgba(59,130,246,.5);">GROWTH WAVE</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:592px;left:0;width:800px;text-align:center;color:#60a5fa;font-size:16px;font-weight:bold;letter-spacing:13px;z-index:6;">DIGITAL MARKETING AGENCY</div>
+
+    `
+},
+
+{
+    id: 'marketing_data_pulse',
+    name: 'Data Pulse',
+    category: 'logo',
+    categoryLabel: '📈 Digital Marketing',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(135deg,#f8fafc,#dbeafe,#eef2ff);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:180px;left:260px;width:280px;height:280px;background:rgba(255,255,255,.35);backdrop-filter:blur(16px);border:1px solid rgba(255,255,255,.8);border-radius:40px;box-shadow:0 10px 40px rgba(59,130,246,.15);z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:290px;left:310px;width:40px;height:90px;background:linear-gradient(180deg,#38bdf8,#0284c7);border-radius:12px;z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:240px;left:380px;width:40px;height:140px;background:linear-gradient(180deg,#0ea5e9,#0369a1);border-radius:12px;z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:450px;width:40px;height:180px;background:linear-gradient(180deg,#2563eb,#1d4ed8);border-radius:12px;z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:215px;left:300px;width:210px;height:6px;background:linear-gradient(90deg,transparent,#3b82f6,transparent);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:520px;left:0;width:800px;text-align:center;color:#0f172a;font-size:50px;font-weight:900;letter-spacing:5px;z-index:6;">DATA PULSE</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:590px;left:0;width:800px;text-align:center;color:#2563eb;font-size:16px;font-weight:bold;letter-spacing:12px;z-index:6;">SMART ANALYTICS MEDIA</div>
+
+    `
+},
+
+{
+    id: 'marketing_neon_click',
+    name: 'Neon Click',
+    category: 'logo',
+    categoryLabel: '📈 Digital Marketing',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:radial-gradient(circle at top,#1e1b4b,#020617 75%);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:160px;left:250px;width:300px;height:300px;border:2px solid rgba(236,72,153,.18);border-radius:50%;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:210px;left:310px;width:180px;height:180px;background:linear-gradient(135deg,#ec4899,#8b5cf6);clip-path:polygon(0 0,100% 50%,0 100%);box-shadow:0 0 35px rgba(236,72,153,.5);z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:265px;left:355px;width:70px;height:70px;background:#fff;border-radius:50%;z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:285px;left:375px;width:30px;height:30px;background:#ec4899;border-radius:50%;z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:170px;left:510px;width:18px;height:18px;background:#f472b6;border-radius:50%;box-shadow:0 0 20px rgba(244,114,182,.8);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:520px;left:0;width:800px;text-align:center;color:#fff;font-size:52px;font-weight:900;letter-spacing:5px;z-index:6;text-shadow:0 0 25px rgba(236,72,153,.6);">NEON CLICK</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:592px;left:0;width:800px;text-align:center;color:#f9a8d4;font-size:16px;font-weight:bold;letter-spacing:14px;z-index:6;">SOCIAL MEDIA STRATEGY</div>
+
+    `
+},
+
+{
+    id: 'marketing_quantum_ads',
+    name: 'Quantum Ads',
+    category: 'logo',
+    categoryLabel: '📈 Digital Marketing',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(135deg,#052e16,#022c22,#0f172a);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:140px;left:220px;width:360px;height:360px;background:radial-gradient(circle,rgba(34,197,94,.18),transparent 70%);filter:blur(12px);z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:300px;width:200px;height:200px;border:14px solid #22c55e;border-radius:50%;clip-path:polygon(0 0,100% 0,100% 55%,0 55%);box-shadow:0 0 35px rgba(34,197,94,.5);z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:255px;left:355px;width:90px;height:90px;background:#22c55e;clip-path:polygon(0 50%,100% 0,100% 100%);z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:220px;left:510px;width:20px;height:20px;background:#86efac;border-radius:50%;box-shadow:0 0 25px rgba(134,239,172,.8);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:520px;left:0;width:800px;text-align:center;color:#f0fdf4;font-size:50px;font-weight:900;letter-spacing:5px;z-index:6;">QUANTUM ADS</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:592px;left:0;width:800px;text-align:center;color:#4ade80;font-size:16px;font-weight:bold;letter-spacing:12px;z-index:6;">PERFORMANCE MARKETING</div>
+
+    `
+},
+
+{
+    id: 'marketing_viral_matrix',
+    name: 'Viral Matrix',
+    category: 'logo',
+    categoryLabel: '📈 Digital Marketing',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(135deg,#111827,#1e293b,#0f172a);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:160px;left:240px;width:320px;height:320px;background:rgba(255,255,255,.03);backdrop-filter:blur(12px);border:1px solid rgba(255,255,255,.08);border-radius:40px;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:240px;left:310px;width:180px;height:180px;display:grid;grid-template-columns:repeat(3,1fr);gap:12px;z-index:3;">
+
+        <div style="background:#06b6d4;border-radius:14px;box-shadow:0 0 20px rgba(6,182,212,.4);"></div>
+        <div style="background:#3b82f6;border-radius:14px;box-shadow:0 0 20px rgba(59,130,246,.4);"></div>
+        <div style="background:#8b5cf6;border-radius:14px;box-shadow:0 0 20px rgba(139,92,246,.4);"></div>
+
+        <div style="background:#8b5cf6;border-radius:14px;box-shadow:0 0 20px rgba(139,92,246,.4);"></div>
+        <div style="background:#06b6d4;border-radius:14px;box-shadow:0 0 20px rgba(6,182,212,.4);"></div>
+        <div style="background:#3b82f6;border-radius:14px;box-shadow:0 0 20px rgba(59,130,246,.4);"></div>
+
+        <div style="background:#3b82f6;border-radius:14px;box-shadow:0 0 20px rgba(59,130,246,.4);"></div>
+        <div style="background:#8b5cf6;border-radius:14px;box-shadow:0 0 20px rgba(139,92,246,.4);"></div>
+        <div style="background:#06b6d4;border-radius:14px;box-shadow:0 0 20px rgba(6,182,212,.4);"></div>
+
+    </div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:540px;left:0;width:800px;text-align:center;color:#fff;font-size:50px;font-weight:900;letter-spacing:5px;z-index:6;">VIRAL MATRIX</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:605px;left:0;width:800px;text-align:center;color:#60a5fa;font-size:16px;font-weight:bold;letter-spacing:14px;z-index:6;">CONTENT • TRAFFIC • GROWTH</div>
+
+    `
+},
+{
+    id: 'marketing_pixel_funnel',
+    name: 'Pixel Funnel',
+    category: 'logo',
+    categoryLabel: '📈 Digital Marketing',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:radial-gradient(circle at top,#0f172a,#020617 75%);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:130px;left:220px;width:360px;height:360px;border:2px solid rgba(14,165,233,.15);border-radius:50%;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:300px;width:200px;height:200px;display:grid;grid-template-columns:repeat(4,1fr);gap:10px;z-index:3;">
+
+        <div style="background:#06b6d4;border-radius:12px;"></div>
+        <div style="background:#3b82f6;border-radius:12px;"></div>
+        <div style="background:#8b5cf6;border-radius:12px;"></div>
+        <div style="background:#ec4899;border-radius:12px;"></div>
+
+        <div style="background:#8b5cf6;border-radius:12px;"></div>
+        <div style="background:#06b6d4;border-radius:12px;"></div>
+        <div style="background:#3b82f6;border-radius:12px;"></div>
+        <div style="background:#ec4899;border-radius:12px;"></div>
+
+        <div style="background:#3b82f6;border-radius:12px;"></div>
+        <div style="background:#8b5cf6;border-radius:12px;"></div>
+        <div style="background:#06b6d4;border-radius:12px;"></div>
+        <div style="background:#ec4899;border-radius:12px;"></div>
+
+        <div style="background:#ec4899;border-radius:12px;"></div>
+        <div style="background:#06b6d4;border-radius:12px;"></div>
+        <div style="background:#3b82f6;border-radius:12px;"></div>
+        <div style="background:#8b5cf6;border-radius:12px;"></div>
+
+    </div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:540px;left:0;width:800px;text-align:center;color:#fff;font-size:50px;font-weight:900;letter-spacing:6px;z-index:6;text-shadow:0 0 25px rgba(59,130,246,.4);">PIXEL FUNNEL</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:608px;left:0;width:800px;text-align:center;color:#93c5fd;font-size:16px;font-weight:bold;letter-spacing:14px;z-index:6;">LEADS • ADS • CONVERSIONS</div>
+
+    `
+},
+
+{
+    id: 'marketing_hyper_target',
+    name: 'Hyper Target',
+    category: 'logo',
+    categoryLabel: '📈 Digital Marketing',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(135deg,#111827,#1e1b4b,#020617);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:160px;left:250px;width:300px;height:300px;border:14px solid rgba(236,72,153,.35);border-radius:50%;z-index:2;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:220px;left:310px;width:180px;height:180px;border:12px solid rgba(139,92,246,.55);border-radius:50%;z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:285px;left:375px;width:50px;height:50px;background:#ec4899;border-radius:50%;box-shadow:0 0 30px rgba(236,72,153,.7);z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:305px;left:180px;width:210px;height:8px;background:linear-gradient(90deg,#ec4899,transparent);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:305px;left:410px;width:210px;height:8px;background:linear-gradient(90deg,transparent,#8b5cf6);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:110px;left:397px;width:8px;height:210px;background:linear-gradient(180deg,#8b5cf6,transparent);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:305px;left:397px;width:8px;height:210px;background:linear-gradient(180deg,transparent,#ec4899);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:530px;left:0;width:800px;text-align:center;color:#fff;font-size:52px;font-weight:900;letter-spacing:5px;z-index:6;">HYPER TARGET</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:600px;left:0;width:800px;text-align:center;color:#f9a8d4;font-size:16px;font-weight:bold;letter-spacing:13px;z-index:6;">PRECISION ADVERTISING</div>
+
+    `
+},
+
+{
+    id: 'marketing_signal_boost',
+    name: 'Signal Boost',
+    category: 'logo',
+    categoryLabel: '📈 Digital Marketing',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(135deg,#052e16,#022c22,#020617);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:220px;left:350px;width:100px;height:100px;background:linear-gradient(135deg,#22c55e,#16a34a);transform:rotate(45deg);border-radius:20px;box-shadow:0 0 35px rgba(34,197,94,.5);z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:190px;left:320px;width:160px;height:160px;border:10px solid rgba(34,197,94,.4);border-radius:50%;clip-path:polygon(0 0,100% 0,100% 50%,0 50%);z-index:2;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:160px;left:290px;width:220px;height:220px;border:8px solid rgba(74,222,128,.2);border-radius:50%;clip-path:polygon(0 0,100% 0,100% 40%,0 40%);z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:250px;left:385px;width:30px;height:30px;background:#f0fdf4;border-radius:50%;z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:535px;left:0;width:800px;text-align:center;color:#f0fdf4;font-size:50px;font-weight:900;letter-spacing:5px;z-index:6;">SIGNAL BOOST</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:605px;left:0;width:800px;text-align:center;color:#4ade80;font-size:16px;font-weight:bold;letter-spacing:14px;z-index:6;">BRAND VISIBILITY EXPERTS</div>
+
+    `
+},
+
+{
+    id: 'marketing_ai_reach',
+    name: 'AI Reach',
+    category: 'logo',
+    categoryLabel: '📈 Digital Marketing',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(135deg,#f8fafc,#eef2ff,#dbeafe);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:170px;left:250px;width:300px;height:300px;background:rgba(255,255,255,.4);backdrop-filter:blur(20px);border:1px solid rgba(255,255,255,.8);border-radius:50%;box-shadow:0 10px 40px rgba(59,130,246,.15);z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:230px;left:310px;width:180px;height:180px;display:grid;grid-template-columns:repeat(3,1fr);gap:12px;z-index:3;">
+
+        <div style="background:#06b6d4;border-radius:50%;"></div>
+        <div style="background:#3b82f6;border-radius:50%;"></div>
+        <div style="background:#8b5cf6;border-radius:50%;"></div>
+
+        <div style="background:#8b5cf6;border-radius:50%;"></div>
+        <div style="background:#ec4899;border-radius:50%;"></div>
+        <div style="background:#06b6d4;border-radius:50%;"></div>
+
+        <div style="background:#3b82f6;border-radius:50%;"></div>
+        <div style="background:#06b6d4;border-radius:50%;"></div>
+        <div style="background:#8b5cf6;border-radius:50%;"></div>
+
+    </div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:295px;left:390px;width:20px;height:20px;background:#fff;border-radius:50%;z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:530px;left:0;width:800px;text-align:center;color:#1e293b;font-size:52px;font-weight:900;letter-spacing:5px;z-index:6;">AI REACH</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:600px;left:0;width:800px;text-align:center;color:#2563eb;font-size:16px;font-weight:bold;letter-spacing:14px;z-index:6;">AUTOMATED GROWTH SYSTEMS</div>
+
+    `
+},
+
+{
+    id: 'marketing_conversion_loop',
+    name: 'Conversion Loop',
+    category: 'logo',
+    categoryLabel: '📈 Digital Marketing',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:radial-gradient(circle at top,#1e293b,#020617 75%);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:170px;left:260px;width:280px;height:280px;border:16px solid rgba(59,130,246,.25);border-radius:50%;clip-path:polygon(0 0,100% 0,100% 70%,0 70%);z-index:2;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:220px;left:310px;width:180px;height:180px;border:14px solid rgba(139,92,246,.45);border-radius:50%;clip-path:polygon(0 0,100% 0,100% 70%,0 70%);z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:210px;left:450px;width:0;height:0;border-left:28px solid #8b5cf6;border-top:18px solid transparent;border-bottom:18px solid transparent;transform:rotate(40deg);z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:365px;left:295px;width:0;height:0;border-right:28px solid #06b6d4;border-top:18px solid transparent;border-bottom:18px solid transparent;transform:rotate(40deg);z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:285px;left:375px;width:50px;height:50px;background:#fff;border-radius:50%;box-shadow:0 0 20px rgba(255,255,255,.5);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:535px;left:0;width:800px;text-align:center;color:#fff;font-size:50px;font-weight:900;letter-spacing:6px;z-index:6;text-shadow:0 0 25px rgba(59,130,246,.5);">CONVERSION LOOP</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:605px;left:0;width:800px;text-align:center;color:#93c5fd;font-size:16px;font-weight:bold;letter-spacing:13px;z-index:6;">TRAFFIC • SALES • SCALE</div>
+
+    `
+},
+{
+    id: 'tool_quantum_grid',
+    name: 'Quantum Grid',
+    category: 'logo',
+    categoryLabel: '🛠 Tool Based',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:radial-gradient(circle at top,#0f172a,#020617 75%);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:170px;left:250px;width:300px;height:300px;border:2px solid rgba(59,130,246,.15);border-radius:40px;transform:rotate(45deg);z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:240px;left:320px;width:160px;height:160px;display:grid;grid-template-columns:repeat(3,1fr);gap:10px;z-index:3;">
+
+        <div style="background:#06b6d4;border-radius:12px;box-shadow:0 0 20px rgba(6,182,212,.5);"></div>
+        <div style="background:#3b82f6;border-radius:12px;box-shadow:0 0 20px rgba(59,130,246,.5);"></div>
+        <div style="background:#8b5cf6;border-radius:12px;box-shadow:0 0 20px rgba(139,92,246,.5);"></div>
+
+        <div style="background:#8b5cf6;border-radius:12px;box-shadow:0 0 20px rgba(139,92,246,.5);"></div>
+        <div style="background:#ffffff;border-radius:12px;"></div>
+        <div style="background:#06b6d4;border-radius:12px;box-shadow:0 0 20px rgba(6,182,212,.5);"></div>
+
+        <div style="background:#3b82f6;border-radius:12px;box-shadow:0 0 20px rgba(59,130,246,.5);"></div>
+        <div style="background:#06b6d4;border-radius:12px;box-shadow:0 0 20px rgba(6,182,212,.5);"></div>
+        <div style="background:#8b5cf6;border-radius:12px;box-shadow:0 0 20px rgba(139,92,246,.5);"></div>
+
+    </div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:540px;left:0;width:800px;text-align:center;color:#fff;font-size:52px;font-weight:900;letter-spacing:5px;z-index:6;text-shadow:0 0 25px rgba(59,130,246,.4);">QUANTUM GRID</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:608px;left:0;width:800px;text-align:center;color:#93c5fd;font-size:16px;font-weight:bold;letter-spacing:14px;z-index:6;">SMART ONLINE UTILITIES</div>
+
+    `
+},
+
+{
+    id: 'tool_cyber_core',
+    name: 'Cyber Core',
+    category: 'logo',
+    categoryLabel: '🛠 Tool Based',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(135deg,#111827,#1e1b4b,#020617);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:180px;left:280px;width:240px;height:240px;border:14px solid #8b5cf6;border-radius:50%;box-shadow:0 0 35px rgba(139,92,246,.45);z-index:2;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:235px;left:335px;width:130px;height:130px;background:linear-gradient(135deg,#06b6d4,#8b5cf6);clip-path:polygon(50% 0%,100% 50%,50% 100%,0% 50%);box-shadow:0 0 35px rgba(139,92,246,.5);z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:280px;left:380px;width:40px;height:40px;background:#fff;border-radius:50%;z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:160px;left:395px;width:10px;height:70px;background:#8b5cf6;z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:370px;left:395px;width:10px;height:70px;background:#06b6d4;z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:295px;left:250px;width:70px;height:10px;background:#8b5cf6;z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:295px;left:480px;width:70px;height:10px;background:#06b6d4;z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:535px;left:0;width:800px;text-align:center;color:#fff;font-size:50px;font-weight:900;letter-spacing:5px;z-index:6;">CYBER CORE</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:605px;left:0;width:800px;text-align:center;color:#c4b5fd;font-size:16px;font-weight:bold;letter-spacing:13px;z-index:6;">AI TOOLS PLATFORM</div>
+
+    `
+},
+
+{
+    id: 'tool_holo_stack',
+    name: 'Holo Stack',
+    category: 'logo',
+    categoryLabel: '🛠 Tool Based',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(135deg,#f8fafc,#dbeafe,#eef2ff);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:180px;left:240px;width:320px;height:320px;background:rgba(255,255,255,.35);backdrop-filter:blur(20px);border:1px solid rgba(255,255,255,.8);border-radius:40px;box-shadow:0 15px 45px rgba(59,130,246,.15);z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:220px;left:300px;width:200px;height:50px;background:linear-gradient(90deg,#06b6d4,#3b82f6);border-radius:16px;box-shadow:0 0 25px rgba(59,130,246,.4);z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:295px;left:325px;width:150px;height:50px;background:linear-gradient(90deg,#3b82f6,#8b5cf6);border-radius:16px;box-shadow:0 0 25px rgba(139,92,246,.4);z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:370px;left:350px;width:100px;height:50px;background:linear-gradient(90deg,#8b5cf6,#ec4899);border-radius:16px;box-shadow:0 0 25px rgba(236,72,153,.4);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:545px;left:0;width:800px;text-align:center;color:#1e293b;font-size:52px;font-weight:900;letter-spacing:5px;z-index:6;">HOLO STACK</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:612px;left:0;width:800px;text-align:center;color:#2563eb;font-size:16px;font-weight:bold;letter-spacing:14px;z-index:6;">MODERN WEB UTILITIES</div>
+
+    `
+},
+
+{
+    id: 'tool_neon_hex',
+    name: 'Neon Hex',
+    category: 'logo',
+    categoryLabel: '🛠 Tool Based',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:radial-gradient(circle at top,#1e293b,#020617 75%);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:190px;left:290px;width:220px;height:220px;background:linear-gradient(135deg,#06b6d4,#8b5cf6);clip-path:polygon(25% 6%,75% 6%,100% 50%,75% 94%,25% 94%,0% 50%);box-shadow:0 0 40px rgba(139,92,246,.5);z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:245px;left:345px;width:110px;height:110px;background:#020617;clip-path:polygon(25% 6%,75% 6%,100% 50%,75% 94%,25% 94%,0% 50%);z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:280px;left:380px;width:40px;height:40px;background:#ffffff;border-radius:50%;box-shadow:0 0 20px rgba(255,255,255,.8);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:120px;left:390px;width:20px;height:20px;background:#06b6d4;border-radius:50%;box-shadow:0 0 25px rgba(6,182,212,.8);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:450px;left:390px;width:20px;height:20px;background:#8b5cf6;border-radius:50%;box-shadow:0 0 25px rgba(139,92,246,.8);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:540px;left:0;width:800px;text-align:center;color:#fff;font-size:52px;font-weight:900;letter-spacing:5px;z-index:6;text-shadow:0 0 25px rgba(139,92,246,.5);">NEON HEX</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:608px;left:0;width:800px;text-align:center;color:#c4b5fd;font-size:16px;font-weight:bold;letter-spacing:14px;z-index:6;">DIGITAL TOOLS HUB</div>
+
+    `
+},
+
+{
+    id: 'tool_orbit_panel',
+    name: 'Orbit Panel',
+    category: 'logo',
+    categoryLabel: '🛠 Tool Based',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(135deg,#020617,#0f172a,#111827);overflow:hidden;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:170px;left:250px;width:300px;height:300px;border:3px solid rgba(59,130,246,.2);border-radius:50%;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:220px;left:300px;width:200px;height:200px;border:12px solid rgba(139,92,246,.5);border-radius:50%;clip-path:polygon(0 0,100% 0,100% 60%,0 60%);z-index:2;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:250px;left:350px;width:100px;height:100px;background:linear-gradient(135deg,#06b6d4,#3b82f6);border-radius:24px;transform:rotate(45deg);box-shadow:0 0 35px rgba(59,130,246,.5);z-index:3;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:285px;left:385px;width:30px;height:30px;background:#fff;border-radius:50%;z-index:4;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:210px;left:510px;width:18px;height:18px;background:#06b6d4;border-radius:50%;box-shadow:0 0 20px rgba(6,182,212,.8);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:390px;left:250px;width:18px;height:18px;background:#8b5cf6;border-radius:50%;box-shadow:0 0 20px rgba(139,92,246,.8);z-index:5;"></div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:540px;left:0;width:800px;text-align:center;color:#fff;font-size:52px;font-weight:900;letter-spacing:5px;z-index:6;text-shadow:0 0 25px rgba(59,130,246,.5);">ORBIT PANEL</div>
+
+    <div class="hd-draggable" data-type="text" style="position:absolute;top:608px;left:0;width:800px;text-align:center;color:#93c5fd;font-size:16px;font-weight:bold;letter-spacing:14px;z-index:6;">ONLINE TOOL SUITE</div>
+
+    `
+},
     // â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
     // CATEGORY: ðŸªª Visiting Cards (5 Templates)
     // â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
