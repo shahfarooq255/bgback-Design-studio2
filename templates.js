@@ -16430,8 +16430,8 @@ html: `
 <div class="hd-draggable" data-type="text"
     style="position:absolute;top:585px;left:0;width:800px;text-align:center;color:#60a5fa;font-size:18px;letter-spacing:10px;font-weight:bold;z-index:6;">
     LUXURY REAL ESTATE</div>
-
 `
+},
     {
         id: 'realestate_gold_estate',
 name: 'Gold Estate',
