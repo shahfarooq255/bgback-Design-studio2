@@ -15368,21 +15368,14 @@ window.HD_TEMPLATES = [
         `
     },
     {
-        id: 'logo_zen_orbit',
-        name: 'Zen Orbit',
-        category: 'logo',
-        categoryLabel: 'ðŸ’Ž Logo',
-        width: 800, height: 800,
-        html: `
-        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f8fafc;z-index:1;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:210px;left:280px;width:240px;height:240px;border:15px solid #10b981;border-radius:50%;z-index:2;opacity:0.2;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:230px;left:300px;width:200px;height:200px;border:15px solid #059669;border-radius:50%;z-index:3;opacity:0.5;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:250px;left:320px;width:160px;height:160px;background:#047857;border-radius:50%;z-index:4;opacity:0.9;"></div>
-        <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:510px;left:0;width:800px;text-align:center;color:#064e3b;font-size:44px;font-weight:900;z-index:5;">BGBACK STUDIO</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:570px;left:0;width:800px;text-align:center;color:#10b981;font-size:16px;font-weight:bold;letter-spacing:12px;z-index:5;">MINIMALISM REDEFINED</div>
-        `
-    },
+    "id": "logo_zen_orbit",
+    "name": "Zen Orbit",
+    "category": "logo",
+    "subCategory": "sub-fb-ads",
+    "width": 800,
+    "height": 800,
+    "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#f8fafc;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 210px; left: 280px; width: 240px; height: 240px; border: 15px solid rgb(16, 185, 129); border-radius: 50%; z-index: 2; opacity: 0.2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 230px; left: 300px; width: 200px; height: 200px; border: 15px solid rgb(5, 150, 105); border-radius: 50%; z-index: 3; opacity: 0.5; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 250px; left: 320px; width: 160px; height: 160px; background: rgb(4, 120, 87); border-radius: 50%; z-index: 4; opacity: 0.9; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        \n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 510px; left: 0px; width: 800px; text-align: center; color: rgb(6, 78, 59); font-size: 44px; font-weight: 900; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">BGBACK STUDIO</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 570px; left: 0px; width: 800px; text-align: center; color: rgb(16, 185, 129); font-size: 16px; font-weight: bold; letter-spacing: 12px; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">MINIMALISM REDEFINED</div>"
+},
     {
         id: 'logo_stellar_peak',
         name: 'Stellar Peak',
