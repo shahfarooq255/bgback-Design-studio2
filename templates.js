@@ -6328,6 +6328,274 @@ window.HD_TEMPLATES = [
         `
     },
 
+    {
+        id: 'prod_show_021',
+        name: 'Sports Supplements',
+        category: 'ad-creator',
+        subCategory: 'ad-product',
+        categoryLabel: '🛍️ Product',
+        width: 1080,
+        height: 1080,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#000000;z-index:1;"></div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:-200px;left:-200px;width:1000px;height:1400px;background:#84cc16;z-index:2;clip-path:polygon(20% 0%, 80% 0%, 40% 100%, 0% 100%);"></div>
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:80px;color:#ffffff;font-size:120px;font-weight:900;font-family:'Outfit',sans-serif;z-index:5;margin:0;line-height:0.9;letter-spacing:-3px;text-transform:uppercase;transform:skewX(-10deg);">MAXIMUM<br>POWER</h1>
+                
+                <h2 class="hd-draggable" data-type="text" style="position:absolute;top:280px;left:90px;color:#000000;font-size:40px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;text-transform:uppercase;background:#84cc16;padding:5px 20px;transform:skewX(-10deg);">100% WHEY ISOLATE</h2>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1593095948071-474c5cc2989d?auto=format&fit=crop&w=800&q=80" alt="Protein Tub" style="position:absolute;top:350px;right:100px;width:550px;height:650px;object-fit:contain;z-index:4;filter:drop-shadow(-30px 30px 40px rgba(0,0,0,0.8));">
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:120px;left:80px;width:350px;height:120px;background:transparent;border:6px solid #84cc16;z-index:6;transform:skewX(-10deg);"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:155px;left:130px;color:#84cc16;font-size:45px;font-weight:900;font-family:'Outfit',sans-serif;z-index:7;transform:skewX(-10deg);letter-spacing:2px;">SHOP NOW</div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:600px;left:80px;color:#ffffff;font-size:28px;font-weight:700;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:1.6;">✔️ 25g Protein<br>✔️ Zero Sugar<br>✔️ Fast Absorbing</div>
+        `
+    },
+
+    {
+        id: 'prod_show_022',
+        name: 'Handcrafted Pottery',
+        category: 'ad-creator',
+        subCategory: 'ad-product',
+        categoryLabel: '🛍️ Product',
+        width: 1080,
+        height: 1080,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fafaf9;z-index:1;"></div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:700px;height:700px;background:#f5f5f4;border-radius:40% 60% 70% 30% / 40% 50% 60% 50%;z-index:2;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:650px;height:650px;border:1px solid #d6d3d1;border-radius:30% 70% 70% 30% / 30% 30% 70% 70%;z-index:3;"></div>
+                
+                <h2 class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:0;width:100%;text-align:center;color:#a8a29e;font-size:24px;font-weight:400;font-family:'Inter',sans-serif;z-index:5;margin:0;letter-spacing:8px;text-transform:uppercase;">Handcrafted Ceramics</h2>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1610701596007-11502861dcfa?auto=format&fit=crop&w=800&q=80" alt="Pottery Vases" style="position:absolute;top:250px;left:50%;transform:translateX(-50%);width:550px;height:500px;object-fit:cover;z-index:4;border-radius:250px 250px 0 0;box-shadow:0 30px 50px rgba(0,0,0,0.08);">
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;bottom:200px;left:0;width:100%;text-align:center;color:#44403c;font-size:85px;font-weight:300;font-family:'Playfair Display',serif;z-index:5;margin:0;letter-spacing:2px;font-style:italic;">Earthy Elegance</h1>
+                
+                <p class="hd-draggable" data-type="text" style="position:absolute;bottom:140px;left:50%;transform:translateX(-50%);width:500px;text-align:center;color:#78716c;font-size:22px;font-weight:400;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:1.5;">Unique pieces crafted with passion and traditional techniques.</p>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:60px;left:50%;transform:translateX(-50%);color:#44403c;font-size:18px;font-weight:600;font-family:'Inter',sans-serif;z-index:7;border-bottom:1px solid #44403c;padding-bottom:5px;letter-spacing:4px;text-transform:uppercase;">Explore Collection</div>
+        `
+    },
+
+    {
+        id: 'prod_show_023',
+        name: 'Summer Eyewear',
+        category: 'ad-creator',
+        subCategory: 'ad-product',
+        categoryLabel: '🛍️ Product',
+        width: 1080,
+        height: 1080,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg, #2dd4bf 0%, #fde047 100%);z-index:1;"></div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:-100px;left:-100px;width:500px;height:500px;background:#ffffff;border-radius:50%;z-index:2;opacity:0.2;filter:blur(20px);"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:-100px;right:-100px;width:600px;height:600px;background:#f97316;border-radius:50%;z-index:2;opacity:0.4;filter:blur(40px);"></div>
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:100px;color:#ffffff;font-size:130px;font-weight:900;font-family:'Outfit',sans-serif;z-index:3;margin:0;line-height:0.9;letter-spacing:-2px;text-shadow:0 10px 30px rgba(0,0,0,0.1);">SUMMER<br>VIBES</h1>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=800&q=80" alt="Sunglasses" style="position:absolute;top:400px;left:50%;transform:translateX(-50%) rotate(-15deg);width:750px;height:auto;z-index:5;filter:drop-shadow(0 40px 50px rgba(0,0,0,0.3));">
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:380px;left:150px;width:120px;height:120px;background:rgba(255,255,255,0.3);border-radius:50%;backdrop-filter:blur(10px);z-index:4;display:flex;align-items:center;justify-content:center;border:2px solid rgba(255,255,255,0.5);"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:420px;left:175px;color:#ffffff;font-size:30px;font-weight:900;font-family:'Outfit',sans-serif;z-index:6;line-height:1;text-align:center;">NEW</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;right:100px;width:400px;height:120px;background:#ffffff;border-radius:60px;z-index:6;box-shadow:0 20px 40px rgba(0,0,0,0.15);"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:140px;right:160px;color:#0f172a;font-size:35px;font-weight:900;font-family:'Inter',sans-serif;z-index:7;letter-spacing:1px;">SHOP THE LOOK</div>
+        `
+    },
+
+    {
+        id: 'prod_show_024',
+        name: 'Organic Wellness Tea',
+        category: 'ad-creator',
+        subCategory: 'ad-product',
+        categoryLabel: '🛍️ Product',
+        width: 1080,
+        height: 1350,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ecfdf5;z-index:1;"></div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:800px;height:1000px;background:#ffffff;border-radius:40px;z-index:2;box-shadow:0 30px 60px rgba(6,78,59,0.05);"></div>
+                
+                <h2 class="hd-draggable" data-type="text" style="position:absolute;top:250px;left:0;width:100%;text-align:center;color:#10b981;font-size:26px;font-weight:600;font-family:'Inter',sans-serif;z-index:5;margin:0;letter-spacing:8px;text-transform:uppercase;">Organic Wellness</h2>
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:310px;left:0;width:100%;text-align:center;color:#064e3b;font-size:95px;font-weight:400;font-family:'Playfair Display',serif;z-index:5;margin:0;line-height:1;">The Zen Blend</h1>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1576092762791-dd9e2220afa1?auto=format&fit=crop&w=800&q=80" alt="Tea Packaging" style="position:absolute;top:450px;left:50%;transform:translateX(-50%);width:500px;height:500px;object-fit:cover;border-radius:20px;z-index:4;box-shadow:0 20px 40px rgba(0,0,0,0.1);">
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:220px;left:50%;transform:translateX(-50%);width:60px;height:2px;background:#10b981;z-index:5;"></div>
+                
+                <p class="hd-draggable" data-type="text" style="position:absolute;bottom:150px;left:50%;transform:translateX(-50%);width:600px;text-align:center;color:#475569;font-size:24px;font-weight:400;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:1.6;">Find your inner peace with our hand-picked chamomile and mint leaves.</p>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:60px;left:50%;transform:translateX(-50%);color:#064e3b;font-size:22px;font-weight:700;font-family:'Inter',sans-serif;z-index:7;border-bottom:2px solid #064e3b;padding-bottom:5px;letter-spacing:2px;text-transform:uppercase;">Shop Now</div>
+        `
+    },
+
+    {
+        id: 'prod_show_025',
+        name: 'Smart Phone Futuristic',
+        category: 'ad-creator',
+        subCategory: 'ad-product',
+        categoryLabel: '🛍️ Product',
+        width: 1080,
+        height: 1080,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#020617;z-index:1;"></div>
+                
+                <!-- Glowing Concentric Circles -->
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:800px;height:800px;border:1px solid rgba(56,189,248,0.2);border-radius:50%;z-index:2;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:600px;height:600px;border:2px solid rgba(56,189,248,0.4);border-radius:50%;z-index:2;box-shadow:0 0 50px rgba(56,189,248,0.2) inset;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:400px;height:400px;border:4px solid rgba(56,189,248,0.6);border-radius:50%;z-index:2;box-shadow:0 0 100px rgba(56,189,248,0.4);"></div>
+                
+                <h2 class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:0;width:100%;text-align:center;color:#38bdf8;font-size:24px;font-weight:300;font-family:'Inter',sans-serif;z-index:5;margin:0;letter-spacing:15px;text-transform:uppercase;">The Future Is Here</h2>
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:150px;left:0;width:100%;text-align:center;color:#ffffff;font-size:80px;font-weight:200;font-family:'Inter',sans-serif;z-index:5;margin:0;letter-spacing:10px;">TITANIUM PRO</h1>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80" alt="Smartphone" style="position:absolute;top:320px;left:50%;transform:translateX(-50%);width:350px;height:auto;z-index:4;filter:drop-shadow(0 0 40px rgba(56,189,248,0.5));">
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:120px;left:50%;transform:translateX(-50%);width:250px;height:60px;background:transparent;border:1px solid #38bdf8;border-radius:30px;z-index:6;display:flex;align-items:center;justify-content:center;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:138px;left:50%;transform:translateX(-50%);color:#38bdf8;font-size:18px;font-weight:400;font-family:'Inter',sans-serif;z-index:7;letter-spacing:4px;text-transform:uppercase;">PRE-ORDER</div>
+                
+                <!-- Specs -->
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:450px;left:100px;color:#94a3b8;font-size:20px;font-weight:300;font-family:'Inter',sans-serif;z-index:5;margin:0;text-align:right;">120Hz<br><span style="color:#ffffff;font-weight:500;">OLED Display</span></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:450px;right:100px;color:#94a3b8;font-size:20px;font-weight:300;font-family:'Inter',sans-serif;z-index:5;margin:0;text-align:left;">200MP<br><span style="color:#ffffff;font-weight:500;">Pro Camera</span></div>
+        `
+    },
+
+    {
+        id: 'prod_show_026',
+        name: 'Gourmet Chocolate',
+        category: 'ad-creator',
+        subCategory: 'ad-product',
+        categoryLabel: '🛍️ Product',
+        width: 1080,
+        height: 1080,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#3e2723;z-index:1;"></div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:-50px;left:-50px;width:1200px;height:1200px;background:radial-gradient(circle at center, #5d4037 0%, transparent 70%);z-index:2;opacity:0.8;"></div>
+                
+                <h2 class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:0;width:100%;text-align:center;color:#d4af37;font-size:24px;font-weight:400;font-family:'Inter',sans-serif;z-index:5;margin:0;letter-spacing:12px;text-transform:uppercase;">Master Chocolatier</h2>
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:160px;left:0;width:100%;text-align:center;color:#fff8e1;font-size:80px;font-weight:700;font-family:'Playfair Display',serif;z-index:5;margin:0;letter-spacing:2px;font-style:italic;">Decadent Delights</h1>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1549007994-cb92caebd54b?auto=format&fit=crop&w=800&q=80" alt="Chocolate Truffles" style="position:absolute;top:320px;left:50%;transform:translateX(-50%);width:600px;height:450px;object-fit:cover;border-radius:20px;z-index:4;border:4px solid #d4af37;box-shadow:0 30px 60px rgba(0,0,0,0.5);">
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:150px;left:50%;transform:translateX(-50%);width:300px;height:60px;background:#d4af37;border-radius:0;z-index:6;display:flex;align-items:center;justify-content:center;box-shadow:0 15px 30px rgba(212,175,55,0.2);"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:168px;left:50%;transform:translateX(-50%);color:#3e2723;font-size:20px;font-weight:800;font-family:'Inter',sans-serif;z-index:7;letter-spacing:4px;text-transform:uppercase;">Taste Luxury</div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:90px;left:50%;transform:translateX(-50%);width:40px;height:2px;background:#d4af37;z-index:5;"></div>
+        `
+    },
+
+    {
+        id: 'prod_show_027',
+        name: 'Retro Sneaker 90s',
+        category: 'ad-creator',
+        subCategory: 'ad-product',
+        categoryLabel: '🛍️ Product',
+        width: 1080,
+        height: 1080,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fef08a;z-index:1;"></div>
+                
+                <!-- Memphis Patterns -->
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:100px;left:100px;width:150px;height:150px;background:#f472b6;border-radius:50%;z-index:2;border:4px solid #1e293b;box-shadow:8px 8px 0 #1e293b;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:150px;right:100px;width:200px;height:200px;background:#2dd4bf;z-index:2;transform:rotate(15deg);border:4px solid #1e293b;box-shadow:8px 8px 0 #1e293b;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:300px;right:150px;width:0;height:0;border-left:80px solid transparent;border-right:80px solid transparent;border-bottom:140px solid #a78bfa;z-index:2;transform:rotate(-20deg);"></div>
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:150px;left:150px;color:#1e293b;font-size:120px;font-weight:900;font-family:'Outfit',sans-serif;z-index:5;margin:0;line-height:0.9;text-transform:uppercase;text-shadow:8px 8px 0 #ffffff;">CLASSIC<br>KICKS</h1>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1514989940723-e8e51635b782?auto=format&fit=crop&w=800&q=80" alt="Retro Sneakers" style="position:absolute;top:400px;left:50%;transform:translateX(-50%) rotate(-10deg);width:700px;height:auto;z-index:6;filter:drop-shadow(15px 15px 0 #1e293b);">
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;left:150px;width:300px;height:80px;background:#1e293b;border-radius:0;z-index:6;display:flex;align-items:center;justify-content:center;box-shadow:8px 8px 0 #ffffff;"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:122px;left:190px;color:#fef08a;font-size:30px;font-weight:900;font-family:'Outfit',sans-serif;z-index:7;letter-spacing:2px;text-transform:uppercase;">COP NOW 🔥</div>
+        `
+    },
+
+    {
+        id: 'prod_show_028',
+        name: 'Fitness Wearable Tech',
+        category: 'ad-creator',
+        subCategory: 'ad-product',
+        categoryLabel: '🛍️ Product',
+        width: 1080,
+        height: 1080,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:1;"></div>
+                
+                <!-- Glowing Pulse Line Effect -->
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:400px;left:-100px;width:1200px;height:5px;background:#06b6d4;z-index:2;box-shadow:0 0 20px #06b6d4, 0 0 40px #06b6d4;transform:rotate(-15deg);opacity:0.6;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:450px;left:-100px;width:1200px;height:2px;background:#3b82f6;z-index:2;box-shadow:0 0 15px #3b82f6;transform:rotate(-15deg);opacity:0.3;"></div>
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:120px;left:100px;color:#ffffff;font-size:90px;font-weight:900;font-family:'Outfit',sans-serif;z-index:5;margin:0;line-height:1;letter-spacing:-2px;">TRACK YOUR<br><span style="color:#06b6d4;">POTENTIAL</span></h1>
+                
+                <p class="hd-draggable" data-type="text" style="position:absolute;top:350px;left:100px;width:400px;color:#94a3b8;font-size:24px;font-weight:400;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:1.5;">Advanced biometrics on your wrist. 24/7 heart rate monitoring.</p>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?auto=format&fit=crop&w=800&q=80" alt="Smartwatch" style="position:absolute;top:300px;right:80px;width:500px;height:600px;object-fit:cover;border-radius:30px;z-index:6;border:2px solid rgba(6,182,212,0.3);box-shadow:0 0 50px rgba(6,182,212,0.15);">
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:150px;left:100px;width:250px;height:70px;background:linear-gradient(90deg, #06b6d4, #3b82f6);border-radius:35px;z-index:7;display:flex;align-items:center;justify-content:center;box-shadow:0 10px 20px rgba(6,182,212,0.3);"></div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:170px;left:145px;color:#ffffff;font-size:22px;font-weight:800;font-family:'Inter',sans-serif;z-index:8;letter-spacing:1px;text-transform:uppercase;">Upgrade Now</div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:100px;right:100px;color:#06b6d4;font-size:40px;z-index:5;"><i class="fa-solid fa-heart-pulse"></i></div>
+        `
+    },
+
+    {
+        id: 'prod_show_029',
+        name: 'Organic Honey Amber',
+        category: 'ad-creator',
+        subCategory: 'ad-product',
+        categoryLabel: '🛍️ Product',
+        width: 1080,
+        height: 1350,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fef3c7;z-index:1;"></div>
+                
+                <!-- Hexagon Pattern Overlay -->
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:50px;left:50px;width:150px;height:170px;background:transparent;border:4px solid #fde68a;clip-path:polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);z-index:2;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:140px;left:210px;width:100px;height:115px;background:transparent;border:2px solid #fcd34d;clip-path:polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);z-index:2;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;right:100px;width:250px;height:285px;background:#fde68a;clip-path:polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);z-index:2;opacity:0.5;"></div>
+                
+                <h2 class="hd-draggable" data-type="text" style="position:absolute;top:200px;left:0;width:100%;text-align:center;color:#b45309;font-size:28px;font-weight:600;font-family:'Inter',sans-serif;z-index:5;margin:0;letter-spacing:10px;text-transform:uppercase;">100% RAW & ORGANIC</h2>
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:260px;left:0;width:100%;text-align:center;color:#78350f;font-size:110px;font-weight:400;font-family:'Playfair Display',serif;z-index:5;margin:0;line-height:1;font-style:italic;">Liquid Gold</h1>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1587049352847-4d40237bc902?auto=format&fit=crop&w=800&q=80" alt="Honey Jar" style="position:absolute;top:450px;left:50%;transform:translateX(-50%);width:500px;height:500px;object-fit:cover;border-radius:50%;z-index:6;border:8px solid #ffffff;box-shadow:0 30px 60px rgba(180,83,9,0.15);">
+                
+                <p class="hd-draggable" data-type="text" style="position:absolute;bottom:250px;left:50%;transform:translateX(-50%);width:600px;text-align:center;color:#92400e;font-size:24px;font-weight:400;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:1.6;">Straight from the hive to your table. Naturally sweet and full of wellness.</p>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;left:50%;transform:translateX(-50%);background:#b45309;color:#ffffff !important;padding:25px 70px;font-size:24px;font-weight:700;border-radius:40px;z-index:7;font-family:'Inter',sans-serif;box-shadow:0 15px 30px rgba(180,83,9,0.2);">BUY A JAR</div>
+        `
+    },
+
+    {
+        id: 'prod_show_030',
+        name: 'Acoustic Guitar Classic',
+        category: 'ad-creator',
+        subCategory: 'ad-product',
+        categoryLabel: '🛍️ Product',
+        width: 1080,
+        height: 1080,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#1c1917;z-index:1;"></div>
+                
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:900px;height:900px;background:radial-gradient(circle, #44403c 0%, transparent 70%);z-index:2;opacity:0.8;"></div>
+                
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:80px;color:#d6d3d1;font-size:100px;font-weight:300;font-family:'Playfair Display',serif;z-index:5;margin:0;line-height:1;">FIND YOUR<br><span style="color:#d97706;font-style:italic;">SOUND</span></h1>
+                
+                <p class="hd-draggable" data-type="text" style="position:absolute;top:320px;left:80px;width:350px;color:#a8a29e;font-size:24px;font-weight:400;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:1.6;">Premium acoustic resonance crafted for the true artist. Experience unparalleled tone.</p>
+                
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1510915361894-db8b60106cb1?auto=format&fit=crop&w=800&q=80" alt="Acoustic Guitar" style="position:absolute;top:150px;right:50px;width:450px;height:800px;object-fit:cover;border-radius:20px;z-index:6;box-shadow:-20px 20px 50px rgba(0,0,0,0.6);">
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;left:80px;color:#d97706;font-size:22px;font-weight:600;font-family:'Inter',sans-serif;z-index:7;border-bottom:2px solid #d97706;padding-bottom:5px;letter-spacing:2px;text-transform:uppercase;">View Instruments</div>
+                
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:100px;right:550px;color:#d6d3d1;font-size:40px;z-index:5;opacity:0.3;"><i class="fa-solid fa-music"></i></div>
+        `
+    },
+
     // --- FLASH SALE SUB-CATEGORY ---
     {
         id: 'flash_sale_001',
@@ -15905,6 +16173,1813 @@ window.HD_TEMPLATES = [
         <div class="hd-draggable" data-type="text" style="position:absolute;top:560px;left:0;width:800px;text-align:center;color:#ef4444;font-size:14px;font-weight:bold;letter-spacing:8px;z-index:5;">FINE DINING EXPERIENCE</div>
     `
     },
+    {
+id: 'logo_luxury_gold',
+name: 'Imperial Gold',
+category: 'logo',
+categoryLabel: '💎 Logo',
+width: 800, height: 800,
+html: `
+<div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#000;z-index:1;"></div>
+<!-- Golden Rings -->
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:200px;left:300px;width:200px;height:200px;border:2px solid #d4af37;border-radius:50%;z-index:2;opacity:0.5;">
+</div>
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:220px;left:320px;width:160px;height:160px;border:1px solid #f97316;border-radius:50%;z-index:3;">
+</div>
+<!-- Central Icon -->
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:260px;left:360px;width:80px;height:80px;background:linear-gradient(135deg,#d4af37,#f97316);transform:rotate(45deg);z-index:4;">
+</div>
+<!-- Typography -->
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:480px;left:0;width:800px;text-align:center;color:#d4af37;font-size:55px;font-family:serif;font-weight:300;letter-spacing:12px;z-index:5;">
+    B G B A C K</div>
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:560px;left:300px;width:200px;height:1px;background:#d4af37;z-index:5;"></div>
+`
+},
+{
+id: 'logo_abstract_flow',
+name: 'Geometric Flow',
+category: 'logo',
+categoryLabel: '💎 Logo',
+width: 800, height: 800,
+html: `
+<div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f8fafc;z-index:1;"></div>
+<!-- Abstract Shapes -->
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:220px;left:280px;width:180px;height:180px;background:#8b5cf6;border-radius:30% 70% 70% 30% / 30% 30% 70% 70%;z-index:2;opacity:0.8;transform:rotate(-15deg);">
+</div>
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:240px;left:340px;width:180px;height:180px;background:#ec4899;border-radius:70% 30% 30% 70% / 70% 70% 30% 30%;z-index:3;opacity:0.8;mix-blend-mode:multiply;">
+</div>
+<!-- Central Text -->
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:500px;left:0;width:800px;text-align:center;color:#1e293b;font-size:48px;font-weight:900;z-index:5;">
+    CREATIVE <span style="color:#8b5cf6">BGBACK</span></div>
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:565px;left:0;width:800px;text-align:center;color:#94a3b8;font-size:18px;font-weight:bold;letter-spacing:5px;z-index:5;">
+    DESIGN STUDIO SOLUTIONS</div>
+`
+},
+{
+id: 'logo_nature_zen',
+name: 'Organic Zen',
+category: 'logo',
+categoryLabel: '💎 Logo',
+width: 800, height: 800,
+html: `
+<div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f0fdf4;z-index:1;"></div>
+<!-- Leaf Shapes -->
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:220px;left:350px;width:100px;height:150px;background:linear-gradient(to bottom, #22c55e, #166534);border-radius:100% 0% 100% 0%;z-index:3;transform:rotate(-15deg);">
+</div>
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:250px;left:300px;width:80px;height:120px;background:rgba(34,197,94,0.3);border-radius:100% 0% 100% 0%;z-index:2;transform:rotate(-45deg);">
+</div>
+<!-- Text -->
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:480px;left:0;width:800px;text-align:center;color:#14532d;font-size:42px;font-weight:700;z-index:5;">
+    BGBACK ORGANICS</div>
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:540px;left:0;width:800px;text-align:center;color:#22c55e;font-size:18px;font-weight:bold;letter-spacing:6px;z-index:5;">
+    PURE & NATURAL</div>
+`
+},
+{
+id: 'logo_estate_highrise',
+name: 'Urban Highrise',
+category: 'logo',
+categoryLabel: '🏠 Real Estate',
+width: 800, height: 800,
+html: `
+<div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:1;"></div>
+<!-- Building 1 -->
+<div class="hd-draggable"
+    style="position:absolute;top:280px;left:320px;width:40px;height:120px;background:#3b82f6;z-index:2;"></div>
+<!-- Building 2 (Main) -->
+<div class="hd-draggable"
+    style="position:absolute;top:220px;left:370px;width:60px;height:180px;background:linear-gradient(to bottom, #60a5fa, #2563eb);z-index:3;box-shadow: 10px 0 20px rgba(0,0,0,0.3);">
+</div>
+<!-- Building 3 -->
+<div class="hd-draggable"
+    style="position:absolute;top:260px;left:440px;width:40px;height:140px;background:#1e40af;z-index:2;"></div>
+<!-- Window Detail on Main Building -->
+<div style="position:absolute;top:240px;left:385px;width:10px;height:10px;background:rgba(255,255,255,0.2);z-index:4;">
+</div>
+<div style="position:absolute;top:260px;left:385px;width:10px;height:10px;background:rgba(255,255,255,0.2);z-index:4;">
+</div>
+<!-- Text -->
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:480px;left:0;width:800px;text-align:center;color:#fff;font-size:45px;font-weight:900;letter-spacing:2px;z-index:5;">
+    SKYLINE <span style="color:#3b82f6">PROPERTIES</span></div>
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:545px;left:0;width:800px;text-align:center;color:#64748b;font-size:16px;letter-spacing:8px;z-index:5;">
+    ELEVATING LIFESTYLE</div>
+`
+},
+{
+id: 'logo_estate_heritage',
+name: 'Golden Heritage',
+category: 'logo',
+categoryLabel: '🏠 Real Estate',
+width: 800, height: 800,
+html: `
+<div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
+<!-- Roof Shape -->
+<div class="hd-draggable"
+    style="position:absolute;top:230px;left:300px;width:200px;height:100px;background:#b45309;clip-path:polygon(50% 0%, 0% 100%, 100% 100%);z-index:3;">
+</div>
+<!-- Chimney -->
+<div class="hd-draggable"
+    style="position:absolute;top:240px;left:420px;width:30px;height:60px;background:#78350f;z-index:2;"></div>
+<!-- Main House Block -->
+<div class="hd-draggable"
+    style="position:absolute;top:330px;left:310px;width:180px;height:90px;border:4px solid #b45309;z-index:2;"></div>
+<!-- Text -->
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:470px;left:0;width:800px;text-align:center;color:#1e293b;font-size:48px;font-family:serif;font-weight:bold;z-index:5;">
+    HERITAGE <span style="color:#b45309">HOMES</span></div>
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:540px;left:350px;width:100px;height:2px;background:#d97706;z-index:5;"></div>
+`
+},
+{
+id: 'logo_estate_key',
+name: 'Secure Key Estate',
+category: 'logo',
+categoryLabel: '🏠 Real Estate',
+width: 800, height: 800,
+html: `
+<div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f8fafc;z-index:1;"></div>
+<!-- Key Ring (Circle) -->
+<div class="hd-draggable"
+    style="position:absolute;top:220px;left:325px;width:150px;height:150px;border:12px solid #0f172a;border-radius:50%;z-index:2;">
+</div>
+<!-- Key Body with House Cutout -->
+<div class="hd-draggable"
+    style="position:absolute;top:350px;left:388px;width:24px;height:80px;background:#0f172a;z-index:2;"></div>
+<!-- House Silhouette inside Circle -->
+<div
+    style="position:absolute;top:270px;left:365px;width:70px;height:50px;background:#3b82f6;clip-path:polygon(50% 0%, 100% 40%, 100% 100%, 0% 100%, 0% 40%);z-index:3;">
+</div>
+<!-- Text -->
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:490px;left:0;width:800px;text-align:center;color:#0f172a;font-size:42px;font-weight:900;text-transform:uppercase;z-index:5;">
+    Key<span style="color:#3b82f6">Stone</span> Realty</div>
+`
+},
+{
+id: 'logo_estate_green',
+name: 'Green Valley',
+category: 'logo',
+categoryLabel: '🏠 Real Estate',
+width: 800, height: 800,
+html: `
+<div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ecfdf5;z-index:1;"></div>
+<!-- Green Hill 1 -->
+<div class="hd-draggable"
+    style="position:absolute;top:280px;left:250px;width:200px;height:120px;background:#10b981;clip-path:circle(100% at 50% 100%);opacity:0.6;z-index:2;">
+</div>
+<!-- Green Hill 2 -->
+<div class="hd-draggable"
+    style="position:absolute;top:280px;left:350px;width:200px;height:120px;background:#059669;clip-path:circle(100% at 50% 100%);z-index:3;">
+</div>
+<!-- Simple House Shape -->
+<div class="hd-draggable"
+    style="position:absolute;top:250px;left:375px;width:50px;height:50px;background:#fff;clip-path:polygon(50% 0%, 100% 40%, 100% 100%, 0% 100%, 0% 40%);z-index:4;box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
+</div>
+<!-- Text -->
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:480px;left:0;width:800px;text-align:center;color:#064e3b;font-size:44px;font-weight:800;z-index:5;">
+    VALLEY <span style="color:#10b981">ESTATES</span></div>
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:540px;left:0;width:800px;text-align:center;color:#059669;font-size:16px;font-weight:bold;letter-spacing:10px;z-index:5;">
+    NATURE MEETS LUXURY</div>
+`
+},
+{
+id: 'logo_estate_isometric',
+name: 'Isometric Plot',
+category: 'logo',
+categoryLabel: '🏠 Real Estate',
+width: 800, height: 800,
+html: `
+<div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#111827;z-index:1;"></div>
+<!-- Isometric Cube Side 1 -->
+<div class="hd-draggable"
+    style="position:absolute;top:250px;left:350px;width:100px;height:100px;background:#4f46e5;transform:rotateX(45deg) rotateZ(45deg);z-index:4;">
+</div>
+<!-- Isometric Cube Side 2 (Shadow) -->
+<div class="hd-draggable"
+    style="position:absolute;top:310px;left:350px;width:100px;height:100px;background:#3730a3;transform:skewY(30deg);z-index:3;">
+</div>
+<!-- Decorative Line -->
+<div class="hd-draggable"
+    style="position:absolute;top:200px;left:400px;width:2px;height:150px;background:rgba(255,255,255,0.2);z-index:2;">
+</div>
+<!-- Text -->
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:500px;left:0;width:800px;text-align:center;color:#fff;font-size:46px;font-weight:200;letter-spacing:5px;z-index:5;">
+    STRUCTURE <span style="color:#6366f1;font-weight:900;">DESIGN</span></div>
+`
+},
+{
+id: 'realestate_royal_tower',
+name: 'Royal Tower',
+category: 'logo',
+categoryLabel: '🏢 Real Estate',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#07111f,#0f172a,#111827);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:90px;left:90px;width:620px;height:620px;border-radius:50%;background:radial-gradient(circle,rgba(59,130,246,.15),transparent 70%);filter:blur(10px);z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:170px;left:250px;width:90px;height:260px;background:linear-gradient(180deg,#60a5fa,#2563eb);border-radius:12px;box-shadow:0 0 30px rgba(96,165,250,.5);z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:120px;left:355px;width:90px;height:310px;background:linear-gradient(180deg,#93c5fd,#3b82f6);border-radius:12px;box-shadow:0 0 40px rgba(59,130,246,.7);z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:200px;left:460px;width:90px;height:230px;background:linear-gradient(180deg,#60a5fa,#1d4ed8);border-radius:12px;box-shadow:0 0 30px rgba(96,165,250,.5);z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:145px;left:330px;width:140px;height:30px;background:#fff;clip-path:polygon(50% 0%,100% 100%,0% 100%);z-index:5;opacity:.95;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:250px;left:282px;width:236px;height:6px;background:rgba(255,255,255,.15);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:510px;left:0;width:800px;text-align:center;color:#fff;font-size:54px;font-weight:900;letter-spacing:4px;z-index:6;text-shadow:0 0 20px rgba(59,130,246,.6);">
+    ROYAL TOWER</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:585px;left:0;width:800px;text-align:center;color:#60a5fa;font-size:18px;letter-spacing:10px;font-weight:bold;z-index:6;">
+    LUXURY REAL ESTATE</div>
+
+`
+    {
+        id: 'realestate_gold_estate',
+name: 'Gold Estate',
+category: 'logo',
+categoryLabel: '🏢 Real Estate',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#1c1917,#0f172a);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:160px;left:250px;width:300px;height:300px;border:2px solid rgba(251,191,36,.2);border-radius:50%;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:185px;left:285px;width:230px;height:230px;background:linear-gradient(135deg,#fbbf24,#b45309);clip-path:polygon(50% 0%,100% 40%,82% 100%,18% 100%,0% 40%);box-shadow:0 0 35px rgba(251,191,36,.5);z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:245px;left:340px;width:120px;height:120px;background:#111827;clip-path:polygon(50% 0%,100% 40%,82% 100%,18% 100%,0% 40%);z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:215px;left:320px;width:160px;height:60px;background:rgba(255,255,255,.08);border-radius:50px;filter:blur(10px);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:285px;left:386px;width:28px;height:80px;background:#fbbf24;border-radius:10px;z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:510px;left:0;width:800px;text-align:center;color:#fbbf24;font-size:50px;font-weight:900;letter-spacing:3px;z-index:6;">
+    GOLD ESTATE</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:575px;left:0;width:800px;text-align:center;color:#fde68a;font-size:17px;letter-spacing:12px;font-weight:bold;z-index:6;">
+    PREMIUM PROPERTIES</div>
+
+`
+},
+
+{
+id: 'realestate_orbit_home',
+name: 'Orbit Home',
+category: 'logo',
+categoryLabel: '🏢 Real Estate',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#ecfeff,#dbeafe);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:170px;left:250px;width:300px;height:300px;border:14px solid rgba(14,165,233,.25);border-radius:50%;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:205px;left:285px;width:230px;height:230px;border:12px solid rgba(2,132,199,.6);border-radius:50%;z-index:2;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:250px;left:325px;width:150px;height:120px;background:linear-gradient(135deg,#0ea5e9,#0369a1);clip-path:polygon(50% 0%,100% 40%,100% 100%,0% 100%,0% 40%);z-index:4;box-shadow:0 0 30px rgba(14,165,233,.4);">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:230px;left:320px;width:160px;height:70px;background:#0284c7;clip-path:polygon(50% 0%,100% 100%,0% 100%);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:290px;left:382px;width:36px;height:80px;background:#fff;border-radius:10px;z-index:6;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:155px;left:505px;width:24px;height:24px;background:#38bdf8;border-radius:50%;box-shadow:0 0 20px rgba(56,189,248,.8);z-index:6;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:520px;left:0;width:800px;text-align:center;color:#0f172a;font-size:52px;font-weight:900;letter-spacing:2px;z-index:6;">
+    ORBIT HOME</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:590px;left:0;width:800px;text-align:center;color:#0284c7;font-size:16px;font-weight:bold;letter-spacing:10px;z-index:6;">
+    SMART PROPERTY GROUP</div>
+
+`
+},
+
+{
+id: 'realestate_metropolitan_grid',
+name: 'Metropolitan Grid',
+category: 'logo',
+categoryLabel: '🏢 Real Estate',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;background:#020617;overflow:hidden;z-index:1;"></div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:150px;left:220px;width:360px;height:360px;background:rgba(255,255,255,.03);border-radius:40px;backdrop-filter:blur(10px);border:1px solid rgba(255,255,255,.08);z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:220px;left:290px;width:70px;height:180px;background:linear-gradient(180deg,#a855f7,#6d28d9);border-radius:10px;z-index:3;box-shadow:0 0 20px rgba(168,85,247,.5);">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:170px;left:380px;width:70px;height:230px;background:linear-gradient(180deg,#c084fc,#7c3aed);border-radius:10px;z-index:4;box-shadow:0 0 30px rgba(192,132,252,.7);">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:250px;left:470px;width:70px;height:150px;background:linear-gradient(180deg,#9333ea,#581c87);border-radius:10px;z-index:3;box-shadow:0 0 20px rgba(147,51,234,.5);">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:205px;left:270px;width:290px;height:6px;background:linear-gradient(90deg,transparent,#c084fc,transparent);z-index:5;opacity:.7;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:425px;left:250px;width:310px;height:2px;background:rgba(255,255,255,.08);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:520px;left:0;width:800px;text-align:center;color:#fff;font-size:46px;font-weight:900;letter-spacing:6px;z-index:6;">
+    METROPOLITAN</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:580px;left:0;width:800px;text-align:center;color:#c084fc;font-size:18px;font-weight:bold;letter-spacing:14px;z-index:6;">
+    REAL ESTATE GRID</div>
+
+`
+},
+
+{
+id: 'realestate_green_haven',
+name: 'Green Haven',
+category: 'logo',
+categoryLabel: '🏢 Real Estate',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#f0fdf4,#dcfce7,#ecfccb);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:170px;left:250px;width:300px;height:300px;background:radial-gradient(circle,#86efac,transparent 70%);filter:blur(20px);z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:240px;left:305px;width:190px;height:150px;background:linear-gradient(135deg,#22c55e,#15803d);border-radius:20px;z-index:3;box-shadow:0 0 25px rgba(34,197,94,.4);">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:190px;left:290px;width:220px;height:120px;background:#166534;clip-path:polygon(50% 0%,100% 100%,0% 100%);z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:285px;left:380px;width:40px;height:105px;background:#f0fdf4;border-radius:10px;z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:150px;left:505px;width:60px;height:90px;background:linear-gradient(135deg,#4ade80,#15803d);clip-path:polygon(50% 0%,100% 50%,50% 100%,0% 50%);transform:rotate(25deg);z-index:5;opacity:.9;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:160px;left:525px;width:20px;height:90px;background:#166534;border-radius:20px;transform:rotate(25deg);z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:525px;left:0;width:800px;text-align:center;color:#14532d;font-size:50px;font-weight:900;letter-spacing:4px;z-index:6;">
+    GREEN HAVEN</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:590px;left:0;width:800px;text-align:center;color:#22c55e;font-size:17px;font-weight:bold;letter-spacing:10px;z-index:6;">
+    ECO LIVING ESTATES</div>
+
+`
+},
+{
+id: 'realestate_quantum_arc',
+name: 'Quantum Arc',
+category: 'logo',
+categoryLabel: '🏢 Real Estate',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:radial-gradient(circle at top,#0f172a,#020617 70%);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:120px;left:220px;width:360px;height:360px;border:2px solid rgba(6,182,212,.2);border-radius:50%;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:150px;left:250px;width:300px;height:300px;border:10px solid rgba(34,211,238,.5);border-radius:50%;clip-path:polygon(0 0,100% 0,100% 58%,0 58%);z-index:2;filter:drop-shadow(0 0 20px rgba(34,211,238,.5));">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:220px;left:315px;width:170px;height:150px;background:linear-gradient(135deg,#22d3ee,#0ea5e9);clip-path:polygon(50% 0%,100% 35%,100% 100%,0% 100%,0% 35%);border-radius:18px;z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:190px;left:300px;width:200px;height:90px;background:#06b6d4;clip-path:polygon(50% 0%,100% 100%,0% 100%);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:275px;left:385px;width:30px;height:95px;background:#ecfeff;border-radius:10px;z-index:6;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:180px;left:525px;width:16px;height:16px;background:#67e8f9;border-radius:50%;box-shadow:0 0 20px #67e8f9,0 0 40px #67e8f9;z-index:6;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:520px;left:0;width:800px;text-align:center;color:#ecfeff;font-size:52px;font-weight:900;letter-spacing:5px;z-index:7;text-shadow:0 0 20px rgba(34,211,238,.5);">
+    QUANTUM ARC</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:590px;left:0;width:800px;text-align:center;color:#67e8f9;font-size:17px;letter-spacing:12px;font-weight:bold;z-index:7;">
+    FUTURE PROPERTY NETWORK</div>
+
+`
+},
+
+{
+id: 'realestate_imperial_frame',
+name: 'Imperial Frame',
+category: 'logo',
+categoryLabel: '🏢 Real Estate',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:linear-gradient(135deg,#111827,#1e1b4b,#0f172a);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:140px;left:240px;width:320px;height:320px;border:3px solid rgba(255,255,255,.08);transform:rotate(45deg);z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:200px;left:300px;width:200px;height:200px;background:linear-gradient(135deg,#8b5cf6,#4f46e5);transform:rotate(45deg);border-radius:30px;box-shadow:0 0 35px rgba(139,92,246,.5);z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:250px;left:350px;width:100px;height:100px;background:#0f172a;transform:rotate(45deg);border-radius:18px;z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:190px;left:350px;width:100px;height:55px;background:#c4b5fd;clip-path:polygon(50% 0%,100% 100%,0% 100%);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:272px;left:392px;width:16px;height:55px;background:#8b5cf6;border-radius:8px;z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:520px;left:0;width:800px;text-align:center;color:#fff;font-size:48px;font-weight:900;letter-spacing:7px;z-index:6;">
+    IMPERIAL FRAME</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:585px;left:0;width:800px;text-align:center;color:#c4b5fd;font-size:16px;font-weight:bold;letter-spacing:14px;z-index:6;">
+    LUXURY PROPERTY HUB</div>
+
+`
+},
+
+{
+id: 'realestate_skyline_matrix',
+name: 'Skyline Matrix',
+category: 'logo',
+categoryLabel: '🏢 Real Estate',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:linear-gradient(135deg,#f8fafc,#e0f2fe);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:130px;left:200px;width:400px;height:400px;background:rgba(255,255,255,.35);backdrop-filter:blur(14px);border:1px solid rgba(255,255,255,.7);border-radius:40px;box-shadow:0 10px 40px rgba(14,165,233,.15);z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:210px;left:270px;width:60px;height:180px;background:linear-gradient(180deg,#38bdf8,#0284c7);border-radius:12px;z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:160px;left:360px;width:70px;height:230px;background:linear-gradient(180deg,#0ea5e9,#0369a1);border-radius:12px;z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:240px;left:460px;width:60px;height:150px;background:linear-gradient(180deg,#7dd3fc,#0284c7);border-radius:12px;z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:190px;left:250px;width:290px;height:6px;background:linear-gradient(90deg,transparent,#0ea5e9,transparent);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:300px;left:285px;width:12px;height:12px;background:#fff;border-radius:50%;box-shadow:80px 0 #fff,160px 0 #fff,240px 0 #fff;z-index:6;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:540px;left:0;width:800px;text-align:center;color:#0f172a;font-size:48px;font-weight:900;letter-spacing:4px;z-index:6;">
+    SKYLINE MATRIX</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:600px;left:0;width:800px;text-align:center;color:#0284c7;font-size:16px;font-weight:bold;letter-spacing:11px;z-index:6;">
+    SMART URBAN DEVELOPERS</div>
+
+`
+},
+
+{
+id: 'realestate_vertex_residency',
+name: 'Vertex Residency',
+category: 'logo',
+categoryLabel: '🏢 Real Estate',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:linear-gradient(135deg,#052e16,#022c22,#0f172a);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:120px;left:210px;width:380px;height:380px;background:radial-gradient(circle,rgba(34,197,94,.18),transparent 70%);filter:blur(10px);z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:180px;left:290px;width:220px;height:220px;background:linear-gradient(135deg,#22c55e,#14532d);clip-path:polygon(50% 0%,100% 50%,50% 100%,0% 50%);transform:rotate(45deg);box-shadow:0 0 35px rgba(34,197,94,.45);z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:235px;left:345px;width:110px;height:110px;background:#ecfdf5;clip-path:polygon(50% 0%,100% 50%,50% 100%,0% 50%);transform:rotate(45deg);z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:210px;left:340px;width:120px;height:60px;background:#bbf7d0;clip-path:polygon(50% 0%,100% 100%,0% 100%);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:270px;left:392px;width:16px;height:60px;background:#16a34a;border-radius:8px;z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:530px;left:0;width:800px;text-align:center;color:#f0fdf4;font-size:50px;font-weight:900;letter-spacing:5px;z-index:6;">
+    VERTEX RESIDENCY</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:595px;left:0;width:800px;text-align:center;color:#4ade80;font-size:16px;font-weight:bold;letter-spacing:12px;z-index:6;">
+    ELEVATED LIVING SPACES</div>
+
+`
+},
+
+{
+id: 'realestate_crystal_horizon',
+name: 'Crystal Horizon',
+category: 'logo',
+categoryLabel: '🏢 Real Estate',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:linear-gradient(135deg,#faf5ff,#f1f5f9,#ede9fe);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:150px;left:240px;width:320px;height:320px;background:rgba(255,255,255,.4);backdrop-filter:blur(18px);border:1px solid rgba(255,255,255,.8);border-radius:50%;box-shadow:0 10px 40px rgba(168,85,247,.18);z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:200px;left:305px;width:190px;height:180px;background:linear-gradient(135deg,#c084fc,#7c3aed);clip-path:polygon(50% 0%,100% 40%,80% 100%,20% 100%,0% 40%);z-index:3;box-shadow:0 0 35px rgba(192,132,252,.4);">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:235px;left:345px;width:110px;height:110px;background:#faf5ff;clip-path:polygon(50% 0%,100% 40%,80% 100%,20% 100%,0% 40%);z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:185px;left:330px;width:140px;height:70px;background:#8b5cf6;clip-path:polygon(50% 0%,100% 100%,0% 100%);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:260px;left:390px;width:20px;height:70px;background:#a855f7;border-radius:10px;z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:175px;left:510px;width:18px;height:18px;background:#c084fc;border-radius:50%;box-shadow:0 0 20px rgba(192,132,252,.8);z-index:6;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:530px;left:0;width:800px;text-align:center;color:#4c1d95;font-size:48px;font-weight:900;letter-spacing:4px;z-index:6;">
+    CRYSTAL HORIZON</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:595px;left:0;width:800px;text-align:center;color:#8b5cf6;font-size:16px;font-weight:bold;letter-spacing:13px;z-index:6;">
+    MODERN PROPERTY VISION</div>
+
+`
+},
+{
+id: 'food_flame_fork',
+name: 'Flame Fork',
+category: 'logo',
+categoryLabel: '🍔 Food & Restaurant',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:linear-gradient(135deg,#1c1917,#0f172a,#111827);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:140px;left:240px;width:320px;height:320px;background:radial-gradient(circle,rgba(249,115,22,.18),transparent 70%);filter:blur(15px);z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:210px;left:330px;width:140px;height:190px;background:linear-gradient(180deg,#fb923c,#ea580c);clip-path:polygon(50% 0%,70% 25%,100% 60%,75% 100%,25% 100%,0% 60%,30% 25%);border-radius:50px;box-shadow:0 0 35px rgba(249,115,22,.5);z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:250px;left:375px;width:18px;height:150px;background:#fff7ed;border-radius:10px;z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:225px;left:350px;width:18px;height:70px;background:#fff7ed;border-radius:10px;z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:225px;left:390px;width:18px;height:70px;background:#fff7ed;border-radius:10px;z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:225px;left:430px;width:18px;height:70px;background:#fff7ed;border-radius:10px;z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:520px;left:0;width:800px;text-align:center;color:#fff;font-size:54px;font-weight:900;letter-spacing:4px;z-index:5;text-shadow:0 0 25px rgba(249,115,22,.5);">
+    FLAME FORK</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:590px;left:0;width:800px;text-align:center;color:#fdba74;font-size:17px;font-weight:bold;letter-spacing:12px;z-index:5;">
+    GRILL • TASTE • FIRE</div>
+
+`
+},
+
+{
+id: 'food_sushi_orbit',
+name: 'Sushi Orbit',
+category: 'logo',
+categoryLabel: '🍔 Food & Restaurant',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:linear-gradient(135deg,#fafaf9,#e2e8f0,#f1f5f9);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:160px;left:250px;width:300px;height:300px;border:16px solid rgba(239,68,68,.25);border-radius:50%;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:200px;left:290px;width:220px;height:220px;background:linear-gradient(135deg,#ef4444,#dc2626);border-radius:50%;box-shadow:0 0 35px rgba(239,68,68,.4);z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:240px;left:330px;width:140px;height:140px;background:#fff;border-radius:50%;z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:275px;left:365px;width:70px;height:70px;background:#fb7185;border-radius:50%;z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:170px;left:510px;width:20px;height:20px;background:#ef4444;border-radius:50%;box-shadow:0 0 20px rgba(239,68,68,.6);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:520px;left:0;width:800px;text-align:center;color:#0f172a;font-size:50px;font-weight:900;letter-spacing:5px;z-index:6;">
+    SUSHI ORBIT</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:590px;left:0;width:800px;text-align:center;color:#ef4444;font-size:16px;font-weight:bold;letter-spacing:13px;z-index:6;">
+    JAPANESE FOOD EXPERIENCE</div>
+
+`
+},
+
+{
+id: 'food_burger_stack',
+name: 'Burger Stack',
+category: 'logo',
+categoryLabel: '🍔 Food & Restaurant',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:linear-gradient(135deg,#451a03,#78350f,#1e293b);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:180px;left:260px;width:280px;height:90px;background:linear-gradient(135deg,#fbbf24,#f59e0b);border-radius:120px 120px 60px 60px;box-shadow:0 0 35px rgba(251,191,36,.4);z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:295px;left:270px;width:260px;height:24px;background:#22c55e;border-radius:20px;z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:325px;left:260px;width:280px;height:40px;background:#7c2d12;border-radius:20px;z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:375px;left:275px;width:250px;height:24px;background:#facc15;border-radius:20px;z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:410px;left:260px;width:280px;height:70px;background:linear-gradient(135deg,#f59e0b,#d97706);border-radius:40px 40px 120px 120px;z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:210px;left:310px;width:12px;height:12px;background:#fff7ed;border-radius:50%;box-shadow:40px 10px #fff7ed,90px 0px #fff7ed,140px 8px #fff7ed;z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:540px;left:0;width:800px;text-align:center;color:#fff7ed;font-size:52px;font-weight:900;letter-spacing:5px;z-index:6;">
+    BURGER STACK</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:605px;left:0;width:800px;text-align:center;color:#fbbf24;font-size:17px;font-weight:bold;letter-spacing:12px;z-index:6;">
+    FAST FOOD HOUSE</div>
+
+`
+},
+
+{
+id: 'food_coffee_pulse',
+name: 'Coffee Pulse',
+category: 'logo',
+categoryLabel: '🍔 Food & Restaurant',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:linear-gradient(135deg,#111827,#1e293b,#0f172a);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:190px;left:300px;width:200px;height:180px;background:linear-gradient(135deg,#f8fafc,#e2e8f0);border-radius:0 0 50px 50px;z-index:3;box-shadow:0 0 35px rgba(255,255,255,.15);">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:220px;left:470px;width:60px;height:80px;border:12px solid #f8fafc;border-left:none;border-radius:0 40px 40px 0;z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:150px;left:335px;width:20px;height:80px;background:linear-gradient(180deg,#fb923c,transparent);border-radius:20px;filter:blur(2px);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:130px;left:390px;width:20px;height:100px;background:linear-gradient(180deg,#fdba74,transparent);border-radius:20px;filter:blur(2px);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:160px;left:445px;width:20px;height:70px;background:linear-gradient(180deg,#fb923c,transparent);border-radius:20px;filter:blur(2px);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:390px;left:280px;width:240px;height:10px;background:#fb923c;border-radius:20px;z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:500px;left:0;width:800px;text-align:center;color:#fff;font-size:54px;font-weight:900;letter-spacing:5px;z-index:6;">
+    COFFEE PULSE</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:570px;left:0;width:800px;text-align:center;color:#fdba74;font-size:16px;font-weight:bold;letter-spacing:14px;z-index:6;">
+    CAFE • LOUNGE • BREW</div>
+
+`
+},
+
+{
+id: 'food_pizza_crown',
+name: 'Pizza Crown',
+category: 'logo',
+categoryLabel: '🍔 Food & Restaurant',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:linear-gradient(135deg,#7f1d1d,#111827,#1e293b);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:170px;left:270px;width:260px;height:260px;background:linear-gradient(135deg,#f59e0b,#ea580c);clip-path:polygon(50% 0%,100% 100%,0% 100%);border-radius:20px;box-shadow:0 0 35px rgba(249,115,22,.4);z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:210px;left:315px;width:170px;height:170px;background:#fcd34d;clip-path:polygon(50% 0%,100% 100%,0% 100%);z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:300px;left:340px;width:24px;height:24px;background:#dc2626;border-radius:50%;z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:260px;left:390px;width:24px;height:24px;background:#dc2626;border-radius:50%;z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:320px;left:420px;width:24px;height:24px;background:#dc2626;border-radius:50%;z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:240px;left:355px;width:14px;height:14px;background:#16a34a;border-radius:50%;box-shadow:60px 60px #16a34a,90px 110px #16a34a;z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:530px;left:0;width:800px;text-align:center;color:#fff7ed;font-size:52px;font-weight:900;letter-spacing:4px;z-index:6;text-shadow:0 0 20px rgba(249,115,22,.5);">
+    PIZZA CROWN</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:600px;left:0;width:800px;text-align:center;color:#fb923c;font-size:16px;font-weight:bold;letter-spacing:12px;z-index:6;">
+    ITALIAN WOOD FIRE KITCHEN</div>
+
+`
+},
+{
+id: 'food_neon_bistro',
+name: 'Neon Bistro',
+category: 'logo',
+categoryLabel: '🍔 Food & Restaurant',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:radial-gradient(circle at top,#1e1b4b,#020617 75%);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:120px;left:220px;width:360px;height:360px;border:2px solid rgba(236,72,153,.15);border-radius:50%;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:185px;left:295px;width:210px;height:210px;border:14px solid #ec4899;border-radius:50%;clip-path:polygon(0 0,100% 0,100% 65%,0 65%);box-shadow:0 0 35px rgba(236,72,153,.7);z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:260px;left:350px;width:100px;height:120px;background:linear-gradient(135deg,#f472b6,#db2777);border-radius:0 0 35px 35px;z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:220px;left:360px;width:18px;height:70px;background:#fdf2f8;border-radius:10px;z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:205px;left:390px;width:18px;height:85px;background:#fdf2f8;border-radius:10px;z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:220px;left:420px;width:18px;height:70px;background:#fdf2f8;border-radius:10px;z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:520px;left:0;width:800px;text-align:center;color:#fff;font-size:52px;font-weight:900;letter-spacing:6px;z-index:6;text-shadow:0 0 25px rgba(236,72,153,.6);">
+    NEON BISTRO</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:590px;left:0;width:800px;text-align:center;color:#f9a8d4;font-size:16px;font-weight:bold;letter-spacing:14px;z-index:6;">
+    PREMIUM NIGHT DINING</div>
+
+`
+},
+
+{
+id: 'food_crystal_chef',
+name: 'Crystal Chef',
+category: 'logo',
+categoryLabel: '🍔 Food & Restaurant',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:linear-gradient(135deg,#f8fafc,#dbeafe,#eef2ff);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:140px;left:230px;width:340px;height:340px;background:rgba(255,255,255,.35);backdrop-filter:blur(18px);border:1px solid rgba(255,255,255,.8);border-radius:40px;box-shadow:0 10px 45px rgba(59,130,246,.15);z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:190px;left:310px;width:180px;height:180px;background:linear-gradient(135deg,#60a5fa,#2563eb);clip-path:polygon(50% 0%,100% 25%,100% 75%,50% 100%,0% 75%,0% 25%);box-shadow:0 0 35px rgba(59,130,246,.4);z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:235px;left:355px;width:90px;height:90px;background:#eff6ff;border-radius:50%;z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:165px;left:370px;width:20px;height:90px;background:#dbeafe;border-radius:20px;filter:blur(1px);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:180px;left:410px;width:20px;height:75px;background:#dbeafe;border-radius:20px;filter:blur(1px);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:525px;left:0;width:800px;text-align:center;color:#1e3a8a;font-size:50px;font-weight:900;letter-spacing:5px;z-index:6;">
+    CRYSTAL CHEF</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:592px;left:0;width:800px;text-align:center;color:#3b82f6;font-size:16px;font-weight:bold;letter-spacing:12px;z-index:6;">
+    MODERN FINE CUISINE</div>
+
+`
+},
+
+{
+id: 'food_golden_taco',
+name: 'Golden Taco',
+category: 'logo',
+categoryLabel: '🍔 Food & Restaurant',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:linear-gradient(135deg,#451a03,#1e293b,#111827);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:170px;left:260px;width:280px;height:180px;background:linear-gradient(180deg,#facc15,#f59e0b);border-radius:180px 180px 0 0;box-shadow:0 0 35px rgba(250,204,21,.45);z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:250px;left:280px;width:240px;height:90px;background:#22c55e;border-radius:80px;z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:275px;left:300px;width:18px;height:18px;background:#dc2626;border-radius:50%;box-shadow:50px -10px #dc2626,100px 5px #dc2626,150px -8px #dc2626;z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:215px;left:315px;width:10px;height:10px;background:#fff7ed;border-radius:50%;box-shadow:35px 10px #fff7ed,70px -2px #fff7ed,120px 8px #fff7ed,160px -5px #fff7ed;z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:520px;left:0;width:800px;text-align:center;color:#fff7ed;font-size:52px;font-weight:900;letter-spacing:5px;z-index:6;text-shadow:0 0 25px rgba(250,204,21,.5);">
+    GOLDEN TACO</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:590px;left:0;width:800px;text-align:center;color:#facc15;font-size:16px;font-weight:bold;letter-spacing:13px;z-index:6;">
+    MEXICAN STREET FLAVORS</div>
+
+`
+},
+
+{
+id: 'food_urban_noodle',
+name: 'Urban Noodle',
+category: 'logo',
+categoryLabel: '🍔 Food & Restaurant',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:linear-gradient(135deg,#020617,#0f172a,#111827);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:190px;left:290px;width:220px;height:220px;border:14px solid #f59e0b;border-radius:50%;clip-path:polygon(0 0,100% 0,100% 72%,0 72%);box-shadow:0 0 35px rgba(245,158,11,.45);z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:330px;left:310px;width:180px;height:25px;background:#fbbf24;border-radius:20px;z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:220px;left:360px;width:10px;height:120px;background:#fde68a;border-radius:10px;transform:rotate(-18deg);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:220px;left:410px;width:10px;height:120px;background:#fde68a;border-radius:10px;transform:rotate(18deg);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:235px;left:335px;width:130px;height:60px;border-top:6px solid #fff7ed;border-radius:50%;z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:525px;left:0;width:800px;text-align:center;color:#fff;font-size:50px;font-weight:900;letter-spacing:5px;z-index:6;">
+    URBAN NOODLE</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:595px;left:0;width:800px;text-align:center;color:#fbbf24;font-size:16px;font-weight:bold;letter-spacing:12px;z-index:6;">
+    ASIAN STREET KITCHEN</div>
+
+`
+},
+
+{
+id: 'food_royal_dessert',
+name: 'Royal Dessert',
+category: 'logo',
+categoryLabel: '🍔 Food & Restaurant',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:linear-gradient(135deg,#4c0519,#111827,#1e293b);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:160px;left:260px;width:280px;height:280px;background:linear-gradient(135deg,#f9a8d4,#ec4899);border-radius:50%;box-shadow:0 0 40px rgba(236,72,153,.45);z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:220px;left:320px;width:160px;height:160px;background:#fff1f2;border-radius:50%;z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:190px;left:350px;width:100px;height:70px;background:#fbcfe8;border-radius:60px 60px 20px 20px;z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:260px;left:375px;width:50px;height:50px;background:#ec4899;border-radius:50%;z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:160px;left:390px;width:16px;height:40px;background:#fff;border-radius:10px;z-index:6;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:145px;left:385px;width:26px;height:26px;background:#fde68a;border-radius:50%;box-shadow:0 0 20px rgba(253,230,138,.7);z-index:6;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:525px;left:0;width:800px;text-align:center;color:#fff1f2;font-size:50px;font-weight:900;letter-spacing:5px;z-index:6;text-shadow:0 0 25px rgba(236,72,153,.5);">
+    ROYAL DESSERT</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:595px;left:0;width:800px;text-align:center;color:#f9a8d4;font-size:16px;font-weight:bold;letter-spacing:13px;z-index:6;">
+    CAKES • SWEETS • LOVE</div>
+
+`
+},
+{
+id: 'marketing_growth_wave',
+name: 'Growth Wave',
+category: 'logo',
+categoryLabel: '📈 Digital Marketing',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:linear-gradient(135deg,#020617,#0f172a,#111827);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:150px;left:220px;width:360px;height:360px;background:radial-gradient(circle,rgba(59,130,246,.18),transparent 70%);filter:blur(12px);z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:330px;left:270px;width:260px;height:14px;background:linear-gradient(90deg,#06b6d4,#3b82f6,#8b5cf6);border-radius:20px;transform:rotate(-18deg);box-shadow:0 0 25px rgba(59,130,246,.5);z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:250px;left:455px;width:0;height:0;border-left:40px solid #8b5cf6;border-top:25px solid transparent;border-bottom:25px solid transparent;transform:rotate(-18deg);z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:300px;left:310px;width:24px;height:24px;background:#06b6d4;border-radius:50%;box-shadow:80px -40px #3b82f6,160px -85px #8b5cf6;z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:520px;left:0;width:800px;text-align:center;color:#fff;font-size:52px;font-weight:900;letter-spacing:5px;z-index:6;text-shadow:0 0 25px rgba(59,130,246,.5);">
+    GROWTH WAVE</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:592px;left:0;width:800px;text-align:center;color:#60a5fa;font-size:16px;font-weight:bold;letter-spacing:13px;z-index:6;">
+    DIGITAL MARKETING AGENCY</div>
+
+`
+},
+
+{
+id: 'marketing_data_pulse',
+name: 'Data Pulse',
+category: 'logo',
+categoryLabel: '📈 Digital Marketing',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:linear-gradient(135deg,#f8fafc,#dbeafe,#eef2ff);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:180px;left:260px;width:280px;height:280px;background:rgba(255,255,255,.35);backdrop-filter:blur(16px);border:1px solid rgba(255,255,255,.8);border-radius:40px;box-shadow:0 10px 40px rgba(59,130,246,.15);z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:290px;left:310px;width:40px;height:90px;background:linear-gradient(180deg,#38bdf8,#0284c7);border-radius:12px;z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:240px;left:380px;width:40px;height:140px;background:linear-gradient(180deg,#0ea5e9,#0369a1);border-radius:12px;z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:200px;left:450px;width:40px;height:180px;background:linear-gradient(180deg,#2563eb,#1d4ed8);border-radius:12px;z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:215px;left:300px;width:210px;height:6px;background:linear-gradient(90deg,transparent,#3b82f6,transparent);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:520px;left:0;width:800px;text-align:center;color:#0f172a;font-size:50px;font-weight:900;letter-spacing:5px;z-index:6;">
+    DATA PULSE</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:590px;left:0;width:800px;text-align:center;color:#2563eb;font-size:16px;font-weight:bold;letter-spacing:12px;z-index:6;">
+    SMART ANALYTICS MEDIA</div>
+
+`
+},
+
+{
+id: 'marketing_neon_click',
+name: 'Neon Click',
+category: 'logo',
+categoryLabel: '📈 Digital Marketing',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:radial-gradient(circle at top,#1e1b4b,#020617 75%);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:160px;left:250px;width:300px;height:300px;border:2px solid rgba(236,72,153,.18);border-radius:50%;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:210px;left:310px;width:180px;height:180px;background:linear-gradient(135deg,#ec4899,#8b5cf6);clip-path:polygon(0 0,100% 50%,0 100%);box-shadow:0 0 35px rgba(236,72,153,.5);z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:265px;left:355px;width:70px;height:70px;background:#fff;border-radius:50%;z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:285px;left:375px;width:30px;height:30px;background:#ec4899;border-radius:50%;z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:170px;left:510px;width:18px;height:18px;background:#f472b6;border-radius:50%;box-shadow:0 0 20px rgba(244,114,182,.8);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:520px;left:0;width:800px;text-align:center;color:#fff;font-size:52px;font-weight:900;letter-spacing:5px;z-index:6;text-shadow:0 0 25px rgba(236,72,153,.6);">
+    NEON CLICK</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:592px;left:0;width:800px;text-align:center;color:#f9a8d4;font-size:16px;font-weight:bold;letter-spacing:14px;z-index:6;">
+    SOCIAL MEDIA STRATEGY</div>
+
+`
+},
+
+{
+id: 'marketing_quantum_ads',
+name: 'Quantum Ads',
+category: 'logo',
+categoryLabel: '📈 Digital Marketing',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:linear-gradient(135deg,#052e16,#022c22,#0f172a);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:140px;left:220px;width:360px;height:360px;background:radial-gradient(circle,rgba(34,197,94,.18),transparent 70%);filter:blur(12px);z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:200px;left:300px;width:200px;height:200px;border:14px solid #22c55e;border-radius:50%;clip-path:polygon(0 0,100% 0,100% 55%,0 55%);box-shadow:0 0 35px rgba(34,197,94,.5);z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:255px;left:355px;width:90px;height:90px;background:#22c55e;clip-path:polygon(0 50%,100% 0,100% 100%);z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:220px;left:510px;width:20px;height:20px;background:#86efac;border-radius:50%;box-shadow:0 0 25px rgba(134,239,172,.8);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:520px;left:0;width:800px;text-align:center;color:#f0fdf4;font-size:50px;font-weight:900;letter-spacing:5px;z-index:6;">
+    QUANTUM ADS</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:592px;left:0;width:800px;text-align:center;color:#4ade80;font-size:16px;font-weight:bold;letter-spacing:12px;z-index:6;">
+    PERFORMANCE MARKETING</div>
+
+`
+},
+
+{
+id: 'marketing_viral_matrix',
+name: 'Viral Matrix',
+category: 'logo',
+categoryLabel: '📈 Digital Marketing',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:linear-gradient(135deg,#111827,#1e293b,#0f172a);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:160px;left:240px;width:320px;height:320px;background:rgba(255,255,255,.03);backdrop-filter:blur(12px);border:1px solid rgba(255,255,255,.08);border-radius:40px;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:240px;left:310px;width:180px;height:180px;display:grid;grid-template-columns:repeat(3,1fr);gap:12px;z-index:3;">
+
+    <div style="background:#06b6d4;border-radius:14px;box-shadow:0 0 20px rgba(6,182,212,.4);"></div>
+    <div style="background:#3b82f6;border-radius:14px;box-shadow:0 0 20px rgba(59,130,246,.4);"></div>
+    <div style="background:#8b5cf6;border-radius:14px;box-shadow:0 0 20px rgba(139,92,246,.4);"></div>
+
+    <div style="background:#8b5cf6;border-radius:14px;box-shadow:0 0 20px rgba(139,92,246,.4);"></div>
+    <div style="background:#06b6d4;border-radius:14px;box-shadow:0 0 20px rgba(6,182,212,.4);"></div>
+    <div style="background:#3b82f6;border-radius:14px;box-shadow:0 0 20px rgba(59,130,246,.4);"></div>
+
+    <div style="background:#3b82f6;border-radius:14px;box-shadow:0 0 20px rgba(59,130,246,.4);"></div>
+    <div style="background:#8b5cf6;border-radius:14px;box-shadow:0 0 20px rgba(139,92,246,.4);"></div>
+    <div style="background:#06b6d4;border-radius:14px;box-shadow:0 0 20px rgba(6,182,212,.4);"></div>
+
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:540px;left:0;width:800px;text-align:center;color:#fff;font-size:50px;font-weight:900;letter-spacing:5px;z-index:6;">
+    VIRAL MATRIX</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:605px;left:0;width:800px;text-align:center;color:#60a5fa;font-size:16px;font-weight:bold;letter-spacing:14px;z-index:6;">
+    CONTENT • TRAFFIC • GROWTH</div>
+
+`
+},
+{
+id: 'marketing_pixel_funnel',
+name: 'Pixel Funnel',
+category: 'logo',
+categoryLabel: '📈 Digital Marketing',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:radial-gradient(circle at top,#0f172a,#020617 75%);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:130px;left:220px;width:360px;height:360px;border:2px solid rgba(14,165,233,.15);border-radius:50%;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:200px;left:300px;width:200px;height:200px;display:grid;grid-template-columns:repeat(4,1fr);gap:10px;z-index:3;">
+
+    <div style="background:#06b6d4;border-radius:12px;"></div>
+    <div style="background:#3b82f6;border-radius:12px;"></div>
+    <div style="background:#8b5cf6;border-radius:12px;"></div>
+    <div style="background:#ec4899;border-radius:12px;"></div>
+
+    <div style="background:#8b5cf6;border-radius:12px;"></div>
+    <div style="background:#06b6d4;border-radius:12px;"></div>
+    <div style="background:#3b82f6;border-radius:12px;"></div>
+    <div style="background:#ec4899;border-radius:12px;"></div>
+
+    <div style="background:#3b82f6;border-radius:12px;"></div>
+    <div style="background:#8b5cf6;border-radius:12px;"></div>
+    <div style="background:#06b6d4;border-radius:12px;"></div>
+    <div style="background:#ec4899;border-radius:12px;"></div>
+
+    <div style="background:#ec4899;border-radius:12px;"></div>
+    <div style="background:#06b6d4;border-radius:12px;"></div>
+    <div style="background:#3b82f6;border-radius:12px;"></div>
+    <div style="background:#8b5cf6;border-radius:12px;"></div>
+
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:540px;left:0;width:800px;text-align:center;color:#fff;font-size:50px;font-weight:900;letter-spacing:6px;z-index:6;text-shadow:0 0 25px rgba(59,130,246,.4);">
+    PIXEL FUNNEL</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:608px;left:0;width:800px;text-align:center;color:#93c5fd;font-size:16px;font-weight:bold;letter-spacing:14px;z-index:6;">
+    LEADS • ADS • CONVERSIONS</div>
+
+`
+},
+
+{
+id: 'marketing_hyper_target',
+name: 'Hyper Target',
+category: 'logo',
+categoryLabel: '📈 Digital Marketing',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:linear-gradient(135deg,#111827,#1e1b4b,#020617);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:160px;left:250px;width:300px;height:300px;border:14px solid rgba(236,72,153,.35);border-radius:50%;z-index:2;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:220px;left:310px;width:180px;height:180px;border:12px solid rgba(139,92,246,.55);border-radius:50%;z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:285px;left:375px;width:50px;height:50px;background:#ec4899;border-radius:50%;box-shadow:0 0 30px rgba(236,72,153,.7);z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:305px;left:180px;width:210px;height:8px;background:linear-gradient(90deg,#ec4899,transparent);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:305px;left:410px;width:210px;height:8px;background:linear-gradient(90deg,transparent,#8b5cf6);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:110px;left:397px;width:8px;height:210px;background:linear-gradient(180deg,#8b5cf6,transparent);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:305px;left:397px;width:8px;height:210px;background:linear-gradient(180deg,transparent,#ec4899);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:530px;left:0;width:800px;text-align:center;color:#fff;font-size:52px;font-weight:900;letter-spacing:5px;z-index:6;">
+    HYPER TARGET</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:600px;left:0;width:800px;text-align:center;color:#f9a8d4;font-size:16px;font-weight:bold;letter-spacing:13px;z-index:6;">
+    PRECISION ADVERTISING</div>
+
+`
+},
+
+{
+id: 'marketing_signal_boost',
+name: 'Signal Boost',
+category: 'logo',
+categoryLabel: '📈 Digital Marketing',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:linear-gradient(135deg,#052e16,#022c22,#020617);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:220px;left:350px;width:100px;height:100px;background:linear-gradient(135deg,#22c55e,#16a34a);transform:rotate(45deg);border-radius:20px;box-shadow:0 0 35px rgba(34,197,94,.5);z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:190px;left:320px;width:160px;height:160px;border:10px solid rgba(34,197,94,.4);border-radius:50%;clip-path:polygon(0 0,100% 0,100% 50%,0 50%);z-index:2;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:160px;left:290px;width:220px;height:220px;border:8px solid rgba(74,222,128,.2);border-radius:50%;clip-path:polygon(0 0,100% 0,100% 40%,0 40%);z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:250px;left:385px;width:30px;height:30px;background:#f0fdf4;border-radius:50%;z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:535px;left:0;width:800px;text-align:center;color:#f0fdf4;font-size:50px;font-weight:900;letter-spacing:5px;z-index:6;">
+    SIGNAL BOOST</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:605px;left:0;width:800px;text-align:center;color:#4ade80;font-size:16px;font-weight:bold;letter-spacing:14px;z-index:6;">
+    BRAND VISIBILITY EXPERTS</div>
+
+`
+},
+
+{
+id: 'marketing_ai_reach',
+name: 'AI Reach',
+category: 'logo',
+categoryLabel: '📈 Digital Marketing',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:linear-gradient(135deg,#f8fafc,#eef2ff,#dbeafe);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:170px;left:250px;width:300px;height:300px;background:rgba(255,255,255,.4);backdrop-filter:blur(20px);border:1px solid rgba(255,255,255,.8);border-radius:50%;box-shadow:0 10px 40px rgba(59,130,246,.15);z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:230px;left:310px;width:180px;height:180px;display:grid;grid-template-columns:repeat(3,1fr);gap:12px;z-index:3;">
+
+    <div style="background:#06b6d4;border-radius:50%;"></div>
+    <div style="background:#3b82f6;border-radius:50%;"></div>
+    <div style="background:#8b5cf6;border-radius:50%;"></div>
+
+    <div style="background:#8b5cf6;border-radius:50%;"></div>
+    <div style="background:#ec4899;border-radius:50%;"></div>
+    <div style="background:#06b6d4;border-radius:50%;"></div>
+
+    <div style="background:#3b82f6;border-radius:50%;"></div>
+    <div style="background:#06b6d4;border-radius:50%;"></div>
+    <div style="background:#8b5cf6;border-radius:50%;"></div>
+
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:295px;left:390px;width:20px;height:20px;background:#fff;border-radius:50%;z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:530px;left:0;width:800px;text-align:center;color:#1e293b;font-size:52px;font-weight:900;letter-spacing:5px;z-index:6;">
+    AI REACH</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:600px;left:0;width:800px;text-align:center;color:#2563eb;font-size:16px;font-weight:bold;letter-spacing:14px;z-index:6;">
+    AUTOMATED GROWTH SYSTEMS</div>
+
+`
+},
+
+{
+id: 'marketing_conversion_loop',
+name: 'Conversion Loop',
+category: 'logo',
+categoryLabel: '📈 Digital Marketing',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:radial-gradient(circle at top,#1e293b,#020617 75%);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:170px;left:260px;width:280px;height:280px;border:16px solid rgba(59,130,246,.25);border-radius:50%;clip-path:polygon(0 0,100% 0,100% 70%,0 70%);z-index:2;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:220px;left:310px;width:180px;height:180px;border:14px solid rgba(139,92,246,.45);border-radius:50%;clip-path:polygon(0 0,100% 0,100% 70%,0 70%);z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:210px;left:450px;width:0;height:0;border-left:28px solid #8b5cf6;border-top:18px solid transparent;border-bottom:18px solid transparent;transform:rotate(40deg);z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:365px;left:295px;width:0;height:0;border-right:28px solid #06b6d4;border-top:18px solid transparent;border-bottom:18px solid transparent;transform:rotate(40deg);z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:285px;left:375px;width:50px;height:50px;background:#fff;border-radius:50%;box-shadow:0 0 20px rgba(255,255,255,.5);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:535px;left:0;width:800px;text-align:center;color:#fff;font-size:50px;font-weight:900;letter-spacing:6px;z-index:6;text-shadow:0 0 25px rgba(59,130,246,.5);">
+    CONVERSION LOOP</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:605px;left:0;width:800px;text-align:center;color:#93c5fd;font-size:16px;font-weight:bold;letter-spacing:13px;z-index:6;">
+    TRAFFIC • SALES • SCALE</div>
+
+`
+},
+{
+id: 'tool_quantum_grid',
+name: 'Quantum Grid',
+category: 'logo',
+categoryLabel: '🛠 Tool Based',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:radial-gradient(circle at top,#0f172a,#020617 75%);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:170px;left:250px;width:300px;height:300px;border:2px solid rgba(59,130,246,.15);border-radius:40px;transform:rotate(45deg);z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:240px;left:320px;width:160px;height:160px;display:grid;grid-template-columns:repeat(3,1fr);gap:10px;z-index:3;">
+
+    <div style="background:#06b6d4;border-radius:12px;box-shadow:0 0 20px rgba(6,182,212,.5);"></div>
+    <div style="background:#3b82f6;border-radius:12px;box-shadow:0 0 20px rgba(59,130,246,.5);"></div>
+    <div style="background:#8b5cf6;border-radius:12px;box-shadow:0 0 20px rgba(139,92,246,.5);"></div>
+
+    <div style="background:#8b5cf6;border-radius:12px;box-shadow:0 0 20px rgba(139,92,246,.5);"></div>
+    <div style="background:#ffffff;border-radius:12px;"></div>
+    <div style="background:#06b6d4;border-radius:12px;box-shadow:0 0 20px rgba(6,182,212,.5);"></div>
+
+    <div style="background:#3b82f6;border-radius:12px;box-shadow:0 0 20px rgba(59,130,246,.5);"></div>
+    <div style="background:#06b6d4;border-radius:12px;box-shadow:0 0 20px rgba(6,182,212,.5);"></div>
+    <div style="background:#8b5cf6;border-radius:12px;box-shadow:0 0 20px rgba(139,92,246,.5);"></div>
+
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:540px;left:0;width:800px;text-align:center;color:#fff;font-size:52px;font-weight:900;letter-spacing:5px;z-index:6;text-shadow:0 0 25px rgba(59,130,246,.4);">
+    QUANTUM GRID</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:608px;left:0;width:800px;text-align:center;color:#93c5fd;font-size:16px;font-weight:bold;letter-spacing:14px;z-index:6;">
+    SMART ONLINE UTILITIES</div>
+
+`
+},
+
+{
+id: 'tool_cyber_core',
+name: 'Cyber Core',
+category: 'logo',
+categoryLabel: '🛠 Tool Based',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:linear-gradient(135deg,#111827,#1e1b4b,#020617);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:180px;left:280px;width:240px;height:240px;border:14px solid #8b5cf6;border-radius:50%;box-shadow:0 0 35px rgba(139,92,246,.45);z-index:2;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:235px;left:335px;width:130px;height:130px;background:linear-gradient(135deg,#06b6d4,#8b5cf6);clip-path:polygon(50% 0%,100% 50%,50% 100%,0% 50%);box-shadow:0 0 35px rgba(139,92,246,.5);z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:280px;left:380px;width:40px;height:40px;background:#fff;border-radius:50%;z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:160px;left:395px;width:10px;height:70px;background:#8b5cf6;z-index:5;"></div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:370px;left:395px;width:10px;height:70px;background:#06b6d4;z-index:5;"></div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:295px;left:250px;width:70px;height:10px;background:#8b5cf6;z-index:5;"></div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:295px;left:480px;width:70px;height:10px;background:#06b6d4;z-index:5;"></div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:535px;left:0;width:800px;text-align:center;color:#fff;font-size:50px;font-weight:900;letter-spacing:5px;z-index:6;">
+    CYBER CORE</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:605px;left:0;width:800px;text-align:center;color:#c4b5fd;font-size:16px;font-weight:bold;letter-spacing:13px;z-index:6;">
+    AI TOOLS PLATFORM</div>
+
+`
+},
+
+{
+id: 'tool_holo_stack',
+name: 'Holo Stack',
+category: 'logo',
+categoryLabel: '🛠 Tool Based',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:linear-gradient(135deg,#f8fafc,#dbeafe,#eef2ff);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:180px;left:240px;width:320px;height:320px;background:rgba(255,255,255,.35);backdrop-filter:blur(20px);border:1px solid rgba(255,255,255,.8);border-radius:40px;box-shadow:0 15px 45px rgba(59,130,246,.15);z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:220px;left:300px;width:200px;height:50px;background:linear-gradient(90deg,#06b6d4,#3b82f6);border-radius:16px;box-shadow:0 0 25px rgba(59,130,246,.4);z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:295px;left:325px;width:150px;height:50px;background:linear-gradient(90deg,#3b82f6,#8b5cf6);border-radius:16px;box-shadow:0 0 25px rgba(139,92,246,.4);z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:370px;left:350px;width:100px;height:50px;background:linear-gradient(90deg,#8b5cf6,#ec4899);border-radius:16px;box-shadow:0 0 25px rgba(236,72,153,.4);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:545px;left:0;width:800px;text-align:center;color:#1e293b;font-size:52px;font-weight:900;letter-spacing:5px;z-index:6;">
+    HOLO STACK</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:612px;left:0;width:800px;text-align:center;color:#2563eb;font-size:16px;font-weight:bold;letter-spacing:14px;z-index:6;">
+    MODERN WEB UTILITIES</div>
+
+`
+},
+
+{
+id: 'tool_neon_hex',
+name: 'Neon Hex',
+category: 'logo',
+categoryLabel: '🛠 Tool Based',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:radial-gradient(circle at top,#1e293b,#020617 75%);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:190px;left:290px;width:220px;height:220px;background:linear-gradient(135deg,#06b6d4,#8b5cf6);clip-path:polygon(25% 6%,75% 6%,100% 50%,75% 94%,25% 94%,0% 50%);box-shadow:0 0 40px rgba(139,92,246,.5);z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:245px;left:345px;width:110px;height:110px;background:#020617;clip-path:polygon(25% 6%,75% 6%,100% 50%,75% 94%,25% 94%,0% 50%);z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:280px;left:380px;width:40px;height:40px;background:#ffffff;border-radius:50%;box-shadow:0 0 20px rgba(255,255,255,.8);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:120px;left:390px;width:20px;height:20px;background:#06b6d4;border-radius:50%;box-shadow:0 0 25px rgba(6,182,212,.8);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:450px;left:390px;width:20px;height:20px;background:#8b5cf6;border-radius:50%;box-shadow:0 0 25px rgba(139,92,246,.8);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:540px;left:0;width:800px;text-align:center;color:#fff;font-size:52px;font-weight:900;letter-spacing:5px;z-index:6;text-shadow:0 0 25px rgba(139,92,246,.5);">
+    NEON HEX</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:608px;left:0;width:800px;text-align:center;color:#c4b5fd;font-size:16px;font-weight:bold;letter-spacing:14px;z-index:6;">
+    DIGITAL TOOLS HUB</div>
+
+`
+},
+
+{
+id: 'tool_orbit_panel',
+name: 'Orbit Panel',
+category: 'logo',
+categoryLabel: '🛠 Tool Based',
+width: 800,
+height: 800,
+html: `
+
+<div id="design-bg"
+    style="position:absolute;inset:0;background:linear-gradient(135deg,#020617,#0f172a,#111827);overflow:hidden;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:170px;left:250px;width:300px;height:300px;border:3px solid rgba(59,130,246,.2);border-radius:50%;z-index:1;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:220px;left:300px;width:200px;height:200px;border:12px solid rgba(139,92,246,.5);border-radius:50%;clip-path:polygon(0 0,100% 0,100% 60%,0 60%);z-index:2;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:250px;left:350px;width:100px;height:100px;background:linear-gradient(135deg,#06b6d4,#3b82f6);border-radius:24px;transform:rotate(45deg);box-shadow:0 0 35px rgba(59,130,246,.5);z-index:3;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:285px;left:385px;width:30px;height:30px;background:#fff;border-radius:50%;z-index:4;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:210px;left:510px;width:18px;height:18px;background:#06b6d4;border-radius:50%;box-shadow:0 0 20px rgba(6,182,212,.8);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:390px;left:250px;width:18px;height:18px;background:#8b5cf6;border-radius:50%;box-shadow:0 0 20px rgba(139,92,246,.8);z-index:5;">
+</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:540px;left:0;width:800px;text-align:center;color:#fff;font-size:52px;font-weight:900;letter-spacing:5px;z-index:6;text-shadow:0 0 25px rgba(59,130,246,.5);">
+    ORBIT PANEL</div>
+
+<div class="hd-draggable" data-type="text"
+    style="position:absolute;top:608px;left:0;width:800px;text-align:center;color:#93c5fd;font-size:16px;font-weight:bold;letter-spacing:14px;z-index:6;">
+    ONLINE TOOL SUITE</div>
+
+`
+},
     // â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
     // CATEGORY: ðŸªª Visiting Cards (5 Templates)
     // â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
