@@ -1,36 +1,48 @@
 window.HD_TEMPLATES = [
-    {
-    "id": "tpl_1778259335649",
-    "name": "AD SCARE",
-    "category": "ad-creator",
-    "subCategory": "sub-fb-ads",
-    "width": 1080,
-    "height": 1080,
-    "html": "<div id=\"design-bg\" style=\"position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background: rgb(26, 28, 35); z-index: 1;\"></div>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: -100px; left: -100px; width: 500px; height: 500px; background: rgba(255, 0, 255, 0.1); border-radius: 50%; z-index: 2; filter: blur(80px); outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; inset: 579.988px auto auto 579.988px; width: 600px; height: 600px; background: rgba(0, 255, 255, 0.1); border-radius: 50%; z-index: 2; filter: blur(100px); outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 100px auto auto 60px; color: rgb(255, 0, 255); font-size: 24px; font-weight: 900; letter-spacing: 5px; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">LIMITED EDITION</div>\n                <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 150px auto auto 60px; color: rgb(241, 196, 15); font-size: 120px; font-weight: 900; z-index: 5; margin: 0px; line-height: 0.9; text-shadow: rgba(0, 0, 0, 0.8) 0px 4px 10px; outline: none; cursor: grab; width: 481px; height: 212px; user-select: text;\" contenteditable=\"false\" spellcheck=\"false\">BGBACK<br><span style=\"color:#00ffff;\">FUTURE</span></h1>\n                <p class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 423.427px auto auto 67.8091px; color: rgb(170, 170, 170); font-size: 32px !important; width: 500px; z-index: 5; text-shadow: none; outline: none; cursor: grab;\" contenteditable=\"false\">Upgrade your setup with the next generation of gear.</p>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 550px; left: 60px; width: 300px; height: 100px; background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.2); backdrop-filter: blur(10px); border-radius: 20px; z-index: 4; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 575px auto auto 100px; color: rgb(255, 255, 255); font-size: 40px; font-weight: 900; z-index: 5; outline: none; cursor: grab; user-select: text;\" contenteditable=\"false\" spellcheck=\"false\">UP TO <span style=\"color:#ff00ff;\">70%</span> OFF</div>\n                <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&amp;fit=crop&amp;w=600&amp;q=80\" alt=\"Tech\" style=\"position: absolute; inset: 200px auto auto 530px; width: 550px; height: auto; z-index: 6; transform: perspective(1000px) rotateY(-15deg); filter: drop-shadow(rgba(0, 255, 255, 0.3) 0px 20px 40px); outline: none; cursor: grab; border-radius: 200px 0px 200px 100px !important;\" contenteditable=\"false\">\n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; bottom: 80px; left: 60px; background: rgb(0, 255, 255); color: rgb(0, 0, 0); padding: 20px 60px; font-size: 24px; font-weight: 900; border-radius: 50px; z-index: 7; box-shadow: rgba(0, 255, 255, 0.5) 0px 0px 30px; outline: none; cursor: grab;\" contenteditable=\"false\">SHOP NOW</div>"
-},
     // â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
     // FACEBOOK POST AD TEMPLATES (1080x1080)
     // â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 
     {
-    "id": "fb_flash_sale_001",
-    "name": "Bold Flash Sale",
-    "category": "ad-creator",
-    "subCategory": "sub-fb-ads",
-    "width": 1080,
-    "height": 1080,
-    "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg, #ff416c 0%, #ff4b2b 100%);z-index:1;\"></div>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: -150px; right: -150px; width: 600px; height: 600px; background: rgba(255, 255, 255, 0.1); border-radius: 50%; z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n                <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position: absolute; top: 25px; left: 60px; color: rgb(255, 255, 255); font-size: 100px; z-index: 4; padding: 10px; cursor: grab; border: 2px dashed transparent; user-select: none; resize: both; overflow: visible; outline: none;\" contenteditable=\"false\">🚀</div>\n                <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 205px auto auto -3px; width: 100%; text-align: center; color: rgb(255, 255, 255); font-size: 120px; font-weight: 900; font-family: Inter, sans-serif; text-shadow: rgba(0, 0, 0, 0.3) 0px 15px 40px; z-index: 5; margin: 0px; line-height: 1; outline: none; cursor: grab;\" contenteditable=\"false\">FLASH SALE</h1>\n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 412px auto auto 334px; color: rgb(255, 255, 255); background: rgba(0, 0, 0, 0.3); padding: 15px 60px; border-radius: 100px; font-weight: 900; font-size: 80px; z-index: 5; backdrop-filter: blur(10px); border: 2px solid rgba(255, 255, 255, 0.3); outline: none; cursor: grab;\" contenteditable=\"false\">70% OFF</div>\n                <p class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 640px auto auto 12px; width: 100%; text-align: center; color: rgba(255, 255, 255, 0.9); font-size: 30px !important; font-weight: 500; font-family: Inter, sans-serif; z-index: 5; letter-spacing: 2px; outline: none; cursor: grab;\" contenteditable=\"false\">LIMITED TIME OFFER â€¢ ENDS TONIGHT</p>\n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 772px auto auto 402px; font-size: 36px !important; font-weight: bold; color: rgb(255, 65, 108); background: rgb(255, 255, 255); padding: 20px 60px; border-radius: 50px; text-align: center; box-shadow: rgba(0, 0, 0, 0.2) 0px 15px 35px; z-index: 5; outline: none; cursor: grab; user-select: text;\" contenteditable=\"false\" spellcheck=\"false\">SHOP NOW&nbsp;</div>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; bottom: 50px; left: 440px; width: 200px; height: 5px; background: rgba(255, 255, 255, 0.5); border-radius: 5px; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\"></div>"
-},
+        id: 'fb_flash_sale_001',
+        name: 'Bold Flash Sale',
+        category: 'ad-creator',
+        subCategory: 'sub-fb-ads',
+        categoryLabel: 'ðŸ“˜ Facebook Post',
+        width: 1080,
+        height: 1080,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg, #ff416c 0%, #ff4b2b 100%);z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:-150px;right:-150px;width:600px;height:600px;background:rgba(255,255,255,0.1);border-radius:50%;z-index:2;"></div>
+                <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:250px;left:0;width:100%;text-align:center;color:#ffffff;font-size:120px;font-weight:900;font-family:'Inter',sans-serif;text-shadow:0 15px 40px rgba(0,0,0,0.3);z-index:5;margin:0;line-height:1;">FLASH SALE</h1>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:400px;left:340px;color:#fff;background:rgba(0,0,0,0.3);padding:15px 60px;border-radius:100px;font-weight:900;font-size:80px;z-index:5;backdrop-filter:blur(10px);border:2px solid rgba(255,255,255,0.3);">70% OFF</div>
+                <p class="hd-draggable" data-type="text" style="position:absolute;top:580px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.9);font-size:35px;font-weight:500;font-family:'Inter',sans-serif;z-index:5;letter-spacing:2px;">LIMITED TIME OFFER â€¢ ENDS TONIGHT</p>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:700px;left:390px;font-size:32px;font-weight:bold;color:#ff416c;background:#fff;padding:20px 60px;border-radius:50px;text-align:center;box-shadow:0 15px 35px rgba(0,0,0,0.2);z-index:5;">SHOP NOW â†’</div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:50px;left:440px;width:200px;height:5px;background:rgba(255,255,255,0.5);border-radius:5px;z-index:5;"></div>
+                `
+    },
 
     {
-    "id": "fb_product_premium_001",
-    "name": "Clean Product Showcase",
-    "category": "ad-creator",
-    "subCategory": "sub-fb-ads",
-    "width": 1080,
-    "height": 1080,
-    "html": "<div id=\"design-bg\" style=\"position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background: rgb(26, 28, 35); z-index: 1;\"></div>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:100px;left:100px;right:100px;bottom:100px;background:linear-gradient(135deg, #232526 0%, #414345 100%);border-radius:40px;z-index:2;box-shadow:0 30px 60px rgba(0,0,0,0.3);\"></div>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:150px;left:150px;width:300px;height:300px;background:rgba(255,255,255,0.05);border-radius:50%;z-index:3;backdrop-filter:blur(20px);\"></div>\n                <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 200px; left: 150px; color: rgb(241, 196, 15); font-size: 75px; font-weight: 800; font-family: Inter, sans-serif; z-index: 5; margin: 0px; line-height: 1.1; letter-spacing: -2px; text-shadow: rgba(0, 0, 0, 0.8) 0px 4px 10px;\">Premium<br>Collection</h1>\n                <p class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 400px; left: 150px; color: rgb(170, 170, 170); font-size: 24px; font-weight: 400; font-family: Inter, sans-serif; z-index: 5; width: 400px; line-height: 1.6; text-shadow: none;\">Experience the perfect blend of innovation and aesthetic excellence.</p>\n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:550px;left:150px;font-size:22px;font-weight:bold;color:#fff;border:2px solid #fff;padding:15px 40px;border-radius:15px;text-align:center;z-index:5;\">EXPLORE MORE</div>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:200px;right:150px;width:400px;height:550px;background:rgba(255,255,255,0.1);border-radius:30px;z-index:4;backdrop-filter:blur(15px);border:1px solid rgba(255,255,255,0.2);\"></div>\n                <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:150px;right:180px;color:#fff;font-size:40px;font-weight:900;z-index:5;\">$199.99</div>"
-},
+        id: 'fb_product_premium_001',
+        name: 'Clean Product Showcase',
+        category: 'ad-creator',
+        subCategory: 'sub-fb-ads',
+        categoryLabel: 'ðŸ›ï¸ Product Ad',
+        width: 1080,
+        height: 1080,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f8f9fa;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:100px;left:100px;right:100px;bottom:100px;background:linear-gradient(135deg, #232526 0%, #414345 100%);border-radius:40px;z-index:2;box-shadow:0 30px 60px rgba(0,0,0,0.3);"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:150px;left:150px;width:300px;height:300px;background:rgba(255,255,255,0.05);border-radius:50%;z-index:3;backdrop-filter:blur(20px);"></div>
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:200px;left:150px;color:#ffffff;font-size:75px;font-weight:800;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:1.1;letter-spacing:-2px;">Premium<br>Collection</h1>
+                <p class="hd-draggable" data-type="text" style="position:absolute;top:400px;left:150px;color:rgba(255,255,255,0.6);font-size:24px;font-weight:400;font-family:'Inter',sans-serif;z-index:5;width:400px;line-height:1.6;">Experience the perfect blend of innovation and aesthetic excellence.</p>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:550px;left:150px;font-size:22px;font-weight:bold;color:#fff;border:2px solid #fff;padding:15px 40px;border-radius:15px;text-align:center;z-index:5;">EXPLORE MORE</div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;right:150px;width:400px;height:550px;background:rgba(255,255,255,0.1);border-radius:30px;z-index:4;backdrop-filter:blur(15px);border:1px solid rgba(255,255,255,0.2);"></div>
+                <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:150px;right:180px;color:#fff;font-size:40px;font-weight:900;z-index:5;">$199.99</div>
+                `
+    },
 
     {
         id: 'fb_webinar_event_001',
@@ -56,14 +68,26 @@ window.HD_TEMPLATES = [
     },
 
     {
-    "id": "fb_service_minimal_001",
-    "name": "Minimalist Service Promo",
-    "category": "ad-creator",
-    "subCategory": "sub-fb-ads",
-    "width": 1080,
-    "height": 1080,
-    "html": "<div id=\"design-bg\" style=\"position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background: rgb(26, 28, 35); z-index: 1;\"></div>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:400px;height:100%;background:#fcfcfc;z-index:2;\"></div>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:100px;left:100px;width:100px;height:100px;background:#111;border-radius:20px;z-index:3;\"></div>\n                <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n                <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 250px; left: 100px; color: rgb(241, 196, 15); font-size: 90px; font-weight: 900; font-family: Inter, sans-serif; z-index: 5; margin: 0px; line-height: 1; width: 800px; text-shadow: rgba(0, 0, 0, 0.8) 0px 4px 10px;\">Modern Solutions<br>For Your Business</h1>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:480px;left:100px;width:600px;height:2px;background:#eee;z-index:5;\"></div>\n                <p class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 520px; left: 100px; color: rgb(170, 170, 170); font-size: 28px; font-family: Inter, sans-serif; z-index: 5; width: 600px; line-height: 1.6; text-shadow: none;\">â€¢ UI/UX Design Strategy<br>â€¢ Professional Web Development<br>â€¢ Brand Identity &amp; Growth</p>\n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:100px;left:100px;font-size:24px;font-weight:bold;color:#fff;background:#111;padding:20px 50px;border-radius:5px;text-align:center;z-index:5;\">WORK WITH US</div>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;bottom:100px;right:100px;width:350px;height:350px;background:linear-gradient(135deg, #667eea 0%, #764ba2 100%);border-radius:40px;z-index:3;transform:rotate(10deg);\"></div>\n                <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>"
-},
+        id: 'fb_service_minimal_001',
+        name: 'Minimalist Service Promo',
+        category: 'ad-creator',
+        subCategory: 'sub-fb-ads',
+        categoryLabel: 'ðŸ’¼ Service Ad',
+        width: 1080,
+        height: 1080,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:400px;height:100%;background:#fcfcfc;z-index:2;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:100px;left:100px;width:100px;height:100px;background:#111;border-radius:20px;z-index:3;"></div>
+                <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:250px;left:100px;color:#000000;font-size:90px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:1;width:800px;">Modern Solutions<br>For Your Business</h1>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:480px;left:100px;width:600px;height:2px;background:#eee;z-index:5;"></div>
+                <p class="hd-draggable" data-type="text" style="position:absolute;top:520px;left:100px;color:#222222;font-size:28px;font-family:'Inter',sans-serif;z-index:5;width:600px;line-height:1.6;">â€¢ UI/UX Design Strategy<br>â€¢ Professional Web Development<br>â€¢ Brand Identity & Growth</p>
+                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;left:100px;font-size:24px;font-weight:bold;color:#fff;background:#111;padding:20px 50px;border-radius:5px;text-align:center;z-index:5;">WORK WITH US</div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;right:100px;width:350px;height:350px;background:linear-gradient(135deg, #667eea 0%, #764ba2 100%);border-radius:40px;z-index:3;transform:rotate(10deg);"></div>
+                <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
+                `
+    },
 
     {
         id: 'fb_app_promo_001',
@@ -378,6 +402,605 @@ window.HD_TEMPLATES = [
                 <div class="hd-draggable" data-type="text" style="position:absolute;bottom:150px;left:50%;transform:translateX(-50%);background:#00f2ff;color:#000;padding:25px 80px;font-size:30px;font-weight:900;border-radius:10px;z-index:7;box-shadow:0 0 40px rgba(0,242,255,0.4);">EXPLORE DEVICE</div>
                 `
     },
+    {
+    id: 'story_gaming_neon_004',
+    name: 'E-Sports Tournament',
+    category: 'ad-creator',
+    subCategory: 'ad-insta-story',
+    categoryLabel: '🎮 Gaming Story',
+    width: 1080,
+    height: 1920,
+    html: `
+        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0B0B0B;z-index:1;"></div>
+        <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(180deg, #9D00FF 0%, #000 100%);opacity:0.3;z-index:2;"></div>
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;top:200px;left:50%;transform:translateX(-50%);color:#00FFD1;font-size:60px;font-weight:700;z-index:5;text-transform:uppercase;letter-spacing:10px;">Championship</div>
+        <h1 class="hd-draggable" data-type="text" style="position:absolute;top:300px;left:50%;transform:translateX(-50%);color:#fff;font-size:220px;font-weight:900;z-index:5;text-shadow:0 0 50px #9D00FF;">BATTLE</h1>
+        
+        <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80" alt="Gamer" style="position:absolute;top:700px;left:50%;transform:translateX(-50%);width:900px;border:5px solid #00FFD1;border-radius:30px;z-index:3;">
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:400px;left:100px;color:#fff;font-size:50px;z-index:5;">📅 <b>25th MAY</b> | 🕒 <b>9 PM</b></div>
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:150px;left:50%;transform:translateX(-50%);background:#9D00FF;color:#fff;padding:25px 120px;font-size:40px;font-weight:900;border-radius:100px;z-index:7;box-shadow:0 0 40px #9D00FF;">REGISTER FREE 🖱️</div>
+    `
+},
+{
+    id: 'story_fitness_006',
+    name: 'Fitness Transformation',
+    category: 'ad-creator',
+    subCategory: 'ad-insta-story',
+    categoryLabel: '💪 Fitness Story',
+    width: 1080,
+    height: 1920,
+    html: `
+        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
+        
+        <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:400px;height:100%;background:#000;z-index:2;"></div>
+        
+        <h1 class="hd-draggable" data-type="text" style="position:absolute;top:300px;left:150px;color:#000;font-size:180px;font-weight:900;z-index:5;line-height:0.9;">NO PAIN<br><span style="color:#FF4500;">NO GAIN</span></h1>
+        
+        <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=800&q=80" alt="Gym" style="position:absolute;top:700px;left:300px;width:700px;height:900px;object-fit:cover;z-index:4;border-radius:50px 0 0 50px;border:15px solid #FF4500;">
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:400px;left:100px;color:#fff;font-size:50px;font-weight:700;z-index:6;transform:rotate(-90deg);white-space:nowrap;">JOIN THE GYM</div>
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:150px;left:50%;transform:translateX(-50%);background:#000;color:#fff;padding:30px 150px;font-size:40px;font-weight:900;border-radius:10px;z-index:7;text-transform:uppercase;">Get 7 Days Free Trial 🏋️‍♂️</div>
+    `
+},
+{
+    id: 'story_fashion_drop_002',
+    name: 'Luxury Fashion Drop',
+    category: 'ad-creator',
+    subCategory: 'ad-insta-story',
+    categoryLabel: '👗 Fashion Story',
+    width: 1080,
+    height: 1920,
+    html: `
+
+    <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0c0c0c;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:-200px;right:-100px;width:700px;height:700px;border-radius:50%;background:radial-gradient(circle,#ffb6c1 0%,transparent 70%);opacity:0.4;z-index:2;"></div>
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:-250px;left:-150px;width:800px;height:800px;border-radius:50%;background:radial-gradient(circle,#ffd700 0%,transparent 70%);opacity:0.2;z-index:2;"></div>
+
+    <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=900&q=80"
+    style="position:absolute;top:260px;left:90px;width:900px;height:1050px;object-fit:cover;border-radius:40px;z-index:3;">
+
+    <div class="hd-draggable" data-type="shape" style="position:absolute;top:220px;left:50px;width:980px;height:1130px;border:2px solid rgba(255,255,255,0.15);border-radius:50px;z-index:2;"></div>
+
+    <h1 class="hd-draggable" data-type="text"
+    style="position:absolute;top:90px;left:80px;color:#fff;font-size:120px;font-weight:900;line-height:0.9;z-index:5;margin:0;">
+    LUXE<br><span style="color:#ffd700;">DROP</span>
+    </h1>
+
+    <div class="hd-draggable" data-type="text"
+    style="position:absolute;bottom:380px;left:100px;color:#fff;font-size:40px;font-weight:700;z-index:5;">
+    ✨ New Season Collection
+    </div>
+
+    <div class="hd-draggable" data-type="text"
+    style="position:absolute;bottom:320px;left:100px;color:rgba(255,255,255,0.7);font-size:24px;width:700px;line-height:1.5;z-index:5;">
+    Elevate your style with bold silhouettes and premium textures.
+    </div>
+
+    <div class="hd-draggable" data-type="text"
+    style="position:absolute;bottom:140px;left:100px;background:#ffd700;color:#000;padding:28px 90px;border-radius:18px;font-size:32px;font-weight:900;z-index:6;">
+    SHOP NOW
+    </div>
+
+    `
+},
+{
+    id: 'story_food_burger_003',
+    name: 'Burger Blast',
+    category: 'ad-creator',
+    subCategory: 'ad-insta-story',
+    categoryLabel: '🍔 Food Story',
+    width: 1080,
+    height: 1920,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:#1b120d;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:-300px;left:-200px;width:900px;height:900px;border-radius:50%;background:#ff7a00;opacity:0.15;z-index:2;"></div>
+
+    <img class="hd-draggable" data-type="image"
+    src="https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=1000&q=80"
+    style="position:absolute;top:420px;left:50%;transform:translateX(-50%);width:900px;height:900px;object-fit:cover;border-radius:50px;z-index:4;box-shadow:0 40px 100px rgba(0,0,0,0.6);">
+
+    <div class="hd-draggable" data-type="text"
+    style="position:absolute;top:120px;left:70px;color:#fff;font-size:130px;font-weight:900;line-height:0.8;z-index:5;">
+    BIG<br><span style="color:#ffae00;">BITE</span>
+    </div>
+
+    <div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:350px;right:70px;width:180px;height:180px;background:#ffae00;border-radius:50%;z-index:5;display:flex;align-items:center;justify-content:center;color:#000;font-size:38px;font-weight:900;">
+    50% OFF
+    </div>
+
+    <div class="hd-draggable" data-type="shape"
+    style="position:absolute;bottom:250px;left:60px;width:960px;height:260px;background:rgba(255,255,255,0.06);backdrop-filter:blur(16px);border-radius:35px;z-index:4;border:1px solid rgba(255,255,255,0.1);"></div>
+
+    <div class="hd-draggable" data-type="text"
+    style="position:absolute;bottom:390px;left:100px;color:#fff;font-size:44px;font-weight:800;z-index:5;">
+    🔥 Double Cheese Explosion
+    </div>
+
+    <div class="hd-draggable" data-type="text"
+    style="position:absolute;bottom:320px;left:100px;color:rgba(255,255,255,0.7);font-size:24px;width:760px;line-height:1.6;z-index:5;">
+    Loaded with premium beef, crispy bacon & melted cheddar.
+    </div>
+
+    <div class="hd-draggable" data-type="text"
+    style="position:absolute;bottom:120px;left:100px;background:#ff7a00;color:#fff;padding:28px 100px;border-radius:16px;font-size:32px;font-weight:900;z-index:6;">
+    ORDER NOW 🍔
+    </div>
+
+    `
+},
+{
+    id: 'story_crypto_trade_006',
+    name: 'Crypto Trading',
+    category: 'ad-creator',
+    subCategory: 'ad-insta-story',
+    categoryLabel: '💎 Crypto Story',
+    width: 1080,
+    height: 1920,
+    html: `
+
+    <div id="design-bg" style="position:absolute;inset:0;background:#07120f;z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at top right,#00ff99 0%,transparent 40%),radial-gradient(circle at bottom left,#003322 0%,transparent 40%);z-index:2;"></div>
+
+    <div class="hd-draggable" data-type="shape"
+    style="position:absolute;top:120px;left:80px;width:920px;height:600px;border:1px solid rgba(0,255,153,0.15);border-radius:40px;background:rgba(255,255,255,0.03);backdrop-filter:blur(15px);z-index:3;"></div>
+
+    <img class="hd-draggable" data-type="image"
+    src="https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1000&q=80"
+    style="position:absolute;top:170px;left:130px;width:820px;height:500px;object-fit:cover;border-radius:30px;z-index:4;">
+
+    <h1 class="hd-draggable" data-type="text"
+    style="position:absolute;top:760px;left:80px;color:#fff;font-size:120px;font-weight:900;line-height:0.85;z-index:5;">
+    TRADE<br><span style="color:#00ff99;">SMART</span>
+    </h1>
+
+    <div class="hd-draggable" data-type="text"
+    style="position:absolute;bottom:360px;left:90px;color:#fff;font-size:38px;font-weight:700;z-index:5;">
+    📈 AI Powered Crypto Signals
+    </div>
+
+    <div class="hd-draggable" data-type="text"
+    style="position:absolute;bottom:290px;left:90px;color:rgba(255,255,255,0.7);font-size:24px;width:800px;line-height:1.6;z-index:5;">
+    Get accurate market insights and maximize your investment growth.
+    </div>
+
+    <div class="hd-draggable" data-type="text"
+    style="position:absolute;bottom:120px;left:90px;background:#00ff99;color:#000;padding:28px 100px;border-radius:16px;font-size:30px;font-weight:900;z-index:6;box-shadow:0 0 30px rgba(0,255,153,0.5);">
+    START NOW 💰
+    </div>
+
+    `
+},
+{
+    id: 'story_auto_premium_007',
+    name: 'Luxury Car Rental',
+    category: 'ad-creator',
+    subCategory: 'ad-insta-story',
+    categoryLabel: '🚗 Auto Story',
+    width: 1080,
+    height: 1920,
+    html: `
+        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0a0a0a;z-index:1;"></div>
+        <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:50%;background:linear-gradient(180deg, #1e1e1e 0%, #0a0a0a 100%);z-index:2;"></div>
+        
+        <h1 class="hd-draggable" data-type="text" style="position:absolute;top:150px;left:80px;color:rgba(255,255,255,0.05);font-size:350px;font-weight:900;z-index:2;margin:0;">DRIVE</h1>
+        
+        <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=800&q=80" alt="Car" style="position:absolute;top:450px;left:-50px;width:1180px;z-index:4;filter:drop-shadow(0 20px 50px rgba(0,0,0,0.8));">
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;top:950px;left:100px;color:#fff;font-size:90px;font-weight:900;z-index:5;line-height:1.1;">UNLEASH THE<br><span style="color:#ff3e3e;">BEAST MODE</span></div>
+        
+        <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:350px;left:100px;width:150px;height:5px;background:#ff3e3e;z-index:5;"></div>
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:250px;left:100px;color:#ccc;font-size:35px;z-index:5;width:600px;">Premium rentals starting from $199/day. Experience luxury like never before. 🏎️</div>
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;right:80px;background:#fff;color:#000;padding:25px 60px;font-size:32px;font-weight:900;border-radius:50px 0 50px 50px;z-index:7;">BOOK NOW</div>
+    `
+},
+{
+    id: 'story_travel_adventure_009',
+    name: 'Explore the World',
+    category: 'ad-creator',
+    subCategory: 'ad-insta-story',
+    categoryLabel: '✈️ Travel Story',
+    width: 1080,
+    height: 1920,
+    html: `
+        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#e0f2fe;z-index:1;"></div>
+        
+        <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1080&q=80" alt="Beach" style="position:absolute;top:0;left:0;width:100%;height:70%;object-fit:cover;z-index:2;clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);">
+        
+        <div class="hd-draggable" data-type="shape" style="position:absolute;top:50px;left:50px;width:120px;height:120px;background:rgba(255,255,255,0.2);backdrop-filter:blur(10px);border-radius:50%;z-index:5;display:flex;align-items:center;justify-content:center;color:#fff;font-size:60px;">🌍</div>
+        
+        <h2 class="hd-draggable" data-type="text" style="position:absolute;top:1150px;left:80px;color:#0369a1;font-size:110px;font-weight:900;z-index:5;margin:0;">ESCAPE TO<br><span style="color:#0ea5e9;">PARADISE</span></h2>
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;top:1400px;left:80px;color:#475569;font-size:40px;z-index:5;width:800px;">Book your summer getaway now and get 30% off on all beach resorts. 🌴</div>
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:150px;left:80px;background:#0ea5e9;color:#fff;padding:30px 100px;font-size:45px;font-weight:900;border-radius:15px;z-index:7;box-shadow:0 15px 30px rgba(14,165,233,0.3);">FLY TODAY ✈️</div>
+    `
+},
+{
+    id: 'story_webinar_pro_010',
+    name: 'Business Masterclass',
+    category: 'ad-creator',
+    subCategory: 'ad-insta-story',
+    categoryLabel: '🏢 Career Story',
+    width: 1080,
+    height: 1920,
+    html: `
+        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
+        <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;right:0;width:300px;height:100%;background:#f3f4f6;z-index:2;"></div>
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;top:150px;left:100px;color:#111827;font-size:50px;font-weight:400;z-index:5;border-left:10px solid #2563eb;padding-left:30px;">FREE WEBINAR</div>
+        
+        <h1 class="hd-draggable" data-type="text" style="position:absolute;top:280px;left:100px;color:#111827;font-size:140px;font-weight:900;z-index:5;line-height:0.9;">GROW YOUR<br><span style="color:#2563eb;">BUSINESS</span><br>10X FASTER</h1>
+        
+        <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=800&q=80" alt="Speaker" style="position:absolute;bottom:0;right:0;width:900px;z-index:4;filter:grayscale(100%) contrast(1.1);">
+        
+        <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:400px;left:100px;width:550px;height:250px;background:#2563eb;z-index:5;border-radius:20px;padding:40px;box-sizing:border-box;">
+            <p style="color:#fff;font-size:35px;margin:0;font-weight:700;">LEARN FROM EXPERTS</p>
+            <p style="color:rgba(255,255,255,0.8);font-size:24px;margin-top:10px;">Sunday, 4:00 PM onwards</p>
+        </div>
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:150px;left:100px;color:#111827;font-size:45px;font-weight:900;z-index:7;text-decoration:underline;">RESERVE MY SPOT ✍️</div>
+    `
+},
+{
+    id: 'story_podcast_vibe_011',
+    name: 'New Podcast Episode',
+    category: 'ad-creator',
+    subCategory: 'ad-insta-story',
+    categoryLabel: '🎧 Media Story',
+    width: 1080,
+    height: 1920,
+    html: `
+        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#8b5cf6;z-index:1;"></div>
+        <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:repeating-linear-gradient(45deg, transparent, transparent 20px, rgba(255,255,255,0.05) 20px, rgba(255,255,255,0.05) 40px);z-index:2;"></div>
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:50%;transform:translateX(-50%);background:#000;color:#fff;padding:15px 40px;font-size:30px;font-weight:700;border-radius:50px;z-index:5;">NEW EPISODE OUT NOW 🎙️</div>
+        
+        <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&fit=crop&w=800&q=80" alt="Podcast" style="position:absolute;top:250px;left:50%;transform:translateX(-50%);width:850px;height:850px;object-fit:cover;z-index:4;border-radius:50px;box-shadow:30px 30px 0 #000;">
+        
+        <h2 class="hd-draggable" data-type="text" style="position:absolute;top:1150px;left:100px;color:#fff;font-size:90px;font-weight:900;z-index:5;text-transform:uppercase;line-height:1;">The Future of<br><span style="color:#000;">AI & Tech</span></h2>
+        
+        <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:420px;left:100px;width:100px;height:10px;background:#000;z-index:5;"></div>
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:250px;left:100px;color:#fff;font-size:40px;z-index:5;font-weight:500;">Available on Spotify & Apple Podcasts</div>
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;left:50%;transform:translateX(-50%);width:900px;background:#000;color:#fff;padding:30px;font-size:40px;font-weight:900;text-align:center;border-radius:20px;z-index:7;box-shadow:0 10px 40px rgba(0,0,0,0.3);">SWIPE UP TO LISTEN 🎧</div>
+    `
+},
+{
+    id: 'story_health_organic_012',
+    name: 'Fresh Organic Bowl',
+    category: 'ad-creator',
+    subCategory: 'ad-insta-story',
+    categoryLabel: '🥗 Health Story',
+    width: 1080,
+    height: 1920,
+    html: `
+        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f0f4f1;z-index:1;"></div>
+        <div class="hd-draggable" data-type="shape" style="position:absolute;top:-100px;left:-100px;width:600px;height:600px;background:#2d5a27;border-radius:50%;z-index:2;opacity:0.1;"></div>
+        
+        <h2 class="hd-draggable" data-type="text" style="position:absolute;top:150px;left:80px;color:#2d5a27;font-size:100px;font-weight:900;z-index:5;line-height:1;">EAT WELL<br><span style="color:#8bc34a;">LIVE BETTER</span></h2>
+        
+        <div class="hd-draggable" data-type="shape" style="position:absolute;top:450px;left:50%;transform:translateX(-50%);width:850px;height:850px;background:#fff;border-radius:50%;z-index:2;box-shadow:0 20px 40px rgba(0,0,0,0.05);"></div>
+        
+        <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80" alt="Salad Bowl" style="position:absolute;top:400px;left:50%;transform:translateX(-50%);width:950px;z-index:4;filter:drop-shadow(0 30px 50px rgba(0,0,0,0.15));">
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:420px;left:50%;transform:translateX(-50%);background:#2d5a27;color:#fff;padding:15px 40px;font-size:35px;font-weight:700;border-radius:50px;z-index:6;">100% ORGANIC 🌿</div>
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:200px;left:100px;color:#444;font-size:40px;z-index:5;width:800px;text-align:center;">Deliciously healthy meals delivered to your doorstep.</div>
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:80px;left:50%;transform:translateX(-50%);background:#8bc34a;color:#fff;padding:25px 100px;font-size:40px;font-weight:900;border-radius:15px;z-index:7;">ORDER NOW 🥗</div>
+    `
+},
+{
+    id: 'story_interior_art_013',
+    name: 'Modern Interior Design',
+    category: 'ad-creator',
+    subCategory: 'ad-insta-story',
+    categoryLabel: '🏠 Decor Story',
+    width: 1080,
+    height: 1920,
+    html: `
+        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fff;z-index:1;"></div>
+        <div class="hd-draggable" data-type="shape" style="position:absolute;top:100px;left:100px;width:200px;height:5px;background:#333;z-index:5;"></div>
+        
+        <h1 class="hd-draggable" data-type="text" style="position:absolute;top:150px;left:100px;color:#333;font-size:120px;font-weight:200;z-index:5;letter-spacing:-5px;">Art of<br><b>Living.</b></h1>
+        
+        <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=800&q=80" alt="Interior" style="position:absolute;top:500px;left:100px;width:880px;height:1000px;object-fit:cover;z-index:3;border-radius:10px;">
+        
+        <div class="hd-draggable" data-type="shape" style="position:absolute;top:450px;right:50px;width:350px;height:450px;background:#e5e7eb;z-index:2;"></div>
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:250px;left:100px;color:#666;font-size:35px;z-index:5;width:600px;line-height:1.4;">Minimalist furniture that speaks for itself. Explore our new summer collection.</div>
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;right:100px;color:#333;font-size:45px;font-weight:700;z-index:7;border-bottom:3px solid #333;">EXPLORE SHOP 🛋️</div>
+    `
+},
+{
+    id: 'story_app_launch_014',
+    name: 'New App Feature',
+    category: 'ad-creator',
+    subCategory: 'ad-insta-story',
+    categoryLabel: '📱 Tech Story',
+    width: 1080,
+    height: 1920,
+    html: `
+        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#6366f1;z-index:1;"></div>
+        <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:-200px;width:1000px;height:1000px;background:rgba(255,255,255,0.1);border-radius:50%;z-index:2;"></div>
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;top:150px;left:50%;transform:translateX(-50%);color:#fff;font-size:40px;font-weight:700;z-index:5;background:rgba(0,0,0,0.2);padding:10px 40px;border-radius:50px;">VERSION 2.0 IS HERE 🚀</div>
+        
+        <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1551650975-87deedd944c3?auto=format&fit=crop&w=800&q=80" alt="Mobile App" style="position:absolute;top:350px;left:50%;transform:translateX(-50%);width:700px;z-index:4;filter:drop-shadow(0 50px 100px rgba(0,0,0,0.3));">
+        
+        <h2 class="hd-draggable" data-type="text" style="position:absolute;bottom:450px;left:50%;transform:translateX(-50%);color:#fff;font-size:90px;font-weight:900;z-index:5;text-align:center;width:900px;">Manage Everything<br>on the go.</h2>
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:150px;left:50%;transform:translateX(-50%);background:#fff;color:#6366f1;padding:30px 120px;font-size:45px;font-weight:900;border-radius:20px;z-index:7;box-shadow:0 20px 40px rgba(0,0,0,0.2);">DOWNLOAD FREE 📲</div>
+    `
+},
+{
+    id: 'story_beauty_glow_015',
+    name: 'Skincare Routine',
+    category: 'ad-creator',
+    subCategory: 'ad-insta-story',
+    categoryLabel: '💄 Beauty Story',
+    width: 1080,
+    height: 1920,
+    html: `
+        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fff5f5;z-index:1;"></div>
+        <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:800px;background:#fecaca;z-index:2;border-radius:0 0 50% 50%;"></div>
+        
+        <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1596462502278-27bfdc4033c8?auto=format&fit=crop&w=800&q=80" alt="Skincare" style="position:absolute;top:250px;left:50%;transform:translateX(-50%);width:800px;height:800px;object-fit:cover;z-index:4;border-radius:50%;border:15px solid #fff;">
+        
+        <h2 class="hd-draggable" data-type="text" style="position:absolute;top:1100px;left:50%;transform:translateX(-50%);color:#991b1b;font-size:110px;font-weight:900;z-index:5;text-align:center;">GLOW UP<br>YOUR SKIN</h2>
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;top:1350px;left:50%;transform:translateX(-50%);color:#b91c1c;font-size:40px;z-index:5;font-style:italic;">Nature's secret for a flawless look. ✨</div>
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:150px;left:50%;transform:translateX(-50%);width:800px;background:#991b1b;color:#fff;padding:30px;font-size:40px;font-weight:700;text-align:center;border-radius:50px;z-index:7;">GET THE GLOW 🧴</div>
+    `
+},
+{
+    id: 'story_edu_mastery_016',
+    name: 'Learn Pro Skills',
+    category: 'ad-creator',
+    subCategory: 'ad-insta-story',
+    categoryLabel: '🎓 Education Story',
+    width: 1080,
+    height: 1920,
+    html: `
+        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#111827;z-index:1;"></div>
+        <div class="hd-draggable" data-type="shape" style="position:absolute;top:100px;right:-100px;width:500px;height:500px;background:#fbbf24;border-radius:100px;transform:rotate(45deg);z-index:2;opacity:0.2;"></div>
+        
+        <h1 class="hd-draggable" data-type="text" style="position:absolute;top:200px;left:100px;color:#fff;font-size:130px;font-weight:900;z-index:5;line-height:0.9;">MASTER<br><span style="color:#fbbf24;">UI/UX DESIGN</span><br>IN 30 DAYS</h1>
+        
+        <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1586717791821-3f44a563eb4c?auto=format&fit=crop&w=800&q=80" alt="Design Course" style="position:absolute;top:650px;left:50%;transform:translateX(-50%);width:920px;border-radius:30px;z-index:4;">
+        
+        <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:350px;left:100px;width:880px;height:200px;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);z-index:3;border-radius:20px;"></div>
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:430px;left:150px;color:#fbbf24;font-size:45px;font-weight:700;z-index:5;">FREE CERTIFICATE 🎓</div>
+        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:380px;left:150px;color:#fff;font-size:30px;z-index:5;">Join 10,000+ students worldwide.</div>
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:120px;left:50%;transform:translateX(-50%);background:#fbbf24;color:#000;padding:30px 150px;font-size:45px;font-weight:900;border-radius:10px;z-index:7;">ENROLL NOW</div>
+    `
+},
+{
+    id: 'story_podcast_vibe_012',
+    name: 'Podcast Neon Glow',
+    category: 'ad-creator',
+    subCategory: 'ad-insta-story',
+    categoryLabel: '🎧 Media Story',
+    width: 1080,
+    height: 1920,
+    html: `
+        <div id="design-bg" style="position:absolute;inset:0;background:radial-gradient(circle at top right,#22d3ee 0%,#0f172a 45%,#020617 100%);z-index:1;"></div>
+
+        <div class="hd-draggable" data-type="shape" style="position:absolute;top:-150px;right:-100px;width:500px;height:500px;background:rgba(34,211,238,0.25);filter:blur(80px);border-radius:50%;z-index:2;"></div>
+        <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:200px;left:-150px;width:450px;height:450px;background:rgba(168,85,247,0.22);filter:blur(90px);border-radius:50%;z-index:2;"></div>
+
+        <div class="hd-draggable" data-type="text" style="position:absolute;top:90px;left:80px;background:rgba(255,255,255,0.08);backdrop-filter:blur(12px);border:2px solid rgba(255,255,255,0.12);color:#67e8f9;padding:18px 38px;font-size:28px;font-weight:800;border-radius:999px;z-index:5;letter-spacing:2px;">LIVE PODCAST</div>
+
+        <img class="hd-draggable" data-type="image"
+            src="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&fit=crop&w=1200&q=80"
+            alt="Podcast Cover"
+            style="position:absolute;top:240px;left:90px;width:900px;height:900px;object-fit:cover;border-radius:50px;z-index:4;box-shadow:0 0 0 8px rgba(255,255,255,0.08),0 30px 100px rgba(0,0,0,0.6);">
+
+        <div class="hd-draggable" data-type="shape" style="position:absolute;top:1060px;left:90px;width:900px;height:2px;background:linear-gradient(90deg,#22d3ee,transparent);z-index:5;"></div>
+
+        <h2 class="hd-draggable" data-type="text"
+            style="position:absolute;top:1110px;left:90px;color:#fff;font-size:96px;font-weight:900;line-height:0.95;z-index:5;text-transform:uppercase;">
+            AI<br><span style="color:#22d3ee;">REVOLUTION</span>
+        </h2>
+
+        <div class="hd-draggable" data-type="text"
+            style="position:absolute;top:1430px;left:90px;color:#cbd5e1;font-size:38px;font-weight:500;z-index:5;">
+            Featuring top founders & engineers
+        </div>
+
+        <div class="hd-draggable" data-type="text"
+            style="position:absolute;bottom:90px;left:90px;width:900px;background:linear-gradient(90deg,#22d3ee,#a855f7);color:#fff;padding:34px;font-size:42px;font-weight:900;text-align:center;border-radius:24px;z-index:7;box-shadow:0 20px 60px rgba(34,211,238,0.25);">
+            TAP TO LISTEN 🎧
+        </div>
+    `
+},
+{
+    id: 'story_podcast_vibe_013',
+    name: 'Glassmorphism Podcast',
+    category: 'ad-creator',
+    subCategory: 'ad-insta-story',
+    categoryLabel: '🎧 Media Story',
+    width: 1080,
+    height: 1920,
+    html: `
+        <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(135deg,#f8fafc 0%,#dbeafe 50%,#c4b5fd 100%);z-index:1;"></div>
+
+        <div class="hd-draggable" data-type="shape"
+            style="position:absolute;top:60px;left:60px;width:960px;height:1800px;background:rgba(255,255,255,0.35);backdrop-filter:blur(30px);border:1px solid rgba(255,255,255,0.6);border-radius:60px;z-index:2;box-shadow:0 30px 100px rgba(15,23,42,0.12);"></div>
+
+        <div class="hd-draggable" data-type="text"
+            style="position:absolute;top:120px;left:120px;color:#7c3aed;font-size:30px;font-weight:800;letter-spacing:3px;z-index:5;">
+            NEW EPISODE
+        </div>
+
+        <img class="hd-draggable" data-type="image"
+            src="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&fit=crop&w=1200&q=80"
+            alt="Podcast"
+            style="position:absolute;top:200px;left:120px;width:840px;height:840px;object-fit:cover;border-radius:40px;z-index:4;box-shadow:0 20px 60px rgba(0,0,0,0.15);">
+
+        <h2 class="hd-draggable" data-type="text"
+            style="position:absolute;top:1100px;left:120px;color:#0f172a;font-size:88px;font-weight:900;line-height:1;z-index:5;">
+            Building<br><span style="color:#7c3aed;">Startups</span>
+        </h2>
+
+        <div class="hd-draggable" data-type="text"
+            style="position:absolute;top:1360px;left:120px;color:#475569;font-size:38px;font-weight:500;line-height:1.5;z-index:5;width:780px;">
+            Insights from founders, investors, and product leaders.
+        </div>
+
+        <div class="hd-draggable" data-type="text"
+            style="position:absolute;bottom:170px;left:120px;background:#0f172a;color:#fff;padding:26px 42px;font-size:34px;font-weight:700;border-radius:999px;z-index:5;">
+            Spotify • Apple Podcasts
+        </div>
+
+        <div class="hd-draggable" data-type="text"
+            style="position:absolute;bottom:70px;right:120px;color:#7c3aed;font-size:46px;font-weight:900;z-index:5;">
+            ▶ LISTEN NOW
+        </div>
+    `
+},
+{
+    id: 'story_podcast_vibe_014',
+    name: 'Bold Editorial Podcast',
+    category: 'ad-creator',
+    subCategory: 'ad-insta-story',
+    categoryLabel: '🎧 Media Story',
+    width: 1080,
+    height: 1920,
+    html: `
+        <div id="design-bg" style="position:absolute;inset:0;background:#fef2f2;z-index:1;"></div>
+
+        <div class="hd-draggable" data-type="shape"
+            style="position:absolute;top:0;right:0;width:420px;height:100%;background:#ef4444;z-index:2;"></div>
+
+        <img class="hd-draggable" data-type="image"
+            src="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&fit=crop&w=1200&q=80"
+            alt="Podcast"
+            style="position:absolute;top:180px;left:80px;width:760px;height:760px;object-fit:cover;border-radius:30px;z-index:4;box-shadow:25px 25px 0 #111827;">
+
+        <div class="hd-draggable" data-type="text"
+            style="position:absolute;top:220px;right:70px;writing-mode:vertical-rl;text-orientation:mixed;color:#fff;font-size:30px;font-weight:800;letter-spacing:4px;z-index:5;">
+            PODCAST
+        </div>
+
+        <h2 class="hd-draggable" data-type="text"
+            style="position:absolute;top:1040px;left:80px;color:#111827;font-size:100px;font-weight:900;line-height:0.92;text-transform:uppercase;z-index:5;">
+            Creative<br>Mindset
+        </h2>
+
+        <div class="hd-draggable" data-type="shape"
+            style="position:absolute;top:1510px;left:80px;width:160px;height:14px;background:#ef4444;z-index:5;"></div>
+
+        <div class="hd-draggable" data-type="text"
+            style="position:absolute;top:1560px;left:80px;color:#374151;font-size:38px;line-height:1.4;z-index:5;width:760px;">
+            Discover how creators turn ideas into successful brands.
+        </div>
+
+        <div class="hd-draggable" data-type="text"
+            style="position:absolute;bottom:80px;left:80px;width:920px;background:#111827;color:#fff;padding:32px;font-size:42px;font-weight:900;text-align:center;border-radius:20px;z-index:7;">
+            SWIPE UP TO STREAM 🎙️
+        </div>
+    `
+},
+{
+    id: 'story_podcast_vibe_015',
+    name: 'Dark Luxury Podcast',
+    category: 'ad-creator',
+    subCategory: 'ad-insta-story',
+    categoryLabel: '🎧 Media Story',
+    width: 1080,
+    height: 1920,
+    html: `
+        <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(180deg,#020617 0%,#111827 100%);z-index:1;"></div>
+
+        <div class="hd-draggable" data-type="shape"
+            style="position:absolute;top:60px;left:60px;width:960px;height:1800px;border:1px solid rgba(251,191,36,0.3);border-radius:50px;z-index:2;"></div>
+
+        <img class="hd-draggable" data-type="image"
+            src="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&fit=crop&w=1200&q=80"
+            alt="Podcast"
+            style="position:absolute;top:160px;left:120px;width:840px;height:840px;object-fit:cover;border-radius:24px;z-index:4;box-shadow:0 30px 100px rgba(0,0,0,0.6);">
+
+        <div class="hd-draggable" data-type="text"
+            style="position:absolute;top:1030px;left:120px;color:#fbbf24;font-size:26px;font-weight:700;letter-spacing:5px;z-index:5;">
+            EXCLUSIVE INTERVIEW
+        </div>
+
+        <h2 class="hd-draggable" data-type="text"
+            style="position:absolute;top:1090px;left:120px;color:#fff;font-size:92px;font-weight:900;line-height:0.95;z-index:5;">
+            Wealth &<br>Business
+        </h2>
+
+        <div class="hd-draggable" data-type="text"
+            style="position:absolute;top:1370px;left:120px;color:#9ca3af;font-size:36px;line-height:1.5;z-index:5;width:820px;">
+            Learn from CEOs, investors, and entrepreneurs.
+        </div>
+
+        <div class="hd-draggable" data-type="text"
+            style="position:absolute;bottom:100px;left:120px;width:840px;border:2px solid #fbbf24;color:#fbbf24;padding:30px;font-size:40px;font-weight:900;text-align:center;border-radius:18px;z-index:7;">
+            LISTEN ON ALL PLATFORMS
+        </div>
+    `
+},
+{
+    id: 'story_podcast_vibe_016',
+    name: 'Retro Wave Podcast',
+    category: 'ad-creator',
+    subCategory: 'ad-insta-story',
+    categoryLabel: '🎧 Media Story',
+    width: 1080,
+    height: 1920,
+    html: `
+        <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(180deg,#0f172a 0%,#1e1b4b 50%,#312e81 100%);z-index:1;"></div>
+
+        <div class="hd-draggable" data-type="shape"
+            style="position:absolute;bottom:0;left:0;width:100%;height:700px;background:repeating-linear-gradient(to top,rgba(236,72,153,0.15) 0,rgba(236,72,153,0.15) 2px,transparent 2px,transparent 28px);z-index:2;"></div>
+
+        <div class="hd-draggable" data-type="text"
+            style="position:absolute;top:90px;left:50%;transform:translateX(-50%);color:#f472b6;font-size:34px;font-weight:900;letter-spacing:4px;z-index:5;text-shadow:0 0 20px rgba(244,114,182,0.8);">
+            NEW EPISODE
+        </div>
+
+        <img class="hd-draggable" data-type="image"
+            src="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&fit=crop&w=1200&q=80"
+            alt="Podcast"
+            style="position:absolute;top:220px;left:140px;width:800px;height:800px;object-fit:cover;border-radius:50%;z-index:4;box-shadow:0 0 0 10px #f472b6,0 0 80px rgba(244,114,182,0.45);">
+
+        <h2 class="hd-draggable" data-type="text"
+            style="position:absolute;top:1100px;left:90px;width:900px;text-align:center;color:#fff;font-size:90px;font-weight:900;line-height:0.95;z-index:5;text-transform:uppercase;">
+            Future<br><span style="color:#67e8f9;">Sounds</span>
+        </h2>
+
+        <div class="hd-draggable" data-type="text"
+            style="position:absolute;top:1400px;left:90px;width:900px;text-align:center;color:#cbd5e1;font-size:36px;line-height:1.5;z-index:5;">
+            Music, technology, and culture in one conversation.
+        </div>
+
+        <div class="hd-draggable" data-type="text"
+            style="position:absolute;bottom:90px;left:140px;width:800px;background:#f472b6;color:#fff;padding:30px;font-size:40px;font-weight:900;text-align:center;border-radius:999px;z-index:7;box-shadow:0 0 50px rgba(244,114,182,0.5);">
+            PLAY NOW ▶
+        </div>
+    `
+},
 
     {
         id: 'story_food_001',
@@ -728,6 +1351,202 @@ window.HD_TEMPLATES = [
                 <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;left:80px;background:#fab1a0;color:#000;padding:25px 60px;font-size:28px;font-weight:900;z-index:7;border-radius:15px;">ENROLL FOR $49</div>
                 `
     },
+    {
+    id: 'portrait_food_deal_004',
+    name: 'Neon Taco Night',
+    category: 'ad-creator',
+    subCategory: 'ad-insta-portrait',
+    categoryLabel: '🌮 Food Deal',
+    width: 1080,
+    height: 1350,
+    html: `
+        <div id="design-bg" style="position:absolute;inset:0;background:radial-gradient(circle at top,#22d3ee 0%,#1e1b4b 45%,#020617 100%);z-index:1;"></div>
+
+        <img class="hd-draggable" data-type="image"
+            src="https://images.unsplash.com/photo-1552332386-f8dd00dc2f85?auto=format&fit=crop&w=1200&q=80"
+            alt="Tacos"
+            style="position:absolute;top:90px;left:90px;width:900px;height:520px;object-fit:cover;border-radius:40px;z-index:3;box-shadow:0 30px 90px rgba(0,0,0,0.45);">
+
+        <div class="hd-draggable" data-type="shape"
+            style="position:absolute;top:650px;left:90px;width:900px;height:430px;background:rgba(255,255,255,0.08);backdrop-filter:blur(18px);border:1px solid rgba(255,255,255,0.12);border-radius:36px;z-index:4;"></div>
+
+        <h1 class="hd-draggable" data-type="text"
+            style="position:absolute;top:710px;left:140px;color:#ffffff;font-size:92px;font-weight:900;line-height:0.95;z-index:5;margin:0;">
+            TACO<br><span style="color:#22d3ee;">TUESDAY</span>
+        </h1>
+
+        <div class="hd-draggable" data-type="text"
+            style="position:absolute;top:930px;left:140px;color:#cbd5e1;font-size:28px;line-height:1.7;font-weight:500;z-index:5;">
+            🌮 Buy 2 Get 1 Free<br>
+            🥤 Drink included
+        </div>
+
+        <div class="hd-draggable" data-type="text"
+            style="position:absolute;bottom:100px;left:90px;width:900px;background:linear-gradient(90deg,#22d3ee,#a855f7);color:#fff;padding:28px;font-size:40px;font-weight:900;text-align:center;border-radius:22px;z-index:7;">
+            GRAB THIS DEAL NOW
+        </div>
+    `
+},
+{
+    id: 'portrait_food_deal_005',
+    name: 'Elegant Pasta Offer',
+    category: 'ad-creator',
+    subCategory: 'ad-insta-portrait',
+    categoryLabel: '🍝 Food Deal',
+    width: 1080,
+    height: 1350,
+    html: `
+        <div id="design-bg" style="position:absolute;inset:0;background:#fff7ed;z-index:1;"></div>
+
+        <div class="hd-draggable" data-type="shape"
+            style="position:absolute;top:0;right:0;width:320px;height:100%;background:#ea580c;z-index:2;"></div>
+
+        <img class="hd-draggable" data-type="image"
+            src="https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=1200&q=80"
+            alt="Pasta"
+            style="position:absolute;top:90px;left:90px;width:760px;height:560px;object-fit:cover;border-radius:30px;z-index:3;box-shadow:24px 24px 0 #111827;">
+
+        <div class="hd-draggable" data-type="text"
+            style="position:absolute;top:730px;left:90px;color:#111827;font-size:96px;font-weight:900;line-height:0.92;z-index:5;margin:0;">
+            PASTA<br>NIGHT
+        </div>
+
+        <div class="hd-draggable" data-type="shape"
+            style="position:absolute;top:940px;left:90px;width:180px;height:12px;background:#ea580c;z-index:5;"></div>
+
+        <div class="hd-draggable" data-type="text"
+            style="position:absolute;top:980px;left:90px;width:760px;color:#374151;font-size:30px;line-height:1.7;font-weight:500;z-index:5;">
+            🍝 Authentic Italian recipe<br>
+            🧄 Garlic bread included<br>
+            🍷 Fine dining experience
+        </div>
+
+        <div class="hd-draggable" data-type="text"
+            style="position:absolute;bottom:100px;left:90px;background:#111827;color:#fff;padding:26px 80px;font-size:38px;font-weight:900;border-radius:16px;z-index:7;">
+            BOOK TABLE – $18.99
+        </div>
+    `
+},
+{
+    id: 'portrait_food_deal_006',
+    name: 'Dessert Pink Promo',
+    category: 'ad-creator',
+    subCategory: 'ad-insta-portrait',
+    categoryLabel: '🍰 Food Deal',
+    width: 1080,
+    height: 1350,
+    html: `
+        <div id="design-bg" style="position:absolute;inset:0;background:linear-gradient(180deg,#fdf2f8 0%,#ffe4e6 100%);z-index:1;"></div>
+
+        <div class="hd-draggable" data-type="shape"
+            style="position:absolute;top:70px;left:70px;width:940px;height:1210px;background:#ffffff;border-radius:50px;z-index:2;box-shadow:0 30px 80px rgba(244,114,182,0.18);"></div>
+
+        <img class="hd-draggable" data-type="image"
+            src="https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?auto=format&fit=crop&w=1200&q=80"
+            alt="Dessert"
+            style="position:absolute;top:120px;left:120px;width:840px;height:520px;object-fit:cover;border-radius:30px;z-index:3;">
+
+        <div class="hd-draggable" data-type="text"
+            style="position:absolute;top:710px;left:120px;color:#ec4899;font-size:30px;font-weight:800;letter-spacing:3px;z-index:5;">
+            SWEET DEAL
+        </div>
+
+        <h1 class="hd-draggable" data-type="text"
+            style="position:absolute;top:760px;left:120px;color:#111827;font-size:92px;font-weight:900;line-height:0.95;z-index:5;margin:0;">
+            DESSERT<br>LOVER
+        </h1>
+
+        <div class="hd-draggable" data-type="text"
+            style="position:absolute;top:980px;left:120px;width:780px;color:#6b7280;font-size:28px;line-height:1.8;font-weight:500;z-index:5;">
+            🍰 Buy one cake slice, get one free.<br>
+            ☕ Complimentary coffee included.
+        </div>
+
+        <div class="hd-draggable" data-type="text"
+            style="position:absolute;bottom:120px;left:120px;width:780px;background:#ec4899;color:#fff;padding:28px;font-size:38px;font-weight:900;text-align:center;border-radius:20px;z-index:7;">
+            ORDER YOUR SWEET BOX
+        </div>
+    `
+},
+{
+    id: 'portrait_bakery_sweet_004',
+    name: 'Bakery Special Treat',
+    category: 'ad-creator',
+    subCategory: 'ad-insta-portrait',
+    categoryLabel: '🧁 Bakery Portrait',
+    width: 1080,
+    height: 1350,
+    html: `
+        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fff1f2;z-index:1;"></div>
+        
+        <!-- Geometric Shapes -->
+        <div class="hd-draggable" data-type="shape" style="position:absolute;top:-100px;right:-100px;width:500px;height:500px;background:#fecdd3;border-radius:50%;z-index:2;"></div>
+        
+        <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1576618148400-f54bed99fcfd?auto=format&fit=crop&w=800&q=80" alt="Cupcake" style="position:absolute;top:150px;left:100px;width:880px;height:650px;object-fit:cover;z-index:3;border-radius:40px;box-shadow:0 30px 60px rgba(225,29,72,0.1);">
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:150px;background:#e11d48;color:#fff;padding:15px 40px;font-size:30px;font-weight:700;border-radius:50px;z-index:5;transform:rotate(-5deg);">FRESHLY BAKED 🥐</div>
+        
+        <h1 class="hd-draggable" data-type="text" style="position:absolute;top:850px;left:100px;color:#881337;font-size:110px;font-weight:900;z-index:5;line-height:0.9;">SWEETEN YOUR<br>MOMENTS.</h1>
+        
+        <p class="hd-draggable" data-type="text" style="position:absolute;top:1080px;left:100px;color:#9f1239;font-size:32px;z-index:5;width:800px;">Get a free cookie with every coffee purchase. Only this weekend! 🍪</p>
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:80px;left:50%;transform:translateX(-50%);width:880px;background:#e11d48;color:#fff;padding:30px;font-size:40px;font-weight:900;text-align:center;border-radius:25px;z-index:7;">VISIT OUR STORE 🧁</div>
+    `
+},
+{
+    id: 'portrait_backpack_sale_003',
+    name: 'Trendy Backpack Promo',
+    category: 'ad-creator',
+    subCategory: 'ad-insta-portrait',
+    categoryLabel: '🎒 Product Portrait',
+    width: 1080,
+    height: 1350,
+    html: `
+        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f3f4f6;z-index:1;"></div>
+        
+        <!-- Slanted Background -->
+        <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:800px;background:#2563eb;z-index:2;clip-path: polygon(0 0, 100% 0, 100% 70%, 0 100%);"></div>
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:80px;color:rgba(255,255,255,0.2);font-size:180px;font-weight:900;z-index:3;">ADVENTURE</div>
+        
+        <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1553062407-98eeb94c6a62?auto=format&fit=crop&w=800&q=80" alt="Backpack" style="position:absolute;top:300px;left:50%;transform:translateX(-50%);width:700px;z-index:4;border-radius:30px;box-shadow:0 40px 80px rgba(0,0,0,0.2);">
+        
+        <div class="hd-draggable" data-type="shape" style="position:absolute;top:250px;right:100px;width:200px;height:200px;background:#ef4444;border-radius:50%;z-index:5;display:flex;align-items:center;justify-content:center;box-shadow:0 10px 20px rgba(239,68,68,0.4);">
+            <span style="color:#fff;font-size:45px;font-weight:900;">-40%</span>
+        </div>
+        
+        <h2 class="hd-draggable" data-type="text" style="position:absolute;bottom:350px;left:100px;color:#1e3a8a;font-size:85px;font-weight:900;z-index:5;line-height:0.9;">DURABLE &<br>STYLISH.</h2>
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:120px;left:100px;background:#1e3a8a;color:#fff;padding:30px 100px;font-size:35px;font-weight:800;border-radius:15px;z-index:7;">SHOP COLLECTION 🎒</div>
+    `
+},
+{
+    id: 'portrait_fitness_gym_005',
+    name: 'Gym Membership Offer',
+    category: 'ad-creator',
+    subCategory: 'ad-insta-portrait',
+    categoryLabel: '🏋️‍♂️ Fitness Portrait',
+    width: 1080,
+    height: 1350,
+    html: `
+        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#000;z-index:1;"></div>
+        
+        <!-- Texture Overlay (Simulated) -->
+        <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(45deg, #111 25%, transparent 25%, transparent 50%, #111 50%, #111 75%, transparent 75%, transparent);background-size:20px 20px;opacity:0.2;z-index:2;"></div>
+        
+        <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=800&q=80" alt="Gym" style="position:absolute;top:0;right:0;width:80%;height:100%;object-fit:cover;z-index:3;mask-image: linear-gradient(to left, black 70%, transparent);-webkit-mask-image: linear-gradient(to left, black 70%, transparent);">
+        
+        <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:450px;height:100%;background:linear-gradient(to right, #fbbf24 85%, transparent);z-index:4;"></div>
+        
+        <h1 class="hd-draggable" data-type="text" style="position:absolute;top:200px;left:80px;color:#000;font-size:150px;font-weight:900;z-index:5;line-height:0.8;">BUILD<br>YOUR<br>CORE.</h1>
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;top:700px;left:80px;color:#000;font-size:40px;font-weight:700;z-index:5;width:300px;">NO EXCUSES.<br>JUST RESULTS.</div>
+        
+        <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:250px;left:80px;width:150px;height:10px;background:#000;z-index:5;"></div>
+        
+        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;left:80px;background:#000;color:#fbbf24;padding:30px 80px;font-size:35px;font-weight:900;border-radius:10px;z-index:7;">JOIN NOW 💪</div>
+    `
+},
 
     // --- TIKTOK ADS SUB-CATEGORY ---
     {
@@ -1133,14 +1952,23 @@ window.HD_TEMPLATES = [
 
     // --- GOOGLE BANNERS SUB-CATEGORY ---
     {
-    "id": "g_banner_saas_001",
-    "name": "SaaS Leaderboard",
-    "category": "ad-creator",
-    "subCategory": "ad-g-banner",
-    "width": 777,
-    "height": 100,
-    "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(90deg, #f8f9fa 0%, #e9ecef 100%);z-index:1;\"></div>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; inset: -50px auto auto 478px; width: 300px; height: 200px; background: rgb(13, 110, 253); border-radius: 50%; opacity: 0.1; z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 0px; left: 0px; width: 8px; height: 100%; background: rgb(13, 110, 253); z-index: 3; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n                <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: -5.99402px auto auto 42.1813px; font-size: 28px; font-weight: 900; font-family: Inter, sans-serif; z-index: 5; margin: 0px; line-height: 1; letter-spacing: -1px; white-space: nowrap; color: rgb(33, 37, 41) !important; outline: none; cursor: grab;\" contenteditable=\"false\">Scale Your Startup <span style=\"color:#0d6efd;\">10x Faster</span></h1>\n                <p class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 60.3625px auto auto 43.2719px; font-size: 15px; font-weight: 500; font-family: Inter, sans-serif; z-index: 5; margin: 0px; white-space: nowrap; color: rgb(73, 80, 87) !important; outline: none; cursor: grab;\" contenteditable=\"false\">The ultimate all-in-one platform for modern teams.</p>\n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 22px; right: 40px; background: rgb(13, 110, 253); color: rgb(255, 255, 255); padding: 12px 35px; font-size: 16px; font-weight: 800; border-radius: 30px; box-shadow: rgba(13, 110, 253, 0.3) 0px 10px 20px; z-index: 7; cursor: grab; font-family: Inter, sans-serif; outline: none;\" contenteditable=\"false\">Start Free Trial</div>\n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 15px; left: 470px; color: rgb(13, 110, 253); font-size: 45px; z-index: 6; opacity: 0.2; outline: none; cursor: grab;\" contenteditable=\"false\"><i class=\"fa-solid fa-rocket\"></i></div>"
-},
+        id: 'g_banner_saas_001',
+        name: 'SaaS Leaderboard',
+        category: 'ad-creator',
+        subCategory: 'ad-g-banner',
+        categoryLabel: 'ðŸ–¼ï¸ Google Banner',
+        width: 728,
+        height: 90,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(90deg, #f8f9fa 0%, #e9ecef 100%);z-index:1;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:-50px;right:-50px;width:300px;height:200px;background:#0d6efd;border-radius:50%;opacity:0.1;z-index:2;"></div>
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:8px;height:100%;background:#0d6efd;z-index:3;"></div>
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:18px;left:40px;color:#212529 !important;font-size:28px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:1;letter-spacing:-1px;white-space:nowrap;">Scale Your Startup <span style="color:#0d6efd;">10x Faster</span></h1>
+                <p class="hd-draggable" data-type="text" style="position:absolute;top:56px;left:40px;color:#495057 !important;font-size:15px;font-weight:500;font-family:'Inter',sans-serif;z-index:5;margin:0;white-space:nowrap;">The ultimate all-in-one platform for modern teams.</p>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:22px;right:40px;background:#0d6efd;color:#fff;padding:12px 35px;font-size:16px;font-weight:800;border-radius:30px;box-shadow:0 10px 20px rgba(13,110,253,0.3);z-index:7;cursor:pointer;font-family:'Inter',sans-serif;">Start Free Trial</div>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:15px;left:470px;color:#0d6efd;font-size:45px;z-index:6;opacity:0.2;"><i class="fa-solid fa-rocket"></i></div>
+                `
+    },
 
     {
         id: 'g_banner_shop_001',
@@ -1199,14 +2027,22 @@ window.HD_TEMPLATES = [
     },
 
     {
-    "id": "g_banner_realestate_001",
-    "name": "Real Estate Leaderboard",
-    "category": "ad-creator",
-    "subCategory": "ad-g-banner",
-    "width": 1004,
-    "height": 135,
-    "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;\"></div>\n                <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&amp;fit=crop&amp;w=300&amp;q=80\" alt=\"Luxury Home\" style=\"position: absolute; top: 5px; left: 5px; width: 180px; height: 80px; object-fit: cover; border-radius: 8px; z-index: 2; box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 10px; outline: none; cursor: grab;\" contenteditable=\"false\">\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 0px; left: 200px; width: 2px; height: 90px; background: rgb(241, 243, 245); z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n                <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: -27.988px auto auto 217.819px; font-size: 45px !important; font-weight: 800; font-family: &quot;Playfair Display&quot;, serif; z-index: 5; margin: 0px; letter-spacing: 0.5px; color: rgb(33, 37, 41) !important; outline: none; cursor: grab;\" contenteditable=\"false\">Find Your Luxury Home</h1>\n                <p class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 79.7445px auto auto 206.912px; font-size: 26px !important; font-weight: 500; font-family: Inter, sans-serif; z-index: 5; margin: 0px; letter-spacing: 0.5px; color: rgb(108, 117, 125) !important; outline: none; cursor: grab;\" contenteditable=\"false\"><i class=\"fa-solid fa-location-dot\" style=\"color:#d4af37;\"></i> Beverly Hills, CA • Premium Listings</p>\n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 25px; right: 30px; background: rgb(33, 37, 41); color: rgb(212, 175, 55); padding: 12px 30px; font-size: 14px; font-weight: 700; border-radius: 4px; z-index: 7; font-family: Inter, sans-serif; text-transform: uppercase; letter-spacing: 1px; border: 1px solid rgb(212, 175, 55); outline: none; cursor: grab;\" contenteditable=\"false\">View Properties</div>"
-},
+        id: 'g_banner_realestate_001',
+        name: 'Real Estate Leaderboard',
+        category: 'ad-creator',
+        subCategory: 'ad-g-banner',
+        categoryLabel: 'ðŸ¢ Home Banner',
+        width: 728,
+        height: 90,
+        html: `
+                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
+                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=300&q=80" alt="Luxury Home" style="position:absolute;top:5px;left:5px;width:180px;height:80px;object-fit:cover;border-radius:8px;z-index:2;box-shadow:0 4px 10px rgba(0,0,0,0.1);">
+                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:200px;width:2px;height:90px;background:#f1f3f5;z-index:2;"></div>
+                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:20px;left:220px;color:#212529 !important;font-size:28px;font-weight:800;font-family:'Playfair Display',serif;z-index:5;margin:0;letter-spacing:0.5px;">Find Your Luxury Home</h1>
+                <p class="hd-draggable" data-type="text" style="position:absolute;top:55px;left:220px;color:#6c757d !important;font-size:14px;font-weight:500;font-family:'Inter',sans-serif;z-index:5;margin:0;letter-spacing:0.5px;"><i class="fa-solid fa-location-dot" style="color:#d4af37;"></i> Beverly Hills, CA &bull; Premium Listings</p>
+                <div class="hd-draggable" data-type="text" style="position:absolute;top:25px;right:30px;background:#212529;color:#d4af37;padding:12px 30px;font-size:14px;font-weight:700;border-radius:4px;z-index:7;font-family:'Inter',sans-serif;text-transform:uppercase;letter-spacing:1px;border:1px solid #d4af37;">View Properties</div>
+                `
+    },
 
     // --- TWITCH OVERLAYS SUB-CATEGORY ---
     {
@@ -9217,14 +10053,20 @@ window.HD_TEMPLATES = [
     // â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 
     {
-    "id": "brand_minimal_luxury",
-    "name": "Elegant Logo Presentation",
-    "category": "branding",
-    "subCategory": "sub-fb-ads",
-    "width": 1080,
-    "height": 1080,
-    "html": "<div id=\"design-bg\" style=\"position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background: linear-gradient(135deg, rgb(0, 9, 30), rgb(10, 36, 114), rgb(19, 56, 190)); z-index: 1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; inset: 321.176px auto auto 403.191px; transform: rotate(-9.65deg); width: 196px; height: 204px; background: rgb(255, 255, 255); border-radius: 50%; box-shadow: rgba(0, 0, 0, 0.05) 0px 10px 30px; z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        \n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 507px auto auto -15px; width: 100%; text-align: center; color: rgb(255, 255, 255); font-size: 70px !important; font-weight: 900; letter-spacing: 10px; z-index: 4; text-shadow: rgba(79, 140, 255, 0.8) 0px 0px 20px; outline: none; cursor: grab;\" contenteditable=\"false\">AURELIA</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 663.594px auto auto -6px; width: 100%; text-align: center; color: rgb(147, 197, 253); font-size: 33px !important; letter-spacing: 5px; z-index: 4; text-shadow: none; outline: none; cursor: grab;\" contenteditable=\"false\">PREMIUM JEWELRY BRAND</p>"
-},
+        id: 'brand_minimal_luxury',
+        name: 'Elegant Logo Presentation',
+        category: 'branding',
+        categoryLabel: 'ðŸ·ï¸ Branding',
+        width: 1080, height: 1080,
+        html: `
+        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f9f9f9;z-index:1;"></div>
+        <div class="hd-draggable" data-type="shape" style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:600px;height:600px;background:#fff;border-radius:50%;box-shadow:0 10px 30px rgba(0,0,0,0.05);z-index:2;"></div>
+        <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
+        <h1 class="hd-draggable" data-type="text" style="position:absolute;top:55%;left:0;width:100%;text-align:center;color:#111;font-size:42px;font-weight:900;letter-spacing:10px;z-index:4;">AURELIA</h1>
+        <p class="hd-draggable" data-type="text" style="position:absolute;top:62%;left:0;width:100%;text-align:center;color:#888;font-size:18px;letter-spacing:5px;z-index:4;">PREMIUM JEWELRY BRAND</p>
+        <p class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;left:0;width:100%;text-align:center;color:#444;font-size:20px;z-index:4;padding:0 100px;line-height:1.5;">Defining luxury through timeless craftsmanship and exceptional design. Every piece tells a story of elegance and sophistication.</p>
+        `
+    },
     {
         id: 'brand_tech_future',
         name: 'Tech Brand Guidelines',
