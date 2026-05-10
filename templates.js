@@ -15935,20 +15935,14 @@ window.HD_TEMPLATES = [
 },
 
     {
-        id: 'logo_wave_studio',
-        name: 'Wave Studio',
-        category: 'logo',
-        categoryLabel: 'ðŸ’Ž Logo',
-        width: 800, height: 800,
-        html: `
-        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:250px;left:250px;width:150px;height:150px;background:#60a5fa;border-radius:50%;mix-blend-mode:multiply;z-index:2;filter:blur(10px);opacity:0.7;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:250px;left:400px;width:150px;height:150px;background:#f472b6;border-radius:50%;mix-blend-mode:multiply;z-index:3;filter:blur(10px);opacity:0.7;"></div>
-        <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:490px;left:0;width:800px;text-align:center;color:#1e293b;font-size:55px;font-weight:100;letter-spacing:-2px;z-index:5;">Creative<span style="font-weight:900;">WAVE</span></div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:560px;left:0;width:800px;text-align:center;color:#94a3b8;font-size:15px;font-weight:bold;letter-spacing:5px;z-index:5;">DIGITAL ART STUDIO</div>
-    `
-    },
+    "id": "logo_wave_studio",
+    "name": "Wave Studio",
+    "category": "logo",
+    "subCategory": "sub-fb-ads",
+    "width": 800,
+    "height": 800,
+    "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 250px; left: 250px; width: 150px; height: 150px; background: rgb(96, 165, 250); border-radius: 50%; mix-blend-mode: multiply; z-index: 2; filter: blur(10px); opacity: 0.7; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 250px; left: 400px; width: 150px; height: 150px; background: rgb(244, 114, 182); border-radius: 50%; mix-blend-mode: multiply; z-index: 3; filter: blur(10px); opacity: 0.7; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        \n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 490px; left: 0px; width: 800px; text-align: center; color: rgb(30, 41, 59); font-size: 55px; font-weight: 100; letter-spacing: -2px; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">Creative<span style=\"font-weight:900;\">WAVE</span></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 560px; left: 0px; width: 800px; text-align: center; color: rgb(148, 163, 184); font-size: 15px; font-weight: bold; letter-spacing: 5px; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">DIGITAL ART STUDIO</div>"
+},
 
     {
         id: 'logo_monolith_corp',
