@@ -190,29 +190,14 @@ window.HD_TEMPLATES = [
     },
 
     {
-        id: 'fb_split_bold_004',
-        name: 'Split Color Bold Sale',
-        category: 'ad-creator',
-        subCategory: 'sub-fb-ads',
-        categoryLabel: '🎨 Bold Ad',
-        width: 1080,
-        height: 1080,
-        html: `
-            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fff;z-index:1;"></div>
-            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:50%;height:100%;background:#111111;z-index:2;"></div>
-            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;right:0;width:50%;height:100%;background:#f5f5f5;z-index:2;"></div>
-            <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:50%;transform:translateX(-50%);width:10px;height:680px;background:linear-gradient(to bottom, #e74c3c, #f39c12);z-index:6;"></div>
-            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:150px;left:30px;color:#ffffff;font-size:130px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.9;width:480px;">BIG<br>SALE<br>NOW</h1>
-            <h2 class="hd-draggable" data-type="text" style="position:absolute;top:150px;right:30px;color:#111;font-size:130px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.9;width:480px;text-align:right;">UP<br>TO<br><span style="color:#e74c3c;">70%</span></h2>
-            <div class="hd-draggable" data-type="text" style="position:absolute;top:600px;left:30px;color:#e74c3c;font-size:26px;font-weight:700;z-index:5;letter-spacing:3px;width:480px;">FREE SHIPPING INCLUDED</div>
-            <div class="hd-draggable" data-type="text" style="position:absolute;top:600px;right:30px;color:#111;font-size:26px;font-weight:700;z-index:5;letter-spacing:3px;width:480px;text-align:right;">ALL CATEGORIES</div>
-            <div class="hd-draggable" data-type="shape" style="position:absolute;top:680px;left:30px;width:460px;height:2px;background:#444;z-index:5;"></div>
-            <div class="hd-draggable" data-type="shape" style="position:absolute;top:680px;right:30px;width:460px;height:2px;background:#ccc;z-index:5;"></div>
-            <div class="hd-draggable" data-type="text" style="position:absolute;top:730px;left:30px;color:rgba(255,255,255,0.7);font-size:22px;z-index:5;width:450px;line-height:1.6;">Shop the biggest deals of the season. Limited time offer.</div>
-            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;left:30px;background:#e74c3c;color:#fff;padding:20px 50px;font-size:26px;font-weight:900;border-radius:5px;z-index:5;">SHOP NOW</div>
-            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;right:30px;background:#111;color:#fff;padding:20px 50px;font-size:26px;font-weight:900;border-radius:5px;z-index:5;">EXPLORE ALL</div>
-        `
-    },
+    "id": "fb_split_bold_004",
+    "name": "Split Color Bold Sale",
+    "category": "ad-creator",
+    "subCategory": "sub-fb-ads",
+    "width": 1080,
+    "height": 1080,
+    "html": "<div id=\"design-bg\" style=\"position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background: linear-gradient(135deg, rgb(19, 78, 94), rgb(113, 178, 128)); z-index: 1;\"></div>\n            <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 0px; left: 0px; width: 50%; height: 100%; background: rgb(17, 17, 17); z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n            <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; inset: 0px auto auto 540px; width: 50%; height: 100%; background: linear-gradient(135deg, rgb(87, 15, 15), rgb(211, 18, 18)) !important; z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n            <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 200px; left: 50%; transform: translateX(-50%); width: 10px; height: 680px; background: linear-gradient(rgb(231, 76, 60), rgb(243, 156, 18)); z-index: 6; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n            <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 150px; left: 30px; color: rgb(255, 255, 255); font-size: 130px; font-weight: 900; font-family: Inter, sans-serif; z-index: 5; margin: 0px; line-height: 0.9; width: 480px; outline: none; cursor: grab; text-shadow: rgba(0, 0, 0, 0.3) 0px 3px 10px;\" contenteditable=\"false\">BIG<br>SALE<br>NOW</h1>\n            <h2 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 150px auto auto 720px; color: rgb(255, 255, 255) !important; font-size: 40px !important; font-weight: 900; font-family: Inter, sans-serif; z-index: 5; margin: 0px; line-height: 0.9; width: 184px; text-align: right; outline: none; cursor: grab; text-shadow: none; height: 191px; background-color: rgb(31, 5, 5) !important; border-radius: 100px !important; user-select: text;\" contenteditable=\"false\" spellcheck=\"false\">UP<br>TO<br><span style=\"color:#e74c3c;\">70%</span></h2>\n            <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 600px; left: 30px; color: rgb(231, 76, 60); font-size: 26px; font-weight: 700; z-index: 5; letter-spacing: 3px; width: 480px; outline: none; cursor: grab;\" contenteditable=\"false\">FREE SHIPPING INCLUDED</div>\n            <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 600px auto auto 570px; color: rgb(255, 250, 250) !important; font-size: 46px !important; font-weight: 700; z-index: 5; letter-spacing: 3px; width: 480px; text-align: right; outline: none; cursor: grab;\" contenteditable=\"false\">ALL CATEGORIES</div>\n            <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 680px; left: 30px; width: 460px; height: 2px; background: rgb(68, 68, 68); z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n            <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 680px; right: 30px; width: 460px; height: 2px; background: rgb(204, 204, 204); z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n            <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 730px; left: 30px; color: rgba(255, 255, 255, 0.7); font-size: 22px; z-index: 5; width: 450px; line-height: 1.6; outline: none; cursor: grab;\" contenteditable=\"false\">Shop the biggest deals of the season. Limited time offer.</div>\n            <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; bottom: 100px; left: 30px; background: rgb(231, 76, 60); color: rgb(255, 255, 255); padding: 20px 50px; font-size: 26px; font-weight: 900; border-radius: 5px; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">SHOP NOW</div>\n            <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; bottom: 100px; right: 30px; background: rgb(17, 17, 17); color: rgb(255, 255, 255); padding: 20px 50px; font-size: 26px; font-weight: 900; border-radius: 5px; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">EXPLORE ALL</div>"
+},
 
     {
         id: 'fb_glass_dark_005',
