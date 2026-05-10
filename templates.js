@@ -15996,20 +15996,14 @@ window.HD_TEMPLATES = [
     },
 
     {
-        id: 'logo_zenith_star',
-        name: 'Zenith Star',
-        category: 'logo',
-        categoryLabel: 'ðŸ’Ž Logo',
-        width: 800, height: 800,
-        html: `
-        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fb923c;z-index:1;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:300px;width:200px;height:200px;background:#fff;transform:rotate(45deg);z-index:2;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:220px;left:320px;width:160px;height:160px;background:#fb923c;transform:rotate(45deg);z-index:3;"></div>
-        <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:510px;left:0;width:800px;text-align:center;color:#fff;font-size:50px;font-weight:900;z-index:5;">ZENITH</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:575px;left:0;width:800px;text-align:center;color:#fff;font-size:14px;font-weight:bold;letter-spacing:8px;z-index:5;">REACH THE SUMMIT</div>
-    `
-    },
+    "id": "logo_zenith_star",
+    "name": "Zenith Star",
+    "category": "logo",
+    "subCategory": "sub-fb-ads",
+    "width": 800,
+    "height": 800,
+    "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#fb923c;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 200px; left: 300px; width: 200px; height: 200px; background: rgb(255, 255, 255); transform: rotate(45deg); z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 220px; left: 320px; width: 160px; height: 160px; background: rgb(251, 146, 60); transform: rotate(45deg); z-index: 3; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        \n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 441.111px auto auto 6.66667px; width: 800px; text-align: center; color: rgb(255, 255, 255); font-size: 50px; font-weight: 900; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">ZENITH</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 523.889px auto auto 15.5556px; width: 800px; text-align: center; color: rgb(255, 255, 255); font-size: 14px; font-weight: bold; letter-spacing: 8px; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">REACH THE SUMMIT</div>"
+},
 
     // --- Ù…Ø²ÛŒØ¯ 5 Ø§Ø³Ù¾ÛŒØ´Ù„ Ø§Ù†ÚˆØ³Ù¹Ø±ÛŒ Ù„ÙˆÚ¯Ùˆ Ù¹Ù…Ù¾Ù„ÛŒÙ¹Ø³ ---
 
