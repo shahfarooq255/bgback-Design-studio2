@@ -16008,20 +16008,14 @@ window.HD_TEMPLATES = [
     // --- Ù…Ø²ÛŒØ¯ 5 Ø§Ø³Ù¾ÛŒØ´Ù„ Ø§Ù†ÚˆØ³Ù¹Ø±ÛŒ Ù„ÙˆÚ¯Ùˆ Ù¹Ù…Ù¾Ù„ÛŒÙ¹Ø³ ---
 
     {
-        id: 'logo_aero_swift',
-        name: 'Aero Swift',
-        category: 'logo',
-        categoryLabel: 'ðŸ’Ž Logo',
-        width: 800, height: 800,
-        html: `
-        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0a192f;z-index:1;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:220px;left:250px;width:300px;height:40px;background:linear-gradient(90deg, #64ffda, transparent);transform:skewX(-45deg);z-index:2;opacity:0.3;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:280px;left:280px;width:240px;height:40px;background:linear-gradient(90deg, #64ffda, transparent);transform:skewX(-45deg);z-index:3;"></div>
-        <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:500px;left:0;width:800px;text-align:center;color:#ccd6f6;font-size:50px;font-weight:900;font-style:italic;z-index:5;">AERO<span style="color:#64ffda;">SWIFT</span></div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:570px;left:0;width:800px;text-align:center;color:#8892b0;font-size:14px;font-weight:bold;letter-spacing:10px;z-index:5;">LOGISTICS & AVIATION</div>
-    `
-    },
+    "id": "logo_aero_swift",
+    "name": "Aero Swift",
+    "category": "logo",
+    "subCategory": "sub-fb-ads",
+    "width": 800,
+    "height": 800,
+    "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#0a192f;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 220px; left: 250px; width: 300px; height: 40px; background: linear-gradient(90deg, rgb(100, 255, 218), transparent); transform: skewX(-45deg); z-index: 2; opacity: 0.3; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 280px; left: 280px; width: 240px; height: 40px; background: linear-gradient(90deg, rgb(100, 255, 218), transparent); transform: skewX(-45deg); z-index: 3; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        \n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 357.778px auto auto 0px; width: 800px; text-align: center; color: rgb(204, 214, 246); font-size: 50px; font-weight: 900; font-style: italic; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">AERO<span style=\"color:#64ffda;\">SWIFT</span></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 461.111px auto auto 24.4444px; width: 800px; text-align: center; color: rgb(136, 146, 176); font-size: 14px; font-weight: bold; letter-spacing: 10px; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">LOGISTICS &amp; AVIATION</div>"
+},
 
     {
         id: 'logo_iron_forge',
