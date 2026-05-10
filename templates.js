@@ -12291,21 +12291,14 @@ window.HD_TEMPLATES = [
         `
     },
     {
-        id: 'li_newsletter_promo',
-        name: 'Monthly Newsletter',
-        category: 'linkedin-post',
-        categoryLabel: 'ðŸ’¼ LinkedIn',
-        width: 1200, height: 627,
-        html: `
-        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);z-index:1;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:40px;left:40px;width:1120px;height:547px;border:3px solid #0077b5;z-index:2;"></div>
-        <h1 class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:100px;color:#0077b5;font-size:42px;font-weight:900;z-index:4;">INSIGHTS DIGEST</h1>
-        <p class="hd-draggable" data-type="text" style="position:absolute;top:160px;left:100px;color:#111;font-size:64px;font-weight:800;z-index:4;width:1000px;">Every Tuesday, we deliver<br>the best of tech to you.</p>
-        <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:155px;left:200px;color:#111;font-size:32px;font-weight:bold;z-index:4;">Join 50k+ Subscribers</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:145px;right:100px;background:#0077b5;color:#fff;padding:15px 45px;border-radius:4px;font-weight:bold;z-index:4;">Subscribe</div>
-        `
-    },
+    "id": "li_newsletter_promo",
+    "name": "Monthly Newsletter",
+    "category": "linkedin-post",
+    "subCategory": "sub-fb-ads",
+    "width": 1200,
+    "height": 627,
+    "html": "<div id=\"design-bg\" style=\"position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background: linear-gradient(135deg, rgb(248, 54, 0), rgb(249, 212, 35)); z-index: 1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; inset: 43.6269px auto auto 34.5596px; width: 1120px; height: 547px; border: 3px solid rgb(0, 119, 181); z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 145.336px auto auto 105.44px; color: rgb(255, 255, 255); font-size: 42px; font-weight: 900; z-index: 4; outline: none; cursor: grab; text-shadow: rgba(0, 0, 0, 0.4) 0px 4px 15px;\" contenteditable=\"false\">INSIGHTS DIGEST</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 303.262px auto auto 141.709px; color: rgba(255, 255, 255, 0.92); font-size: 64px; font-weight: 800; z-index: 4; width: 1000px; outline: none; cursor: grab; text-shadow: none;\" contenteditable=\"false\">Every Tuesday, we deliver<br>the best of tech to you.</p>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position: absolute; inset: -4.01518px auto auto 52.7462px; color: rgb(255, 255, 255); font-size: 100px; z-index: 4; padding: 10px; cursor: grab; border: 2px dashed transparent; user-select: none; resize: both; overflow: visible; outline: none;\" contenteditable=\"false\">🚀</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; bottom: 155px; left: 200px; color: rgb(17, 17, 17); font-size: 32px; font-weight: bold; z-index: 4; outline: none; cursor: grab;\" contenteditable=\"false\">Join 50k+ Subscribers</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; bottom: 145px; right: 100px; background: rgb(0, 119, 181); color: rgb(255, 255, 255); padding: 15px 45px; border-radius: 4px; font-weight: bold; z-index: 4; outline: none; cursor: grab;\" contenteditable=\"false\">Subscribe</div>"
+},
     {
         id: 'li_event_professional',
         name: 'Corporate Event',
