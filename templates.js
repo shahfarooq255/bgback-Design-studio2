@@ -4,24 +4,14 @@ window.HD_TEMPLATES = [
     // â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 
     {
-        id: 'fb_flash_sale_001',
-        name: 'Bold Flash Sale',
-        category: 'ad-creator',
-        subCategory: 'sub-fb-ads',
-        categoryLabel: 'ðŸ“˜ Facebook Post',
-        width: 1080,
-        height: 1080,
-        html: `
-                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg, #ff416c 0%, #ff4b2b 100%);z-index:1;"></div>
-                <div class="hd-draggable" data-type="shape" style="position:absolute;top:-150px;right:-150px;width:600px;height:600px;background:rgba(255,255,255,0.1);border-radius:50%;z-index:2;"></div>
-                <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:250px;left:0;width:100%;text-align:center;color:#ffffff;font-size:120px;font-weight:900;font-family:'Inter',sans-serif;text-shadow:0 15px 40px rgba(0,0,0,0.3);z-index:5;margin:0;line-height:1;">FLASH SALE</h1>
-                <div class="hd-draggable" data-type="text" style="position:absolute;top:400px;left:340px;color:#fff;background:rgba(0,0,0,0.3);padding:15px 60px;border-radius:100px;font-weight:900;font-size:80px;z-index:5;backdrop-filter:blur(10px);border:2px solid rgba(255,255,255,0.3);">70% OFF</div>
-                <p class="hd-draggable" data-type="text" style="position:absolute;top:580px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.9);font-size:35px;font-weight:500;font-family:'Inter',sans-serif;z-index:5;letter-spacing:2px;">LIMITED TIME OFFER â€¢ ENDS TONIGHT</p>
-                <div class="hd-draggable" data-type="text" style="position:absolute;top:700px;left:390px;font-size:32px;font-weight:bold;color:#ff416c;background:#fff;padding:20px 60px;border-radius:50px;text-align:center;box-shadow:0 15px 35px rgba(0,0,0,0.2);z-index:5;">SHOP NOW â†’</div>
-                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:50px;left:440px;width:200px;height:5px;background:rgba(255,255,255,0.5);border-radius:5px;z-index:5;"></div>
-                `
-    },
+    "id": "fb_flash_sale_001",
+    "name": "Bold Flash Sale",
+    "category": "ad-creator",
+    "subCategory": "sub-fb-ads",
+    "width": 1080,
+    "height": 1080,
+    "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg, #ff416c 0%, #ff4b2b 100%);z-index:1;\"></div>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: -150px; right: -150px; width: 600px; height: 600px; background: rgba(255, 255, 255, 0.1); border-radius: 50%; z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n                <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position: absolute; top: 25px; left: 60px; color: rgb(255, 255, 255); font-size: 100px; z-index: 4; padding: 10px; cursor: grab; border: 2px dashed transparent; user-select: none; resize: both; overflow: visible; outline: none;\" contenteditable=\"false\">🚀</div>\n                <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 190.13px auto auto -5.20607px; width: 100%; text-align: center; color: rgb(255, 255, 255); font-size: 120px; font-weight: 900; font-family: Inter, sans-serif; text-shadow: rgba(0, 0, 0, 0.3) 0px 15px 40px; z-index: 5; margin: 0px; line-height: 1; outline: none; cursor: grab;\" contenteditable=\"false\">FLASH SALE</h1>\n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 394.794px auto auto 313.97px; color: rgb(255, 255, 255); background: rgba(0, 0, 0, 0.3); padding: 15px 60px; border-radius: 100px; font-weight: 900; font-size: 80px; z-index: 5; backdrop-filter: blur(10px); border: 2px solid rgba(255, 255, 255, 0.3); outline: none; cursor: grab;\" contenteditable=\"false\">70% OFF</div>\n                <p class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 621.649px auto auto -7.80911px; width: 100%; text-align: center; color: rgba(255, 255, 255, 0.9); font-size: 26px !important; font-weight: 500; font-family: Inter, sans-serif; z-index: 5; letter-spacing: 2px; outline: none; cursor: grab;\" contenteditable=\"false\">LIMITED TIME OFFER â€¢ ENDS TONIGHT</p>\n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 700px; left: 390px; font-size: 32px; font-weight: bold; color: rgb(255, 65, 108); background: rgb(255, 255, 255); padding: 20px 60px; border-radius: 50px; text-align: center; box-shadow: rgba(0, 0, 0, 0.2) 0px 15px 35px; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">SHOP NOW â†’</div>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; bottom: 50px; left: 440px; width: 200px; height: 5px; background: rgba(255, 255, 255, 0.5); border-radius: 5px; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\"></div>"
+},
 
     {
     "id": "fb_aurora_neon_012",
