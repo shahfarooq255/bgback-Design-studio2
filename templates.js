@@ -15898,20 +15898,14 @@ window.HD_TEMPLATES = [
 },
 
     {
-        id: 'logo_bio_health',
-        name: 'Bio Health',
-        category: 'logo',
-        categoryLabel: 'ðŸ’Ž Logo',
-        width: 800, height: 800,
-        html: `
-        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f0fdf4;z-index:1;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:300px;width:200px;height:200px;background:#bbf7d0;border-radius:50%;z-index:2;opacity:0.5;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:250px;left:300px;width:200px;height:100px;background:#22c55e;border-radius:100px 100px 0 0;z-index:3;"></div>
-        <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:490px;left:0;width:800px;text-align:center;color:#14532d;font-size:55px;font-weight:800;z-index:5;">BIO <span style="color:#22c55e">GENIX</span></div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:560px;left:0;width:800px;text-align:center;color:#16a34a;font-size:16px;font-weight:500;z-index:5;">ADVANCED MEDICAL RESEARCH</div>
-    `
-    },
+    "id": "logo_bio_health",
+    "name": "Bio Health",
+    "category": "logo",
+    "subCategory": "sub-fb-ads",
+    "width": 800,
+    "height": 800,
+    "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#f0fdf4;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 200px; left: 300px; width: 200px; height: 200px; background: rgb(187, 247, 208); border-radius: 50%; z-index: 2; opacity: 0.5; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 250px; left: 300px; width: 200px; height: 100px; background: rgb(34, 197, 94); border-radius: 100px 100px 0px 0px; z-index: 3; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        \n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 490px; left: 0px; width: 800px; text-align: center; color: rgb(20, 83, 45); font-size: 55px; font-weight: 800; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">BIO <span style=\"color:#22c55e\">GENIX</span></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 560px; left: 0px; width: 800px; text-align: center; color: rgb(22, 163, 74); font-size: 16px; font-weight: 500; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">ADVANCED MEDICAL RESEARCH</div>"
+},
 
     {
         id: 'logo_pixel_gaming',
