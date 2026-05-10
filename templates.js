@@ -15783,20 +15783,14 @@ window.HD_TEMPLATES = [
     },
 
     {
-        id: 'logo_eco_minimal',
-        name: 'Eco Harmony',
-        category: 'logo',
-        categoryLabel: 'ðŸ’Ž Logo',
-        width: 800, height: 800,
-        html: `
-        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:300px;width:200px;height:200px;background:#ecfdf5;border-radius:50%;z-index:2;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:230px;left:340px;width:120px;height:120px;background:#10b981;border-radius:100% 0% 100% 0% / 100% 0% 100% 0%;z-index:3;transform:rotate(-45deg);"></div>
-        <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:480px;left:0;width:800px;text-align:center;color:#064e3b;font-size:45px;font-weight:700;z-index:5;">ECO HARMONY</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:540px;left:0;width:800px;text-align:center;color:#10b981;font-size:18px;font-weight:400;font-style:italic;z-index:5;">Purely Organic Aesthetics</div>
-    `
-    },
+    "id": "logo_eco_minimal",
+    "name": "Eco Harmony",
+    "category": "logo",
+    "subCategory": "sub-fb-ads",
+    "width": 800,
+    "height": 800,
+    "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 200px; left: 300px; width: 200px; height: 200px; background: rgb(236, 253, 245); border-radius: 50%; z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 230px; left: 340px; width: 120px; height: 120px; background: rgb(16, 185, 129); border-radius: 100% 0%; z-index: 3; transform: rotate(-45deg); outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        \n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 480px; left: 0px; width: 800px; text-align: center; color: rgb(6, 78, 59); font-size: 45px; font-weight: 700; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">ECO HARMONY</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 540px; left: 0px; width: 800px; text-align: center; color: rgb(16, 185, 129); font-size: 18px; font-weight: 400; font-style: italic; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">Purely Organic Aesthetics</div>"
+},
 
     {
         id: 'logo_cyber_pulse',
