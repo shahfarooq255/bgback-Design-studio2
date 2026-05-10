@@ -15825,19 +15825,14 @@ window.HD_TEMPLATES = [
     },
 
     {
-        id: 'logo_velvet_bloom',
-        name: 'Velvet Bloom',
-        category: 'logo',
-        categoryLabel: 'ðŸ’Ž Logo',
-        width: 800, height: 800,
-        html: `
-        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fff5f7;z-index:1;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:300px;width:200px;height:200px;background:#fecdd3;border-radius:60% 40% 30% 70% / 60% 30% 70% 40%;z-index:2;animation: rotate 10s linear infinite;"></div>
-        <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:480px;left:0;width:800px;text-align:center;color:#e11d48;font-size:50px;font-family:serif;font-weight:bold;z-index:5;">Velvet Bloom</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:550px;left:0;width:800px;text-align:center;color:#fb7185;font-size:16px;letter-spacing:4px;z-index:5;">ORGANIC COSMETICS</div>
-    `
-    },
+    "id": "logo_velvet_bloom",
+    "name": "Velvet Bloom",
+    "category": "logo",
+    "subCategory": "sub-fb-ads",
+    "width": 800,
+    "height": 800,
+    "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#fff5f7;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 200px; left: 300px; width: 200px; height: 200px; background: rgb(254, 205, 211); border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%; z-index: 2; animation: 10s linear 0s infinite normal none running rotate; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        \n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 395.556px auto auto 6.66667px; width: 800px; text-align: center; color: rgb(225, 29, 72); font-size: 50px; font-family: serif; font-weight: bold; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">Velvet Bloom</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 474.444px auto auto 4.44444px; width: 800px; text-align: center; color: rgb(251, 113, 133); font-size: 16px; letter-spacing: 4px; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">ORGANIC COSMETICS</div>"
+},
 
     {
         id: 'logo_stellar_orbit',
