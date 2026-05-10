@@ -16061,19 +16061,14 @@ window.HD_TEMPLATES = [
     },
 
     {
-        id: 'logo_chef_kiss',
-        name: 'Bistro Noir',
-        category: 'logo',
-        categoryLabel: 'ðŸ’Ž Logo',
-        width: 800, height: 800,
-        html: `
-        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#1c1c1c;z-index:1;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:300px;width:200px;height:200px;border:2px solid #ef4444;border-radius:50%;z-index:2;"></div>
-        <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:490px;left:0;width:800px;text-align:center;color:#fff;font-size:50px;font-weight:200;z-index:5;letter-spacing:5px;">BISTRO<span style="font-weight:900;color:#ef4444;">NOIR</span></div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:560px;left:0;width:800px;text-align:center;color:#ef4444;font-size:14px;font-weight:bold;letter-spacing:8px;z-index:5;">FINE DINING EXPERIENCE</div>
-    `
-    },
+    "id": "logo_chef_kiss",
+    "name": "Bistro Noir",
+    "category": "logo",
+    "subCategory": "sub-fb-ads",
+    "width": 800,
+    "height": 800,
+    "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#1c1c1c;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 200px; left: 300px; width: 200px; height: 200px; border: 2px solid rgb(239, 68, 68); border-radius: 50%; z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        \n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 412.222px auto auto 0px; width: 800px; text-align: center; color: rgb(255, 255, 255); font-size: 50px; font-weight: 200; z-index: 5; letter-spacing: 5px; outline: none; cursor: grab;\" contenteditable=\"false\">BISTRO<span style=\"font-weight:900;color:#ef4444;\">NOIR</span></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 495.555px auto auto 4.44444px; width: 800px; text-align: center; color: rgb(239, 68, 68); font-size: 14px; font-weight: bold; letter-spacing: 8px; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">FINE DINING EXPERIENCE</div>"
+},
     {
 id: 'logo_luxury_gold',
 name: 'Imperial Gold',
