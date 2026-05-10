@@ -15762,21 +15762,14 @@ window.HD_TEMPLATES = [
         `
     },
     {
-        id: 'logo_aurora_tech',
-        name: 'Aurora Tech',
-        category: 'logo',
-        categoryLabel: 'ðŸ’Ž Logo',
-        width: 800, height: 800,
-        html: `
-        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:1;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:300px;width:200px;height:200px;background:linear-gradient(45deg, #3b82f6, #8b5cf6);border-radius:30% 70% 70% 30% / 30% 30% 70% 70%;z-index:2;filter:blur(40px);opacity:0.6;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:250px;left:300px;width:200px;height:200px;border:2px solid #3b82f6;border-radius:24px;transform:rotate(45deg);z-index:3;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:270px;left:320px;width:160px;height:160px;border:2px solid #8b5cf6;border-radius:20px;transform:rotate(45deg);z-index:4;"></div>
-        <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:520px;left:0;width:800px;text-align:center;color:#ffffff;font-size:48px;font-weight:800;letter-spacing:-1px;z-index:5;">AURORA <span style="color:#3b82f6">TECH</span></div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:585px;left:0;width:800px;text-align:center;color:#94a3b8;font-size:14px;font-weight:bold;letter-spacing:8px;z-index:5;">FUTURE BEYOND LIMITS</div>
-    `
-    },
+    "id": "logo_aurora_tech",
+    "name": "Aurora Tech",
+    "category": "logo",
+    "subCategory": "sub-fb-ads",
+    "width": 800,
+    "height": 800,
+    "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 200px; left: 300px; width: 200px; height: 200px; background: linear-gradient(45deg, rgb(59, 130, 246), rgb(139, 92, 246)); border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%; z-index: 2; filter: blur(40px); opacity: 0.6; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 250px; left: 300px; width: 200px; height: 200px; border: 2px solid rgb(59, 130, 246); border-radius: 24px; transform: rotate(45deg); z-index: 3; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 270px; left: 320px; width: 160px; height: 160px; border: 2px solid rgb(139, 92, 246); border-radius: 20px; transform: rotate(45deg); z-index: 4; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        \n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 520px; left: 0px; width: 800px; text-align: center; color: rgb(255, 255, 255); font-size: 48px; font-weight: 800; letter-spacing: -1px; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">AURORA <span style=\"color:#3b82f6\">TECH</span></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 585px; left: 0px; width: 800px; text-align: center; color: rgb(148, 163, 184); font-size: 14px; font-weight: bold; letter-spacing: 8px; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">FUTURE BEYOND LIMITS</div>"
+},
 
     {
         id: 'logo_golden_crest',
