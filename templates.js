@@ -15411,21 +15411,14 @@ window.HD_TEMPLATES = [
 
     // Logo #7: Digital Hex (Cyber Core)
     {
-        id: 'logo_digital_hex',
-        name: 'Digital Hex',
-        category: 'logo',
-        categoryLabel: 'ðŸ’Ž Logo',
-        width: 800, height: 800,
-        html: `
-        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#09090b;z-index:1;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:180px;left:280px;width:240px;height:240px;background:#22d3ee;clip-path:polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);z-index:2;opacity:0.1;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:300px;width:200px;height:200px;background:linear-gradient(45deg,#06b6d4,#8b5cf6);clip-path:polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);z-index:3;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:225px;left:325px;width:150px;height:150px;background:#09090b;clip-path:polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);z-index:4;"></div>
-        <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:480px;left:0;width:800px;text-align:center;color:#fff;font-size:46px;font-weight:900;z-index:5;text-transform:uppercase;">BGBACK <span style="color:#22d3ee">STUDIO</span></div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:545px;left:0;width:800px;text-align:center;color:#444;font-size:16px;z-index:5;letter-spacing:15px;">CYBERNETIC SYSTEMS</div>
-        `
-    },
+    "id": "logo_digital_hex",
+    "name": "Digital Hex",
+    "category": "logo",
+    "subCategory": "sub-fb-ads",
+    "width": 800,
+    "height": 800,
+    "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#09090b;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 180px; left: 280px; width: 240px; height: 240px; background: rgb(34, 211, 238); clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%); z-index: 2; opacity: 0.1; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 200px; left: 300px; width: 200px; height: 200px; background: linear-gradient(45deg, rgb(6, 182, 212), rgb(139, 92, 246)); clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%); z-index: 3; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 225px; left: 325px; width: 150px; height: 150px; background: rgb(9, 9, 11); clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%); z-index: 4; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        \n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 480px; left: 0px; width: 800px; text-align: center; color: rgb(255, 255, 255); font-size: 46px; font-weight: 900; z-index: 5; text-transform: uppercase; outline: none; cursor: grab;\" contenteditable=\"false\">BGBACK <span style=\"color:#22d3ee\">STUDIO</span></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 545px; left: 0px; width: 800px; text-align: center; color: rgb(68, 68, 68); font-size: 16px; z-index: 5; letter-spacing: 15px; outline: none; cursor: grab;\" contenteditable=\"false\">CYBERNETIC SYSTEMS</div>"
+},
 
     // Logo #8: Velocity Stream (Modern Motion)
     {
