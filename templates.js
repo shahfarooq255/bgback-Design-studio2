@@ -12145,22 +12145,14 @@ window.HD_TEMPLATES = [
         `
     },
     {
-        id: 'li_client_testimonial',
-        name: 'Client Success',
-        category: 'linkedin-post',
-        categoryLabel: 'ðŸ’¼ LinkedIn',
-        width: 1200, height: 627,
-        html: `
-        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);z-index:1;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:50px;left:50px;width:1100px;height:527px;background:#f8fafc;border-radius:20px;z-index:2;"></div>
-        <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-        <p class="hd-draggable" data-type="text" style="position:absolute;top:200px;left:100px;color:#334155;font-size:32px;font-style:italic;z-index:4;width:1000px;">"The results were beyond our expectations. Their team provided a digital strategy that doubled our ROI in less than six months. Highly recommended!"</p>
-        <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=200&q=80" style="position:absolute;bottom:100px;left:100px;width:80px;height:80px;border-radius:50%;z-index:4;object-fit:cover;">
-        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:125px;left:200px;color:#0f172a;font-weight:bold;font-size:24px;z-index:4;">James Wilson</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;left:200px;color:#475569;font-size:18px;z-index:4;">CEO, TechStream Inc.</div>
-        <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-        `
-    },
+    "id": "li_client_testimonial",
+    "name": "Client Success",
+    "category": "linkedin-post",
+    "subCategory": "sub-fb-ads",
+    "width": 1200,
+    "height": 627,
+    "html": "<div id=\"design-bg\" style=\"position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background: linear-gradient(135deg, rgb(128, 0, 0), rgb(192, 57, 43)); z-index: 1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; inset: 50px auto auto 50px; width: 1100px; height: 527px; background: linear-gradient(135deg, rgb(133, 68, 41), rgb(74, 13, 13)) !important; border-radius: 20px; z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position: absolute; inset: 12.3059px auto auto 58.1866px; color: rgb(255, 255, 255); font-size: 100px; z-index: 4; padding: 10px; cursor: grab; border: 2px dashed transparent; user-select: none; resize: both; overflow: visible; outline: none;\" contenteditable=\"false\">🚀</div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 185.493px auto auto 109.067px; color: rgba(255, 255, 255, 0.92); font-size: 36px !important; font-style: italic; z-index: 4; width: 1000px; text-shadow: rgba(0, 0, 0, 0.3) 0px 6px 15px; outline: none; cursor: grab;\" contenteditable=\"false\">\"The results were beyond our expectations. Their team provided a digital strategy that doubled our ROI in less than six months. Highly recommended!\"</p>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&amp;fit=crop&amp;w=200&amp;q=80\" style=\"position: absolute; bottom: 100px; left: 100px; width: 80px; height: 80px; border-radius: 50%; z-index: 4; object-fit: cover; outline: none; cursor: grab;\" contenteditable=\"false\">\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; bottom: 125px; left: 200px; color: rgb(15, 23, 42); font-weight: bold; font-size: 24px; z-index: 4; outline: none; cursor: grab;\" contenteditable=\"false\">James Wilson</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; bottom: 100px; left: 200px; color: rgb(71, 85, 105); font-size: 18px; z-index: 4; outline: none; cursor: grab;\" contenteditable=\"false\">CEO, TechStream Inc.</div>"
+},
     {
         id: 'li_data_insight',
         name: 'Market Insights',
