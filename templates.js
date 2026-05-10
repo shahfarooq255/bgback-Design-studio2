@@ -15747,20 +15747,14 @@ window.HD_TEMPLATES = [
 
     // Logo #25: Zenith Nexus (Luxury Gold)
     {
-        id: 'logo_zenith_nexus',
-        name: 'Zenith Nexus',
-        category: 'logo',
-        categoryLabel: 'ðŸ’Ž Logo',
-        width: 800, height: 800,
-        html: `
-        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#000;z-index:1;"></div>
-        <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:250px;width:300px;height:240px;background:rgba(212,175,55,0.1);backdrop-filter:blur(30px);border:1px solid rgba(212,175,55,0.3);border-radius:30px;z-index:3;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:280px;left:360px;width:80px;height:80px;background:radial-gradient(circle, #d4af37, #aa8a2e);border-radius:50%;z-index:4;box-shadow:0 0 40px #d4af37;"></div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:500px;left:0;width:800px;text-align:center;color:#d4af37;font-size:42px;font-weight:900;z-index:5;letter-spacing:15px;">ZENITH STUDIO</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:565px;left:0;width:800px;text-align:center;color:#555;font-size:14px;letter-spacing:10px;z-index:5;">THE PINNACLE OF BRANDING</div>
-        `
-    },
+    "id": "logo_zenith_nexus",
+    "name": "Zenith Nexus",
+    "category": "logo",
+    "subCategory": "sub-fb-ads",
+    "width": 800,
+    "height": 800,
+    "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#000;z-index:1;\"></div>\n        \n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 200px; left: 250px; width: 300px; height: 240px; background: rgba(212, 175, 55, 0.1); backdrop-filter: blur(30px); border: 1px solid rgba(212, 175, 55, 0.3); border-radius: 30px; z-index: 3; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 280px; left: 360px; width: 80px; height: 80px; background: radial-gradient(circle, rgb(212, 175, 55), rgb(170, 138, 46)); border-radius: 50%; z-index: 4; box-shadow: rgb(212, 175, 55) 0px 0px 40px; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 500px; left: 0px; width: 800px; text-align: center; color: rgb(212, 175, 55); font-size: 42px; font-weight: 900; z-index: 5; letter-spacing: 15px; outline: none; cursor: grab;\" contenteditable=\"false\">ZENITH STUDIO</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 565px; left: 0px; width: 800px; text-align: center; color: rgb(85, 85, 85); font-size: 14px; letter-spacing: 10px; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">THE PINNACLE OF BRANDING</div>"
+},
     {
     "id": "logo_aurora_tech",
     "name": "Aurora Tech",
