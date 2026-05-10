@@ -292,28 +292,14 @@ window.HD_TEMPLATES = [
     },
 
     {
-        id: 'fb_retro_vintage_009',
-        name: 'Retro Vintage Flash Sale',
-        category: 'ad-creator',
-        subCategory: 'sub-fb-ads',
-        categoryLabel: '🎞️ Retro Sale',
-        width: 1080,
-        height: 1080,
-        html: `
-            <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f5e6c8;z-index:1;"></div>
-            <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:100%;background:repeating-linear-gradient(0deg,transparent,transparent 39px,rgba(139,90,43,0.08) 39px,rgba(139,90,43,0.08) 40px);z-index:2;"></div>
-            <div class="hd-draggable" data-type="shape" style="position:absolute;top:50px;left:50px;right:50px;bottom:50px;border:4px solid #3d1f00;z-index:3;"></div>
-            <div class="hd-draggable" data-type="shape" style="position:absolute;top:65px;left:65px;right:65px;bottom:65px;border:2px solid #3d1f00;z-index:3;"></div>
-            <div class="hd-draggable" data-type="shape" style="position:absolute;top:100px;left:50%;transform:translateX(-50%);width:600px;height:120px;background:#3d1f00;z-index:4;"></div>
-            <div class="hd-draggable" data-type="text" style="position:absolute;top:115px;left:0;width:100%;text-align:center;color:#f5e6c8;font-size:55px;font-weight:900;letter-spacing:6px;z-index:5;">FLASH SALE EVENT</div>
-            <h1 class="hd-draggable" data-type="text" style="position:absolute;top:250px;left:0;width:100%;text-align:center;color:#3d1f00;font-size:220px;font-weight:900;font-family:serif;z-index:5;margin:0;line-height:0.8;">75<span style="font-size:120px;">%</span></h1>
-            <div class="hd-draggable" data-type="text" style="position:absolute;top:550px;left:0;width:100%;text-align:center;color:#3d1f00;font-size:45px;letter-spacing:10px;z-index:5;">◆ OFF EVERYTHING ◆</div>
-            <div class="hd-draggable" data-type="shape" style="position:absolute;top:640px;left:150px;right:150px;height:3px;background:#3d1f00;z-index:4;"></div>
-            <div class="hd-draggable" data-type="text" style="position:absolute;top:670px;left:0;width:100%;text-align:center;color:#6b4c2a;font-size:26px;letter-spacing:4px;z-index:5;font-style:italic;">Limited Stock Available — Shop Before It's Gone!</div>
-            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:110px;left:50%;transform:translateX(-50%);width:450px;height:80px;background:#3d1f00;border-radius:0px;z-index:5;"></div>
-            <div class="hd-draggable" data-type="text" style="position:absolute;bottom:128px;left:0;width:100%;text-align:center;color:#f5e6c8;font-size:30px;font-weight:900;letter-spacing:4px;z-index:6;">CLAIM YOUR DEAL</div>
-        `
-    },
+    "id": "fb_retro_vintage_009",
+    "name": "Retro Vintage Flash Sale",
+    "category": "ad-creator",
+    "subCategory": "sub-fb-ads",
+    "width": 1080,
+    "height": 1080,
+    "html": "<div id=\"design-bg\" style=\"position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background: radial-gradient(rgb(139, 0, 0) 0%, rgb(61, 0, 0) 40%, rgb(10, 0, 0) 100%); z-index: 1;\"></div>\n            <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background: repeating-linear-gradient(0deg, transparent, transparent 39px, rgba(139, 90, 43, 0.08) 39px, rgba(139, 90, 43, 0.08) 40px); z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n            <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; inset: 50px; border: 4px solid rgb(61, 31, 0); z-index: 3; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n            <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; inset: 65px; border: 2px solid rgb(61, 31, 0); z-index: 3; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n            <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 100px; left: 50%; transform: translateX(-50%); width: 600px; height: 120px; background: rgb(61, 31, 0); z-index: 4; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n            <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 115px; left: 0px; width: 100%; text-align: center; color: rgb(245, 230, 200); font-size: 55px; font-weight: 900; letter-spacing: 6px; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">FLASH SALE EVENT</div>\n            <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 250px; left: 0px; width: 100%; text-align: center; color: rgb(255, 51, 0); font-size: 220px; font-weight: 900; font-family: serif; z-index: 5; margin: 0px; line-height: 0.8; text-shadow: rgb(255, 0, 0) 0px 0px 20px, rgba(255, 0, 0, 0.5) 0px 0px 50px, rgba(180, 0, 0, 0.3) 0px 0px 100px; outline: none; cursor: grab;\" contenteditable=\"false\">75<span style=\"font-size:120px;\">%</span></h1>\n            <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 550px auto auto 0px; width: 100%; text-align: center; color: rgb(255, 255, 255) !important; font-size: 45px; letter-spacing: 10px; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">◆ OFF EVERYTHING ◆</div>\n            <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 640px; left: 150px; right: 150px; height: 3px; background: rgb(61, 31, 0); z-index: 4; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n            <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 670px auto auto 0px; width: 100%; text-align: center; color: rgb(255, 255, 255) !important; font-size: 26px; letter-spacing: 4px; z-index: 5; font-style: italic; outline: none; cursor: grab;\" contenteditable=\"false\">Limited Stock Available — Shop Before It's Gone!</div>\n            <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; bottom: 110px; left: 50%; transform: translateX(-50%); width: 450px; height: 80px; background: rgb(61, 31, 0); border-radius: 0px; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n            <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; bottom: 128px; left: 0px; width: 100%; text-align: center; color: rgb(245, 230, 200); font-size: 30px; font-weight: 900; letter-spacing: 4px; z-index: 6; outline: none; cursor: grab;\" contenteditable=\"false\">CLAIM YOUR DEAL</div>"
+},
 
     {
         id: 'fb_stack_offer_010',
