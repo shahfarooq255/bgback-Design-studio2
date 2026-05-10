@@ -12088,21 +12088,14 @@ window.HD_TEMPLATES = [
         `
     },
     {
-        id: 'li_achievement',
-        name: 'Milestone Celebration',
-        category: 'linkedin-post',
-        categoryLabel: 'ðŸ’¼ LinkedIn',
-        width: 1080, height: 1080,
-        html: `
-        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);z-index:1;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:400px;background:#0077b5;z-index:2;"></div>
-        <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-        <h1 class="hd-draggable" data-type="text" style="position:absolute;top:450px;left:0;width:1000px;text-align:center;color:#000;font-size:82px;font-weight:900;font-family:'Inter',sans-serif;z-index:4;margin:40px;">MILESTONE<br>REACHED!</h1>
-        <p class="hd-draggable" data-type="text" style="position:absolute;top:700px;left:100px;width:800px;text-align:center;color:#666;font-size:32px;font-family:'Inter',sans-serif;z-index:4;">Proud to announce that we have surpassed 10 Million active users worldwide. Thank you for your support!</p>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:0;left:0;width:100%;height:20px;background:#0077b5;z-index:2;"></div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:60px;left:50%;transform:translateX(-50%);color:#0077b5;font-weight:bold;font-size:28px;z-index:4;">#Innovation #Growth #Tech</div>
-        `
-    },
+    "id": "li_achievement",
+    "name": "Milestone Celebration",
+    "category": "linkedin-post",
+    "subCategory": "sub-fb-ads",
+    "width": 1087,
+    "height": 1080,
+    "html": "<div id=\"design-bg\" style=\"position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background: linear-gradient(135deg, rgb(248, 54, 0), rgb(249, 212, 35)); z-index: 1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; inset: 44.2516px auto auto 78.3214px; width: 942px; height: 402px; background: rgb(0, 119, 181); z-index: 2; outline: none; cursor: grab; opacity: 0.35 !important; border-radius: 50px 150px !important;\" contenteditable=\"false\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position: absolute; inset: 27.603px auto auto 93.8394px; color: rgb(255, 255, 255); font-size: 100px; z-index: 4; padding: 10px; cursor: grab; border: 2px dashed transparent; user-select: none; resize: both; overflow: visible; outline: none;\" contenteditable=\"false\">🚀</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 106.399px auto auto -5.20608px; width: 1000px; text-align: center; color: rgb(255, 255, 255); font-size: 82px; font-weight: 900; font-family: Inter, sans-serif; z-index: 4; margin: 40px; outline: none; cursor: grab; text-shadow: rgba(0, 0, 0, 0.4) 0px 4px 15px; line-height: 1.3 !important; border-radius: 50px !important;\" contenteditable=\"false\">MILESTONE<br>REACHED!</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 504.772px auto auto 149.457px; width: 800px; text-align: center; color: rgba(255, 255, 255, 0.92); font-size: 36px !important; font-family: Inter, sans-serif; z-index: 4; outline: none; cursor: grab; text-shadow: none;\" contenteditable=\"false\">Proud to announce that we have surpassed 10 Million active users worldwide. Thank you for your support!</p>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; bottom: 0px; left: 0px; width: 100%; height: 20px; background: rgb(0, 119, 181); z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 883.509px auto auto 554.313px; transform: translateX(-50%); color: rgb(0, 119, 181); font-weight: bold; font-size: 38px !important; z-index: 4; outline: none; cursor: grab;\" contenteditable=\"false\">#Innovation #Growth #Tech</div>"
+},
     {
         id: 'li_quote_minimal',
         name: 'Professional Quote',
