@@ -15888,20 +15888,14 @@ window.HD_TEMPLATES = [
     // --- Ù…Ø²ÛŒØ¯ 10 Ø§ÛŒÚˆÙˆØ§Ù†Ø³ Ù„ÙˆÚ¯Ùˆ Ù¹Ù…Ù¾Ù„ÛŒÙ¹Ø³ ---
 
     {
-        id: 'logo_diamond_luxe',
-        name: 'Diamond Luxe',
-        category: 'logo',
-        categoryLabel: 'ðŸ’Ž Logo',
-        width: 800, height: 800,
-        html: `
-        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:1;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:300px;width:200px;height:200px;background:linear-gradient(135deg, #38bdf8, #818cf8);clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);z-index:2;opacity:0.3;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:230px;left:330px;width:140px;height:140px;border:2px solid #fff;transform:rotate(45deg);z-index:3;"></div>
-        <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:500px;left:0;width:800px;text-align:center;color:#fff;font-size:50px;font-weight:900;letter-spacing:5px;z-index:5;">PURE GLIMMER</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:570px;left:0;width:800px;text-align:center;color:#38bdf8;font-size:14px;font-weight:bold;letter-spacing:10px;z-index:5;">LUXURY JEWELRY HOUSE</div>
-    `
-    },
+    "id": "logo_diamond_luxe",
+    "name": "Diamond Luxe",
+    "category": "logo",
+    "subCategory": "sub-fb-ads",
+    "width": 800,
+    "height": 800,
+    "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 200px; left: 300px; width: 200px; height: 200px; background: linear-gradient(135deg, rgb(56, 189, 248), rgb(129, 140, 248)); clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%); z-index: 2; opacity: 0.3; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 230px; left: 330px; width: 140px; height: 140px; border: 2px solid rgb(255, 255, 255); transform: rotate(45deg); z-index: 3; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        \n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 500px; left: 0px; width: 800px; text-align: center; color: rgb(255, 255, 255); font-size: 50px; font-weight: 900; letter-spacing: 5px; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">PURE GLIMMER</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 570px; left: 0px; width: 800px; text-align: center; color: rgb(56, 189, 248); font-size: 14px; font-weight: bold; letter-spacing: 10px; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">LUXURY JEWELRY HOUSE</div>"
+},
 
     {
         id: 'logo_bio_health',
