@@ -12172,23 +12172,14 @@ window.HD_TEMPLATES = [
         `
     },
     {
-        id: 'li_tips_roundup',
-        name: 'Weekly Tips',
-        category: 'linkedin-post',
-        categoryLabel: 'ðŸ’¼ LinkedIn',
-        width: 1080, height: 1080,
-        html: `
-        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);z-index:1;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:100%;height:300px;background:#1e40af;z-index:2;"></div>
-        <h1 class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:0;width:1080px;text-align:center;color:#fff;font-size:64px;font-weight:900;z-index:4;margin:20px;">5 TIPS FOR<br>REMOTE TEAM OPS</h1>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:380px;left:100px;color:#1e40af;font-size:32px;font-weight:bold;z-index:4;">1. Daily Standups âœ…</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:480px;left:100px;color:#1e40af;font-size:32px;font-weight:bold;z-index:4;">2. Clear Documentation ðŸ“</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:580px;left:100px;color:#1e40af;font-size:32px;font-weight:bold;z-index:4;">3. Async Communication 📱</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:680px;left:100px;color:#1e40af;font-size:32px;font-weight:bold;z-index:4;">4. Set Hard Boundaries â°</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:780px;left:100px;color:#1e40af;font-size:32px;font-weight:bold;z-index:4;">5. Over-communicate Purpose 🎯</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;bottom:80px;left:50%;transform:translateX(-50%);background:#1e40af;color:#fff;padding:15px 50px;border-radius:50px;font-weight:900;z-index:4;">Save for Later</div>
-        `
-    },
+    "id": "li_tips_roundup",
+    "name": "Weekly Tips",
+    "category": "linkedin-post",
+    "subCategory": "sub-fb-ads",
+    "width": 1080,
+    "height": 1080,
+    "html": "<div id=\"design-bg\" style=\"position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background: linear-gradient(135deg, rgb(13, 27, 30), rgb(20, 83, 45)); z-index: 1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; inset: 0px auto auto 0px; width: 100%; height: 300px; background: rgb(30, 64, 175); z-index: 2; outline: none; cursor: grab; opacity: 0.3 !important;\" contenteditable=\"false\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 51.3666px auto auto -44.2515px; width: 1080px; text-align: center; color: rgb(74, 222, 128); font-size: 64px; font-weight: 900; z-index: 4; margin: 20px; text-shadow: rgba(74, 222, 128, 0.5) 0px 0px 15px; outline: none; cursor: grab; line-height: 1.3 !important;\" contenteditable=\"false\">5 TIPS FOR<br>REMOTE TEAM OPS</h1>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 380px auto auto 100px; color: rgb(255, 255, 255) !important; font-size: 32px; font-weight: bold; z-index: 4; outline: none; cursor: grab;\" contenteditable=\"false\">1. Daily Standups âœ…</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 480px auto auto 100px; color: rgb(255, 255, 255) !important; font-size: 32px; font-weight: bold; z-index: 4; outline: none; cursor: grab;\" contenteditable=\"false\">2. Clear Documentation ðŸ“</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 580px auto auto 100px; color: rgb(255, 255, 255) !important; font-size: 32px; font-weight: bold; z-index: 4; outline: none; cursor: grab;\" contenteditable=\"false\">3. Async Communication 📱</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 680px auto auto 100px; color: rgb(255, 255, 255) !important; font-size: 32px; font-weight: bold; z-index: 4; outline: none; cursor: grab;\" contenteditable=\"false\">4. Set Hard Boundaries â°</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 780px auto auto 100px; color: rgb(255, 255, 255) !important; font-size: 32px; font-weight: bold; z-index: 4; outline: none; cursor: grab;\" contenteditable=\"false\">5. Over-communicate Purpose 🎯</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 933.924px auto auto 539.988px; transform: translateX(-50%); background: rgb(30, 64, 175); color: rgb(255, 255, 255); padding: 15px 50px; border-radius: 50px; font-weight: 900; z-index: 4; outline: none; cursor: grab; font-size: 35px !important;\" contenteditable=\"false\">Save for Later</div>"
+},
     {
         id: 'li_course_launch',
         name: 'Educational Course',
