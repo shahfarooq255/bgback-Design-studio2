@@ -12395,19 +12395,14 @@ window.HD_TEMPLATES = [
         `
     },
     {
-        id: 'tw_quote_vibrant',
-        name: 'Vibrant Quote',
-        category: 'twitter-post',
-        categoryLabel: 'ð• Twitter',
-        width: 1200, height: 675,
-        html: `
-        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(45deg,#1DA1F2,#000);z-index:1;"></div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:80px;color:#fff;font-size:200px;opacity:0.2;z-index:2;font-family:serif;">â€œ</div>
-        <h1 class="hd-draggable" data-type="text" style="position:absolute;top:180px;left:100px;color:#fff;font-size:48px;font-weight:700;z-index:4;width:950px;line-height:1.4;text-align:center;">Don't watch the clock; do what it does. Keep going. Focus on the journey.</h1>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:450px;left:500px;width:200px;height:4px;background:#fff;z-index:4;"></div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:480px;left:0;width:1200px;text-align:center;color:#fff;font-size:32px;font-weight:900;z-index:4;">SAM LEVENSON</div>
-        `
-    },
+    "id": "tw_quote_vibrant",
+    "name": "Vibrant Quote",
+    "category": "twitter-post",
+    "subCategory": "sub-fb-ads",
+    "width": 1200,
+    "height": 675,
+    "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(45deg,#1DA1F2,#000);z-index:1;\"></div>\n        \n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 252.234px auto auto 107.809px; color: rgb(255, 255, 255); font-size: 48px; font-weight: 700; z-index: 4; width: 950px; line-height: 1.4; text-align: center; outline: none; cursor: grab; user-select: text;\" contenteditable=\"false\" spellcheck=\"false\">Don't watch the clock; do what it does. Keep going. Focus on the journey.</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 450px; left: 500px; width: 200px; height: 4px; background: rgb(255, 255, 255); z-index: 4; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 480px; left: 0px; width: 1200px; text-align: center; color: rgb(255, 255, 255); font-size: 32px; font-weight: 900; z-index: 4; outline: none; cursor: grab;\" contenteditable=\"false\">SAM LEVENSON</div>\n        <div data-type=\"emoji\" class=\" hd-draggable\" style=\"position: absolute; inset: 53.3786px auto auto 109.014px; cursor: grab; padding: 10px; border: 2px dashed transparent; user-select: none; z-index: 5; resize: both; overflow: hidden; font-size: 120px; text-align: center; line-height: 1; outline: none;\" contenteditable=\"false\">🏆</div>"
+},
     {
         id: 'tw_alert_minimal',
         name: 'Clean Alert',
