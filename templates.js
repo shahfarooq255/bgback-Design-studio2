@@ -12197,22 +12197,14 @@ window.HD_TEMPLATES = [
         `
     },
     {
-        id: 'li_webinar_speaker',
-        name: 'Speaker Feature',
-        category: 'linkedin-post',
-        categoryLabel: 'ðŸ’¼ LinkedIn',
-        width: 1200, height: 627,
-        html: `
-        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);z-index:1;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;right:0;width:400px;height:100%;background:#0077b5;z-index:2;"></div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:80px;left:80px;color:#0077b5;font-size:24px;font-weight:bold;z-index:4;">FEATURED SPEAKER</div>
-        <h1 class="hd-draggable" data-type="text" style="position:absolute;top:130px;left:80px;color:#111;font-size:64px;font-weight:900;z-index:4;">SARAH J. SMITH</h1>
-        <p class="hd-draggable" data-type="text" style="position:absolute;top:220px;left:80px;color:#444;font-size:28px;z-index:4;">VP of Engineering @ GlobalTech</p>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:320px;left:80px;width:100px;height:4px;background:#0077b5;z-index:4;"></div>
-        <p class="hd-draggable" data-type="text" style="position:absolute;top:350px;left:80px;color:#444;font-size:24px;width:600px;z-index:4;">Topic: Scaling Distributed Teams in a Post-Remote World. Join us for an exclusive talk.</p>
-        <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=400&q=80" style="position:absolute;top:100px;right:80px;width:340px;height:427px;border-radius:20px;z-index:4;object-fit:cover;box-shadow:-20px 20px 0 #e0f2fe;">
-        `
-    },
+    "id": "li_webinar_speaker",
+    "name": "Speaker Feature",
+    "category": "linkedin-post",
+    "subCategory": "sub-fb-ads",
+    "width": 1200,
+    "height": 627,
+    "html": "<div id=\"design-bg\" style=\"position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background: rgb(0, 0, 0); z-index: 1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 0px; right: 0px; width: 400px; height: 100%; background: rgb(0, 119, 181); z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 80px; left: 80px; color: rgb(0, 119, 181); font-size: 24px; font-weight: bold; z-index: 4; outline: none; cursor: grab;\" contenteditable=\"false\">FEATURED SPEAKER</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 95.5445px auto auto 74.5597px; color: rgb(0, 255, 204); font-size: 64px; font-weight: 900; z-index: 4; text-shadow: rgb(0, 255, 204) 0px 0px 20px, rgb(0, 255, 204) 0px 0px 40px; outline: none; cursor: grab;\" contenteditable=\"false\">SARAH J. SMITH</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 239.948px auto auto 80px; color: rgb(255, 255, 255); font-size: 20px !important; z-index: 4; text-shadow: rgb(0, 255, 204) 0px 0px 10px; outline: none; cursor: grab;\" contenteditable=\"false\">VP of Engineering @ GlobalTech</p>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 320px; left: 80px; width: 100px; height: 4px; background: rgb(0, 119, 181); z-index: 4; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 350px auto auto 80px; color: rgb(68, 68, 68); font-size: 26px !important; width: 600px; z-index: 4; outline: none; cursor: grab;\" contenteditable=\"false\">Topic: Scaling Distributed Teams in a Post-Remote World. Join us for an exclusive talk.</p>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&amp;fit=crop&amp;w=400&amp;q=80\" style=\"position: absolute; top: 100px; right: 80px; width: 340px; height: 427px; border-radius: 20px; z-index: 4; object-fit: cover; box-shadow: rgb(224, 242, 254) -20px 20px 0px; outline: none; cursor: grab;\" contenteditable=\"false\">"
+},
     {
         id: 'li_hiring_dark',
         name: 'Dark Hiring',
