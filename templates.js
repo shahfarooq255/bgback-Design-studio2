@@ -15925,20 +15925,14 @@ window.HD_TEMPLATES = [
     },
 
     {
-        id: 'logo_legal_shield',
-        name: 'Legal Shield',
-        category: 'logo',
-        categoryLabel: 'ðŸ’Ž Logo',
-        width: 800, height: 800,
-        html: `
-        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#f8fafc;z-index:1;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:180px;left:300px;width:200px;height:250px;background:#1e293b;clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 50% 100%, 0% 75%);z-index:2;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:320px;width:160px;height:210px;border:2px solid #94a3b8;clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 50% 100%, 0% 75%);z-index:3;"></div>
-        <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:500px;left:0;width:800px;text-align:center;color:#0f172a;font-size:48px;font-weight:bold;font-family:serif;z-index:5;">LEGACY COUNSEL</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:565px;left:0;width:800px;text-align:center;color:#64748b;font-size:14px;font-weight:bold;letter-spacing:8px;z-index:5;">ESTABLISHED & TRUSTED</div>
-    `
-    },
+    "id": "logo_legal_shield",
+    "name": "Legal Shield",
+    "category": "logo",
+    "subCategory": "sub-fb-ads",
+    "width": 800,
+    "height": 800,
+    "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#f8fafc;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 180px; left: 300px; width: 200px; height: 250px; background: rgb(30, 41, 59); clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 50% 100%, 0% 75%); z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 200px; left: 320px; width: 160px; height: 210px; border: 2px solid rgb(148, 163, 184); clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 50% 100%, 0% 75%); z-index: 3; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        \n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 500px; left: 0px; width: 800px; text-align: center; color: rgb(15, 23, 42); font-size: 48px; font-weight: bold; font-family: serif; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">LEGACY COUNSEL</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 565px; left: 0px; width: 800px; text-align: center; color: rgb(100, 116, 139); font-size: 14px; font-weight: bold; letter-spacing: 8px; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">ESTABLISHED &amp; TRUSTED</div>"
+},
 
     {
         id: 'logo_wave_studio',
