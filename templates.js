@@ -10999,24 +10999,14 @@ window.HD_TEMPLATES = [
     },
 
     {
-        id: 'tpl_bgback_2',
-        name: 'Flawless Erase 2',
-        category: 'facebook-post',
-        width: 1200,
-        height: 630,
-        categoryLabel: 'ðŸ“˜ Facebook Post',
-        html: `
-<div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg, #FF416C, #FF4B2B);z-index:1;"></div>
-<div class="hd-draggable" data-type="shape" style="position:absolute;top:-100px;left:-100px;width:400px;height:400px;background:rgba(255,255,255,0.05);border-radius:50%;z-index:2;"></div>
-<h1 class="hd-draggable" data-type="text" style="position:absolute;top:150px;left:80px;color:#ffffff;font-size:65px;font-weight:900;font-family:'Inter',sans-serif;z-index:4;text-shadow:0 8px 20px rgba(0,0,0,0.3); line-height:1.1; width: 600px; ">Flawless Erase</h1>
-<div class="hd-draggable" data-type="text" style="position:absolute;top:90px;left:85px;color:#fff;background:rgba(255,255,255,0.2);padding:8px 24px;border-radius:30px;font-weight:bold;font-size:22px;z-index:4; border: 1px solid rgba(255,255,255,0.5);">ðŸ–Œï¸ Cutout Brush</div>
-<p class="hd-draggable" data-type="text" style="position:absolute;top:320px;left:80px;color:rgba(255,255,255,0.9);font-size:28px;z-index:4;width:700px;line-height:1.4;">Content Aware Brush magically removes unwanted objects and fills the space smoothly.</p>
-<div class="hd-draggable" data-type="text" style="position:absolute;top:480px;left:85px;font-size:26px;font-weight:bold;color:#111;background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);padding:15px 40px;border-radius:50px;box-shadow:0 15px 30px rgba(0,0,0,0.2);z-index:4;">Try For Free â†’</div>
-<img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80" alt="Preview" style="position:absolute;top:120px;left:750px;width:400px;height:auto;z-index:4;filter:drop-shadow(0 20px 40px rgba(0,0,0,0.5));">
-<div class="hd-draggable" data-type="text" style="position:absolute;bottom:40px;right:50px;color:#ffffff;font-size:28px;font-weight:800;font-family:'Inter',sans-serif;z-index:4;opacity:0.9; text-shadow: 0 4px 10px rgba(0,0,0,0.5);">bgback.com</div>
-
-        `
-    },
+    "id": "tpl_bgback_2",
+    "name": "Flawless Erase 2",
+    "category": "facebook-post",
+    "subCategory": "sub-fb-ads",
+    "width": 1200,
+    "height": 630,
+    "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg, #FF416C, #FF4B2B);z-index:1;\"></div>\n<div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: -100px; left: -100px; width: 400px; height: 400px; background: rgba(255, 255, 255, 0.05); border-radius: 50%; z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n<h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 120.846px auto auto 96.3991px; color: rgb(255, 255, 255); font-size: 65px; font-weight: 900; font-family: Inter, sans-serif; z-index: 4; text-shadow: rgba(0, 0, 0, 0.3) 0px 8px 20px; line-height: 1.1; width: 600px; outline: none; cursor: grab;\" contenteditable=\"false\">Flawless Erase</h1>\n\n<p class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 263.514px auto auto 85.4664px; color: rgba(255, 255, 255, 0.9); font-size: 30px !important; z-index: 4; width: 546px; line-height: 1.4; outline: none; cursor: grab; height: 157px;\" contenteditable=\"false\">Content Aware Brush magically removes unwanted objects and fills the space smoothly.</p>\n<div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 551.063px auto auto -18.8612px; font-size: 26px; font-weight: bold; color: rgb(255, 255, 255) !important; background: linear-gradient(135deg, rgb(190, 81, 45), rgb(151, 18, 18)) !important; padding: 15px 40px; border-radius: 0px 80px 0px 0px !important; box-shadow: rgba(0, 0, 0, 0.2) 0px 15px 30px; z-index: 4; outline: none; cursor: grab; width: 772px; height: 81px; text-align: center !important; user-select: text;\" contenteditable=\"false\" spellcheck=\"false\">Try For Free&nbsp;</div>\n<img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&amp;fit=crop&amp;w=800&amp;q=80\" alt=\"Preview\" style=\"position: absolute; inset: 123.644px auto auto 750px; width: 400px; height: auto; z-index: 4; filter: drop-shadow(rgba(0, 0, 0, 0.5) 0px 20px 40px); outline: none; cursor: grab; border-radius: 150px 150px 50px !important;\" contenteditable=\"false\">"
+},
 
     {
     "id": "tpl_bgback_3",
