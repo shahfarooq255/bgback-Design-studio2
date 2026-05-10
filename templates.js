@@ -15439,21 +15439,14 @@ window.HD_TEMPLATES = [
 
     // Logo #9: Crystal Core (Luxury Glass)
     {
-        id: 'logo_crystal_core',
-        name: 'Crystal Core',
-        category: 'logo',
-        categoryLabel: 'ðŸ’Ž Logo',
-        width: 800, height: 800,
-        html: `
-        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(45deg,#1e1b4b,#312e81);z-index:1;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:180px;left:280px;width:240px;height:240px;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);transform:rotate(45deg);border-radius:20px;z-index:2;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:210px;left:310px;width:180px;height:180px;background:rgba(255,255,255,0.1);backdrop-filter:blur(10px);transform:rotate(45deg);border:2px solid #fff;z-index:3;"></div>
-        <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:480px;left:0;width:800px;text-align:center;color:#fff;font-size:42px;font-weight:200;z-index:5;letter-spacing:12px;">BGBACK STUDIO</div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:535px;left:300px;width:200px;height:1px;background:#fff;z-index:5;opacity:0.3;"></div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:550px;left:0;width:800px;text-align:center;color:#818cf8;font-size:14px;z-index:5;font-weight:bold;letter-spacing:5px;">PREMIUM CREATIVE GROUP</div>
-        `
-    },
+    "id": "logo_crystal_core",
+    "name": "Crystal Core",
+    "category": "logo",
+    "subCategory": "sub-fb-ads",
+    "width": 800,
+    "height": 800,
+    "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(45deg,#1e1b4b,#312e81);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 180px; left: 280px; width: 240px; height: 240px; background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.1); transform: rotate(45deg); border-radius: 20px; z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 210px; left: 310px; width: 180px; height: 180px; background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); transform: rotate(45deg); border: 2px solid rgb(255, 255, 255); z-index: 3; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        \n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 480px; left: 0px; width: 800px; text-align: center; color: rgb(255, 255, 255); font-size: 42px; font-weight: 200; z-index: 5; letter-spacing: 12px; outline: none; cursor: grab;\" contenteditable=\"false\">BGBACK STUDIO</div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 535px; left: 300px; width: 200px; height: 1px; background: rgb(255, 255, 255); z-index: 5; opacity: 0.3; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 550px; left: 0px; width: 800px; text-align: center; color: rgb(129, 140, 248); font-size: 14px; z-index: 5; font-weight: bold; letter-spacing: 5px; outline: none; cursor: grab;\" contenteditable=\"false\">PREMIUM CREATIVE GROUP</div>"
+},
 
     // Logo #10: Abstract Synergy (Modern Interlock)
     {
