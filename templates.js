@@ -15961,19 +15961,14 @@ window.HD_TEMPLATES = [
     },
 
     {
-        id: 'logo_honey_hive',
-        name: 'Honey Hive',
-        category: 'logo',
-        categoryLabel: 'ðŸ’Ž Logo',
-        width: 800, height: 800,
-        html: `
-        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fffbeb;z-index:1;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:320px;width:160px;height:180px;background:#f59e0b;clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);z-index:2;"></div>
-        <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:480px;left:0;width:800px;text-align:center;color:#78350f;font-size:55px;font-weight:900;z-index:5;">HONEY HIVE</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:550px;left:0;width:800px;text-align:center;color:#d97706;font-size:18px;font-weight:bold;z-index:5;">100% PURE NECTAR</div>
-    `
-    },
+    "id": "logo_honey_hive",
+    "name": "Honey Hive",
+    "category": "logo",
+    "subCategory": "sub-fb-ads",
+    "width": 800,
+    "height": 800,
+    "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#fffbeb;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 200px; left: 320px; width: 160px; height: 180px; background: rgb(245, 158, 11); clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%); z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        \n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 480px; left: 0px; width: 800px; text-align: center; color: rgb(120, 53, 15); font-size: 55px; font-weight: 900; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">HONEY HIVE</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 550px; left: 0px; width: 800px; text-align: center; color: rgb(217, 119, 6); font-size: 18px; font-weight: bold; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">100% PURE NECTAR</div>"
+},
 
     {
         id: 'logo_cloud_care',
