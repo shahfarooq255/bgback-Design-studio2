@@ -225,7 +225,7 @@ window.HD_TEMPLATES = [
         html: `
             <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#1a1a2e 0%,#16213e 50%,#0f3460 100%);z-index:1;"></div>
             <div class="hd-draggable" data-type="shape" style="position:absolute;top:-100px;left:-100px;width:500px;height:500px;background:rgba(83,52,255,0.3);border-radius:50%;z-index:2;filter:blur(80px);"></div>
-            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:-100px;right:-100px;width:500px;height:500px;background:rgba(255,52,120,0.2);border-radius:50%;z-index:2;filter:blur:80px;"></div>
+            <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:-100px;right:-100px;width:500px;height:500px;background:rgba(255,52,120,0.2);border-radius:50%;z-index:2;filter:blur(80px);"></div>
             <div class="hd-draggable" data-type="shape" style="position:absolute;top:120px;left:80px;right:80px;bottom:120px;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.15);border-radius:30px;z-index:3;backdrop-filter:blur(20px);"></div>
             <div class="hd-draggable" data-type="text" style="position:absolute;top:170px;left:0;width:100%;text-align:center;color:rgba(255,255,255,0.5);font-size:20px;letter-spacing:10px;z-index:5;">✦ EXCLUSIVE OFFER ✦</div>
             <h1 class="hd-draggable" data-type="text" style="position:absolute;top:220px;left:0;width:100%;text-align:center;color:#fff;font-size:140px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:0.85;text-shadow:0 20px 60px rgba(83,52,255,0.6);">NEW<br><span style="background:linear-gradient(90deg,#a855f7,#ec4899);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">ARRIVALS</span></h1>
@@ -17967,6 +17967,1686 @@ html: `
 
 `
 },
+{
+    id: 'logo_text_nexora',
+    name: 'Nexora Text',
+    category: 'logo',
+    categoryLabel: '✨ Text Icon Logo',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute; inset:0; background:linear-gradient(135deg,#020617,#111827,#1e293b); overflow:hidden; z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:120px;
+        left:0;
+        width:800px;
+        text-align:center;
+        font-size:230px;
+        font-weight:900;
+        font-family:Arial Black,sans-serif;
+        background:linear-gradient(135deg,#06b6d4,#3b82f6,#8b5cf6);
+        -webkit-background-clip:text;
+        -webkit-text-fill-color:transparent;
+        text-shadow:0 0 35px rgba(59,130,246,.35);
+        letter-spacing:-12px;
+        transform:skew(-8deg);
+        z-index:3;
+    ">N</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:430px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#fff;
+        font-size:62px;
+        font-weight:900;
+        letter-spacing:6px;
+        z-index:4;
+    ">NEXORA</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:515px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#60a5fa;
+        font-size:18px;
+        font-weight:bold;
+        letter-spacing:14px;
+        z-index:4;
+    ">SMART DIGITAL TOOLS</div>
+
+    `
+},
+
+{
+    id: 'logo_text_pixelo',
+    name: 'Pixelo Text',
+    category: 'logo',
+    categoryLabel: '✨ Text Icon Logo',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute; inset:0; background:linear-gradient(135deg,#1e1b4b,#020617); overflow:hidden; z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:110px;
+        left:0;
+        width:800px;
+        text-align:center;
+        font-size:240px;
+        font-weight:900;
+        font-family:Arial Black,sans-serif;
+        background:linear-gradient(135deg,#ec4899,#8b5cf6,#3b82f6);
+        -webkit-background-clip:text;
+        -webkit-text-fill-color:transparent;
+        text-shadow:0 0 40px rgba(236,72,153,.35);
+        letter-spacing:-18px;
+        z-index:3;
+    ">P</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:430px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#fff;
+        font-size:58px;
+        font-weight:900;
+        letter-spacing:8px;
+        z-index:4;
+    ">PIXELO</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:515px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#c084fc;
+        font-size:17px;
+        font-weight:bold;
+        letter-spacing:13px;
+        z-index:4;
+    ">AI POWERED PLATFORM</div>
+
+    `
+},
+
+{
+    id: 'logo_text_toolify',
+    name: 'Toolify Text',
+    category: 'logo',
+    categoryLabel: '✨ Text Icon Logo',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute; inset:0; background:linear-gradient(135deg,#111827,#0f172a,#020617); overflow:hidden; z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:115px;
+        left:0;
+        width:800px;
+        text-align:center;
+        font-size:230px;
+        font-weight:900;
+        font-family:Arial Black,sans-serif;
+        background:linear-gradient(135deg,#f59e0b,#facc15,#fb7185);
+        -webkit-background-clip:text;
+        -webkit-text-fill-color:transparent;
+        text-shadow:0 0 35px rgba(245,158,11,.35);
+        letter-spacing:-10px;
+        transform:rotate(-3deg);
+        z-index:3;
+    ">T</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:430px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#fff;
+        font-size:60px;
+        font-weight:900;
+        letter-spacing:7px;
+        z-index:4;
+    ">TOOLIFY</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:515px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#fbbf24;
+        font-size:18px;
+        font-weight:bold;
+        letter-spacing:14px;
+        z-index:4;
+    ">ALL TOOLS IN ONE</div>
+
+    `
+},
+
+{
+    id: 'logo_text_utilora',
+    name: 'Utilora Text',
+    category: 'logo',
+    categoryLabel: '✨ Text Icon Logo',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute; inset:0; background:linear-gradient(135deg,#022c22,#020617); overflow:hidden; z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:115px;
+        left:0;
+        width:800px;
+        text-align:center;
+        font-size:240px;
+        font-weight:900;
+        font-family:Arial Black,sans-serif;
+        background:linear-gradient(135deg,#4ade80,#22d3ee,#06b6d4);
+        -webkit-background-clip:text;
+        -webkit-text-fill-color:transparent;
+        text-shadow:0 0 40px rgba(34,211,238,.35);
+        letter-spacing:-15px;
+        z-index:3;
+    ">U</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:430px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#fff;
+        font-size:60px;
+        font-weight:900;
+        letter-spacing:8px;
+        z-index:4;
+    ">UTILORA</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:515px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#67e8f9;
+        font-size:17px;
+        font-weight:bold;
+        letter-spacing:13px;
+        z-index:4;
+    ">ULTIMATE TOOLKIT HUB</div>
+
+    `
+},
+
+{
+    id: 'logo_text_altrix',
+    name: 'Altrix Text',
+    category: 'logo',
+    categoryLabel: '✨ Text Icon Logo',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="position:absolute; inset:0; background:linear-gradient(135deg,#f8fafc,#e2e8f0,#dbeafe); overflow:hidden; z-index:1;"></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:105px;
+        left:0;
+        width:800px;
+        text-align:center;
+        font-size:240px;
+        font-weight:900;
+        font-family:Arial Black,sans-serif;
+        background:linear-gradient(135deg,#8b5cf6,#3b82f6);
+        -webkit-background-clip:text;
+        -webkit-text-fill-color:transparent;
+        text-shadow:0 0 35px rgba(139,92,246,.25);
+        letter-spacing:-15px;
+        transform:skew(-6deg);
+        z-index:3;
+    ">A</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:430px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#0f172a;
+        font-size:60px;
+        font-weight:900;
+        letter-spacing:8px;
+        z-index:4;
+    ">ALTRIX</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:515px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#6366f1;
+        font-size:17px;
+        font-weight:bold;
+        letter-spacing:14px;
+        z-index:4;
+    ">TOOLS FOR EVERY TASK</div>
+
+    `
+},
+{
+    id: 'logo_hologram_prx',
+    name: 'PRX Hologram',
+    category: 'logo',
+    categoryLabel: '🚀 Ultra Modern Logo',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="
+        position:absolute;
+        inset:0;
+        background:radial-gradient(circle at top,#111827,#020617 75%);
+        overflow:hidden;
+        z-index:1;
+    "></div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:120px;
+        left:200px;
+        width:400px;
+        height:400px;
+        border-radius:50%;
+        background:radial-gradient(circle,rgba(59,130,246,.15),transparent 70%);
+        filter:blur(10px);
+        z-index:1;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:165px;
+        left:215px;
+        font-size:170px;
+        font-weight:900;
+        font-family:Arial Black,sans-serif;
+        color:rgba(255,255,255,.08);
+        letter-spacing:-8px;
+        transform:scaleY(1.2);
+        z-index:2;
+    ">PRX</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:145px;
+        left:225px;
+        font-size:170px;
+        font-weight:900;
+        font-family:Arial Black,sans-serif;
+        background:linear-gradient(135deg,#06b6d4,#8b5cf6,#ec4899);
+        -webkit-background-clip:text;
+        -webkit-text-fill-color:transparent;
+        text-shadow:0 0 35px rgba(139,92,246,.35);
+        letter-spacing:-8px;
+        z-index:4;
+    ">PRX</div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:340px;
+        left:250px;
+        width:300px;
+        height:1px;
+        background:linear-gradient(90deg,transparent,#06b6d4,#ec4899,transparent);
+        box-shadow:0 0 25px rgba(139,92,246,.6);
+        z-index:5;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:525px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#ffffff;
+        font-size:58px;
+        font-weight:900;
+        letter-spacing:8px;
+        z-index:6;
+    ">PRX HOLOGRAM</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:605px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#c4b5fd;
+        font-size:16px;
+        font-weight:bold;
+        letter-spacing:15px;
+        z-index:6;
+    ">FUTURE DIGITAL UTILITIES</div>
+
+    `
+},
+
+{
+    id: 'logo_fragment_zen',
+    name: 'ZEN Fragment',
+    category: 'logo',
+    categoryLabel: '🚀 Ultra Modern Logo',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="
+        position:absolute;
+        inset:0;
+        background:linear-gradient(135deg,#022c22,#020617);
+        overflow:hidden;
+        z-index:1;
+    "></div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:170px;
+        left:240px;
+        width:320px;
+        height:240px;
+        background:rgba(255,255,255,.03);
+        border:1px solid rgba(255,255,255,.08);
+        border-radius:35px;
+        transform:rotate(-6deg);
+        z-index:1;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:160px;
+        left:245px;
+        font-size:170px;
+        font-weight:900;
+        font-family:Arial Black,sans-serif;
+        color:#22d3ee;
+        letter-spacing:-10px;
+        z-index:3;
+    ">ZEN</div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:175px;
+        left:350px;
+        width:18px;
+        height:180px;
+        background:#020617;
+        transform:rotate(12deg);
+        z-index:4;
+    "></div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:175px;
+        left:445px;
+        width:18px;
+        height:180px;
+        background:#020617;
+        transform:rotate(-12deg);
+        z-index:4;
+    "></div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:325px;
+        left:310px;
+        width:180px;
+        height:3px;
+        background:linear-gradient(90deg,#22d3ee,#4ade80);
+        box-shadow:0 0 20px rgba(34,211,238,.6);
+        z-index:5;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:530px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#ffffff;
+        font-size:56px;
+        font-weight:900;
+        letter-spacing:7px;
+        z-index:6;
+    ">ZEN FRAGMENT</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:605px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#86efac;
+        font-size:16px;
+        font-weight:bold;
+        letter-spacing:14px;
+        z-index:6;
+    ">MINIMAL AI PLATFORM</div>
+
+    `
+},
+
+{
+    id: 'logo_metallic_vrt',
+    name: 'VRT Metallic',
+    category: 'logo',
+    categoryLabel: '🚀 Ultra Modern Logo',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="
+        position:absolute;
+        inset:0;
+        background:linear-gradient(135deg,#0f172a,#020617,#111827);
+        overflow:hidden;
+        z-index:1;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:145px;
+        left:225px;
+        font-size:175px;
+        font-weight:900;
+        font-family:Arial Black,sans-serif;
+        background:linear-gradient(180deg,#ffffff,#94a3b8,#ffffff);
+        -webkit-background-clip:text;
+        -webkit-text-fill-color:transparent;
+        text-shadow:0 0 30px rgba(255,255,255,.18);
+        letter-spacing:-12px;
+        transform:perspective(500px) rotateX(12deg);
+        z-index:3;
+    ">VRT</div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:185px;
+        left:255px;
+        width:290px;
+        height:160px;
+        border:2px solid rgba(255,255,255,.08);
+        border-radius:20px;
+        transform:skew(-12deg);
+        z-index:2;
+    "></div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:315px;
+        left:280px;
+        width:240px;
+        height:2px;
+        background:linear-gradient(90deg,transparent,#ffffff,transparent);
+        opacity:.5;
+        z-index:4;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:520px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#ffffff;
+        font-size:58px;
+        font-weight:900;
+        letter-spacing:8px;
+        z-index:6;
+    ">VRT METALLIC</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:600px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#cbd5e1;
+        font-size:16px;
+        font-weight:bold;
+        letter-spacing:15px;
+        z-index:6;
+    ">PREMIUM TOOL SUITE</div>
+
+    `
+},
+
+{
+    id: 'logo_infinity_nqx',
+    name: 'NQX Infinity',
+    category: 'logo',
+    categoryLabel: '🚀 Ultra Modern Logo',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="
+        position:absolute;
+        inset:0;
+        background:linear-gradient(135deg,#1e1b4b,#020617);
+        overflow:hidden;
+        z-index:1;
+    "></div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:180px;
+        left:210px;
+        width:380px;
+        height:180px;
+        border:3px solid rgba(139,92,246,.25);
+        border-radius:120px;
+        transform:rotate(-6deg);
+        z-index:1;
+    "></div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:180px;
+        left:210px;
+        width:380px;
+        height:180px;
+        border:3px solid rgba(6,182,212,.2);
+        border-radius:120px;
+        transform:rotate(6deg);
+        z-index:1;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:155px;
+        left:245px;
+        font-size:165px;
+        font-weight:900;
+        font-family:Arial Black,sans-serif;
+        background:linear-gradient(135deg,#8b5cf6,#06b6d4,#ec4899);
+        -webkit-background-clip:text;
+        -webkit-text-fill-color:transparent;
+        letter-spacing:-10px;
+        z-index:3;
+    ">NQX</div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:250px;
+        left:385px;
+        width:22px;
+        height:22px;
+        background:#fff;
+        border-radius:50%;
+        box-shadow:0 0 25px rgba(255,255,255,.7);
+        z-index:4;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:525px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#ffffff;
+        font-size:56px;
+        font-weight:900;
+        letter-spacing:7px;
+        z-index:6;
+    ">NQX INFINITY</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:605px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#c4b5fd;
+        font-size:16px;
+        font-weight:bold;
+        letter-spacing:14px;
+        z-index:6;
+    ">ENDLESS DIGITAL POSSIBILITIES</div>
+
+    `
+},
+
+{
+    id: 'logo_dual_layer_krx',
+    name: 'KRX Dual Layer',
+    category: 'logo',
+    categoryLabel: '🚀 Ultra Modern Logo',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="
+        position:absolute;
+        inset:0;
+        background:linear-gradient(135deg,#f8fafc,#e2e8f0,#dbeafe);
+        overflow:hidden;
+        z-index:1;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:150px;
+        left:230px;
+        font-size:180px;
+        font-weight:900;
+        font-family:Arial Black,sans-serif;
+        color:rgba(99,102,241,.15);
+        letter-spacing:-12px;
+        transform:translate(16px,16px);
+        z-index:1;
+    ">KRX</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:145px;
+        left:225px;
+        font-size:180px;
+        font-weight:900;
+        font-family:Arial Black,sans-serif;
+        background:linear-gradient(135deg,#6366f1,#06b6d4);
+        -webkit-background-clip:text;
+        -webkit-text-fill-color:transparent;
+        letter-spacing:-12px;
+        z-index:3;
+    ">KRX</div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:175px;
+        left:255px;
+        width:290px;
+        height:170px;
+        border-radius:24px;
+        border:2px dashed rgba(99,102,241,.2);
+        z-index:2;
+    "></div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:325px;
+        left:305px;
+        width:190px;
+        height:8px;
+        border-radius:20px;
+        background:linear-gradient(90deg,#6366f1,#06b6d4);
+        z-index:4;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:525px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#0f172a;
+        font-size:56px;
+        font-weight:900;
+        letter-spacing:7px;
+        z-index:6;
+    ">KRX DUAL LAYER</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:602px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#6366f1;
+        font-size:16px;
+        font-weight:bold;
+        letter-spacing:14px;
+        z-index:6;
+    ">INTELLIGENT TOOL SYSTEM</div>
+
+    `
+},
+
+{
+    id: 'logo_glass_nova',
+    name: 'Nova Glass',
+    category: 'logo',
+    categoryLabel: '🧊 Glassmorphism',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="
+        position:absolute;
+        inset:0;
+        background:
+        radial-gradient(circle at top left,#0ea5e9 0%,transparent 30%),
+        radial-gradient(circle at bottom right,#8b5cf6 0%,transparent 35%),
+        linear-gradient(135deg,#020617,#0f172a,#111827);
+        overflow:hidden;
+        z-index:1;
+    "></div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:170px;
+        left:220px;
+        width:360px;
+        height:250px;
+        background:rgba(255,255,255,.08);
+        backdrop-filter:blur(18px);
+        border:1px solid rgba(255,255,255,.12);
+        border-radius:35px;
+        box-shadow:
+        0 15px 40px rgba(0,0,0,.35),
+        inset 0 1px 0 rgba(255,255,255,.08);
+        transform:rotate(-4deg);
+        z-index:2;
+    "></div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:210px;
+        left:270px;
+        width:260px;
+        height:160px;
+        background:rgba(255,255,255,.05);
+        border-radius:25px;
+        border:1px solid rgba(255,255,255,.08);
+        backdrop-filter:blur(8px);
+        z-index:3;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:175px;
+        left:260px;
+        font-size:170px;
+        font-weight:900;
+        font-family:Arial Black,sans-serif;
+        background:linear-gradient(135deg,#ffffff,#67e8f9,#c4b5fd);
+        -webkit-background-clip:text;
+        -webkit-text-fill-color:transparent;
+        text-shadow:0 0 25px rgba(255,255,255,.15);
+        letter-spacing:-10px;
+        z-index:5;
+    ">N</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:515px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#ffffff;
+        font-size:58px;
+        font-weight:900;
+        letter-spacing:8px;
+        z-index:6;
+    ">NOVA GLASS</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:600px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#bae6fd;
+        font-size:16px;
+        font-weight:bold;
+        letter-spacing:14px;
+        z-index:6;
+    ">FUTURE UI SYSTEMS</div>
+
+    `
+},
+
+{
+    id: 'logo_glass_orbit',
+    name: 'Orbit Frost',
+    category: 'logo',
+    categoryLabel: '🧊 Glassmorphism',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="
+        position:absolute;
+        inset:0;
+        background:
+        radial-gradient(circle at top,#8b5cf6 0%,transparent 35%),
+        linear-gradient(135deg,#0f172a,#020617);
+        overflow:hidden;
+        z-index:1;
+    "></div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:145px;
+        left:245px;
+        width:310px;
+        height:310px;
+        border-radius:50%;
+        background:rgba(255,255,255,.05);
+        backdrop-filter:blur(20px);
+        border:1px solid rgba(255,255,255,.12);
+        box-shadow:0 20px 45px rgba(0,0,0,.35);
+        z-index:2;
+    "></div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:185px;
+        left:285px;
+        width:230px;
+        height:230px;
+        border-radius:50%;
+        border:2px solid rgba(255,255,255,.08);
+        z-index:3;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:165px;
+        left:310px;
+        font-size:160px;
+        font-weight:900;
+        font-family:Arial Black,sans-serif;
+        background:linear-gradient(135deg,#ffffff,#ddd6fe,#a5f3fc);
+        -webkit-background-clip:text;
+        -webkit-text-fill-color:transparent;
+        z-index:4;
+    ">O</div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:215px;
+        left:500px;
+        width:18px;
+        height:18px;
+        border-radius:50%;
+        background:#fff;
+        box-shadow:0 0 18px rgba(255,255,255,.8);
+        z-index:5;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:525px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#fff;
+        font-size:56px;
+        font-weight:900;
+        letter-spacing:8px;
+        z-index:6;
+    ">ORBIT FROST</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:603px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#c4b5fd;
+        font-size:16px;
+        font-weight:bold;
+        letter-spacing:14px;
+        z-index:6;
+    ">ADVANCED DIGITAL TOOLS</div>
+
+    `
+},
+
+{
+    id: 'logo_glass_flux',
+    name: 'Flux Crystal',
+    category: 'logo',
+    categoryLabel: '🧊 Glassmorphism',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="
+        position:absolute;
+        inset:0;
+        background:
+        radial-gradient(circle at bottom left,#06b6d4 0%,transparent 35%),
+        linear-gradient(135deg,#020617,#111827,#1e293b);
+        overflow:hidden;
+        z-index:1;
+    "></div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:165px;
+        left:235px;
+        width:330px;
+        height:240px;
+        clip-path:polygon(10% 0%,90% 0%,100% 50%,90% 100%,10% 100%,0% 50%);
+        background:rgba(255,255,255,.08);
+        backdrop-filter:blur(18px);
+        border:1px solid rgba(255,255,255,.12);
+        box-shadow:0 18px 45px rgba(0,0,0,.35);
+        z-index:2;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:170px;
+        left:310px;
+        font-size:165px;
+        font-weight:900;
+        font-family:Arial Black,sans-serif;
+        background:linear-gradient(135deg,#ffffff,#67e8f9);
+        -webkit-background-clip:text;
+        -webkit-text-fill-color:transparent;
+        text-shadow:0 0 25px rgba(255,255,255,.12);
+        z-index:4;
+    ">F</div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:205px;
+        left:260px;
+        width:250px;
+        height:2px;
+        background:rgba(255,255,255,.12);
+        z-index:5;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:520px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#ffffff;
+        font-size:56px;
+        font-weight:900;
+        letter-spacing:7px;
+        z-index:6;
+    ">FLUX CRYSTAL</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:600px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#67e8f9;
+        font-size:16px;
+        font-weight:bold;
+        letter-spacing:14px;
+        z-index:6;
+    ">SMART TOOL NETWORK</div>
+
+    `
+},
+
+{
+    id: 'logo_glass_vertex',
+    name: 'Vertex Blur',
+    category: 'logo',
+    categoryLabel: '🧊 Glassmorphism',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="
+        position:absolute;
+        inset:0;
+        background:
+        radial-gradient(circle at right,#ec4899 0%,transparent 30%),
+        radial-gradient(circle at left,#06b6d4 0%,transparent 30%),
+        linear-gradient(135deg,#020617,#111827);
+        overflow:hidden;
+        z-index:1;
+    "></div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:170px;
+        left:250px;
+        width:300px;
+        height:300px;
+        transform:rotate(45deg);
+        border-radius:30px;
+        background:rgba(255,255,255,.06);
+        backdrop-filter:blur(16px);
+        border:1px solid rgba(255,255,255,.12);
+        box-shadow:0 18px 45px rgba(0,0,0,.4);
+        z-index:2;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:175px;
+        left:295px;
+        font-size:170px;
+        font-weight:900;
+        font-family:Arial Black,sans-serif;
+        background:linear-gradient(135deg,#ffffff,#f9a8d4,#67e8f9);
+        -webkit-background-clip:text;
+        -webkit-text-fill-color:transparent;
+        z-index:4;
+    ">V</div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:300px;
+        left:330px;
+        width:140px;
+        height:140px;
+        border-radius:20px;
+        border:2px solid rgba(255,255,255,.08);
+        transform:rotate(45deg);
+        z-index:5;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:535px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#ffffff;
+        font-size:56px;
+        font-weight:900;
+        letter-spacing:8px;
+        z-index:6;
+    ">VERTEX BLUR</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:610px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#f9a8d4;
+        font-size:16px;
+        font-weight:bold;
+        letter-spacing:14px;
+        z-index:6;
+    ">CREATIVE CLOUD SYSTEM</div>
+
+    `
+},
+
+{
+    id: 'logo_glass_aura',
+    name: 'Aura Panel',
+    category: 'logo',
+    categoryLabel: '🧊 Glassmorphism',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="
+        position:absolute;
+        inset:0;
+        background:
+        radial-gradient(circle at top right,#22c55e 0%,transparent 35%),
+        radial-gradient(circle at bottom left,#3b82f6 0%,transparent 35%),
+        linear-gradient(135deg,#020617,#0f172a);
+        overflow:hidden;
+        z-index:1;
+    "></div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:160px;
+        left:210px;
+        width:380px;
+        height:260px;
+        background:rgba(255,255,255,.07);
+        border:1px solid rgba(255,255,255,.12);
+        border-radius:40px;
+        backdrop-filter:blur(20px);
+        box-shadow:
+        0 20px 45px rgba(0,0,0,.35),
+        inset 0 1px 0 rgba(255,255,255,.1);
+        z-index:2;
+    "></div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:190px;
+        left:245px;
+        width:310px;
+        height:190px;
+        border-radius:25px;
+        border:1px solid rgba(255,255,255,.08);
+        background:rgba(255,255,255,.03);
+        z-index:3;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:175px;
+        left:315px;
+        font-size:165px;
+        font-weight:900;
+        font-family:Arial Black,sans-serif;
+        background:linear-gradient(135deg,#ffffff,#86efac,#93c5fd);
+        -webkit-background-clip:text;
+        -webkit-text-fill-color:transparent;
+        z-index:4;
+    ">A</div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:205px;
+        left:250px;
+        width:280px;
+        height:1px;
+        background:rgba(255,255,255,.12);
+        z-index:5;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:525px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#ffffff;
+        font-size:57px;
+        font-weight:900;
+        letter-spacing:8px;
+        z-index:6;
+    ">AURA PANEL</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:605px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#86efac;
+        font-size:16px;
+        font-weight:bold;
+        letter-spacing:14px;
+        z-index:6;
+    ">NEXT GEN WEB TOOLS</div>
+
+    `
+},
+{
+    id: 'logo_neon_quantum',
+    name: 'Quantum Neon',
+    category: 'logo',
+    categoryLabel: '⚡ Neon Glow',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="
+        position:absolute;
+        inset:0;
+        background:
+        radial-gradient(circle at top,#111827,#020617 70%);
+        overflow:hidden;
+        z-index:1;
+    "></div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:140px;
+        left:240px;
+        width:320px;
+        height:320px;
+        border-radius:50%;
+        border:3px solid rgba(6,182,212,.25);
+        box-shadow:
+        0 0 20px rgba(6,182,212,.5),
+        0 0 60px rgba(6,182,212,.25);
+        z-index:2;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:160px;
+        left:285px;
+        font-size:180px;
+        font-weight:900;
+        font-family:Arial Black,sans-serif;
+        color:#06b6d4;
+        text-shadow:
+        0 0 10px #06b6d4,
+        0 0 30px #06b6d4,
+        0 0 60px #06b6d4;
+        z-index:4;
+    ">Q</div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:245px;
+        left:510px;
+        width:14px;
+        height:14px;
+        background:#ffffff;
+        border-radius:50%;
+        box-shadow:
+        0 0 12px #fff,
+        0 0 30px #fff;
+        z-index:5;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:525px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#ffffff;
+        font-size:58px;
+        font-weight:900;
+        letter-spacing:8px;
+        z-index:6;
+    ">QUANTUM NEON</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:605px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#67e8f9;
+        font-size:16px;
+        font-weight:bold;
+        letter-spacing:14px;
+        z-index:6;
+    ">FUTURE AI SYSTEMS</div>
+
+    `
+},
+
+{
+    id: 'logo_neon_vortex',
+    name: 'Vortex Pulse',
+    category: 'logo',
+    categoryLabel: '⚡ Neon Glow',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="
+        position:absolute;
+        inset:0;
+        background:linear-gradient(135deg,#020617,#111827,#1e1b4b);
+        overflow:hidden;
+        z-index:1;
+    "></div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:165px;
+        left:230px;
+        width:340px;
+        height:240px;
+        border-radius:35px;
+        border:2px solid rgba(139,92,246,.25);
+        box-shadow:
+        0 0 25px rgba(139,92,246,.45),
+        inset 0 0 25px rgba(139,92,246,.2);
+        transform:rotate(-5deg);
+        z-index:2;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:150px;
+        left:255px;
+        font-size:180px;
+        font-weight:900;
+        font-family:Arial Black,sans-serif;
+        color:#8b5cf6;
+        text-shadow:
+        0 0 10px #8b5cf6,
+        0 0 30px #8b5cf6,
+        0 0 70px #8b5cf6;
+        z-index:4;
+    ">V</div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:300px;
+        left:285px;
+        width:220px;
+        height:4px;
+        border-radius:20px;
+        background:#8b5cf6;
+        box-shadow:
+        0 0 15px #8b5cf6,
+        0 0 40px #8b5cf6;
+        z-index:5;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:530px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#ffffff;
+        font-size:57px;
+        font-weight:900;
+        letter-spacing:8px;
+        z-index:6;
+    ">VORTEX PULSE</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:607px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#c4b5fd;
+        font-size:16px;
+        font-weight:bold;
+        letter-spacing:14px;
+        z-index:6;
+    ">DIGITAL POWER TOOLS</div>
+
+    `
+},
+
+{
+    id: 'logo_neon_matrix',
+    name: 'Matrix Glow',
+    category: 'logo',
+    categoryLabel: '⚡ Neon Glow',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="
+        position:absolute;
+        inset:0;
+        background:
+        radial-gradient(circle at bottom,#022c22,#020617 70%);
+        overflow:hidden;
+        z-index:1;
+    "></div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:150px;
+        left:250px;
+        width:300px;
+        height:300px;
+        border:2px dashed rgba(74,222,128,.3);
+        border-radius:50%;
+        box-shadow:
+        0 0 25px rgba(74,222,128,.35);
+        z-index:2;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:170px;
+        left:285px;
+        font-size:175px;
+        font-weight:900;
+        font-family:Arial Black,sans-serif;
+        color:#4ade80;
+        text-shadow:
+        0 0 10px #4ade80,
+        0 0 35px #4ade80,
+        0 0 70px #4ade80;
+        z-index:4;
+    ">M</div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:205px;
+        left:505px;
+        width:12px;
+        height:12px;
+        background:#4ade80;
+        border-radius:50%;
+        box-shadow:
+        0 0 10px #4ade80,
+        0 0 35px #4ade80;
+        z-index:5;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:525px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#ffffff;
+        font-size:57px;
+        font-weight:900;
+        letter-spacing:8px;
+        z-index:6;
+    ">MATRIX GLOW</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:605px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#86efac;
+        font-size:16px;
+        font-weight:bold;
+        letter-spacing:14px;
+        z-index:6;
+    ">SMART TOOL ECOSYSTEM</div>
+
+    `
+},
+
+{
+    id: 'logo_neon_fusion',
+    name: 'Fusion Beam',
+    category: 'logo',
+    categoryLabel: '⚡ Neon Glow',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="
+        position:absolute;
+        inset:0;
+        background:
+        linear-gradient(135deg,#020617,#111827,#1e293b);
+        overflow:hidden;
+        z-index:1;
+    "></div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:180px;
+        left:240px;
+        width:320px;
+        height:220px;
+        background:rgba(255,255,255,.02);
+        border-radius:30px;
+        border:2px solid rgba(236,72,153,.25);
+        box-shadow:
+        0 0 25px rgba(236,72,153,.4),
+        inset 0 0 20px rgba(236,72,153,.2);
+        z-index:2;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:150px;
+        left:300px;
+        font-size:185px;
+        font-weight:900;
+        font-family:Arial Black,sans-serif;
+        color:#ec4899;
+        text-shadow:
+        0 0 10px #ec4899,
+        0 0 35px #ec4899,
+        0 0 80px #ec4899;
+        z-index:4;
+    ">F</div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:225px;
+        left:255px;
+        width:280px;
+        height:2px;
+        background:#ec4899;
+        box-shadow:
+        0 0 12px #ec4899,
+        0 0 30px #ec4899;
+        z-index:5;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:530px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#ffffff;
+        font-size:56px;
+        font-weight:900;
+        letter-spacing:7px;
+        z-index:6;
+    ">FUSION BEAM</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:607px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#f9a8d4;
+        font-size:16px;
+        font-weight:bold;
+        letter-spacing:14px;
+        z-index:6;
+    ">ADVANCED WEB UTILITIES</div>
+
+    `
+},
+
+{
+    id: 'logo_neon_hyper',
+    name: 'Hyper Nova',
+    category: 'logo',
+    categoryLabel: '⚡ Neon Glow',
+    width: 800,
+    height: 800,
+    html: `
+
+    <div id="design-bg" style="
+        position:absolute;
+        inset:0;
+        background:
+        radial-gradient(circle at top right,#0ea5e9 0%,transparent 25%),
+        radial-gradient(circle at bottom left,#8b5cf6 0%,transparent 25%),
+        linear-gradient(135deg,#020617,#111827);
+        overflow:hidden;
+        z-index:1;
+    "></div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:145px;
+        left:245px;
+        width:310px;
+        height:310px;
+        transform:rotate(45deg);
+        border-radius:35px;
+        border:2px solid rgba(6,182,212,.22);
+        box-shadow:
+        0 0 25px rgba(6,182,212,.45),
+        0 0 70px rgba(139,92,246,.25);
+        z-index:2;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:170px;
+        left:305px;
+        font-size:175px;
+        font-weight:900;
+        font-family:Arial Black,sans-serif;
+        background:linear-gradient(135deg,#06b6d4,#8b5cf6,#ec4899);
+        -webkit-background-clip:text;
+        -webkit-text-fill-color:transparent;
+        filter:drop-shadow(0 0 12px #06b6d4)
+               drop-shadow(0 0 35px #8b5cf6);
+        z-index:4;
+    ">H</div>
+
+    <div class="hd-draggable" data-type="shape" style="
+        position:absolute;
+        top:305px;
+        left:330px;
+        width:140px;
+        height:140px;
+        border:2px dashed rgba(255,255,255,.12);
+        border-radius:25px;
+        transform:rotate(45deg);
+        z-index:5;
+    "></div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:535px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#ffffff;
+        font-size:58px;
+        font-weight:900;
+        letter-spacing:8px;
+        z-index:6;
+    ">HYPER NOVA</div>
+
+    <div class="hd-draggable" data-type="text" style="
+        position:absolute;
+        top:612px;
+        left:0;
+        width:800px;
+        text-align:center;
+        color:#c4b5fd;
+        font-size:16px;
+        font-weight:bold;
+        letter-spacing:14px;
+        z-index:6;
+    ">NEXT GEN AI TOOLS</div>
+
+    `
+},
+
     // â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
     // CATEGORY: ðŸªª Visiting Cards (5 Templates)
     // â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
