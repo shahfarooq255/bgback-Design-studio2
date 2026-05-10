@@ -383,26 +383,14 @@ window.HD_TEMPLATES = [
     },
 
     {
-        id: 'fb_service_minimal_001',
-        name: 'Minimalist Service Promo',
-        category: 'ad-creator',
-        subCategory: 'sub-fb-ads',
-        categoryLabel: 'ðŸ’¼ Service Ad',
-        width: 1080,
-        height: 1080,
-        html: `
-                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
-                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;left:0;width:400px;height:100%;background:#fcfcfc;z-index:2;"></div>
-                <div class="hd-draggable" data-type="shape" style="position:absolute;top:100px;left:100px;width:100px;height:100px;background:#111;border-radius:20px;z-index:3;"></div>
-                <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:250px;left:100px;color:#000000;font-size:90px;font-weight:900;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:1;width:800px;">Modern Solutions<br>For Your Business</h1>
-                <div class="hd-draggable" data-type="shape" style="position:absolute;top:480px;left:100px;width:600px;height:2px;background:#eee;z-index:5;"></div>
-                <p class="hd-draggable" data-type="text" style="position:absolute;top:520px;left:100px;color:#222222;font-size:28px;font-family:'Inter',sans-serif;z-index:5;width:600px;line-height:1.6;">â€¢ UI/UX Design Strategy<br>â€¢ Professional Web Development<br>â€¢ Brand Identity & Growth</p>
-                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;left:100px;font-size:24px;font-weight:bold;color:#fff;background:#111;padding:20px 50px;border-radius:5px;text-align:center;z-index:5;">WORK WITH US</div>
-                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:100px;right:100px;width:350px;height:350px;background:linear-gradient(135deg, #667eea 0%, #764ba2 100%);border-radius:40px;z-index:3;transform:rotate(10deg);"></div>
-                <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-                `
-    },
+    "id": "fb_service_minimal_001",
+    "name": "Minimalist Service Promo",
+    "category": "ad-creator",
+    "subCategory": "sub-fb-ads",
+    "width": 1080,
+    "height": 1080,
+    "html": "<div id=\"design-bg\" style=\"position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background: linear-gradient(135deg, rgb(10, 0, 0), rgb(31, 0, 0), rgb(69, 0, 0), rgb(192, 57, 43)); z-index: 1;\"></div>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:400px;height:100%;background:#fcfcfc;z-index:2;\"></div>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:100px;left:100px;width:100px;height:100px;background:#111;border-radius:20px;z-index:3;\"></div>\n                <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n                <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 250px; left: 100px; color: rgb(255, 165, 0); font-size: 90px; font-weight: 900; font-family: Inter, sans-serif; z-index: 5; margin: 0px; line-height: 1; width: 800px; text-shadow: rgb(255, 69, 0) 0px 0px 20px, rgba(255, 69, 0, 0.6) 0px 0px 40px, rgba(0, 0, 0, 0.8) 0px 4px 15px;\">Modern Solutions<br>For Your Business</h1>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:480px;left:100px;width:600px;height:2px;background:#eee;z-index:5;\"></div>\n                <p class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 520px; left: 100px; color: rgb(255, 204, 136); font-size: 28px; font-family: Inter, sans-serif; z-index: 5; width: 600px; line-height: 1.6; text-shadow: rgba(255, 100, 0, 0.5) 0px 0px 8px;\">â€¢ UI/UX Design Strategy<br>â€¢ Professional Web Development<br>â€¢ Brand Identity &amp; Growth</p>\n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:100px;left:100px;font-size:24px;font-weight:bold;color:#fff;background:#111;padding:20px 50px;border-radius:5px;text-align:center;z-index:5;\">WORK WITH US</div>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;bottom:100px;right:100px;width:350px;height:350px;background:linear-gradient(135deg, #667eea 0%, #764ba2 100%);border-radius:40px;z-index:3;transform:rotate(10deg);\"></div>\n                <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>"
+},
 
     {
         id: 'fb_app_promo_001',
