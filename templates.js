@@ -419,40 +419,14 @@ window.HD_TEMPLATES = [
     },
 
     {
-        id: 'fb_tech_cloud_001',
-        name: 'Cloud Tech Service Ad',
-        category: 'ad-creator',
-        subCategory: 'sub-fb-ads',
-        categoryLabel: 'â˜ï¸ Cloud Tech',
-        width: 1080,
-        height: 1080,
-        html: `
-                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg, #ffffff 0%, #eef2f3 100%);z-index:1;"></div>
-                <!-- Top Left Logo/Brand -->
-                <div class="hd-draggable" data-type="shape" style="position:absolute;top:50px;left:60px;width:45px;height:45px;background:linear-gradient(135deg, #0078d4, #00bcf2);z-index:3;border-radius:4px;"></div>
-                <div class="hd-draggable" data-type="text" style="position:absolute;top:58px;left:115px;color:#5e5e5e;font-size:28px;font-weight:600;font-family:'Inter',sans-serif;z-index:4;">Cloud Solutions</div>
-                
-                <!-- Main Headline -->
-                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:180px;left:60px;color:#000000;font-size:75px;font-weight:800;font-family:'Inter',sans-serif;z-index:5;margin:0;line-height:1.1;width:850px;">Kick-start your development with Cloud:</h1>
-                
-                <!-- Feature List -->
-                <div class="hd-draggable" data-type="text" style="position:absolute;top:450px;left:60px;color:#222222;font-size:32px;font-weight:500;font-family:'Inter',sans-serif;z-index:5;line-height:2;">
-                    â€¢ 65+ always-free services<br>
-                    â€¢ USD 200 credit for beginners<br>
-                    â€¢ 750 free VM hours included
-                </div>
-                
-                <!-- Bottom Geometric Design -->
-                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:-100px;left:-100px;width:120%;height:450px;background:linear-gradient(150deg, transparent 45%, #2ecc71 45.2%, #27ae60 100%);z-index:2;transform:rotate(-5deg);"></div>
-                <div class="hd-draggable" data-type="shape" style="position:absolute;bottom:-50px;right:-100px;width:600px;height:400px;background:linear-gradient(165deg, transparent 40%, rgba(0,120,212,0.1) 40.2%, transparent 100%);z-index:2;"></div>
-                
-                <!-- Product Image -->
-                <img class="hd-draggable" data-type="image" src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=600&q=80" alt="Tech Device" style="position:absolute;bottom:80px;right:80px;width:450px;height:auto;z-index:6;border-radius:20px;box-shadow:0 30px 60px rgba(0,0,0,0.3);filter:drop-shadow(0 10px 20px rgba(0,0,0,0.2));">
-                
-                <!-- CTA -->
-                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:50px;left:60px;font-size:24px;font-weight:bold;color:#fff;background:#0078d4;padding:15px 40px;border-radius:10px;text-align:center;z-index:7;box-shadow:0 10px 20px rgba(0,120,212,0.3);">START FREE NOW</div>
-                `
-    },
+    "id": "fb_tech_cloud_001",
+    "name": "Cloud Tech Service Ad",
+    "category": "ad-creator",
+    "subCategory": "sub-fb-ads",
+    "width": 1080,
+    "height": 1080,
+    "html": "<div id=\"design-bg\" style=\"position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background: linear-gradient(135deg, rgb(10, 15, 20), rgb(26, 37, 48), rgb(13, 31, 45), rgb(9, 21, 32)); z-index: 1;\"></div>\n                <!-- Top Left Logo/Brand -->\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 50px; left: 60px; width: 45px; height: 45px; background: linear-gradient(135deg, rgb(0, 120, 212), rgb(0, 188, 242)); z-index: 3; border-radius: 4px; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 58px auto auto 115px; color: rgb(255, 255, 255) !important; font-size: 28px; font-weight: 600; font-family: Inter, sans-serif; z-index: 4; outline: none; cursor: grab;\" contenteditable=\"false\">Cloud Solutions</div>\n                \n                <!-- Main Headline -->\n                <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 180px; left: 60px; color: rgb(212, 241, 249); font-size: 75px; font-weight: 800; font-family: Inter, sans-serif; z-index: 5; margin: 0px; line-height: 1.1; width: 850px; text-shadow: rgba(180, 230, 255, 0.7) 0px 0px 20px, rgba(100, 200, 240, 0.3) 0px 0px 40px; outline: none; cursor: grab;\" contenteditable=\"false\">Kick-start your development with Cloud:</h1>\n                \n                <!-- Feature List -->\n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 513px auto auto 78px; color: rgb(255, 255, 255) !important; font-size: 32px; font-weight: 500; font-family: Inter, sans-serif; z-index: 5; line-height: 2; outline: none; cursor: grab;\" contenteditable=\"false\">\n                    â€¢ 65+ always-free services<br>\n                    â€¢ USD 200 credit for beginners<br>\n                    â€¢ 750 free VM hours included\n                </div>\n                \n                <!-- Bottom Geometric Design -->\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; bottom: -100px; left: -100px; width: 120%; height: 450px; background: linear-gradient(150deg, transparent 45%, rgb(46, 204, 113) 45.2%, rgb(39, 174, 96) 100%); z-index: 2; transform: rotate(-5deg); outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; bottom: -50px; right: -100px; width: 600px; height: 400px; background: linear-gradient(165deg, transparent 40%, rgba(0, 120, 212, 0.1) 40.2%, transparent 100%); z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n                \n                <!-- Product Image -->\n                <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&amp;fit=crop&amp;w=600&amp;q=80\" alt=\"Tech Device\" style=\"position: absolute; bottom: 80px; right: 80px; width: 450px; height: auto; z-index: 6; border-radius: 20px; box-shadow: rgba(0, 0, 0, 0.3) 0px 30px 60px; filter: drop-shadow(rgba(0, 0, 0, 0.2) 0px 10px 20px); outline: none; cursor: grab;\" contenteditable=\"false\">\n                \n                <!-- CTA -->\n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; bottom: 50px; left: 60px; font-size: 24px; font-weight: bold; color: rgb(255, 255, 255); background: rgb(0, 120, 212); padding: 15px 40px; border-radius: 10px; text-align: center; z-index: 7; box-shadow: rgba(0, 120, 212, 0.3) 0px 10px 20px; outline: none; cursor: grab;\" contenteditable=\"false\">START FREE NOW</div>"
+},
 
     {
         id: 'fb_gadget_promo_001',
