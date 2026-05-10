@@ -16018,20 +16018,14 @@ window.HD_TEMPLATES = [
 },
 
     {
-        id: 'logo_iron_forge',
-        name: 'Iron Forge',
-        category: 'logo',
-        categoryLabel: 'ðŸ’Ž Logo',
-        width: 800, height: 800,
-        html: `
-        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#1a1a1a;z-index:1;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:180px;left:275px;width:250px;height:250px;background:#333;clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);z-index:2;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:200px;left:295px;width:210px;height:210px;border:4px solid #facc15;clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);z-index:3;"></div>
-        <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:510px;left:0;width:800px;text-align:center;color:#fff;font-size:55px;font-weight:900;z-index:5;letter-spacing:-2px;">IRON<span style="color:#facc15">FORGE</span></div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:580px;left:0;width:800px;text-align:center;color:#facc15;font-size:14px;font-weight:bold;letter-spacing:6px;z-index:5;">PREMIUM FITNESS CLUB</div>
-    `
-    },
+    "id": "logo_iron_forge",
+    "name": "Iron Forge",
+    "category": "logo",
+    "subCategory": "sub-fb-ads",
+    "width": 800,
+    "height": 800,
+    "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#1a1a1a;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 180px; left: 275px; width: 250px; height: 250px; background: rgb(51, 51, 51); clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%); z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 200px; left: 295px; width: 210px; height: 210px; border: 4px solid rgb(250, 204, 21); clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%); z-index: 3; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        \n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 423.333px auto auto 15.5556px; width: 800px; text-align: center; color: rgb(255, 255, 255); font-size: 55px; font-weight: 900; z-index: 5; letter-spacing: -2px; outline: none; cursor: grab;\" contenteditable=\"false\">IRON<span style=\"color:#facc15\">FORGE</span></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 511.11px auto auto 20px; width: 800px; text-align: center; color: rgb(250, 204, 21); font-size: 14px; font-weight: bold; letter-spacing: 6px; z-index: 5; outline: none; cursor: grab;\" contenteditable=\"false\">PREMIUM FITNESS CLUB</div>"
+},
 
     {
         id: 'logo_lens_focus',
