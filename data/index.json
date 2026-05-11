@@ -4065,7 +4065,7 @@
     "id": "li_service_showcase",
     "name": "Service Overview",
     "category": "linkedin-post",
-    "categoryLabel": "ðŸ’¼ LinkedIn",
+    "subCategory": "sub-fb-ads",
     "width": 1200,
     "height": 627
   },
