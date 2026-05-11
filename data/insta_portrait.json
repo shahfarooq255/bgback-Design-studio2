@@ -1,0 +1,209 @@
+[
+  {
+    "id": "tpl_portrait_1",
+    "name": "Modern Elegance",
+    "category": "insta_portrait",
+    "categoryLabel": "📱 Portrait",
+    "width": 1080,
+    "height": 1350,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(160deg,#fdfbfb,#e8ecef);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:60px;left:60px;width:960px;height:1230px;border:3px solid #ddd;border-radius:15px;z-index:2;cursor:grab;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:100%;height:500px;background:linear-gradient(135deg,#1a1a2e,#16213e);z-index:2;cursor:grab;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:150px;left:80px;color:#fff;font-size:110px;font-weight:900;font-family:'Inter',sans-serif;z-index:4;margin:0;cursor:grab;padding:10px;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;line-height:1.1;text-shadow:0 10px 30px rgba(0,0,0,0.5);\">MODERN<br>ELEGANCE</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:500px;left:80px;width:300px;height:8px;background:linear-gradient(90deg,#e74c3c,transparent);z-index:4;cursor:grab;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;\"></div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:560px;left:80px;color:#444;font-size:36px;font-family:'Inter',sans-serif;z-index:4;cursor:grab;padding:14px;border:2px dashed transparent;margin:0;user-select:none;resize:both;overflow:auto;width:880px;line-height:1.7;\">Simplicity is the ultimate sophistication. Elevate your brand with clean lines and sharp contrast that speaks volumes.</p>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:150px;left:80px;font-size:32px;font-weight:bold;color:#fff;background:#1a1a2e;padding:20px 60px;border-radius:50px;z-index:4;cursor:grab;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;\">DISCOVER MORE â†’</div>\n        "
+  },
+  {
+    "id": "tpl_portrait_2",
+    "name": "Neon Vibe",
+    "category": "insta_portrait",
+    "categoryLabel": "📱 Portrait",
+    "width": 1080,
+    "height": 1350,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#0d0d0d;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:-300px;left:-300px;width:900px;height:900px;background:radial-gradient(circle,rgba(0,212,255,0.15) 0%,transparent 70%);border-radius:50%;z-index:2;cursor:grab;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;bottom:-200px;right:-200px;width:800px;height:800px;background:radial-gradient(circle,rgba(255,0,150,0.15) 0%,transparent 70%);border-radius:50%;z-index:2;cursor:grab;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:480px;left:80px;color:#00d4ff;font-size:120px;font-weight:900;font-family:'Inter',sans-serif;z-index:4;margin:0;cursor:grab;padding:10px;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;text-shadow:0 0 60px rgba(0,212,255,0.8);\">ELECTRIC<br>FUTURE</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:780px;left:80px;color:rgba(255,255,255,0.7);font-size:36px;font-family:'Inter',sans-serif;z-index:4;cursor:grab;padding:10px;border:2px dashed transparent;margin:0;user-select:none;resize:both;overflow:auto;width:900px;\">Bold ideas. Brighter futures. Powered by creativity and driven by passion.</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:150px;left:80px;font-size:34px;font-weight:bold;color:#0d0d0d;background:#00d4ff;padding:20px 70px;border-radius:50px;z-index:4;cursor:grab;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;box-shadow:0 0 40px rgba(0,212,255,0.6);\">LEVEL UP NOW</div>\n        "
+  },
+  {
+    "id": "tpl_portrait_3",
+    "name": "Rose Gold Fashion",
+    "category": "insta_portrait",
+    "categoryLabel": "📱 Portrait",
+    "width": 1080,
+    "height": 1350,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#f8e1e7,#fce4ec,#f8bbd0);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;right:0;width:540px;height:1350px;background:linear-gradient(135deg,rgba(180,92,112,0.15),rgba(180,92,112,0.05));z-index:2;cursor:grab;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:80px;left:80px;font-size:28px;letter-spacing:12px;color:#b45c70;font-family:'Inter',sans-serif;font-weight:600;z-index:4;cursor:grab;border:2px dashed transparent;user-select:none;\">COLLECTION 2025</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:150px;left:80px;color:#5d2a35;font-size:110px;font-weight:900;font-family:'Georgia',serif;z-index:4;margin:0;cursor:grab;padding:10px;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;line-height:1.1;font-style:italic;\">Timeless<br>Beauty</h1>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:680px;left:80px;color:#7a3f4f;font-size:36px;font-family:'Georgia',serif;font-style:italic;z-index:4;cursor:grab;padding:10px;border:2px dashed transparent;margin:0;user-select:none;resize:both;overflow:auto;width:880px;line-height:1.8;\">Crafted for the woman who knows elegance is not about being noticed, but remembered.</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:120px;left:80px;font-size:32px;color:#b45c70;letter-spacing:6px;font-family:'Inter',sans-serif;z-index:4;cursor:grab;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;font-weight:700;\">SHOP THE LOOK â†—</div>\n        "
+  },
+  {
+    "id": "portrait_fashion_vibe",
+    "name": "Style LookPortrait",
+    "category": "insta_portrait",
+    "categoryLabel": "ðŸ¤³ Portrait",
+    "width": 1080,
+    "height": 1350,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#000;z-index:1;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=800&q=80\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;z-index:2;opacity:0.8;\">\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;bottom:0;left:0;width:100%;height:400px;background:linear-gradient(to top, rgba(0,0,0,0.9), transparent);z-index:3;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:180px;left:50px;color:#fff;font-size:92px;font-weight:900;z-index:4;line-height:0.9;\">STREET<br>VIBES</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:100px;left:50px;color:#ff9f43;font-weight:bold;font-size:32px;z-index:4;\">Summer Collection 2024</p>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:30px;left:50px;color:rgba(255,255,255,0.7);font-size:20px;z-index:4;\">Fresh colors, breathable fabrics, and bold silhouettes for the modern urban explorer.</p>\n        "
+  },
+  {
+    "id": "portrait_quote_deep",
+    "name": "Inspirational Quote",
+    "category": "insta_portrait",
+    "categoryLabel": "ðŸ¤³ Portrait",
+    "width": 1080,
+    "height": 1350,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#fff;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:100px;left:100px;width:880px;height:1150px;border:5px solid #111;z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:250px;left:150px;color:#111;font-size:180px;font-weight:900;z-index:4;opacity:0.1;\">â€œ</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:350px;left:150px;width:780px;color:#111;font-size:72px;font-weight:900;z-index:4;line-height:1.2;\">YOUR ONLY LIMIT IS<br><span style=\"background:#111;color:#fff;padding:0 20px;\">YOUR MIND.</span></h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:750px;left:150px;width:780px;color:#666;font-size:32px;z-index:4;line-height:1.5;\">Every obstacle is an opportunity to grow. Success isn't about avoiding failure, it's about persistent action in spite of it.</p>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;bottom:250px;left:150px;width:100px;height:10px;background:#111;z-index:4;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:200px;left:150px;color:#111;font-weight:900;font-size:28px;z-index:4;\">MARKET MENTALITY</div>\n        "
+  },
+  {
+    "id": "portrait_travel_mag",
+    "name": "Magazine Cover",
+    "category": "insta_portrait",
+    "categoryLabel": "ðŸ¤³ Portrait",
+    "width": 1080,
+    "height": 1350,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#eee;z-index:1;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80\" style=\"position:absolute;top:50px;left:50px;width:980px;height:900px;object-fit:cover;z-index:2;\">\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:80px;left:0;width:1080px;text-align:center;color:#fff;font-size:160px;font-weight:900;z-index:4;text-shadow:0 10px 30px rgba(0,0,0,0.3);\">TRAVEL</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;bottom:50px;left:50px;right:50px;height:300px;background:#fff;z-index:3;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:200px;left:100px;color:#111;font-size:82px;font-weight:900;z-index:4;\">PARIS WEEKLY</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:120px;left:100px;color:#1e90ff;font-weight:bold;font-size:32px;z-index:4;\">A Hidden City Gem Guide</p>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:60px;left:100px;color:#888;font-size:20px;width:800px;z-index:4;\">Uncovering the most romantic cafes and secret street art in the heart of France - Exclusive Insider Report.</p>\n        "
+  },
+  {
+    "id": "portrait_gym_beast",
+    "name": "Fitness Motivation",
+    "category": "insta_portrait",
+    "categoryLabel": "ðŸ¤³ Portrait",
+    "width": 1080,
+    "height": 1350,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#111;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(45deg,#ff3e00,#000);z-index:2;opacity:0.4;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=800&q=80\" style=\"position:absolute;top:150px;left:50px;width:980px;height:600px;object-fit:cover;z-index:3;border-radius:20px;filter:grayscale(1);\">\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:800px;left:50px;color:#fff;font-size:150px;font-weight:900;z-index:4;letter-spacing:-10px;\">BEAST</h1>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:920px;left:50px;color:#ff3e00;font-size:150px;font-weight:900;z-index:4;letter-spacing:-10px;\">MODE.</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:1100px;left:60px;color:#fff;font-size:42px;font-weight:bold;z-index:4;width:900px;\">Push past your limits every single day.</p>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:1180px;left:60px;color:#888;font-size:24px;width:900px;z-index:4;\">The grind never stops. Success is built in the shadows while everyone else is sleeping. Are you ready to evolve?</p>\n        "
+  },
+  {
+    "id": "portrait_product_solo",
+    "name": "Product Spotlight",
+    "category": "insta_portrait",
+    "categoryLabel": "ðŸ¤³ Portrait",
+    "width": 1080,
+    "height": 1350,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background: linear-gradient(135deg, #6366f1 0%, #38bdf8 100%);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:50px;left:50px;width:980px;height:1250px;background:#f8f9fa;z-index:2;border-radius:15px;\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:600px;left:0;width:1080px;text-align:center;color:#111;font-size:92px;font-weight:900;z-index:4;\">SERIES 9</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:720px;left:0;width:1080px;text-align:center;color:#555;font-weight:bold;font-size:42px;z-index:4;\">Innovating Timepieces.</p>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:820px;left:150px;width:780px;text-align:center;color:#999;font-size:24px;z-index:4;line-height:1.6;\">A fusion of precision engineering and timeless aesthetic. With a massive 72-hour battery life and sapphire glass display, it's the only companion you'll ever need.</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:150px;left:390px;background:#111;color:#fff;padding:25px 80px;border-radius:50px;font-weight:900;font-size:28px;z-index:4;\">SHOP NOW</div>\n        "
+  },
+  {
+    "id": "portrait_recipe_insta",
+    "name": "Tasty Recipe Portrait",
+    "category": "insta_portrait",
+    "categoryLabel": "ðŸ¤³ Portrait",
+    "width": 1080,
+    "height": 1350,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#fffaf0;z-index:1;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=800&q=80\" style=\"position:absolute;top:0;left:0;width:100%;height:700px;object-fit:cover;z-index:2;\">\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:650px;left:50px;width:980px;height:650px;background:#fff;border-radius:40px;z-index:3;box-shadow:0 30px 60px rgba(0,0,0,0.1);\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:720px;left:100px;color:#e67e22;font-size:82px;font-weight:900;z-index:4;\">SPICY PENNE</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:830px;left:100px;color:#333;font-size:42px;font-weight:bold;z-index:4;\">With Arrabbiata Sauce.</p>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:930px;left:100px;color:#777;font-size:24px;width:800px;z-index:4;line-height:1.5;\">A fiery Italian classic made with sun-ripened tomatoes, fresh chili flakes, and aromatic basil. Perfect for a quick yet satisfying dinner under 20 minutes.</p>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
+  },
+  {
+    "id": "portrait_travel_vlog",
+    "name": "Vlog Thumbnail",
+    "category": "insta_portrait",
+    "categoryLabel": "ðŸ¤³ Portrait",
+    "width": 1080,
+    "height": 1350,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#000;z-index:1;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=800&q=80\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;z-index:2;opacity:0.7;\">\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:80px;color:#fff;font-size:180px;font-weight:900;z-index:4;line-height:0.8;\">NEW<br>VLOG</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:400px;left:80px;width:120px;height:10px;background:#f1c40f;z-index:4;\"></div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:450px;left:80px;color:#f1c40f;font-weight:900;font-size:52px;z-index:4;\">LAKE TAHOE ADVENTURE</p>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:550px;left:80px;color:#fff;font-size:28px;width:800px;z-index:4;\">\"We hiked 15 miles into the wilderness and found something unexpected. Check out the full journey on my channel now!\"</p>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
+  },
+  {
+    "id": "portrait_skincare_pink",
+    "name": "Beauty Portrait",
+    "category": "insta_portrait",
+    "categoryLabel": "ðŸ¤³ Portrait",
+    "width": 1080,
+    "height": 1350,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#ffe4e1;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:100px;left:50px;width:980px;height:980px;background:#fff;border-radius:15px;z-index:2;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1556228578-0d85b1a4d571?auto=format&fit=crop&w=600&q=80\" style=\"position:absolute;top:150px;left:100px;width:880px;height:500px;object-fit:cover;z-index:3;border-radius:10px;\">\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:700px;left:100px;color:#ff69b4;font-size:82px;font-weight:900;z-index:4;\">MORNING GLOW</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:820px;left:100px;color:#333;font-size:42px;font-weight:bold;z-index:4;\">5-Step Skincare Routine.</p>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:920px;left:100px;color:#888;font-size:24px;width:880px;z-index:4;line-height:1.5;\">Achieving glass skin doesn't have to be complicated. Our morning guide highlights the essential steps to keep your skin hydrated and protected all day long.</p>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
+  },
+  {
+    "id": "portrait_artist_bio",
+    "name": "Creative Persona",
+    "category": "insta_portrait",
+    "categoryLabel": "ðŸ¤³ Portrait",
+    "width": 1080,
+    "height": 1350,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#1b1b1b;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:100%;height:20px;background:#0be881;z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:80px;color:#0be881;font-size:180px;font-weight:900;z-index:4;opacity:0.2;\">ARTIST</h1>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:280px;left:80px;color:#fff;font-size:120px;font-weight:900;z-index:4;\">ELARA<br>VANCE.</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:550px;left:80px;color:#0be881;font-weight:bold;font-size:42px;z-index:4;\">Digital Surrealist Painter</p>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:650px;left:80px;color:#888;font-size:28px;width:800px;z-index:4;line-height:1.5;\">Blurring the lines between dreams and reality since 2012. My work explores human emotion through neon landscapes and abstract geometry.</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:100px;left:80px;background:#0be881;color:#1b1b1b;padding:25px 80px;font-weight:900;font-size:32px;z-index:4;\">VIEW PORTFOLIO</div>\n        "
+  },
+  {
+    "id": "portrait_minimal_news",
+    "name": "Quick Update News",
+    "category": "insta_portrait",
+    "categoryLabel": "ðŸ¤³ Portrait",
+    "width": 1080,
+    "height": 1350,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background: linear-gradient(135deg, #6366f1 0%, #38bdf8 100%);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:50px;left:50px;width:980px;height:120px;background:#e74c3c;border-radius:5px;z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:80px;left:100px;color:#fff;font-weight:900;font-size:42px;z-index:4;\">BREAKING NEWS</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:220px;left:50px;width:980px;color:#111;font-size:100px;font-weight:900;z-index:4;line-height:0.9;\">MARS MISSION<br>LIFTS OFF!</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:450px;left:50px;width:980px;color:#666;font-size:42px;font-weight:bold;z-index:4;\">Success for Starship 3.</p>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:580px;left:50px;width:980px;color:#333;font-size:28px;z-index:4;line-height:1.5;\">Today marks a historic milestone as the first passenger-ready Starship has successfully cleared low-earth orbit, heading for the Red Planet with a crew of twelve explorers.</p>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=600&q=80\" style=\"position:absolute;bottom:100px;left:50px;width:980px;height:450px;object-fit:cover;z-index:4;border-radius:10px;\">\n        "
+  },
+  {
+    "id": "portrait_coffee_aesthetic",
+    "name": "Morning Routine",
+    "category": "insta_portrait",
+    "categoryLabel": "ðŸ¤³ Portrait",
+    "width": 1080,
+    "height": 1350,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#fcfbed;z-index:1;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1541167760496-162955ed8a9f?auto=format&fit=crop&w=800&q=80\" style=\"position:absolute;top:100px;left:100px;width:880px;height:800px;object-fit:cover;z-index:2;border-radius:440px;\">\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:950px;left:0;width:1080px;text-align:center;color:#4b3832;font-size:92px;font-weight:900;z-index:4;\">SLOW MORNINGS</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:1080px;left:0;width:1080px;text-align:center;color:#b08d57;font-weight:bold;font-size:32px;z-index:4;\">The Art of Caffeine & Silence.</p>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:1150px;left:150px;width:780px;text-align:center;color:#888;font-size:20px;z-index:4;\">\"Finding peace in a cup of coffee. No emails, no rush. Just the sound of the world waking up and the warmth in my hands.\"</p>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
+  },
+  {
+    "id": "portrait_gym_launch",
+    "name": "Membership Promo",
+    "category": "insta_portrait",
+    "categoryLabel": "ðŸ¤³ Portrait",
+    "width": 1080,
+    "height": 1350,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#1d1d1d;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;right:0;width:20px;height:100%;background:#fffe00;z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:100px;color:#fff;font-size:150px;font-weight:900;z-index:4;line-height:0.8;letter-spacing:-10px;\">ZERO<br>EXCUSE.</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:380px;left:100px;color:#fffe00;font-weight:900;font-size:52px;z-index:4;\">NEW YEAR PROMO</p>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:480px;left:100px;color:#fff;font-size:32px;z-index:4;width:800px;\">Buy 6 Months, Get 3 Free!</p>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:580px;left:100px;color:#888;font-size:24px;width:700px;z-index:4;line-height:1.4;\">Don't wait until tomorrow to start building the body you've always wanted. Join the Elite community and transform your life today.</p>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=600&q=80\" style=\"position:absolute;bottom:100px;left:100px;width:880px;height:450px;object-fit:cover;z-index:4;border-radius:10px;\">\n        "
+  },
+  {
+    "id": "portrait_wedding_save",
+    "name": "Wedding Invite Portrait",
+    "category": "insta_portrait",
+    "categoryLabel": "ðŸ¤³ Portrait",
+    "width": 1080,
+    "height": 1350,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#fff;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:100px;left:50px;width:980px;height:1150px;background:#fffafb;border:2px solid #efd7d9;z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:200px;left:0;width:1080px;text-align:center;color:#d87093;font-size:32px;font-weight:bold;letter-spacing:15px;z-index:4;\">SAVE OUR DATE</h1>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1549417229-aa67d3263c09?auto=format&fit=crop&w=400&q=80\" style=\"position:absolute;top:320px;left:240px;width:600px;height:500px;object-fit:cover;border-radius:300px;z-index:3;\">\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:850px;left:0;width:1080px;text-align:center;color:#333;font-size:82px;font-weight:900;z-index:4;\">KEVIN & MIA</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:980px;left:150px;width:780px;text-align:center;color:#666;font-size:24px;z-index:4;line-height:1.5;\">We are so excited to share our special day with friends and family. Please join us for a celebration of marriage and a night of dancing.</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:120px;left:0;width:1080px;text-align:center;color:#d87093;font-weight:900;font-size:32px;z-index:4;\">SEPTEMBER 12 | 2024</div>\n        "
+  },
+  {
+    "id": "portrait_gaming_live",
+    "name": "Streaming Schedule",
+    "category": "insta_portrait",
+    "categoryLabel": "ðŸ¤³ Portrait",
+    "width": 1080,
+    "height": 1350,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#090909;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#ff00ff,#00ffff);z-index:2;opacity:0.1;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:80px;color:#fff;font-size:32px;font-weight:bold;letter-spacing:10px;z-index:4;\">LIVE STREAMING</h1>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:180px;left:80px;color:#00ffff;font-size:120px;font-weight:900;z-index:4;\">WEEKLY<br>TABOOS.</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:450px;left:80px;width:920px;height:100px;background:rgba(255,255,255,0.05);z-index:3;border-left:10px solid #ff00ff;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:480px;left:120px;color:#fff;font-weight:bold;font-size:32px;z-index:4;\">MON-FRI: 8 PM EST</div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:600px;left:80px;color:#888;font-size:24px;width:800px;z-index:4;line-height:1.5;\">Catch the higher-ranking gameplay, rank pushes, and exclusive giveaways on my Twitch and YouTube channels every evening.</p>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
+  },
+  {
+    "id": "portrait_art_gallery",
+    "name": "Gallery Exhibition",
+    "category": "insta_portrait",
+    "categoryLabel": "ðŸ¤³ Portrait",
+    "width": 1080,
+    "height": 1350,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#000;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:50px;left:50px;right:50px;bottom:50px;border:1px solid rgba(255,255,255,0.2);z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:200px;left:0;width:1080px;text-align:center;color:#fff;font-size:92px;font-weight:900;z-index:4;line-height:0.8;\">BEYOND<br>THE EYES</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:400px;left:515px;width:50px;height:5px;background:#fff;z-index:4;\"></div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:450px;left:0;width:1080px;text-align:center;color:#aaa;font-size:32px;font-weight:bold;z-index:4;\">A Surrealist Photography Exhibition.</p>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1549490349-8643362247b5?auto=format&fit=crop&w=400&q=80\" style=\"position:absolute;top:550px;left:240px;width:600px;height:450px;object-fit:cover;z-index:4;border:5px solid #fff;\">\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:150px;left:200px;width:680px;text-align:center;color:#777;font-size:22px;z-index:4;\">Exploring the unseen world through lens and light. Join us for the opening night gala featuring artist talk and music.</p>\n        "
+  },
+  {
+    "id": "portrait_marketing_tip",
+    "name": "Educational Tip",
+    "category": "insta_portrait",
+    "categoryLabel": "ðŸ¤³ Portrait",
+    "width": 1080,
+    "height": 1350,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#6c5ce7;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:100px;left:50px;width:980px;height:120px;background:#fff;border-radius:60px;z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:135px;left:100px;color:#6c5ce7;font-weight:900;font-size:42px;z-index:4;\">MARKETING TIP #42</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:280px;left:50px;width:980px;color:#fff;font-size:110px;font-weight:900;z-index:4;line-height:0.9;\">STORYTELLING<br>SELLS.</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:550px;left:50px;width:980px;color:#a29bfe;font-size:32px;font-weight:bold;z-index:4;line-height:1.4;\">Stop listing features, start telling a narrative arc.</p>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:680px;left:50px;width:980px;color:#fff;font-size:24px;z-index:4;line-height:1.6;\">Humans are wired for stories since ancient times. When you connect your product to a relatable hero's journey, you build an emotional bond that's far stronger than any discount offer.</p>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
+  },
+  {
+    "id": "portrait_crypto_update",
+    "name": "FinTech Portrait",
+    "category": "insta_portrait",
+    "categoryLabel": "ðŸ¤³ Portrait",
+    "width": 1080,
+    "height": 1350,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#0a0a0c;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle,rgba(243,156,18,0.1),transparent);z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:100px;color:#f39c12;font-size:32px;font-weight:bold;letter-spacing:10px;z-index:4;\">CRYPTO DAILY</h1>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:350px;left:100px;color:#fff;font-size:110px;font-weight:900;z-index:4;line-height:0.8;\">ETHEREUM<br>HITS 5K?</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:580px;left:100px;color:#fff;font-size:42px;font-weight:bold;z-index:4;\">The Bull Run is Loading.</p>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:700px;left:100px;color:#888;font-size:26px;width:800px;z-index:4;line-height:1.5;\">Major institutional whales are accumulating large positions at current levels. With the upcoming network upgrade, analysts predict a massive supply crunch that could push prices to new heights.</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:100px;left:100px;background:#f39c12;color:#000;padding:25px 80px;font-weight:900;font-size:32px;z-index:4;\">READ ANALYSIS</div>\n        "
+  },
+  {
+    "id": "portrait_lifestyle_aesthetic",
+    "name": "Minimal Lifestyle",
+    "category": "insta_portrait",
+    "categoryLabel": "ðŸ¤³ Portrait",
+    "width": 1080,
+    "height": 1350,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background: linear-gradient(135deg, #6366f1 0%, #38bdf8 100%);z-index:1;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1449247709967-d4461a6a6103?auto=format&fit=crop&w=800&q=80\" style=\"position:absolute;top:100px;left:100px;width:880px;height:700px;object-fit:cover;z-index:2;\">\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:850px;left:100px;color:#111;font-size:92px;font-weight:900;z-index:4;line-height:0.8;\">LESS IS<br>MORE.</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:1050px;left:100px;color:#777;font-size:42px;font-weight:bold;z-index:4;\">Designing a Mindful Home.</p>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:1150px;left:100px;color:#999;font-size:24px;width:880px;z-index:4;\">Simplify your surroundings, simplify your life. Explore our new collection of minimalist furniture and home decor designed for modern tranquility.</p>\n        "
+  },
+  {
+    "id": "portrait_podcast_promo",
+    "name": "Podcast Episode",
+    "category": "insta_portrait",
+    "categoryLabel": "ðŸ¤³ Portrait",
+    "width": 1080,
+    "height": 1350,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#1e3799;z-index:1;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:0;width:1080px;text-align:center;color:#fff;font-size:32px;font-weight:bold;letter-spacing:10px;z-index:4;\">LISTEN NOW</h1>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:320px;left:150px;width:780px;text-align:center;color:#fff;font-size:82px;font-weight:900;z-index:4;line-height:1;\">THE FUTURE OF<br>WORK - EP. 42</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:550px;left:200px;width:680px;text-align:center;color:#4a69bd;font-weight:bold;font-size:42px;z-index:4;\">A Chat with Elon Musk.</p>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:680px;left:200px;width:680px;text-align:center;color:rgba(255,255,255,0.7);font-size:24px;z-index:4;line-height:1.5;\">We dive deep into the world of robotics, satellite internet, and the eventual colonization of Mars. Available on Spotify and Apple Podcasts.</p>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;bottom:150px;left:150px;right:150px;height:100px;background:#fff;z-index:4;border-radius:10px;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:180px;left:0;width:1080px;text-align:center;color:#1e3799;font-weight:900;font-size:28px;z-index:5;\">PLAY ON SPOTIFY</div>\n        "
+  },
+  {
+    "id": "portrait_yoga_meditate",
+    "name": "Mindfulness Portrait",
+    "category": "insta_portrait",
+    "categoryLabel": "ðŸ¤³ Portrait",
+    "width": 1080,
+    "height": 1350,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background: linear-gradient(135deg, #6366f1 0%, #38bdf8 100%);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:150px;left:100px;width:880px;height:880px;background:#fdfcf0;z-index:2;border-radius:50%;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:350px;left:0;width:1080px;text-align:center;color:#2d3436;font-size:120px;font-weight:900;z-index:4;opacity:0.1;\">BREATHE.</h1>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:500px;left:0;width:1080px;text-align:center;color:#111;font-size:82px;font-weight:900;z-index:4;\">INNER PEACE</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:650px;left:200px;width:680px;text-align:center;color:#27ae60;font-size:42px;font-weight:bold;z-index:4;\">Guided 10-Min Meditation.</p>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:780px;left:200px;width:680px;text-align:center;color:#888;font-size:24px;z-index:4;line-height:1.6;\">Take a moment for yourself today. Focus on your inhalation and let go of all the tension with each out-breath. You deserve this stillness.</p>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
+  }
+]

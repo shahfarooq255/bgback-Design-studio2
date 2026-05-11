@@ -1,0 +1,209 @@
+[
+  {
+    "id": "tpl_pinterest_1",
+    "name": "Recipe Card",
+    "category": "pinterest",
+    "categoryLabel": "ðŸ“Œ Pinterest",
+    "width": 1000,
+    "height": 1500,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#fffaf3;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:1000px;height:550px;background:linear-gradient(135deg,#e67e22,#d35400);z-index:2;cursor:grab;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:120px;left:0;width:1000px;text-align:center;color:#fff;font-size:100px;font-weight:900;font-family:'Georgia',serif;z-index:4;margin:0;cursor:grab;padding:10px;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;font-style:italic;\">Perfect<br>Pancakes</h1>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:580px;left:80px;width:840px;height:750px;background:#fff;border-radius:20px;box-shadow:0 20px 60px rgba(0,0,0,0.1);z-index:3;cursor:grab;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:620px;left:120px;color:#333;font-size:34px;font-family:'Inter',sans-serif;z-index:4;cursor:grab;border:2px dashed transparent;user-select:none;resize:both;overflow:auto;width:760px;line-height:2.1;\"><span style=\"color:#e67e22;font-weight:800;\">â‘  </span>Mix 2 cups flour + 2 tbsp sugar<br><span style=\"color:#e67e22;font-weight:800;\">â‘¡ </span>Add 1.5 cups milk + 2 eggs<br><span style=\"color:#e67e22;font-weight:800;\">â‘¢ </span>Whisk until silky smooth<br><span style=\"color:#e67e22;font-weight:800;\">â‘£ </span>Cook on medium heat 3 min each side</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:80px;left:300px;font-size:28px;color:#e67e22;font-weight:800;letter-spacing:4px;font-family:'Inter',sans-serif;z-index:4;cursor:grab;border:2px dashed transparent;user-select:none;\">SAVE THIS RECIPE! ðŸ“Œ</div>\n        "
+  },
+  {
+    "id": "tpl_pinterest_2",
+    "name": "Travel Guide",
+    "category": "pinterest",
+    "categoryLabel": "ðŸ“Œ Pinterest",
+    "width": 1000,
+    "height": 1500,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(160deg,#e0f7fa,#b2ebf2);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:0;width:1000px;text-align:center;color:#00838f;font-size:38px;font-weight:800;letter-spacing:12px;font-family:'Inter',sans-serif;z-index:4;cursor:grab;border:2px dashed transparent;user-select:none;\">TRAVEL GUIDE</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:170px;left:0;width:1000px;text-align:center;color:#004d40;font-size:130px;font-weight:900;font-family:'Georgia',serif;z-index:4;margin:0;cursor:grab;padding:10px;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;font-style:italic;\">Santorini</h1>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:680px;left:80px;width:840px;height:700px;background:#fff;border-radius:30px;box-shadow:0 30px 80px rgba(0,0,0,0.1);z-index:3;cursor:grab;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:730px;left:0;width:1000px;text-align:center;color:#00838f;font-size:36px;font-weight:800;letter-spacing:5px;font-family:'Inter',sans-serif;z-index:4;cursor:grab;border:2px dashed transparent;user-select:none;\">TOP HIDDEN SPOTS</div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:810px;left:130px;color:#333;font-size:34px;font-family:'Inter',sans-serif;z-index:4;cursor:grab;border:2px dashed transparent;margin:0;user-select:none;resize:both;overflow:auto;width:740px;line-height:2.1;\">âœ… Best sunset view points<br>âœ… Budget-friendly restaurants<br>âœ… Hidden beaches & caves<br>âœ… Local culture & food tips</p>\n        "
+  },
+  {
+    "id": "tpl_pinterest_3",
+    "name": "Workout Plan",
+    "category": "pinterest",
+    "categoryLabel": "ðŸ“Œ Pinterest",
+    "width": 1000,
+    "height": 1500,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#1c2841,#243051);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:80px;left:0;width:1000px;text-align:center;color:#f59e0b;font-size:36px;font-weight:800;letter-spacing:10px;font-family:'Inter',sans-serif;z-index:4;cursor:grab;border:2px dashed transparent;user-select:none;\">7-DAY CHALLENGE</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:150px;left:0;width:1000px;text-align:center;color:#fff;font-size:110px;font-weight:900;font-family:'Inter',sans-serif;z-index:4;margin:0;cursor:grab;padding:10px;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;text-shadow:0 10px 30px rgba(0,0,0,0.5);\">ABS<br>WORKOUT</h1>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:680px;left:80px;color:#f1f5f9;font-size:36px;font-family:'Inter',sans-serif;z-index:4;cursor:grab;border:2px dashed transparent;user-select:none;resize:both;overflow:auto;width:840px;line-height:2.2;\"><span style=\"color:#f59e0b;font-weight:700;\">MON</span>  30 Crunches + 20 Leg Raises<br><span style=\"color:#f59e0b;font-weight:700;\">TUE</span>  Plank 3Ã—60s + Side Planks<br><span style=\"color:#f59e0b;font-weight:700;\">WED</span>  Rest &amp; Stretch<br><span style=\"color:#f59e0b;font-weight:700;\">THU</span>  Mountain Climbers 3Ã—40<br><span style=\"color:#f59e0b;font-weight:700;\">FRI</span>  Full Core Circuit</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:80px;left:250px;font-size:30px;color:#1c2841;font-weight:900;background:#f59e0b;padding:20px 80px;border-radius:50px;z-index:4;cursor:grab;border:2px dashed transparent;user-select:none;\">SAVE & SHARE 💪</div>\n        "
+  },
+  {
+    "id": "pin_recipe_modern",
+    "name": "Modern Recipe",
+    "category": "pinterest",
+    "categoryLabel": "ðŸ“Œ Pinterest",
+    "width": 1000,
+    "height": 1500,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#fff;z-index:1;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=1000&q=80\" style=\"position:absolute;top:0;left:0;width:100%;height:600px;object-fit:cover;z-index:2;\">\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:550px;left:50px;width:900px;height:400px;background:#fff;border-radius:30px;box-shadow:0 20px 40px rgba(0,0,0,0.1);z-index:3;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:600px;left:100px;color:#2d3436;font-size:72px;font-weight:900;z-index:4;width:800px;line-height:1.1;\">Healthy Avocado Green Salad</h1>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:820px;left:100px;color:#636e72;font-size:28px;z-index:4;font-weight:bold;\">15 MINS | EASY | VEGAN</div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:1000px;left:100px;width:100px;height:10px;background:#00b894;z-index:4;\"></div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:1040px;left:100px;color:#2d3436;font-size:32px;z-index:4;width:800px;line-height:1.4;\">\"This is the perfect summer side dish that couples well with everything.\"</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:80px;left:100px;color:#00b894;font-weight:900;font-size:24px;z-index:4;\">GET THE RECIPE AT BGBACK.COM</div>\n        "
+  },
+  {
+    "id": "pin_travel_chic",
+    "name": "Travel Checklist",
+    "category": "pinterest",
+    "categoryLabel": "ðŸ“Œ Pinterest",
+    "width": 1000,
+    "height": 1500,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(180deg,#81ecec,#fff);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:80px;left:80px;right:80px;bottom:80px;background:rgba(255,255,255,0.4);border-radius:40px;backdrop-filter:blur(10px);z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:150px;left:0;width:1000px;text-align:center;color:#0984e3;font-size:82px;font-weight:900;z-index:4;letter-spacing:-3px;\">ITALY 2024</h1>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:260px;left:0;width:1000px;text-align:center;color:#2d3436;font-size:32px;font-weight:bold;z-index:4;\">The Ultimate Bucket List</div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?auto=format&fit=crop&w=600&q=80\" style=\"position:absolute;top:380px;left:150px;width:700px;height:400px;border-radius:20px;object-fit:cover;z-index:4;\">\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:820px;left:200px;color:#111;font-size:36px;font-weight:800;z-index:4;\">1. Rome Antiquities âœ…</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:900px;left:200px;color:#111;font-size:36px;font-weight:800;z-index:4;\">2. Positano Views ðŸŒŠ</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:980px;left:200px;color:#111;font-size:36px;font-weight:800;z-index:4;\">3. Florence Art ðŸŽ¨</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:150px;left:50%;transform:translateX(-50%);background:#0984e3;color:#fff;padding:20px 60px;border-radius:50px;font-weight:900;font-size:28px;z-index:4;\">View More Tips</div>\n        "
+  },
+  {
+    "id": "pin_business_sharp",
+    "name": "Business Growth",
+    "category": "pinterest",
+    "categoryLabel": "ðŸ“Œ Pinterest",
+    "width": 1000,
+    "height": 1500,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#0a3d62;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:100%;height:400px;background:#3c6382;z-index:2;clip-path:polygon(0 0, 100% 0, 100% 80%, 0% 100%);\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:80px;left:0;width:1000px;text-align:center;color:#fff;font-size:92px;font-weight:900;z-index:4;\">SCALING<br>METHODS</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:450px;left:100px;width:800px;height:800px;background:rgba(255,255,255,0.05);border-radius:50%;z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:600px;left:150px;width:700px;text-align:center;color:#fff;font-size:48px;font-weight:bold;z-index:4;\">5 Hidden Strategies to Double Your Revenue in 2024</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:250px;left:50%;transform:translateX(-50%);background:#feca57;color:#000;padding:25px 80px;border-radius:10px;font-weight:900;font-size:32px;z-index:4;\">Click to Read</div>\n        "
+  },
+  {
+    "id": "pin_fashion_editorial",
+    "name": "Style Edit",
+    "category": "pinterest",
+    "categoryLabel": "ðŸ“Œ Pinterest",
+    "width": 1000,
+    "height": 1500,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#fff5f5;z-index:1;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=600&q=80\" style=\"position:absolute;top:100px;left:100px;width:800px;height:1000px;object-fit:cover;z-index:2;border-radius:10px;\">\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:80px;left:80px;width:300px;height:300px;background:#ff9f43;z-index:3;opacity:0.3;border-radius:50%;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:1150px;left:100px;color:#111;font-size:120px;font-weight:900;z-index:4;letter-spacing:-8px;\">VOGUE</h1>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:1280px;left:120px;color:#ff9f43;font-weight:bold;font-size:32px;z-index:4;\">AUTUMN ESSENTIALS</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:80px;right:100px;color:#111;font-weight:bold;font-size:24px;z-index:4;\">PIN FOR INSPO</div>\n        "
+  },
+  {
+    "id": "pin_decor_serene",
+    "name": "Interior Guide",
+    "category": "pinterest",
+    "categoryLabel": "ðŸ“Œ Pinterest",
+    "width": 1000,
+    "height": 1500,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#f8f9fa;z-index:1;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=800&q=80\" style=\"position:absolute;top:0;left:0;width:100%;height:800px;object-fit:cover;z-index:2;\">\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:750px;left:0;width:100%;height:750px;background:#fff;z-index:3;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:850px;left:100px;color:#2d3436;font-size:62px;font-weight:900;z-index:4;width:800px;\">SCANDI BLISS</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:950px;left:100px;color:#636e72;font-size:32px;z-index:4;width:800px;line-height:1.4;\">Transform your living room into a sanctuary of light and minimalism.</p>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:1150px;left:100px;width:300px;height:100px;border:2px solid #2d3436;z-index:4;display:flex;align-items:center;justify-content:center;\">SHOP THE LOOK</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:1185px;left:135px;font-weight:bold;z-index:5;\">SHOP THE LOOK</div>\n        "
+  },
+  {
+    "id": "pin_health_infographic",
+    "name": "Detox Tips",
+    "category": "pinterest",
+    "categoryLabel": "ðŸ“Œ Pinterest",
+    "width": 1000,
+    "height": 1500,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#e3f2fd;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:50px;left:50px;width:900px;height:1400px;border:5px solid #2196f3;z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:120px;left:0;width:1000px;text-align:center;color:#2196f3;font-size:72px;font-weight:900;z-index:4;\">DETOX WATER</h1>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:550px;left:150px;color:#0d47a1;font-size:42px;font-weight:bold;z-index:4;\">â€¢ Lemon for Vitamin C</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:650px;left:150px;color:#0d47a1;font-size:42px;font-weight:bold;z-index:4;\">â€¢ Mint for Digestion</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:750px;left:150px;color:#0d47a1;font-size:42px;font-weight:bold;z-index:4;\">â€¢ Cucumber for Hydration</div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;bottom:200px;left:150px;width:700px;height:120px;background:#2196f3;border-radius:15px;z-index:3;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:230px;left:0;width:1000px;text-align:center;color:#fff;font-size:36px;font-weight:900;z-index:4;\">DOWNLOAD FREE GUIDE</div>\n        "
+  },
+  {
+    "id": "pin_quote_aesthetic",
+    "name": "Dream Big Quote",
+    "category": "pinterest",
+    "categoryLabel": "ðŸ“Œ Pinterest",
+    "width": 1000,
+    "height": 1500,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#000;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:100px;left:100px;width:400px;height:400px;background:rgba(255,255,255,0.1);border-radius:50%;z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;bottom:100px;right:100px;width:600px;height:600px;background:rgba(255,107,107,0.1);border-radius:50%;z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:450px;left:100px;color:#fff;font-size:82px;font-weight:900;z-index:4;width:800px;line-height:1.2;\">YOUR DREAMS DON'T HAVE AN EXPIRATION DATE.</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:850px;left:100px;width:200px;height:4px;background:#ff6b6b;z-index:4;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:900px;left:100px;color:#ff6b6b;font-size:32px;font-weight:bold;z-index:4;\">KEEP PURSUING.</div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
+  },
+  {
+    "id": "pin_tutorial_steps",
+    "name": "DIY Steps",
+    "category": "pinterest",
+    "categoryLabel": "ðŸ“Œ Pinterest",
+    "width": 1000,
+    "height": 1500,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#f1f2f6;z-index:1;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:0;width:1000px;text-align:center;color:#2f3542;font-size:72px;font-weight:900;z-index:4;\">MAKE YOUR OWN<br>MACRAME</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:320px;left:100px;width:350px;height:350px;background:#fff;border-radius:20px;z-index:3;display:flex;align-items:center;justify-content:center;box-shadow:0 10px 20px rgba(0,0,0,0.05);\">STEP 1</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:470px;left:170px;font-weight:900;font-size:48px;z-index:4;\">1</div>\n        \n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:320px;right:100px;width:350px;height:350px;background:#fff;border-radius:20px;z-index:3;box-shadow:0 10px 20px rgba(0,0,0,0.05);\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:470px;right:250px;font-weight:900;font-size:48px;z-index:4;\">2</div>\n\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:750px;left:100px;width:800px;height:400px;background:#fff;border-radius:20px;z-index:3;box-shadow:0 10px 20px rgba(0,0,0,0.05);\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:900px;left:0;width:1000px;text-align:center;font-weight:900;font-size:72px;z-index:4;\">RESULT</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:100px;left:0;width:1000px;text-align:center;color:#ffa502;font-size:32px;font-weight:bold;z-index:4;\">Tap for Tutorial Video 🎥</div>\n        "
+  },
+  {
+    "id": "pin_marketing_stats",
+    "name": "Data Insight Pin",
+    "category": "pinterest",
+    "categoryLabel": "ðŸ“Œ Pinterest",
+    "width": 1000,
+    "height": 1500,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#2f3640;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:100px;color:#00a8ff;font-weight:bold;font-size:32px;z-index:4;\">SOCIAL STATS 2024</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:180px;left:100px;color:#fff;font-size:72px;font-weight:900;z-index:4;width:800px;\">90% of Users<br>Prefer Video.</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:400px;left:100px;width:800px;height:800px;background:rgba(0,168,255,0.05);border:2px solid rgba(0,168,255,0.2);border-radius:50%;z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:850px;left:150px;width:700px;text-align:center;color:#dcdde1;font-size:32px;z-index:4;\">Short-form content currently drives 3x more engagement than static posts.</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:150px;left:0;width:1000px;text-align:center;color:#00a8ff;font-weight:900;font-size:28px;z-index:4;\">WWW.BGBACK.COM</div>\n        "
+  },
+  {
+    "id": "pin_product_minimal",
+    "name": "Product Spotlight",
+    "category": "pinterest",
+    "categoryLabel": "ðŸ“Œ Pinterest",
+    "width": 1000,
+    "height": 1500,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:200px;left:200px;width:600px;height:600px;background:#dfe6e9;border-radius:50%;z-index:2;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&q=80\" style=\"position:absolute;top:300px;left:100px;width:800px;height:400px;object-fit:contain;z-index:4;filter:drop-shadow(0 20px 30px rgba(0,0,0,0.1));\">\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:850px;left:0;width:1000px;text-align:center;color:#111;font-size:92px;font-weight:900;z-index:4;\">RED VELOCITY</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:980px;left:0;width:1000px;text-align:center;color:#636e72;font-size:36px;z-index:4;\">Limited Edition Performance Sneakers</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:150px;left:350px;background:#d63031;color:#fff;padding:20px 60px;border-radius:5px;font-weight:900;font-size:32px;z-index:4;\">Buy for $149</div>\n        "
+  },
+  {
+    "id": "pin_travel_vibe",
+    "name": "Serene Escape",
+    "category": "pinterest",
+    "categoryLabel": "ðŸ“Œ Pinterest",
+    "width": 1000,
+    "height": 1500,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(to bottom,#a8e063,#56ab2f);z-index:1;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:150px;left:100px;color:#fff;font-size:120px;font-weight:900;z-index:4;line-height:0.9;\">PEACE<br>FOUND.</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:400px;left:100px;right:100px;bottom:300px;border:10px solid #fff;z-index:2;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=600&q=80\" style=\"position:absolute;top:440px;left:140px;width:720px;height:720px;object-fit:cover;z-index:4;\">\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:150px;left:100px;color:#fff;font-size:42px;font-weight:bold;z-index:4;\">ðŸ“ BALI ISLANDS</div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
+  },
+  {
+    "id": "pin_fitness_beast",
+    "name": "Fitness Motivation",
+    "category": "pinterest",
+    "categoryLabel": "ðŸ“Œ Pinterest",
+    "width": 1000,
+    "height": 1500,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#000;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(45deg,rgba(0,0,0,0.8),transparent),url('https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1000');background-size:cover;z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:200px;left:80px;color:#fff;font-size:110px;font-weight:900;z-index:4;line-height:0.9;text-shadow:0 10px 20px rgba(0,0,0,0.5);\">NO EXCUSES.<br><span style=\"color:#d4af37;\">ONLY RESULTS.</span></h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:500px;left:80px;width:150px;height:10px;background:#d4af37;z-index:4;\"></div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:550px;left:80px;color:#eee;font-size:36px;width:600px;z-index:4;\">Your journey starts with a single rep. Stop wishing, start doing.</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:150px;left:80px;border:2px solid #fff;color:#fff;padding:20px 60px;border-radius:5px;font-weight:900;font-size:32px;z-index:4;\">JOIN THE CHALLENGE</div>\n        "
+  },
+  {
+    "id": "pin_home_office",
+    "name": "Workspace Inspo",
+    "category": "pinterest",
+    "categoryLabel": "ðŸ“Œ Pinterest",
+    "width": 1000,
+    "height": 1500,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#fff9f0;z-index:1;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?auto=format&fit=crop&w=600&q=80\" style=\"position:absolute;top:0;left:0;width:100%;height:900px;object-fit:cover;z-index:2;\">\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:800px;left:0;width:100%;height:700px;background:linear-gradient(to top, #fff, transparent);z-index:3;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:1000px;left:0;width:1000px;text-align:center;color:#b5651d;font-size:82px;font-weight:900;z-index:4;\">STUDIO VIBES</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:1130px;left:150px;width:700px;text-align:center;color:#8d6e63;font-size:32px;z-index:4;\">Essential gear for a productive 10x setup in small spaces.</p>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
+  },
+  {
+    "id": "pin_edu_hacks",
+    "name": "Learning Hacks",
+    "category": "pinterest",
+    "categoryLabel": "ðŸ“Œ Pinterest",
+    "width": 1000,
+    "height": 1500,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#6c5ce7;z-index:1;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:0;width:1000px;text-align:center;color:#fff;font-size:82px;font-weight:900;z-index:4;\">STUDY SMARTER,<br>NOT HARDER.</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:350px;left:100px;width:800px;height:250px;background:rgba(255,255,255,0.1);border-radius:20px;z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:400px;left:150px;color:#a29bfe;font-weight:bold;font-size:28px;z-index:4;\">01. POMODORO TECHNIQUE</div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:450px;left:150px;color:#fff;font-size:32px;width:700px;z-index:4;\">Break work into 25-min interval for maximum focus.</p>\n\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:650px;left:100px;width:800px;height:250px;background:rgba(255,255,255,0.1);border-radius:20px;z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:700px;left:150px;color:#fab1a0;font-weight:bold;font-size:28px;z-index:4;\">02. ACTIVE RECALL</div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:750px;left:150px;color:#fff;font-size:32px;width:700px;z-index:4;\">Test yourself instead of just re-reading notes.</p>\n        \n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:100px;left:0;width:1000px;text-align:center;color:#55efc4;font-weight:900;font-size:32px;z-index:4;\">SAVE FOR EXAM SEASON ðŸ“Œ</div>\n        "
+  },
+  {
+    "id": "pin_career_roadmap",
+    "name": "Career Path",
+    "category": "pinterest",
+    "categoryLabel": "ðŸ“Œ Pinterest",
+    "width": 1000,
+    "height": 1500,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:490px;width:20px;height:1500px;background:#e2e8f0;z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:0;width:1000px;text-align:center;color:#1e293b;font-size:62px;font-weight:900;z-index:4;background:#fff;padding:20px;\">DESIGNER ROADMAP</h1>\n        \n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:300px;left:450px;width:100px;height:100px;background:#3b82f6;border-radius:50%;z-index:3;border:10px solid #fff;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:325px;left:100px;width:300px;text-align:right;color:#1e293b;font-weight:900;font-size:32px;z-index:4;\">LEARN TOOLS</div>\n\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:600px;left:450px;width:100px;height:100px;background:#10b981;border-radius:50%;z-index:3;border:10px solid #fff;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:625px;right:100px;width:300px;text-align:left;color:#1e293b;font-weight:900;font-size:32px;z-index:4;\">PORTFOLIO</div>\n\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:900px;left:450px;width:100px;height:100px;background:#f59e0b;border-radius:50%;z-index:3;border:10px solid #fff;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:925px;left:100px;width:300px;text-align:right;color:#1e293b;font-weight:900;font-size:32px;z-index:4;\">NETWORKING</div>\n        \n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:150px;left:0;width:1000px;text-align:center;color:#3b82f6;font-weight:900;font-size:32px;z-index:4;\">GET HIRED IN 6 MONTHS</div>\n        "
+  },
+  {
+    "id": "pin_food_vertical",
+    "name": "Foodie Delight",
+    "category": "pinterest",
+    "categoryLabel": "ðŸ“Œ Pinterest",
+    "width": 1000,
+    "height": 1500,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#fffae5;z-index:1;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1512152272829-e3139592d56f?auto=format&fit=crop&w=600&q=80\" style=\"position:absolute;top:100px;left:100px;width:800px;height:700px;object-fit:cover;z-index:2;border-radius:200px 200px 0 0;\">\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:850px;left:0;width:1000px;text-align:center;color:#e67e22;font-size:92px;font-weight:900;z-index:4;\">BURGER<br>HEAVAL</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:1050px;left:150px;width:700px;text-align:center;color:#d35400;font-size:32px;z-index:4;\">The only cheat meal you need this weekend. Juicy, thick, and delicious.</p>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
+  },
+  {
+    "id": "pin_finance_minimal",
+    "name": "Save Money Tips",
+    "category": "pinterest",
+    "categoryLabel": "ðŸ“Œ Pinterest",
+    "width": 1000,
+    "height": 1500,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:100px;left:100px;width:800px;height:400px;background:#2ecc71;border-radius:20px;z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:180px;left:0;width:1000px;text-align:center;color:#fff;font-size:82px;font-weight:900;z-index:4;\">SAVE $5000<br>THIS YEAR</h1>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:600px;left:150px;color:#27ae60;font-weight:bold;font-size:36px;z-index:4;\">â€¢ Rule 50/30/20</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:700px;left:150px;color:#27ae60;font-weight:bold;font-size:36px;z-index:4;\">â€¢ Cut Subscriptions</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:800px;left:150px;color:#27ae60;font-weight:bold;font-size:36px;z-index:4;\">â€¢ Meal Prep Weekly</div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?auto=format&fit=crop&w=600&q=80\" style=\"position:absolute;bottom:100px;left:150px;width:700px;height:300px;object-fit:cover;border-radius:20px;z-index:4;\">\n        "
+  },
+  {
+    "id": "pin_art_abstract",
+    "name": "Artist Showcase",
+    "category": "pinterest",
+    "categoryLabel": "ðŸ“Œ Pinterest",
+    "width": 1000,
+    "height": 1500,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#111;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:-200px;left:-200px;width:800px;height:800px;background:radial-gradient(circle,rgba(255,0,255,0.2),transparent);z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:400px;left:100px;color:#fff;font-size:150px;font-weight:900;z-index:4;opacity:0.3;line-height:0.8;\">ABSTRACT<br>FORMS</h1>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1541701494587-cb58502866ab?auto=format&fit=crop&w=600&q=80\" style=\"position:absolute;top:150px;left:200px;width:600px;height:900px;object-fit:cover;z-index:4;border:10px solid #fff;\">\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:200px;left:0;width:1000px;text-align:center;color:#fff;font-weight:bold;font-size:32px;z-index:5;text-shadow:0 0 20px #000;\">THE 2024 COLLECTION</div>\n        "
+  },
+  {
+    "id": "pin_tech_future",
+    "name": "Next Gen Tech",
+    "category": "pinterest",
+    "categoryLabel": "ðŸ“Œ Pinterest",
+    "width": 1000,
+    "height": 1500,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#0d0d0d;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(45deg,#1f1f1f,#000);z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:150px;left:100px;color:#00ff88;font-weight:900;font-size:24px;letter-spacing:10px;z-index:4;\">TECH REVIEW</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:220px;left:100px;color:#fff;font-size:82px;font-weight:900;z-index:4;\">THE NEW<br>QUANTUM<br>X100</h1>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1526733158173-e1b2311c9407?auto=format&fit=crop&w=600&q=80\" style=\"position:absolute;top:550px;left:0;width:1000px;height:500px;object-fit:contain;z-index:4;\">\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:200px;left:100px;color:#888;font-size:32px;width:800px;z-index:4;\">\"This isn't just a phone. It's the future of mobile computing in your palm.\"</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:100px;left:300px;background:#00ff88;color:#000;padding:15px 60px;border-radius:5px;font-weight:900;font-size:28px;z-index:4;\">Learn More</div>\n        "
+  },
+  {
+    "id": "pin_gardening_serene",
+    "name": "Green Thumb",
+    "category": "pinterest",
+    "categoryLabel": "ðŸ“Œ Pinterest",
+    "width": 1000,
+    "height": 1500,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#f0faf0;z-index:1;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?auto=format&fit=crop&w=600&q=80\" style=\"position:absolute;top:100px;left:100px;width:400px;height:600px;object-fit:cover;z-index:2;border-radius:200px 0 0 200px;\">\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1523348837708-15d4a09cfac2?auto=format&fit=crop&w=600&q=80\" style=\"position:absolute;top:100px;right:100px;width:350px;height:500px;object-fit:cover;z-index:2;border-radius:0 200px 200px 0;\">\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:800px;left:0;width:1000px;text-align:center;color:#2e7d32;font-size:92px;font-weight:900;z-index:4;\">URBAN<br>JUNGLE</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:1050px;left:200px;width:600px;text-align:center;color:#4caf50;font-size:32px;z-index:4;\">How to grow your own vegetables on a tiny balcony in 3 easy steps.</p>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
+  }
+]

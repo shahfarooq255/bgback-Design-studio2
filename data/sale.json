@@ -1,0 +1,203 @@
+[
+  {
+    "id": "tpl_crimson_hero",
+    "name": "Crimson Hero",
+    "category": "sale",
+    "categoryLabel": "🔥 Sale",
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#800000,#c0392b);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:165px;left:60px;color:#ffffff;font-size:60px;font-weight:900;font-family:'Inter',sans-serif;text-shadow:0 12px 30px rgba(0,0,0,0.4);z-index:4;margin:0;cursor:grab;padding:10px;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden; line-height:1.3;\">Skyrocket Your<br>Brand Visibility</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:365px;left:60px;color:rgba(255,255,255,0.92);font-size:28px;font-weight:400;font-family:'Inter',sans-serif;z-index:4;width:650px;cursor:grab;padding:14px;border:2px dashed transparent;margin:0;user-select:none;resize:both;overflow:auto;\">Transform your boring images into professional ad masterpieces in just one click with our AI-powered design engine.</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:520px;left:70px;font-size:28px;font-weight:bold;color:#ffffff;background:#e74c3c;padding:12px 40px;border-radius:50px;text-align:center;box-shadow:0 10px 20px rgba(0,0,0,0.3);z-index:4;cursor:grab;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;\">Get Started</div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;left:717px;top:-30px;width:690px;height:690px;background:linear-gradient(135deg,rgba(255,255,255,0.7) 0%,rgba(200,230,255,0.2) 50%,rgba(255,255,255,0.4) 100%);border-radius:50%;backdrop-filter:blur(15px);box-shadow:0 8px 32px rgba(0,0,0,0.3);z-index:2;cursor:grab;opacity:0.5;user-select:none;resize:both;overflow:hidden;min-width:50px;min-height:50px;border:2px dashed transparent;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80\" alt=\"Laptop\" style=\"position:absolute;top:150px;left:750px;width:360px;height:auto;z-index:4;cursor:grab;filter:drop-shadow(0 15px 25px rgba(0,0,0,0.5));border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;\">\n        "
+  },
+  {
+    "id": "tpl_flash_sale",
+    "name": "Flash Sale",
+    "category": "sale",
+    "categoryLabel": "🔥 Sale",
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#f39c12,#d35400,#c0392b);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:-200px;right:-200px;width:600px;height:600px;background:rgba(255,255,255,0.08);border-radius:50%;z-index:2;cursor:grab;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:35px;left:200px;color:#ffffff;font-size:64px;font-weight:900;font-family:'Inter',sans-serif;text-shadow:0 4px 15px rgba(0,0,0,0.3);z-index:4;margin:0;cursor:grab;padding:10px;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;\">FLASH SALE!</h1>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:160px;left:60px;font-size:280px;font-weight:900;color:#fff;font-family:'Inter',sans-serif;opacity:0.12;z-index:3;cursor:grab;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;line-height:1;\">50</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:170px;left:80px;font-size:200px;font-weight:900;color:#fff;font-family:'Inter',sans-serif;z-index:4;cursor:grab;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;line-height:1;text-shadow:0 10px 30px rgba(0,0,0,0.3);\">50%</div>\n        <h2 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:430px;left:80px;color:#fff5e6;font-size:54px;font-weight:800;font-family:'Inter',sans-serif;z-index:4;margin:0;cursor:grab;padding:10px;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;\">OFF Everything!</h2>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:510px;left:80px;color:rgba(255,255,255,0.85);font-size:26px;font-family:'Inter',sans-serif;z-index:4;cursor:grab;padding:10px;border:2px dashed transparent;margin:0;user-select:none;resize:both;overflow:auto;width:500px;\">Limited Time Offer â€¢ Ends Tonight!</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:50px;right:80px;font-size:28px;font-weight:bold;color:#d35400;background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);padding:16px 50px;border-radius:50px;text-align:center;box-shadow:0 15px 30px rgba(0,0,0,0.3);z-index:4;cursor:grab;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;\">SHOP NOW â†’</div>\n        "
+  },
+  {
+    "id": "tpl_new_arrival",
+    "name": "New Arrival",
+    "category": "sale",
+    "categoryLabel": "🔥 Sale",
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#0a0a1a,#1a1a3e,#2d1b69);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:50px;left:-100px;width:400px;height:400px;background:linear-gradient(135deg,rgba(100,50,200,0.4),rgba(50,100,255,0.2));border-radius:50%;backdrop-filter:blur(20px);z-index:2;cursor:grab;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:55px;left:60px;font-size:22px;font-weight:800;color:#a78bfa;background:rgba(167,139,250,0.15);padding:8px 24px;border-radius:30px;border:1px solid rgba(167,139,250,0.4);z-index:4;cursor:grab;user-select:none;resize:both;overflow:hidden;\">✨ NEW ARRIVAL</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:120px;left:60px;color:#ffffff;font-size:72px;font-weight:900;font-family:'Inter',sans-serif;text-shadow:0 0 40px rgba(167,139,250,0.6);z-index:4;margin:0;cursor:grab;padding:10px;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;line-height:1.1;width:580px;\">The Future<br>Is Here</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:360px;left:60px;color:rgba(200,180,255,0.9);font-size:26px;font-family:'Inter',sans-serif;z-index:4;cursor:grab;padding:10px;border:2px dashed transparent;margin:0;user-select:none;resize:both;overflow:auto;width:550px;\">Experience the next generation of digital innovation. Designed for those who lead the way.</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:510px;left:70px;font-size:26px;font-weight:bold;color:#fff;background:linear-gradient(135deg,#7c3aed,#4f46e5);padding:14px 45px;border-radius:50px;text-align:center;box-shadow:0 10px 30px rgba(124,58,237,0.5);z-index:4;cursor:grab;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;\">Explore Now â†’</div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80\" alt=\"Product\" style=\"position:absolute;top:80px;left:680px;width:480px;height:auto;z-index:4;cursor:grab;filter:drop-shadow(0 20px 40px rgba(124,58,237,0.6));border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;\">\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;bottom:-150px;right:-150px;width:500px;height:500px;background:linear-gradient(135deg,rgba(79,70,229,0.3),rgba(124,58,237,0.2));border-radius:50%;z-index:2;cursor:grab;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;\"></div>\n        "
+  },
+  {
+    "id": "sale_mega_gradient",
+    "name": "Mega Blowout",
+    "category": "sale",
+    "categoryLabel": "🔥 Sale",
+    "width": 1080,
+    "height": 1080,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#ff0000,#000);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:50px;left:50px;right:50px;bottom:50px;border:10px solid rgba(255,255,255,0.2);z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:150px;left:0;width:1080px;text-align:center;color:#fff;font-size:180px;font-weight:900;z-index:4;margin:0;letter-spacing:-10px;line-height:0.8;\">MEGA<br>SALE</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:500px;left:50%;transform:translateX(-50%);width:500px;height:120px;background:#fff;z-index:3;border-radius:60px;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:520px;left:0;width:1080px;text-align:center;color:#000;font-size:62px;font-weight:900;z-index:4;\">70% OFF</div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:700px;left:0;width:1080px;text-align:center;color:#fff;font-size:36px;font-weight:bold;z-index:4;\">ENTIRE STORE â€¢ ONLINE ONLY</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:120px;left:50%;transform:translateX(-50%);background:#ff4757;color:#fff;padding:25px 80px;border-radius:10px;font-weight:900;font-size:42px;z-index:4;\">SHOP NOW</div>\n        "
+  },
+  {
+    "id": "sale_minimal_fashion",
+    "name": "Chic Clearance",
+    "category": "sale",
+    "categoryLabel": "🔥 Sale",
+    "width": 1080,
+    "height": 1080,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);z-index:1;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=800&q=80\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;z-index:2;opacity:0.8;\">\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.3);z-index:3;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:700px;height:500px;background:rgba(255,255,255,0.9);z-index:4;border-radius:4px;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:350px;left:0;width:1080px;text-align:center;color:#111;font-size:110px;font-weight:900;z-index:5;\">CLEARANCE</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:520px;left:440px;width:200px;height:5px;background:#111;z-index:5;\"></div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:560px;left:0;width:1080px;text-align:center;color:#555;font-size:48px;font-weight:bold;z-index:5;\">UP TO 50% OFF</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:350px;left:0;width:1080px;text-align:center;color:#999;font-size:24px;z-index:5;letter-spacing:5px;\">NEW ARRIVALS INCLUDED</div>\n        "
+  },
+  {
+    "id": "sale_flash_neon",
+    "name": "Neon Flash Sale",
+    "category": "sale",
+    "categoryLabel": "🔥 Sale",
+    "width": 1080,
+    "height": 1080,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#0a0a0a;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:900px;height:900px;border:1px solid #00ff88;border-radius:50%;opacity:0.2;z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:250px;left:0;width:1080px;text-align:center;color:#00ff88;font-size:160px;font-weight:900;z-index:4;text-shadow:0 0 30px #00ff88;\">FLASH</h1>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:420px;left:0;width:1080px;text-align:center;color:#fff;font-size:160px;font-weight:900;z-index:4;\">SALE</h1>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:150px;left:0;width:1080px;text-align:center;color:#fff;background:#111;padding:20px;font-size:32px;font-weight:bold;z-index:4;\">2 HOURS ONLY â€¢ ENDS AT MIDNIGHT</div>\n        "
+  },
+  {
+    "id": "sale_organic_soft",
+    "name": "Natural Sale",
+    "category": "sale",
+    "categoryLabel": "🔥 Sale",
+    "width": 1080,
+    "height": 1080,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#f0faf0;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:-100px;right:-100px;width:500px;height:500px;background:#2ecc71;border-radius:50%;z-index:2;opacity:0.1;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:150px;left:100px;color:#27ae60;font-size:120px;font-weight:900;z-index:4;\">GARDEN<br>EXPO</h1>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?auto=format&fit=crop&w=600&q=80\" style=\"position:absolute;top:450px;left:100px;width:880px;height:400px;object-fit:cover;border-radius:20px;z-index:4;\">\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;bottom:80px;left:100px;width:300px;height:120px;background:#27ae60;border-radius:10px;z-index:4;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:115px;left:130px;color:#fff;font-weight:900;font-size:42px;z-index:5;\">-40%</div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:115px;left:450px;color:#27ae60;font-size:32px;font-weight:bold;z-index:4;\">ON ALL PLANTS TODAY</p>\n        "
+  },
+  {
+    "id": "sale_modern_it",
+    "name": "Tech Blowout",
+    "category": "sale",
+    "categoryLabel": "🔥 Sale",
+    "width": 1080,
+    "height": 1080,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#000;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(45deg,#0d0d0d,#1a1a1a);z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:100px;color:#3498db;font-weight:bold;font-size:32px;z-index:4;\">TECH COLLECTION 2024</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:180px;left:100px;color:#fff;font-size:130px;font-weight:900;z-index:4;letter-spacing:-5px;\">UPGRADE</h1>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=600&q=80\" style=\"position:absolute;top:450px;right:0;width:900px;height:400px;object-fit:contain;z-index:4;filter:drop-shadow(0 20px 40px rgba(52,152,219,0.3));\">\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;bottom:100px;left:100px;width:400px;height:120px;background:#3498db;z-index:4;border-radius:10px;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:135px;left:135px;color:#fff;font-weight:900;font-size:36px;z-index:5;\">SHOP GADGETS</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:135px;right:100px;color:#fff;font-size:52px;font-weight:900;z-index:4;\">-30%</div>\n        "
+  },
+  {
+    "id": "sale_bogo_popup",
+    "name": "BOGO Special",
+    "category": "sale",
+    "categoryLabel": "🔥 Sale",
+    "width": 1080,
+    "height": 1080,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#ffdf00;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:100px;left:100px;width:880px;height:880px;border:5px dashed #000;z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:200px;left:0;width:1080px;text-align:center;color:#000;font-size:200px;font-weight:900;z-index:4;line-height:0.8;\">BOGO</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:380px;left:0;width:1080px;text-align:center;color:#000;font-size:52px;font-weight:bold;z-index:4;\">BUY 1 GET 1 FREE</p>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:550px;left:340px;width:400px;height:400px;background:#fff;border-radius:50%;z-index:3;display:flex;align-items:center;justify-content:center;\">SHOP</div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:150px;left:0;width:1080px;text-align:center;color:#111;font-weight:900;font-size:32px;z-index:5;\">LIMITED TIME OFFER</div>\n        "
+  },
+  {
+    "id": "sale_anniversary_luxury",
+    "name": "Brand Jubilee",
+    "category": "sale",
+    "categoryLabel": "🔥 Sale",
+    "width": 1080,
+    "height": 1080,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#1a1a1a;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:50px;left:50px;right:50px;bottom:50px;border:2px solid #d4af37;z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:180px;left:0;width:1080px;text-align:center;color:#d4af37;font-size:42px;font-weight:bold;letter-spacing:15px;z-index:4;\">ANNIVERSARY</h1>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:280px;left:0;width:1080px;text-align:center;color:#fff;font-size:160px;font-weight:900;z-index:4;\">SALE</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:520px;left:515px;width:50px;height:150px;background:#d4af37;z-index:4;\"></div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:720px;left:0;width:1080px;text-align:center;color:#d4af37;font-size:32px;font-weight:bold;z-index:4;\">CELEBRATING 10 YEARS OF EXCELLENCE</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:120px;left:400px;border:2px solid #fff;color:#fff;padding:15px 60px;font-weight:bold;z-index:4;\">SHOP COLLECTION</div>\n        "
+  },
+  {
+    "id": "sale_red_alert",
+    "name": "Clearance Alert",
+    "category": "sale",
+    "categoryLabel": "🔥 Sale",
+    "width": 1080,
+    "height": 1080,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#e84118;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.05);z-index:2;clip-path:polygon(0 0, 100% 0, 0 100%);\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:150px;left:100px;color:#fff;font-size:180px;font-weight:900;z-index:4;margin:0;line-height:0.8;\">LAST<br>CHANCE</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:480px;left:100px;width:880px;height:5px;background:#fff;z-index:4;\"></div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:520px;left:100px;color:#fff;font-size:52px;font-weight:bold;z-index:4;\">Everything must go. Prices starting at $5.</p>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;bottom:150px;left:100px;width:100px;height:100px;background:#fff;border-radius:50%;z-index:4;\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:170px;left:230px;color:#fff;font-weight:900;font-size:48px;z-index:4;\">HURRY UP!</div>\n        "
+  },
+  {
+    "id": "sale_sneaker_vibe",
+    "name": "Sneaker Sale",
+    "category": "sale",
+    "categoryLabel": "🔥 Sale",
+    "width": 1080,
+    "height": 1080,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:-50px;left:-50px;width:1180px;height:500px;background:#2f3542;z-index:2;transform:rotate(-5deg);\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:100px;color:#fff;font-size:120px;font-weight:900;z-index:4;\">SNEAKER<br>FEST</h1>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&q=80\" style=\"position:absolute;top:380px;left:50px;width:980px;height:500px;object-fit:contain;z-index:4;\">\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:450px;right:100px;width:250px;height:250px;background:#ff4757;border-radius:50%;z-index:3;display:flex;align-items:center;justify-content:center;\">-60%</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:540px;right:145px;color:#fff;font-weight:900;font-size:62px;z-index:5;\">-60%</div>\n        "
+  },
+  {
+    "id": "sale_blue_monday",
+    "name": "Monday Madness",
+    "category": "sale",
+    "categoryLabel": "🔥 Sale",
+    "width": 1080,
+    "height": 1080,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#1e90ff;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(255,255,255,0.05);z-index:2;clip-path:polygon(50% 0, 100% 100%, 0 100%);\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:200px;left:0;width:1080px;text-align:center;color:#fff;font-size:160px;font-weight:900;z-index:4;letter-spacing:-10px;\">MONDAY</h1>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:380px;left:0;width:1080px;text-align:center;color:#000;font-size:160px;font-weight:900;z-index:4;letter-spacing:-10px;\">MADNESS</h1>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:250px;left:50%;transform:translateX(-50%);background:#fff;color:#1e90ff;padding:20px 80px;border-radius:5px;font-weight:900;font-size:42px;z-index:4;\">30% OFF EVERYTHING</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:100px;left:0;width:1080px;text-align:center;color:#fff;font-size:24px;font-weight:bold;z-index:4;\">START YOUR WEEK RIGHT</div>\n        "
+  },
+  {
+    "id": "sale_jewelry_luxury",
+    "name": "Luxury Gems",
+    "category": "sale",
+    "categoryLabel": "🔥 Sale",
+    "width": 1080,
+    "height": 1080,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);z-index:1;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80\" style=\"position:absolute;top:0;left:0;width:100%;height:600px;object-fit:cover;z-index:2;\">\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:550px;left:50px;width:980px;height:480px;background:#111;z-index:3;border-radius:20px;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:620px;left:100px;color:#d4af37;font-size:72px;font-weight:900;z-index:4;\">TIMELESS<br>ELEGANCE</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:820px;left:100px;color:#eee;font-size:32px;z-index:4;width:600px;\">Get up to 40% off on our signature collection of diamonds and gold.</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:150px;right:100px;border:2px solid #d4af37;color:#d4af37;padding:15px 45px;font-weight:bold;z-index:4;\">VIEW CATALOG</div>\n        "
+  },
+  {
+    "id": "sale_spring_vibes",
+    "name": "Spring Renewal",
+    "category": "sale",
+    "categoryLabel": "🔥 Sale",
+    "width": 1080,
+    "height": 1080,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#fff5f7;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:100px;left:100px;width:500px;height:500px;background:#ffaec9;border-radius:50%;z-index:2;opacity:0.3;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:200px;left:200px;color:#ff4d6d;font-size:140px;font-weight:900;z-index:4;letter-spacing:-8px;line-height:0.8;\">SPRING<br>BLOOM</h1>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:450px;left:210px;color:#111;font-weight:bold;font-size:36px;z-index:4;\">OFFICE WEAR SALE</div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1520975916090-3105956dac38?auto=format&fit=crop&w=400&q=80\" style=\"position:absolute;bottom:100px;right:100px;width:500px;height:500px;object-fit:cover;border-radius:250px 250px 0 0;z-index:4;\">\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;bottom:150px;left:100px;width:300px;height:120px;background:#ff4d6d;border-radius:10px;z-index:4;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:185px;left:145px;color:#fff;font-weight:900;font-size:36px;z-index:5;\">SHOP NOW</div>\n        "
+  },
+  {
+    "id": "sale_black_friday_pro",
+    "name": "Elite Black Friday",
+    "category": "sale",
+    "categoryLabel": "🔥 Sale",
+    "width": 1200,
+    "height": 627,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#000;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:100px;color:#ffea00;font-weight:bold;font-size:24px;letter-spacing:10px;z-index:4;\">BLACK FRIDAY IS HERE</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:150px;left:100px;color:#fff;font-size:150px;font-weight:900;z-index:4;margin:0;letter-spacing:-10px;\">80% OFF</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:380px;left:100px;width:1000px;height:10px;background:#ffea00;z-index:4;\"></div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:420px;left:100px;color:#fff;font-size:32px;font-weight:bold;z-index:4;\">THE BIGGEST DEALS OF THE YEAR. NO CODES NEEDED.</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:60px;left:100px;background:#ffea00;color:#000;padding:15px 60px;font-weight:900;font-size:28px;z-index:4;\">GRAB THE DEALS</div>\n        "
+  },
+  {
+    "id": "sale_emoji_craze",
+    "name": "Playful Discount",
+    "category": "sale",
+    "categoryLabel": "🔥 Sale",
+    "width": 1080,
+    "height": 1080,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#55efc4;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:350px;left:0;width:1080px;text-align:center;color:#000;font-size:130px;font-weight:900;z-index:4;letter-spacing:-5px;\">LOVING THESE<br>PRICES?</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:650px;left:340px;width:400px;height:150px;background:#00b894;z-index:3;border-radius:20px;transform:rotate(-3deg);\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:685px;left:0;width:1080px;text-align:center;color:#fff;font-weight:900;font-size:62px;z-index:4;\">-25% OFF</div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
+  },
+  {
+    "id": "sale_furniture_modern",
+    "name": "Interior Blowout",
+    "category": "sale",
+    "categoryLabel": "🔥 Sale",
+    "width": 1080,
+    "height": 1080,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);z-index:1;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80\" style=\"position:absolute;top:100px;left:100px;width:880px;height:500px;object-fit:cover;z-index:2;border-radius:40px;\">\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:650px;left:100px;color:#111;font-size:82px;font-weight:900;z-index:4;line-height:0.9;\">DREAM HOME<br>FOR LESS.</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:850px;left:100px;width:300px;height:100px;background:#111;z-index:4;border-radius:5px;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:882px;left:135px;color:#fff;font-weight:bold;font-size:28px;z-index:5;\">SHOP FURNITURE</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:875px;right:100px;color:#111;font-size:62px;font-weight:900;z-index:4;\">-50%</div>\n        "
+  },
+  {
+    "id": "sale_gaming_rig",
+    "name": "E-Sports Sale",
+    "category": "sale",
+    "categoryLabel": "🔥 Sale",
+    "width": 1080,
+    "height": 1080,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#000;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at center, rgba(162,155,254,0.3) 0%, transparent 70%);z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:150px;left:0;width:1080px;text-align:center;color:#fff;font-size:120px;font-weight:900;z-index:4;letter-spacing:10px;\">LEVEL UP</h1>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=600&q=80\" style=\"position:absolute;top:380px;left:140px;width:800px;height:400px;object-fit:cover;z-index:4;border-radius:20px;box-shadow:0 0 40px #a29bfe;\">\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:150px;left:0;width:1080px;text-align:center;color:#a29bfe;font-weight:900;font-size:48px;z-index:5;\">UP TO 70% OFF ON PERIPHERALS</div>\n        "
+  },
+  {
+    "id": "sale_cosmetic_soft",
+    "name": "Beauty Deals",
+    "category": "sale",
+    "categoryLabel": "🔥 Sale",
+    "width": 1080,
+    "height": 1080,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#fff5f5;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:100px;left:100px;width:880px;height:880px;border:2px solid #fd79a8;z-index:2;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=400&q=80\" style=\"position:absolute;top:200px;right:0;width:600px;height:700px;object-fit:cover;z-index:4;border-radius:300px 0 0 300px;\">\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:250px;left:150px;color:#fd79a8;font-size:110px;font-weight:900;z-index:4;letter-spacing:-5px;\">GLOW<br>UP</h1>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:550px;left:160px;color:#111;font-weight:bold;font-size:42px;z-index:4;\">SKINCARE SALE</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:250px;left:160px;background:#fd79a8;color:#fff;padding:15px 50px;font-weight:900;font-size:28px;z-index:4;\">FREE GIFT OVER $50</div>\n        "
+  },
+  {
+    "id": "sale_winter_wonder",
+    "name": "Winter Warmth",
+    "category": "sale",
+    "categoryLabel": "🔥 Sale",
+    "width": 1080,
+    "height": 1080,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#0984e3,#74b9ff);z-index:1;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:0;width:1080px;text-align:center;color:#fff;font-size:140px;font-weight:900;z-index:4;\">WINTER<br>WARMUP</h1>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:550px;left:290px;width:500px;height:300px;background:rgba(255,255,255,0.2);backdrop-filter:blur(10px);border-radius:20px;z-index:3;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:600px;left:0;width:1080px;text-align:center;color:#fff;font-size:110px;font-weight:900;z-index:4;\">-50%</div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:150px;left:0;width:1080px;text-align:center;color:#fff;font-size:32px;font-weight:bold;z-index:4;\">ON ALL JACKETS & SCARVES</p>\n        "
+  },
+  {
+    "id": "sale_brand_new",
+    "name": "New Style Drop",
+    "category": "sale",
+    "categoryLabel": "🔥 Sale",
+    "width": 1080,
+    "height": 1080,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#111;z-index:2;clip-path:circle(30% at 100% 0);\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:150px;left:100px;color:#111;font-size:110px;font-weight:900;z-index:4;letter-spacing:-8px;\">JUST IN</h1>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=600&q=80\" style=\"position:absolute;top:350px;left:100px;width:800px;height:500px;object-fit:cover;z-index:4;border-radius:10px;\">\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;bottom:100px;left:100px;width:400px;height:100px;background:#e67e22;z-index:4;border-radius:5px;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:130px;left:400px;width:500px;text-align:right;color:#111;font-weight:900;font-size:62px;z-index:4;\">-15%</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:130px;left:145px;color:#fff;font-weight:bold;font-size:28px;z-index:5;\">SHOP NEW SERIES</div>\n        "
+  },
+  {
+    "id": "sale_fitness_equipment",
+    "name": "Gym Sale",
+    "category": "sale",
+    "categoryLabel": "🔥 Sale",
+    "width": 1080,
+    "height": 1080,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#111;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:100px;color:#f1c40f;font-weight:900;font-size:32px;letter-spacing:10px;z-index:4;\">WORKOUT AT HOME</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:180px;left:100px;color:#fff;font-size:130px;font-weight:900;z-index:4;letter-spacing:-5px;\">EQUIPMENT<br>SALE</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:450px;left:100px;width:880px;height:400px;background:#f1c40f;border-radius:20px;z-index:2;opacity:0.9;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&w=600&q=80\" style=\"position:absolute;top:480px;left:130px;width:820px;height:340px;object-fit:cover;z-index:4;border-radius:10px;\">\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:100px;left:0;width:1080px;text-align:center;color:#fff;font-size:36px;font-weight:bold;z-index:4;\">PRICES DROPPED BY 40% ON ALL GEAR</div>\n        "
+  }
+]

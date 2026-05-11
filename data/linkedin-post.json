@@ -1,0 +1,128 @@
+[
+  {
+    "id": "li_hiring_pro",
+    "name": "Professional Hiring",
+    "category": "linkedin-post",
+    "categoryLabel": "ðŸ’¼ LinkedIn",
+    "width": 1200,
+    "height": 627,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#f8fafc,#f1f5f9);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;right:0;width:500px;height:100%;background:#0077b5;clip-path:polygon(20% 0,100% 0,100% 100%,0% 100%);z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:150px;left:60px;color:#0f172a;font-size:72px;font-weight:900;font-family:'Inter',sans-serif;z-index:4;margin:0;width:600px;line-height:1.1;\">WE ARE<br><span style=\"color:#0077b5;\">HIRING</span></h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:340px;left:60px;color:#475569;font-size:28px;font-family:'Inter',sans-serif;z-index:4;width:500px;margin:0;\">Join our world-class team and shape the future of technology.</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:480px;left:60px;background:#0077b5;color:#fff;padding:15px 45px;border-radius:8px;font-weight:bold;font-size:24px;z-index:4;box-shadow:0 10px 20px rgba(0,119,181,0.2);\">Apply Now</div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=600&q=80\" style=\"position:absolute;top:100px;right:40px;width:400px;height:400px;border-radius:50%;border:10px solid #fff;z-index:4;object-fit:cover;box-shadow:0 20px 40px rgba(0,0,0,0.1);\">\n        "
+  },
+  {
+    "id": "li_webinar_modern",
+    "name": "Expert Webinar",
+    "category": "linkedin-post",
+    "categoryLabel": "ðŸ’¼ LinkedIn",
+    "width": 1200,
+    "height": 627,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#0a192f;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;bottom:0;left:0;width:100%;height:150px;background:rgba(0,119,181,0.1);z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:60px;left:60px;color:#64ffda;font-size:20px;font-weight:bold;letter-spacing:3px;z-index:4;\">LIVE WEBINAR</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:60px;color:#ccd6f6;font-size:60px;font-weight:800;font-family:'Inter',sans-serif;z-index:4;margin:0;width:700px;\">Mastering Global<br>Market Strategies</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:260px;left:60px;color:#8892b0;font-size:24px;font-family:'Inter',sans-serif;z-index:4;width:600px;\">Learn from industry leaders about the latest trends in digital transformation.</p>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:80px;right:80px;width:380px;height:350px;background:#112240;border:2px solid #0077b5;border-radius:20px;z-index:3;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=400&q=80\" style=\"position:absolute;top:100px;right:120px;width:300px;height:300px;border-radius:15px;z-index:4;object-fit:cover;\">\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:50px;left:60px;color:#ccd6f6;font-size:22px;z-index:4;\">ðŸ—“ï¸ Oct 25, 2024  |  ðŸ•’ 2:00 PM GMT</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:45px;right:80px;background:#64ffda;color:#0a192f;padding:12px 35px;border-radius:4px;font-weight:bold;z-index:4;\">Reserve Spot</div>\n        "
+  },
+  {
+    "id": "li_service_showcase",
+    "name": "Service Overview",
+    "category": "linkedin-post",
+    "categoryLabel": "ðŸ’¼ LinkedIn",
+    "width": 1200,
+    "height": 627,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:350px;height:100%;background:#0f172a;z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:80px;left:50px;color:#fff;font-size:48px;font-weight:800;z-index:4;width:250px;\">OUR<br>CORE<br>SERVICES</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:80px;left:400px;width:350px;height:220px;background:#f8fafc;border:1px solid #e2e8f0;border-radius:12px;z-index:3;\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:170px;left:430px;color:#1e293b;font-weight:bold;font-size:24px;z-index:4;\">Data Analytics</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:210px;left:430px;color:#475569;font-size:18px;width:280px;z-index:4;\">Turning complex data into actionable insights for your business growth.</div>\n        \n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:330px;left:400px;width:350px;height:220px;background:#f8fafc;border:1px solid #e2e8f0;border-radius:12px;z-index:3;\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:420px;left:430px;color:#1e293b;font-weight:bold;font-size:24px;z-index:4;\">Digital Strategy</div>\n        \n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:80px;left:780px;width:350px;height:220px;background:#f8fafc;border:1px solid #e2e8f0;border-radius:12px;z-index:3;\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:170px;left:810px;color:#1e293b;font-weight:bold;font-size:24px;z-index:4;\">Growth Hacking</div>\n        "
+  },
+  {
+    "id": "li_hiring_creative",
+    "name": "Creative Hiring",
+    "category": "linkedin-post",
+    "categoryLabel": "ðŸ’¼ LinkedIn",
+    "width": 1080,
+    "height": 1080,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#fff7ed;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:100px;left:100px;right:100px;bottom:100px;border:15px solid #ea580c;z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:200px;left:0;width:1080px;text-align:center;color:#ea580c;font-size:100px;font-weight:900;letter-spacing:-2px;z-index:4;margin:0;\">WANTED!</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:350px;left:0;width:1080px;text-align:center;color:#111;font-size:48px;font-weight:bold;z-index:4;\">SENIOR PRODUCT DESIGNER</p>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&w=500&q=80\" style=\"position:absolute;top:450px;left:290px;width:500px;height:350px;z-index:4;object-fit:cover;border-radius:20px;\">\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:180px;left:0;width:1080px;text-align:center;color:#ea580c;font-weight:800;font-size:36px;z-index:4;\">Apply at: careers@creative.co</div>\n        "
+  },
+  {
+    "id": "li_data_insight",
+    "name": "Market Insights",
+    "category": "linkedin-post",
+    "categoryLabel": "ðŸ’¼ LinkedIn",
+    "width": 1200,
+    "height": 627,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(to right,#0f172a,#1e293b);z-index:1;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:60px;left:60px;color:#2ecc71;font-size:24px;font-weight:bold;z-index:4;\">📈 MARKET TRENDS 2024</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:150px;left:60px;width:1080px;height:350px;background:rgba(255,255,255,0.05);border-radius:15px;border:1px solid rgba(255,255,255,0.1);z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:200px;left:100px;color:#fff;font-size:36px;font-weight:bold;z-index:4;\">AI Adoption in Enterprise</div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:280px;left:100px;width:800px;height:40px;background:#334155;border-radius:20px;z-index:3;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:280px;left:100px;width:650px;height:40px;background:#2ecc71;border-radius:20px;z-index:4;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:285px;left:770px;color:#fff;font-weight:900;z-index:5;\">82%</div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:350px;left:100px;color:#94a3b8;font-size:22px;z-index:4;width:700px;\">Majority of Fortune 500 companies have integrated AI into their core workflows this year.</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:60px;right:100px;color:#2ecc71;font-weight:bold;z-index:4;\">Source: Global Business Review</div>\n        "
+  },
+  {
+    "id": "li_course_launch",
+    "name": "Educational Course",
+    "category": "linkedin-post",
+    "categoryLabel": "ðŸ’¼ LinkedIn",
+    "width": 1200,
+    "height": 627,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:45%;height:100%;background:linear-gradient(45deg,#3b82f6,#1e40af);z-index:2;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=500&q=80\" style=\"position:absolute;top:100px;left:50px;width:400px;height:427px;border-radius:15px;z-index:4;object-fit:cover;\">\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;right:100px;color:#3b82f6;font-weight:bold;font-size:20px;z-index:4;\">NEW COURSE LAUNCH</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:140px;right:100px;color:#fff;font-size:52px;font-weight:900;z-index:4;width:550px;text-align:right;\">UI/UX Design Masterclass</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:300px;right:100px;color:#94a3b8;font-size:24px;z-index:4;width:500px;text-align:right;\">Learn to build stunning interfaces that users love. From wireframing to prototyping.</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:100px;right:100px;background:#fff;color:#0f172a;padding:15px 45px;border-radius:30px;font-weight:900;font-size:24px;z-index:4;\">Enroll Now</div>\n        "
+  },
+  {
+    "id": "li_hiring_dark",
+    "name": "Dark Hiring",
+    "category": "linkedin-post",
+    "categoryLabel": "ðŸ’¼ LinkedIn",
+    "width": 1200,
+    "height": 627,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#000000;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 70% 50%,rgba(0,119,181,0.2) 0%,transparent 60%);z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:150px;left:80px;color:#fff;font-size:82px;font-weight:900;z-index:4;\">BUILDING<br>THE NEXT<br>BIG THING?</h1>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:440px;left:80px;color:#0077b5;font-size:32px;font-weight:bold;z-index:4;\">WE NEED YOU.</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:500px;left:80px;color:#888;font-size:22px;z-index:4;\">React Developers Â· Node.js Â· DevOps</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:60px;right:80px;background:#0077b5;color:#fff;padding:12px 40px;border-radius:4px;font-weight:bold;z-index:4;\">Apply Today</div>\n        "
+  },
+  {
+    "id": "li_webinar_neon",
+    "name": "Cyber Monday Tech",
+    "category": "linkedin-post",
+    "categoryLabel": "ðŸ’¼ LinkedIn",
+    "width": 1080,
+    "height": 1080,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#020617;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:900px;height:900px;border:2px solid #38bdf8;opacity:0.2;z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:150px;left:0;width:1080px;text-align:center;color:#38bdf8;font-size:32px;font-weight:bold;letter-spacing:10px;z-index:4;\">WEBINAR SERIES</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:250px;left:0;width:1080px;text-align:center;color:#fff;font-size:110px;font-weight:900;z-index:4;text-shadow:0 0 30px #38bdf8;\">FUTURE OF<br>WEB 3.0</h1>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:700px;left:140px;width:800px;text-align:center;color:#94a3b8;font-size:32px;z-index:4;\">Exploring Blockchain, DAOs, and the decentralized future of the internet.</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:120px;left:50%;transform:translateX(-50%);background:#38bdf8;color:#020617;padding:20px 80px;border-radius:12px;font-weight:900;font-size:36px;z-index:4;\">Save Ticket</div>\n        "
+  },
+  {
+    "id": "li_podcast_alert",
+    "name": "Podcast Series",
+    "category": "linkedin-post",
+    "categoryLabel": "ðŸ’¼ LinkedIn",
+    "width": 1200,
+    "height": 627,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#111;z-index:1;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&fit=crop&w=800&q=80\" style=\"position:absolute;top:0;right:0;width:600px;height:100%;object-fit:cover;opacity:0.7;z-index:2;\">\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:600px;width:100px;height:100%;background:linear-gradient(to right,#111,transparent);z-index:3;\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:170px;left:80px;color:#fff;font-size:62px;font-weight:900;z-index:4;width:500px;\">NEW<br>EPISODE<br>OUT NOW</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:430px;left:80px;color:#0077b5;font-size:28px;font-weight:bold;z-index:4;\">The Business Growth Pod</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:80px;left:80px;color:#888;font-size:22px;z-index:4;\">Stream on Spotify & Apple Podcasts</div>\n        "
+  },
+  {
+    "id": "li_event_professional",
+    "name": "Corporate Event",
+    "category": "linkedin-post",
+    "categoryLabel": "ðŸ’¼ LinkedIn",
+    "width": 1200,
+    "height": 627,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#f8fafc;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:100%;height:350px;background:url('https://images.unsplash.com/photo-1505373630103-f21ee09d0739?auto=format&fit=crop&w=1200') center;background-size:cover;z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:320px;left:100px;width:1000px;height:240px;background:#fff;border-radius:15px;box-shadow:0 20px 50px rgba(0,0,0,0.1);z-index:3;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:360px;left:140px;color:#0077b5;font-weight:bold;font-size:24px;z-index:4;\">SUMMIT 2024</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:400px;left:140px;color:#0f172a;font-size:48px;font-weight:900;z-index:4;\">Global Tech Leaders Summit</h1>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:115px;left:140px;color:#475569;font-size:22px;z-index:4;\">ðŸ“ New York City  |  ðŸ—“ï¸ Nov 12-14</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:105px;right:140px;background:#0077b5;color:#fff;padding:12px 40px;border-radius:8px;font-weight:bold;z-index:4;\">Get Passes</div>\n        "
+  },
+  {
+    "id": "li_hiring_exec",
+    "name": "Executive Hiring",
+    "category": "linkedin-post",
+    "categoryLabel": "ðŸ’¼ LinkedIn",
+    "width": 1200,
+    "height": 627,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:50%;height:100%;background:#0a192f;clip-path:polygon(0 0, 80% 0, 100% 100%, 0% 100%);z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:180px;left:80px;color:#fff;font-size:62px;font-weight:900;z-index:4;width:400px;line-height:1.1;\">EXECUTIVE<br>SEARCH</h1>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:340px;left:80px;color:#64ffda;font-size:28px;font-weight:bold;z-index:4;\">CHIEF PRODUCT OFFICER</div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:400px;left:80px;color:#8892b0;font-size:22px;width:350px;z-index:4;\">We are looking for a visionary leader to drive our product strategy.</p>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80\" style=\"position:absolute;top:80px;right:100px;width:400px;height:467px;border-radius:20px;z-index:4;object-fit:cover;\">\n        "
+  },
+  {
+    "id": "li_minimal_brand",
+    "name": "Minimal Branding",
+    "category": "linkedin-post",
+    "categoryLabel": "ðŸ’¼ LinkedIn",
+    "width": 1200,
+    "height": 627,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#000;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:250px;left:0;width:1200px;text-align:center;color:#fff;font-size:82px;font-weight:900;letter-spacing:15px;z-index:4;\">IDENTITY</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:360px;left:500px;width:200px;height:2px;background:#0077b5;z-index:4;\"></div>\n    \n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:390px;left:0;width:1200px;text-align:center;color:#666;font-size:24px;letter-spacing:5px;z-index:4;\">LESS IS MORE</p>\n        "
+  },
+  {
+    "id": "li_team_showcase",
+    "name": "Team Culture",
+    "category": "linkedin-post",
+    "categoryLabel": "ðŸ’¼ LinkedIn",
+    "width": 1200,
+    "height": 627,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);z-index:1;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:60px;left:80px;color:#1e40af;font-size:52px;font-weight:900;z-index:4;\">OUR TEAM,<br>OUR STRENGTH</h1>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=600&q=80\" style=\"position:absolute;top:60px;right:80px;width:550px;height:350px;border-radius:20px;z-index:4;object-fit:cover;\">\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;bottom:0;left:0;width:1000px;height:220px;background:#1e40af;border-radius:0 100px 0 0;z-index:2;\"></div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:70px;left:80px;color:#fff;font-size:28px;width:700px;z-index:4;line-height:1.4;\">Culture isn't what we say, it's what we do. Proud of our hardworking team today.</p>\n        "
+  },
+  {
+    "id": "li_award_card",
+    "name": "Award Winning",
+    "category": "linkedin-post",
+    "categoryLabel": "ðŸ’¼ LinkedIn",
+    "width": 1200,
+    "height": 627,
+    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#000000,#2c2c2c);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:280px;left:0;width:1200px;text-align:center;color:#d4af37;font-size:62px;font-weight:900;font-family:'Inter',sans-serif;z-index:4;\">WINNER OF THE YEAR</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:380px;left:0;width:1200px;text-align:center;color:#fff;font-size:32px;z-index:4;\">Best Innovation in Fintech 2024</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:80px;left:50%;transform:translateX(-50%);color:#888;font-size:22px;z-index:4;\">#FintechAwards #Innovation #Pro</div>\n        "
+  }
+]
