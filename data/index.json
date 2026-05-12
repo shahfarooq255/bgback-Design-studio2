@@ -4122,7 +4122,7 @@
         "id": "li_webinar_neon",
         "name": "Cyber Monday Tech",
         "category": "linkedin-post",
-        "categoryLabel": "ðŸ’¼ LinkedIn",
+        "subCategory": "linkedin-post",
         "width": 1080,
         "height": 1080
     },
