@@ -6767,5 +6767,13 @@
         "subCategory": "twitter-post",
         "width": 1200,
         "height": 675
+    },
+    {
+        "id": "tw_split_news",
+        "name": "Modern Split News",
+        "category": "twitter-post",
+        "subCategory": "twitter-post",
+        "width": 1200,
+        "height": 675
     }
 ]
