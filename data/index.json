@@ -4170,7 +4170,7 @@
         "id": "li_award_card",
         "name": "Award Winning",
         "category": "linkedin-post",
-        "categoryLabel": "ðŸ’¼ LinkedIn",
+        "subCategory": "linkedin-post",
         "width": 1200,
         "height": 627
     },
