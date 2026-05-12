@@ -6469,9 +6469,9 @@
         "id": "vc_creative_glass",
         "name": "Creative Glass",
         "category": "visiting-card",
-        "categoryLabel": "ðŸªª Visiting Card",
-        "width": 1050,
-        "height": 600
+        "subCategory": "visiting-card",
+        "width": 1080,
+        "height": 1080
     },
     {
         "id": "vc_luxury_minimalism",
