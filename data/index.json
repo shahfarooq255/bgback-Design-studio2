@@ -4055,14 +4055,6 @@
         "height": 1080
     },
     {
-        "id": "li_quote_minimal",
-        "name": "Professional Quote",
-        "category": "linkedin-post",
-        "subCategory": "sub-fb-ads",
-        "width": 1200,
-        "height": 627
-    },
-    {
         "id": "li_service_showcase",
         "name": "Service Overview",
         "category": "linkedin-post",
