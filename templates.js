@@ -8352,29 +8352,14 @@ window.HD_TEMPLATES = [
     },
 
     {
-        id: 'sport_002',
-        name: 'Zen Yoga Session',
-        category: 'ad-creator',
-        subCategory: 'ad-sports',
-        categoryLabel: 'âš½ Sports & Fitness',
-        width: 1080,
-        height: 1080,
-        html: `
-                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#fdf4ff;z-index:1;"></div>
-                
-                <div class="hd-draggable" data-type="shape" style="position:absolute;top:50px;left:50px;right:50px;bottom:50px;border:1px solid #d8b4fe;z-index:2;"></div>
-                
-                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:150px;left:0;width:100%;text-align:center;color:#701a75 !important;font-size:85px;font-weight:200;font-family:'Playfair Display',serif;z-index:4;margin:0;letter-spacing:10px;">FIND YOUR<br><span style="font-weight:900;">BALANCE</span></h1>
-                
-                <div class="hd-draggable" data-type="shape" style="position:absolute;top:400px;left:50%;transform:translateX(-50%);width:400px;height:400px;background:url('https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=600&q=80');background-size:cover;z-index:3;border-radius:50%;border:8px solid #ffffff;box-shadow:0 20px 50px rgba(112,26,117,0.1);"></div>
-                
-                <p class="hd-draggable" data-type="text" style="position:absolute;bottom:180px;left:0;width:100%;text-align:center;color:#701a75 !important;font-size:24px;font-weight:400;font-family:'Inter',sans-serif;z-index:4;line-height:1.6;padding:0 200px;box-sizing:border-box;">Morning yoga sessions to rejuvenate your soul and strengthen your core.</p>
-                
-                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;left:0;width:100%;text-align:center;color:#a855f7 !important;font-size:22px;font-weight:700;font-family:'Inter',sans-serif;z-index:4;letter-spacing:5px;text-transform:uppercase;">Every Mon - Fri | 7:00 AM</div>
-                
-                <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-                `
-    },
+    "id": "sport_002",
+    "name": "Zen Yoga Session",
+    "category": "ad-creator",
+    "subCategory": "ad-sports",
+    "width": 1080,
+    "height": 1080,
+    "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#fdf4ff;z-index:1;\"></div>\n                \n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; inset: 50px auto auto 50px; border: 1px solid rgb(216, 180, 254); z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n                \n                <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 44.8454px auto auto 10.3093px; width: 100%; text-align: center; font-size: 85px; font-weight: 200; font-family: &quot;Playfair Display&quot;, serif; z-index: 4; margin: 0px; letter-spacing: 10px; color: rgb(112, 26, 117) !important; outline: none; cursor: grab; line-height: 1.5 !important;\" contenteditable=\"false\">FIND YOUR<br><span style=\"font-weight:900;\">BALANCE</span></h1>\n                \n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; inset: 344.33px auto auto 540px; transform: translateX(-50%); width: 400px; height: 400px; background: url(&quot;https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&amp;fit=crop&amp;w=600&amp;q=80&quot;) 0% 0% / cover; z-index: 3; border-radius: 50%; border: 8px solid rgb(255, 255, 255); box-shadow: rgba(112, 26, 117, 0.1) 0px 20px 50px; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n                \n                <p class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 778.157px auto auto 8.24742px; width: 100%; text-align: center; font-size: 27px !important; font-weight: 400; font-family: Inter, sans-serif; z-index: 4; line-height: 1.6; padding: 0px 200px; box-sizing: border-box; color: rgb(112, 26, 117) !important; outline: none; cursor: grab;\" contenteditable=\"false\">Morning yoga sessions to rejuvenate your soul and strengthen your core.</p>\n                \n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; bottom: 100px; left: 0px; width: 100%; text-align: center; font-size: 22px; font-weight: 700; font-family: Inter, sans-serif; z-index: 4; letter-spacing: 5px; text-transform: uppercase; color: rgb(168, 85, 247) !important; outline: none; cursor: grab;\" contenteditable=\"false\">Every Mon - Fri | 7:00 AM</div>"
+},
 
     {
         id: 'sport_003',
