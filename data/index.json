@@ -4178,10 +4178,9 @@
         "id": "tw_breaking_bold",
         "name": "Breaking News",
         "category": "twitter-post",
-        "categoryLabel": "ð• Twitter",
-        "width": 1200,
-        "height": 675,
-        "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#000000;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:100%;height:140px;background:#1DA1F2;z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:30px;left:60px;color:#fff;font-size:72px;font-weight:900;z-index:4;margin:0;letter-spacing:-2px;\">BREAKING NEWS</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:140px;left:0;width:20px;height:535px;background:#1DA1F2;z-index:2;\"></div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:200px;left:70px;color:#fff;font-size:52px;font-weight:800;z-index:4;width:1000px;line-height:1.2;\">A massive shift in digital landscape is happening right now. Are you ready?</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:60px;left:70px;background:#fff;color:#000;padding:10px 30px;font-weight:900;font-size:24px;z-index:4;\">#Breaking #TechNews</div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
+        "subCategory": "twitter-post",
+        "width": 1209,
+        "height": 675
     },
     {
         "id": "tw_quote_vibrant",
