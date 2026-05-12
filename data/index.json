@@ -3700,7 +3700,7 @@
         "id": "tpl_bgback_6",
         "name": "Perfect Cutouts 6",
         "category": "facebook-post",
-        "categoryLabel": "ðŸ“˜ Facebook Post",
+        "subCategory": "facebook-post",
         "width": 1200,
         "height": 630
     },
