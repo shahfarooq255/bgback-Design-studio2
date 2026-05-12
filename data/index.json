@@ -6751,5 +6751,13 @@
         "subCategory": "linkedin-post",
         "width": 1200,
         "height": 627
+    },
+    {
+        "id": "tw_cyber_alert",
+        "name": "Cyberpunk Alert",
+        "category": "twitter-post",
+        "subCategory": "twitter-post",
+        "width": 1200,
+        "height": 675
     }
 ]
