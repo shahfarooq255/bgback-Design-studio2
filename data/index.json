@@ -4114,7 +4114,7 @@
         "id": "li_hiring_dark",
         "name": "Dark Hiring",
         "category": "linkedin-post",
-        "categoryLabel": "ðŸ’¼ LinkedIn",
+        "subCategory": "linkedin-post",
         "width": 1200,
         "height": 627
     },
