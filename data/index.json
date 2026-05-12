@@ -6760,5 +6760,13 @@
         "categoryLabel": "ðŸªª Visiting Card",
         "width": 1050,
         "height": 600
+    },
+    {
+        "id": "tpl_1778597829113",
+        "name": "New Design 12/05/2026",
+        "category": "linkedin-post",
+        "subCategory": "linkedin-post",
+        "width": 1200,
+        "height": 627
     }
 ]
