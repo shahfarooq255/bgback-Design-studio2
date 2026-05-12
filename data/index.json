@@ -3756,7 +3756,7 @@
         "id": "tpl_bgback_13",
         "name": "Pro Background Removal 13",
         "category": "facebook-post",
-        "categoryLabel": "ðŸ“˜ Facebook Post",
+        "subCategory": "facebook-post",
         "width": 1200,
         "height": 630
     },
