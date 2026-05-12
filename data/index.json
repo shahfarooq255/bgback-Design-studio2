@@ -3793,14 +3793,6 @@
         "height": 630
     },
     {
-        "id": "tpl_bgback_18",
-        "name": "Pro Background Removal 18",
-        "category": "facebook-post",
-        "categoryLabel": "ðŸ“˜ Facebook Post",
-        "width": 1200,
-        "height": 630
-    },
-    {
         "id": "tpl_bgback_19",
         "name": "Remove Anything 19",
         "category": "facebook-post",
@@ -6497,7 +6489,6 @@
         "width": 1050,
         "height": 600
     },
-    null,
     {
         "id": "vc_portrait_split",
         "name": "Profile Split",
