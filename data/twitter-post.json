@@ -1,173 +1,173 @@
 [
-  {
-    "id": "tw_breaking_bold",
-    "name": "Breaking News",
-    "category": "twitter-post",
-    "categoryLabel": "ð• Twitter",
-    "width": 1200,
-    "height": 675,
-    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#000000;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:100%;height:140px;background:#1DA1F2;z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:30px;left:60px;color:#fff;font-size:72px;font-weight:900;z-index:4;margin:0;letter-spacing:-2px;\">BREAKING NEWS</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:140px;left:0;width:20px;height:535px;background:#1DA1F2;z-index:2;\"></div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:200px;left:70px;color:#fff;font-size:52px;font-weight:800;z-index:4;width:1000px;line-height:1.2;\">A massive shift in digital landscape is happening right now. Are you ready?</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:60px;left:70px;background:#fff;color:#000;padding:10px 30px;font-weight:900;font-size:24px;z-index:4;\">#Breaking #TechNews</div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
-  },
-  {
-    "id": "tw_alert_minimal",
-    "name": "Clean Alert",
-    "category": "twitter-post",
-    "categoryLabel": "ð• Twitter",
-    "width": 1200,
-    "height": 675,
-    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#0a192f;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:-50px;left:-50px;width:300px;height:300px;background:rgba(251,191,36,0.1);border-radius:50%;filter:blur(60px);z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:40px;left:40px;right:40px;bottom:40px;background:rgba(255,255,255,0.03);border:2px solid rgba(251,191,36,0.3);border-radius:24px;z-index:2;backdrop-filter:blur(10px);\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:100px;color:#fbbf24;font-weight:900;font-size:36px;letter-spacing:10px;z-index:4;text-shadow:0 0 20px rgba(251,191,36,0.5);\">ALERT</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:180px;left:100px;color:#fff;font-size:72px;font-weight:900;z-index:4;width:1000px;line-height:1.1;\">SYSTEM UPDATE<br><span style=\"color:#fbbf24;\">VERSION 2.0</span> IS LIVE</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:400px;left:100px;color:#94a3b8;font-size:32px;z-index:4;width:900px;line-height:1.4;\">Experience a completely redesigned interface with 10x faster performance and enhanced security protocols.</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:100px;left:100px;background:#fbbf24;color:#0a192f;padding:18px 50px;border-radius:12px;font-weight:900;font-size:28px;z-index:4;box-shadow:0 10px 30px rgba(251,191,36,0.3);\">Check Changelog 🚀</div>\n        "
-  },
-  {
-    "id": "tw_feature_sleek",
-    "name": "Feature Spotlight",
-    "category": "twitter-post",
-    "categoryLabel": "ð• Twitter",
-    "width": 1600,
-    "height": 900,
-    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:-200px;left:-200px;width:600px;height:600px;background:radial-gradient(circle,rgba(29,161,242,0.15),transparent);z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:100px;color:#38bdf8;font-weight:bold;font-size:32px;z-index:4;\">FEATURE HIGHLIGHT</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:180px;left:100px;color:#fff;font-size:92px;font-weight:900;z-index:4;width:900px;\">Dark Mode<br>is finally here.</h1>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80\" style=\"position:absolute;top:150px;right:100px;width:500px;height:600px;border-radius:30px;object-fit:cover;border:5px solid #1DA1F2;z-index:4;\">\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:150px;left:100px;background:#1DA1F2;color:#fff;padding:20px 60px;border-radius:50px;font-weight:900;font-size:36px;z-index:4;\">Upgrade Now</div>\n        "
-  },
-  {
-    "id": "tw_hot_take",
-    "name": "Hot Take / Opinion",
-    "category": "twitter-post",
-    "categoryLabel": "ð• Twitter",
-    "width": 1200,
-    "height": 675,
-    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#ff4d4d,#f9cb28);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:-100px;right:-100px;width:500px;height:500px;background:rgba(255,255,255,0.15);border-radius:50%;z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:80px;left:80px;background:#000;color:#fff;padding:10px 30px;font-weight:900;font-size:28px;border-radius:5px;z-index:4;letter-spacing:5px;\">HOT TAKE 🔥</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:180px;left:80px;color:#fff;font-size:68px;font-weight:900;z-index:4;width:1040px;line-height:1.2;text-shadow:0 10px 20px rgba(0,0,0,0.2);\">Remote work is no longer a perk. It's a <span style=\"background:#fff;color:#ff4d4d;padding:0 15px;\">fundamental requirement</span> for top-tier global talent in 2024.</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;bottom:0;left:0;width:100%;height:120px;background:rgba(0,0,0,0.2);z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:40px;left:80px;color:#fff;font-size:32px;font-weight:bold;z-index:4;\">Do you agree? RT & Discuss below! ðŸ‘‡</div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
-  },
-  {
-    "id": "tw_event_vibrant",
-    "name": "Event Reminder",
-    "category": "twitter-post",
-    "categoryLabel": "ð• Twitter",
-    "width": 1200,
-    "height": 675,
-    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#ff0080,#7928ca);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:180px;left:0;width:1200px;text-align:center;color:#fff;font-size:82px;font-weight:900;z-index:4;\">DON'T MISS OUT!</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:320px;left:0;width:1200px;text-align:center;color:rgba(255,255,255,0.9);font-size:36px;z-index:4;\">Early bird tickets expire in 24 hours.</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:80px;left:450px;background:#fff;color:#7928ca;padding:15px 60px;border-radius:50px;font-weight:900;font-size:28px;z-index:4;\">Register Now</div>\n        "
-  },
-  {
-    "id": "tw_community_spotlight",
-    "name": "Community Star",
-    "category": "twitter-post",
-    "categoryLabel": "ð• Twitter",
-    "width": 1200,
-    "height": 675,
-    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:450px;height:100%;background:#1DA1F2;z-index:2;clip-path:polygon(0 0, 100% 0, 80% 100%, 0% 100%);\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:60px;color:#fff;font-size:62px;font-weight:900;width:350px;z-index:4;line-height:1;\">COMMUNITY STAR OF THE WEEK</h1>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:80px;right:100px;width:600px;height:500px;background:rgba(255,255,255,0.05);border:2px dashed rgba(29,161,242,0.5);border-radius:40px;z-index:2;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80\" style=\"position:absolute;top:120px;right:250px;width:300px;height:300px;border-radius:50%;border:10px solid #1DA1F2;z-index:4;object-fit:cover;box-shadow:0 20px 40px rgba(0,0,0,0.5);\">\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:440px;right:250px;width:300px;text-align:center;color:#fff;font-size:38px;font-weight:900;z-index:4;\">@JaneDesigner</div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:40px;left:480px;width:650px;color:#94a3b8;font-size:28px;z-index:4;line-height:1.4;font-style:italic;\">\"This studio has made my workflow 10x faster. Can't imagine working without it now!\"</p>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
-  },
-  {
-    "id": "tw_meme_brand",
-    "name": "Playful Brand",
-    "category": "twitter-post",
-    "categoryLabel": "ð• Twitter",
-    "width": 1080,
-    "height": 1080,
-    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#000;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:0;width:1080px;text-align:center;color:#fff;font-size:48px;font-weight:bold;z-index:4;padding:20px;\">Me when I finally fix that<br>bug after 3 hours:</div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:550px;left:150px;width:650px;color:#94a3b8;font-size:28px;z-index:4;line-height:1.4;font-style:italic;\">\"This studio has made my workflow 10x faster. Can't imagine working without it now!\"</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:150px;left:0;width:1080px;text-align:center;color:#1DA1F2;font-size:36px;font-weight:900;z-index:4;\">#DeveloperLife #Coding</div>\n        "
-  },
-  {
-    "id": "tw_quick_tip",
-    "name": "Daily Tip",
-    "category": "twitter-post",
-    "categoryLabel": "ð• Twitter",
-    "width": 1200,
-    "height": 675,
-    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#667eea,#764ba2);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:50px;left:50px;width:1100px;height:575px;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.2);border-radius:30px;z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:100px;left:100px;width:120px;height:120px;background:#fff;border-radius:30px;z-index:3;box-shadow:0 15px 30px rgba(0,0,0,0.2);\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:135px;left:250px;color:#fff;font-weight:900;font-size:42px;letter-spacing:5px;z-index:4;\">QUICK TIP #42</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:280px;left:100px;color:#fff;font-size:62px;font-weight:900;z-index:4;width:1000px;line-height:1.2;\">Audit your CSS once a month to remove dead rules and keep it fast.</h1>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:100px;left:100px;background:#fff;color:#764ba2;padding:12px 40px;border-radius:50px;font-weight:900;font-size:24px;z-index:4;\">Follow for daily tips! âœ…</div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
-  },
-  {
-    "id": "tw_flash_sale_twitter",
-    "name": "Twitter Sale",
-    "category": "twitter-post",
-    "categoryLabel": "ð• Twitter",
-    "width": 1200,
-    "height": 675,
-    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#1DA1F2;z-index:1;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:80px;left:0;width:1200px;text-align:center;color:#fff;font-size:120px;font-weight:900;z-index:4;margin:0;letter-spacing:-5px;\">FLASH SALE</h1>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:280px;left:450px;background:#000;color:#fff;padding:20px 60px;font-size:62px;font-weight:900;border-radius:20px;z-index:4;\">50% OFF</div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:480px;left:0;width:1200px;text-align:center;color:#fff;font-size:36px;z-index:4;font-weight:bold;\">Code: TWITTER50</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:40px;left:50%;transform:translateX(-50%);color:rgba(255,255,255,0.7);font-size:20px;z-index:4;\">Valid for 24 hours only!</div>\n        "
-  },
-  {
-    "id": "tw_question_social",
-    "name": "Poll Alternative",
-    "category": "twitter-post",
-    "categoryLabel": "ð• Twitter",
-    "width": 1200,
-    "height": 675,
-    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:50%;height:100%;background:#1e40af;z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;right:0;width:50%;height:100%;background:#b91c1c;z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:50px;left:0;width:1200px;text-align:center;color:#fff;font-size:72px;font-weight:900;z-index:5;text-shadow:0 10px 30px rgba(0,0,0,0.5);\">WHICH ONE? ðŸ‘‡</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:45%;left:50%;transform:translate(-50%,-50%);color:#fff;font-size:180px;font-weight:900;z-index:6;opacity:0.3;\">VS</h1>\n        \n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:250px;left:150px;width:400px;height:300px;background:rgba(255,255,255,0.1);border:4px solid #fff;border-radius:24px;z-index:4;backdrop-filter:blur(10px);\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:430px;left:150px;width:400px;text-align:center;color:#fff;font-weight:900;font-size:42px;z-index:5;\">ALPHA</div>\n        \n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:250px;right:150px;width:400px;height:300px;background:rgba(255,255,255,0.1);border:4px solid #fff;border-radius:24px;z-index:4;backdrop-filter:blur(10px);\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:430px;right:150px;width:400px;text-align:center;color:#fff;font-weight:900;font-size:42px;z-index:5;\">BETA</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:30px;left:0;width:1200px;text-align:center;color:#fff;font-size:24px;z-index:5;letter-spacing:5px;\">VOTE IN COMMENTS</div>\n        "
-  },
-  {
-    "id": "tw_new_blog",
-    "name": "Blog Preview",
-    "category": "twitter-post",
-    "categoryLabel": "ð• Twitter",
-    "width": 1200,
-    "height": 675,
-    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#f8fafc;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 100% 0%, rgba(29,161,242,0.1), transparent);z-index:2;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=1200&q=80\" style=\"position:absolute;top:40px;left:40px;width:1120px;height:320px;object-fit:cover;z-index:3;border-radius:20px 20px 0 0;\">\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:360px;left:40px;width:1120px;height:275px;background:#fff;border-radius:0 0 24px 24px;box-shadow:0 20px 40px rgba(0,0,0,0.05);z-index:3;border:1px solid #1DA1F2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:395px;left:80px;color:#1DA1F2;font-weight:900;font-size:24px;z-index:4;letter-spacing:5px;\">LATEST BLOG POST</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:440px;left:80px;color:#0f172a;font-size:52px;font-weight:900;z-index:4;width:1000px;line-height:1.1;\">10 Mistakes Every New UI Designer Makes in 2024</h1>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:80px;left:80px;background:#f1f5f9;color:#64748b;padding:8px 25px;border-radius:30px;font-size:22px;font-weight:bold;z-index:4;\">â±ï¸ 5 MIN READ</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:70px;right:80px;background:#1DA1F2;color:#fff;padding:15px 50px;border-radius:12px;font-weight:900;font-size:26px;z-index:4;\">Read on Blog â†’</div>\n        "
-  },
-  {
-    "id": "tw_teaser_launch",
-    "name": "Teaser Alert",
-    "category": "twitter-post",
-    "categoryLabel": "ð• Twitter",
-    "width": 1200,
-    "height": 675,
-    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#000;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:100px;left:100px;right:100px;bottom:100px;border:2px solid rgba(255,255,255,0.2);z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:280px;left:0;width:1200px;text-align:center;color:#fff;font-size:82px;font-weight:900;letter-spacing:20px;z-index:4;\">11.11.24</h1>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:400px;left:0;width:1200px;text-align:center;color:#1DA1F2;font-size:32px;font-weight:bold;z-index:4;\">SOMETHING BIG IS COMING</div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
-  },
-  {
-    "id": "tw_vibe_relaxed",
-    "name": "Relaxed Vibe",
-    "category": "twitter-post",
-    "categoryLabel": "ð• Twitter",
-    "width": 1200,
-    "height": 675,
-    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#ffdfba;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:280px;left:100px;color:#b5651d;font-size:72px;font-weight:900;z-index:4;\">Weekend<br>State of Mind</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:460px;left:100px;color:#b5651d;font-size:32px;z-index:4;\">Disconnect to reconnect. Have a great one! ✨</p>\n        "
-  },
-  {
-    "id": "tw_charity_soft",
-    "name": "Social Good",
-    "category": "twitter-post",
-    "categoryLabel": "ð• Twitter",
-    "width": 1200,
-    "height": 675,
-    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(to bottom right,#f0fdf4,#dcfce7);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:80px;left:80px;bottom:80px;width:15px;background:#166534;border-radius:20px;z-index:4;\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:120px;left:140px;color:#166534;font-size:72px;font-weight:900;z-index:4;letter-spacing:-3px;\">OUR COMMITMENT<br>TO THE PLANET</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:320px;left:140px;width:900px;color:#15803d;font-size:36px;font-weight:700;z-index:4;line-height:1.3;\">We're proud to announce that 5% of all profits go directly towards global reforestation efforts. Together, we're growing a greener future.</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:100px;left:140px;background:#166534;color:#fff;padding:18px 60px;border-radius:50px;font-weight:900;font-size:28px;z-index:4;box-shadow:0 10px 20px rgba(22,101,52,0.2);\">Learn About Our Impact</div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
-  },
-  {
-    "id": "tw_hiring_compact",
-    "name": "Quick Hiring",
-    "category": "twitter-post",
-    "categoryLabel": "ð• Twitter",
-    "width": 1200,
-    "height": 675,
-    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#000;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:10px;height:100%;background:#1DA1F2;z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:60px;color:#fff;font-size:82px;font-weight:900;z-index:4;margin:0;\">WE ARE<br>HIRING!</h1>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:300px;left:60px;color:#1DA1F2;font-size:32px;font-weight:bold;z-index:4;\">CONTENT CREATOR</div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:360px;left:60px;color:#888;font-size:24px;width:700px;z-index:4;\">Join our team and help us build the loudest brand on social. DM your portfolio! ðŸ“¥</p>\n        "
-  },
-  {
-    "id": "tw_podcast_snippet",
-    "name": "Audio Wave",
-    "category": "twitter-post",
-    "categoryLabel": "ð• Twitter",
-    "width": 1200,
-    "height": 675,
-    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#1DA1F2;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:0;width:1200px;text-align:center;color:#fff;font-size:52px;font-weight:900;z-index:4;\">EPISODE #89</div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:250px;left:300px;width:600px;height:150px;background:rgba(255,255,255,0.1);border-radius:20px;border:2px solid #fff;z-index:3;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:300px;left:0;width:1200px;text-align:center;color:#fff;font-size:42px;font-weight:bold;z-index:4;\">\"How to scale to $1M ARR\"</div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:60px;left:0;width:1200px;text-align:center;color:rgba(255,255,255,0.7);font-size:24px;z-index:4;\">Listen now on Spotify & ð• Spaces</p>\n        "
-  },
-  {
-    "id": "tw_customer_shoutout",
-    "name": "Customer Love",
-    "category": "twitter-post",
-    "categoryLabel": "ð• Twitter",
-    "width": 1200,
-    "height": 675,
-    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:100px;left:100px;width:1000px;height:450px;background:#1e293b;border-radius:40px;border:2px solid #38bdf8;z-index:2;box-shadow:0 30px 60px rgba(0,0,0,0.4);\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:60px;left:150px;color:#38bdf8;font-size:180px;font-family:serif;opacity:0.3;z-index:3;line-height:0.8;\">â€œ</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:220px;left:180px;color:#fff;font-size:52px;font-weight:900;z-index:4;width:840px;line-height:1.3;font-style:italic;\">\"This studio is the best tool I've used this year. Absolute game changer for content creators!\"</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;bottom:180px;left:180px;width:80px;height:6px;background:#38bdf8;z-index:4;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:120px;left:180px;color:#38bdf8;font-size:36px;font-weight:900;z-index:4;\">â€” @CryptoKing_99</div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
-  },
-  {
-    "id": "tw_protip_series",
-    "name": "Pro-tip #1",
-    "category": "twitter-post",
-    "categoryLabel": "ð• Twitter",
-    "width": 1080,
-    "height": 1080,
-    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#020617;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:100%;height:320px;background:linear-gradient(to right,#111,rgba(56,189,248,0.2));z-index:2;border-bottom:4px solid #38bdf8;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:0;width:1080px;text-align:center;color:#fff;font-size:110px;font-weight:900;z-index:4;margin:0;letter-spacing:10px;text-shadow:0 0 30px #38bdf8;\">PRO TIP #1</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:450px;left:100px;width:880px;height:450px;background:rgba(255,255,255,0.03);border:1px solid rgba(56,189,248,0.3);border-radius:30px;z-index:2;\"></div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:520px;left:140px;width:800px;text-align:center;color:#fff;font-size:52px;font-weight:800;z-index:4;line-height:1.3;\">Always use high-resolution images for your social media thumbnails to avoid blur on high-DPI screens. ðŸ’Ž</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:120px;left:50%;transform:translateX(-50%);background:#38bdf8;color:#020617;padding:22px 90px;border-radius:15px;font-weight:900;font-size:38px;z-index:4;box-shadow:0 0 40px rgba(56,189,248,0.4);\">Sub for Tip #2</div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
-  },
-  {
-    "id": "tw_app_highlight",
-    "name": "UI Showcase",
-    "category": "twitter-post",
-    "categoryLabel": "ð• Twitter",
-    "width": 1200,
-    "height": 675,
-    "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:1;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1551650975-87deedd944c3?auto=format&fit=crop&w=800&q=80\" style=\"position:absolute;top:0;right:0;width:700px;height:100%;object-fit:cover;z-index:2;clip-path:polygon(20% 0, 100% 0, 100% 100%, 0% 100%);\">\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:150px;left:80px;color:#fff;font-size:62px;font-weight:900;z-index:4;width:500px;\">Seamless<br>UI/UX</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:340px;left:80px;color:#94a3b8;font-size:26px;width:400px;z-index:4;\">Built with the user in mind. Experience the fastet app interface today.</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:80px;left:80px;background:#1DA1F2;color:#fff;padding:12px 40px;border-radius:50px;font-weight:bold;z-index:4;\">Download App</div>\n        "
-  }
+    {
+        "id": "tw_breaking_bold",
+        "name": "Breaking News",
+        "category": "twitter-post",
+        "subCategory": "twitter-post",
+        "width": 1209,
+        "height": 675,
+        "html": "<div id=\"design-bg\" style=\"position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background: radial-gradient(rgb(139, 0, 0) 0%, rgb(61, 0, 0) 40%, rgb(10, 0, 0) 100%); z-index: 1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; inset: 7.73196px auto auto 3.09278px; width: 100%; height: 140px; z-index: 2; outline: none; cursor: grab; background-color: rgb(0, 0, 0) !important;\" contenteditable=\"false\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: -30.3101px auto auto 304.33px; color: rgb(255, 51, 0); font-size: 72px; font-weight: 900; z-index: 4; margin: 0px; letter-spacing: -2px; text-shadow: rgb(255, 0, 0) 0px 0px 20px, rgba(255, 0, 0, 0.5) 0px 0px 50px, rgba(180, 0, 0, 0.3) 0px 0px 100px; outline: none; cursor: grab;\" contenteditable=\"false\">BREAKING NEWS</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; inset: 140px auto auto 0px; width: 20px; height: 535px; z-index: 2; outline: none; cursor: grab; background-color: rgb(0, 0, 0) !important;\" contenteditable=\"false\"></div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 226.288px auto auto 247.835px; color: rgb(255, 153, 136); font-size: 41px !important; font-weight: 800; z-index: 4; width: 746px; line-height: 1.2; text-shadow: rgba(255, 50, 0, 0.4) 0px 0px 10px; outline: none; cursor: grab; height: 234px;\" contenteditable=\"false\">A massive shift in digital landscape is happening right now. Are you ready?</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 530.857px auto auto 411.753px; background: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 10px 30px; font-weight: 900; font-size: 24px; z-index: 4; outline: none; cursor: grab;\" contenteditable=\"false\">#Breaking #TechNews</div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position: absolute; inset: -29.1237px auto auto 32.165px; color: rgb(255, 255, 255); font-size: 100px; z-index: 4; padding: 10px; cursor: grab; border: 2px dashed transparent; user-select: none; resize: both; overflow: visible; outline: none;\" contenteditable=\"false\">⚡</div>"
+    },
+    {
+        "id": "tw_alert_minimal",
+        "name": "Clean Alert",
+        "category": "twitter-post",
+        "categoryLabel": "ð• Twitter",
+        "width": 1200,
+        "height": 675,
+        "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#0a192f;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:-50px;left:-50px;width:300px;height:300px;background:rgba(251,191,36,0.1);border-radius:50%;filter:blur(60px);z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:40px;left:40px;right:40px;bottom:40px;background:rgba(255,255,255,0.03);border:2px solid rgba(251,191,36,0.3);border-radius:24px;z-index:2;backdrop-filter:blur(10px);\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:100px;color:#fbbf24;font-weight:900;font-size:36px;letter-spacing:10px;z-index:4;text-shadow:0 0 20px rgba(251,191,36,0.5);\">ALERT</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:180px;left:100px;color:#fff;font-size:72px;font-weight:900;z-index:4;width:1000px;line-height:1.1;\">SYSTEM UPDATE<br><span style=\"color:#fbbf24;\">VERSION 2.0</span> IS LIVE</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:400px;left:100px;color:#94a3b8;font-size:32px;z-index:4;width:900px;line-height:1.4;\">Experience a completely redesigned interface with 10x faster performance and enhanced security protocols.</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:100px;left:100px;background:#fbbf24;color:#0a192f;padding:18px 50px;border-radius:12px;font-weight:900;font-size:28px;z-index:4;box-shadow:0 10px 30px rgba(251,191,36,0.3);\">Check Changelog 🚀</div>\n        "
+    },
+    {
+        "id": "tw_feature_sleek",
+        "name": "Feature Spotlight",
+        "category": "twitter-post",
+        "categoryLabel": "ð• Twitter",
+        "width": 1600,
+        "height": 900,
+        "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:-200px;left:-200px;width:600px;height:600px;background:radial-gradient(circle,rgba(29,161,242,0.15),transparent);z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:100px;color:#38bdf8;font-weight:bold;font-size:32px;z-index:4;\">FEATURE HIGHLIGHT</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:180px;left:100px;color:#fff;font-size:92px;font-weight:900;z-index:4;width:900px;\">Dark Mode<br>is finally here.</h1>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80\" style=\"position:absolute;top:150px;right:100px;width:500px;height:600px;border-radius:30px;object-fit:cover;border:5px solid #1DA1F2;z-index:4;\">\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:150px;left:100px;background:#1DA1F2;color:#fff;padding:20px 60px;border-radius:50px;font-weight:900;font-size:36px;z-index:4;\">Upgrade Now</div>\n        "
+    },
+    {
+        "id": "tw_hot_take",
+        "name": "Hot Take / Opinion",
+        "category": "twitter-post",
+        "categoryLabel": "ð• Twitter",
+        "width": 1200,
+        "height": 675,
+        "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#ff4d4d,#f9cb28);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:-100px;right:-100px;width:500px;height:500px;background:rgba(255,255,255,0.15);border-radius:50%;z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:80px;left:80px;background:#000;color:#fff;padding:10px 30px;font-weight:900;font-size:28px;border-radius:5px;z-index:4;letter-spacing:5px;\">HOT TAKE 🔥</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:180px;left:80px;color:#fff;font-size:68px;font-weight:900;z-index:4;width:1040px;line-height:1.2;text-shadow:0 10px 20px rgba(0,0,0,0.2);\">Remote work is no longer a perk. It's a <span style=\"background:#fff;color:#ff4d4d;padding:0 15px;\">fundamental requirement</span> for top-tier global talent in 2024.</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;bottom:0;left:0;width:100%;height:120px;background:rgba(0,0,0,0.2);z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:40px;left:80px;color:#fff;font-size:32px;font-weight:bold;z-index:4;\">Do you agree? RT & Discuss below! ðŸ‘‡</div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
+    },
+    {
+        "id": "tw_event_vibrant",
+        "name": "Event Reminder",
+        "category": "twitter-post",
+        "categoryLabel": "ð• Twitter",
+        "width": 1200,
+        "height": 675,
+        "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#ff0080,#7928ca);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:180px;left:0;width:1200px;text-align:center;color:#fff;font-size:82px;font-weight:900;z-index:4;\">DON'T MISS OUT!</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:320px;left:0;width:1200px;text-align:center;color:rgba(255,255,255,0.9);font-size:36px;z-index:4;\">Early bird tickets expire in 24 hours.</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:80px;left:450px;background:#fff;color:#7928ca;padding:15px 60px;border-radius:50px;font-weight:900;font-size:28px;z-index:4;\">Register Now</div>\n        "
+    },
+    {
+        "id": "tw_community_spotlight",
+        "name": "Community Star",
+        "category": "twitter-post",
+        "categoryLabel": "ð• Twitter",
+        "width": 1200,
+        "height": 675,
+        "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:450px;height:100%;background:#1DA1F2;z-index:2;clip-path:polygon(0 0, 100% 0, 80% 100%, 0% 100%);\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:60px;color:#fff;font-size:62px;font-weight:900;width:350px;z-index:4;line-height:1;\">COMMUNITY STAR OF THE WEEK</h1>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:80px;right:100px;width:600px;height:500px;background:rgba(255,255,255,0.05);border:2px dashed rgba(29,161,242,0.5);border-radius:40px;z-index:2;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80\" style=\"position:absolute;top:120px;right:250px;width:300px;height:300px;border-radius:50%;border:10px solid #1DA1F2;z-index:4;object-fit:cover;box-shadow:0 20px 40px rgba(0,0,0,0.5);\">\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:440px;right:250px;width:300px;text-align:center;color:#fff;font-size:38px;font-weight:900;z-index:4;\">@JaneDesigner</div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:40px;left:480px;width:650px;color:#94a3b8;font-size:28px;z-index:4;line-height:1.4;font-style:italic;\">\"This studio has made my workflow 10x faster. Can't imagine working without it now!\"</p>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
+    },
+    {
+        "id": "tw_meme_brand",
+        "name": "Playful Brand",
+        "category": "twitter-post",
+        "categoryLabel": "ð• Twitter",
+        "width": 1080,
+        "height": 1080,
+        "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#000;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:0;width:1080px;text-align:center;color:#fff;font-size:48px;font-weight:bold;z-index:4;padding:20px;\">Me when I finally fix that<br>bug after 3 hours:</div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:550px;left:150px;width:650px;color:#94a3b8;font-size:28px;z-index:4;line-height:1.4;font-style:italic;\">\"This studio has made my workflow 10x faster. Can't imagine working without it now!\"</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:150px;left:0;width:1080px;text-align:center;color:#1DA1F2;font-size:36px;font-weight:900;z-index:4;\">#DeveloperLife #Coding</div>\n        "
+    },
+    {
+        "id": "tw_quick_tip",
+        "name": "Daily Tip",
+        "category": "twitter-post",
+        "categoryLabel": "ð• Twitter",
+        "width": 1200,
+        "height": 675,
+        "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#667eea,#764ba2);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:50px;left:50px;width:1100px;height:575px;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.2);border-radius:30px;z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:100px;left:100px;width:120px;height:120px;background:#fff;border-radius:30px;z-index:3;box-shadow:0 15px 30px rgba(0,0,0,0.2);\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:135px;left:250px;color:#fff;font-weight:900;font-size:42px;letter-spacing:5px;z-index:4;\">QUICK TIP #42</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:280px;left:100px;color:#fff;font-size:62px;font-weight:900;z-index:4;width:1000px;line-height:1.2;\">Audit your CSS once a month to remove dead rules and keep it fast.</h1>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:100px;left:100px;background:#fff;color:#764ba2;padding:12px 40px;border-radius:50px;font-weight:900;font-size:24px;z-index:4;\">Follow for daily tips! âœ…</div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
+    },
+    {
+        "id": "tw_flash_sale_twitter",
+        "name": "Twitter Sale",
+        "category": "twitter-post",
+        "categoryLabel": "ð• Twitter",
+        "width": 1200,
+        "height": 675,
+        "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#1DA1F2;z-index:1;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:80px;left:0;width:1200px;text-align:center;color:#fff;font-size:120px;font-weight:900;z-index:4;margin:0;letter-spacing:-5px;\">FLASH SALE</h1>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:280px;left:450px;background:#000;color:#fff;padding:20px 60px;font-size:62px;font-weight:900;border-radius:20px;z-index:4;\">50% OFF</div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:480px;left:0;width:1200px;text-align:center;color:#fff;font-size:36px;z-index:4;font-weight:bold;\">Code: TWITTER50</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:40px;left:50%;transform:translateX(-50%);color:rgba(255,255,255,0.7);font-size:20px;z-index:4;\">Valid for 24 hours only!</div>\n        "
+    },
+    {
+        "id": "tw_question_social",
+        "name": "Poll Alternative",
+        "category": "twitter-post",
+        "categoryLabel": "ð• Twitter",
+        "width": 1200,
+        "height": 675,
+        "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:50%;height:100%;background:#1e40af;z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;right:0;width:50%;height:100%;background:#b91c1c;z-index:2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:50px;left:0;width:1200px;text-align:center;color:#fff;font-size:72px;font-weight:900;z-index:5;text-shadow:0 10px 30px rgba(0,0,0,0.5);\">WHICH ONE? ðŸ‘‡</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:45%;left:50%;transform:translate(-50%,-50%);color:#fff;font-size:180px;font-weight:900;z-index:6;opacity:0.3;\">VS</h1>\n        \n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:250px;left:150px;width:400px;height:300px;background:rgba(255,255,255,0.1);border:4px solid #fff;border-radius:24px;z-index:4;backdrop-filter:blur(10px);\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:430px;left:150px;width:400px;text-align:center;color:#fff;font-weight:900;font-size:42px;z-index:5;\">ALPHA</div>\n        \n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:250px;right:150px;width:400px;height:300px;background:rgba(255,255,255,0.1);border:4px solid #fff;border-radius:24px;z-index:4;backdrop-filter:blur(10px);\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:430px;right:150px;width:400px;text-align:center;color:#fff;font-weight:900;font-size:42px;z-index:5;\">BETA</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:30px;left:0;width:1200px;text-align:center;color:#fff;font-size:24px;z-index:5;letter-spacing:5px;\">VOTE IN COMMENTS</div>\n        "
+    },
+    {
+        "id": "tw_new_blog",
+        "name": "Blog Preview",
+        "category": "twitter-post",
+        "categoryLabel": "ð• Twitter",
+        "width": 1200,
+        "height": 675,
+        "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#f8fafc;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 100% 0%, rgba(29,161,242,0.1), transparent);z-index:2;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=1200&q=80\" style=\"position:absolute;top:40px;left:40px;width:1120px;height:320px;object-fit:cover;z-index:3;border-radius:20px 20px 0 0;\">\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:360px;left:40px;width:1120px;height:275px;background:#fff;border-radius:0 0 24px 24px;box-shadow:0 20px 40px rgba(0,0,0,0.05);z-index:3;border:1px solid #1DA1F2;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:395px;left:80px;color:#1DA1F2;font-weight:900;font-size:24px;z-index:4;letter-spacing:5px;\">LATEST BLOG POST</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:440px;left:80px;color:#0f172a;font-size:52px;font-weight:900;z-index:4;width:1000px;line-height:1.1;\">10 Mistakes Every New UI Designer Makes in 2024</h1>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:80px;left:80px;background:#f1f5f9;color:#64748b;padding:8px 25px;border-radius:30px;font-size:22px;font-weight:bold;z-index:4;\">â±ï¸ 5 MIN READ</div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:70px;right:80px;background:#1DA1F2;color:#fff;padding:15px 50px;border-radius:12px;font-weight:900;font-size:26px;z-index:4;\">Read on Blog â†’</div>\n        "
+    },
+    {
+        "id": "tw_teaser_launch",
+        "name": "Teaser Alert",
+        "category": "twitter-post",
+        "categoryLabel": "ð• Twitter",
+        "width": 1200,
+        "height": 675,
+        "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#000;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:100px;left:100px;right:100px;bottom:100px;border:2px solid rgba(255,255,255,0.2);z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:280px;left:0;width:1200px;text-align:center;color:#fff;font-size:82px;font-weight:900;letter-spacing:20px;z-index:4;\">11.11.24</h1>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:400px;left:0;width:1200px;text-align:center;color:#1DA1F2;font-size:32px;font-weight:bold;z-index:4;\">SOMETHING BIG IS COMING</div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
+    },
+    {
+        "id": "tw_vibe_relaxed",
+        "name": "Relaxed Vibe",
+        "category": "twitter-post",
+        "categoryLabel": "ð• Twitter",
+        "width": 1200,
+        "height": 675,
+        "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#ffdfba;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:280px;left:100px;color:#b5651d;font-size:72px;font-weight:900;z-index:4;\">Weekend<br>State of Mind</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:460px;left:100px;color:#b5651d;font-size:32px;z-index:4;\">Disconnect to reconnect. Have a great one! ✨</p>\n        "
+    },
+    {
+        "id": "tw_charity_soft",
+        "name": "Social Good",
+        "category": "twitter-post",
+        "categoryLabel": "ð• Twitter",
+        "width": 1200,
+        "height": 675,
+        "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(to bottom right,#f0fdf4,#dcfce7);z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:80px;left:80px;bottom:80px;width:15px;background:#166534;border-radius:20px;z-index:4;\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:120px;left:140px;color:#166534;font-size:72px;font-weight:900;z-index:4;letter-spacing:-3px;\">OUR COMMITMENT<br>TO THE PLANET</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:320px;left:140px;width:900px;color:#15803d;font-size:36px;font-weight:700;z-index:4;line-height:1.3;\">We're proud to announce that 5% of all profits go directly towards global reforestation efforts. Together, we're growing a greener future.</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:100px;left:140px;background:#166534;color:#fff;padding:18px 60px;border-radius:50px;font-weight:900;font-size:28px;z-index:4;box-shadow:0 10px 20px rgba(22,101,52,0.2);\">Learn About Our Impact</div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
+    },
+    {
+        "id": "tw_hiring_compact",
+        "name": "Quick Hiring",
+        "category": "twitter-post",
+        "categoryLabel": "ð• Twitter",
+        "width": 1200,
+        "height": 675,
+        "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#000;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:10px;height:100%;background:#1DA1F2;z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:60px;color:#fff;font-size:82px;font-weight:900;z-index:4;margin:0;\">WE ARE<br>HIRING!</h1>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:300px;left:60px;color:#1DA1F2;font-size:32px;font-weight:bold;z-index:4;\">CONTENT CREATOR</div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:360px;left:60px;color:#888;font-size:24px;width:700px;z-index:4;\">Join our team and help us build the loudest brand on social. DM your portfolio! ðŸ“¥</p>\n        "
+    },
+    {
+        "id": "tw_podcast_snippet",
+        "name": "Audio Wave",
+        "category": "twitter-post",
+        "categoryLabel": "ð• Twitter",
+        "width": 1200,
+        "height": 675,
+        "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#1DA1F2;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:0;width:1200px;text-align:center;color:#fff;font-size:52px;font-weight:900;z-index:4;\">EPISODE #89</div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:250px;left:300px;width:600px;height:150px;background:rgba(255,255,255,0.1);border-radius:20px;border:2px solid #fff;z-index:3;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:300px;left:0;width:1200px;text-align:center;color:#fff;font-size:42px;font-weight:bold;z-index:4;\">\"How to scale to $1M ARR\"</div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:60px;left:0;width:1200px;text-align:center;color:rgba(255,255,255,0.7);font-size:24px;z-index:4;\">Listen now on Spotify & ð• Spaces</p>\n        "
+    },
+    {
+        "id": "tw_customer_shoutout",
+        "name": "Customer Love",
+        "category": "twitter-post",
+        "categoryLabel": "ð• Twitter",
+        "width": 1200,
+        "height": 675,
+        "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:100px;left:100px;width:1000px;height:450px;background:#1e293b;border-radius:40px;border:2px solid #38bdf8;z-index:2;box-shadow:0 30px 60px rgba(0,0,0,0.4);\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:60px;left:150px;color:#38bdf8;font-size:180px;font-family:serif;opacity:0.3;z-index:3;line-height:0.8;\">â€œ</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:220px;left:180px;color:#fff;font-size:52px;font-weight:900;z-index:4;width:840px;line-height:1.3;font-style:italic;\">\"This studio is the best tool I've used this year. Absolute game changer for content creators!\"</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;bottom:180px;left:180px;width:80px;height:6px;background:#38bdf8;z-index:4;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:120px;left:180px;color:#38bdf8;font-size:36px;font-weight:900;z-index:4;\">â€” @CryptoKing_99</div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
+    },
+    {
+        "id": "tw_protip_series",
+        "name": "Pro-tip #1",
+        "category": "twitter-post",
+        "categoryLabel": "ð• Twitter",
+        "width": 1080,
+        "height": 1080,
+        "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#020617;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:100%;height:320px;background:linear-gradient(to right,#111,rgba(56,189,248,0.2));z-index:2;border-bottom:4px solid #38bdf8;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:0;width:1080px;text-align:center;color:#fff;font-size:110px;font-weight:900;z-index:4;margin:0;letter-spacing:10px;text-shadow:0 0 30px #38bdf8;\">PRO TIP #1</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:450px;left:100px;width:880px;height:450px;background:rgba(255,255,255,0.03);border:1px solid rgba(56,189,248,0.3);border-radius:30px;z-index:2;\"></div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:520px;left:140px;width:800px;text-align:center;color:#fff;font-size:52px;font-weight:800;z-index:4;line-height:1.3;\">Always use high-resolution images for your social media thumbnails to avoid blur on high-DPI screens. ðŸ’Ž</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:120px;left:50%;transform:translateX(-50%);background:#38bdf8;color:#020617;padding:22px 90px;border-radius:15px;font-weight:900;font-size:38px;z-index:4;box-shadow:0 0 40px rgba(56,189,248,0.4);\">Sub for Tip #2</div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
+    },
+    {
+        "id": "tw_app_highlight",
+        "name": "UI Showcase",
+        "category": "twitter-post",
+        "categoryLabel": "ð• Twitter",
+        "width": 1200,
+        "height": 675,
+        "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:1;\"></div>\n        <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1551650975-87deedd944c3?auto=format&fit=crop&w=800&q=80\" style=\"position:absolute;top:0;right:0;width:700px;height:100%;object-fit:cover;z-index:2;clip-path:polygon(20% 0, 100% 0, 100% 100%, 0% 100%);\">\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:150px;left:80px;color:#fff;font-size:62px;font-weight:900;z-index:4;width:500px;\">Seamless<br>UI/UX</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:340px;left:80px;color:#94a3b8;font-size:26px;width:400px;z-index:4;\">Built with the user in mind. Experience the fastet app interface today.</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:80px;left:80px;background:#1DA1F2;color:#fff;padding:12px 40px;border-radius:50px;font-weight:bold;z-index:4;\">Download App</div>\n        "
+    }
 ]
