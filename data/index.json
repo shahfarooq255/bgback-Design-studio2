@@ -4066,7 +4066,7 @@
         "id": "li_hiring_creative",
         "name": "Creative Hiring",
         "category": "linkedin-post",
-        "categoryLabel": "ðŸ’¼ LinkedIn",
+        "subCategory": "linkedin-post",
         "width": 1080,
         "height": 1080
     },
