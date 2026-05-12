@@ -10806,22 +10806,14 @@ window.HD_TEMPLATES = [
         `
     },
     {
-        id: 'tpl_pinterest_2',
-        name: 'Travel Guide',
-        category: 'pinterest',
-        categoryLabel: 'ðŸ“Œ Pinterest',
-        width: 1000,
-        height: 1500,
-        html: `
-        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(160deg,#e0f7fa,#b2ebf2);z-index:1;"></div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:0;width:1000px;text-align:center;color:#00838f;font-size:38px;font-weight:800;letter-spacing:12px;font-family:'Inter',sans-serif;z-index:4;cursor:grab;border:2px dashed transparent;user-select:none;">TRAVEL GUIDE</div>
-        <h1 class="hd-draggable" data-type="text" style="position:absolute;top:170px;left:0;width:1000px;text-align:center;color:#004d40;font-size:130px;font-weight:900;font-family:'Georgia',serif;z-index:4;margin:0;cursor:grab;padding:10px;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;font-style:italic;">Santorini</h1>
-        <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:680px;left:80px;width:840px;height:700px;background:#fff;border-radius:30px;box-shadow:0 30px 80px rgba(0,0,0,0.1);z-index:3;cursor:grab;border:2px dashed transparent;user-select:none;resize:both;overflow:hidden;"></div>
-        <div class="hd-draggable" data-type="text" style="position:absolute;top:730px;left:0;width:1000px;text-align:center;color:#00838f;font-size:36px;font-weight:800;letter-spacing:5px;font-family:'Inter',sans-serif;z-index:4;cursor:grab;border:2px dashed transparent;user-select:none;">TOP HIDDEN SPOTS</div>
-        <p class="hd-draggable" data-type="text" style="position:absolute;top:810px;left:130px;color:#333;font-size:34px;font-family:'Inter',sans-serif;z-index:4;cursor:grab;border:2px dashed transparent;margin:0;user-select:none;resize:both;overflow:auto;width:740px;line-height:2.1;">âœ… Best sunset view points<br>âœ… Budget-friendly restaurants<br>âœ… Hidden beaches & caves<br>âœ… Local culture & food tips</p>
-        `
-    },
+    "id": "tpl_pinterest_2",
+    "name": "Travel Guide",
+    "category": "pinterest",
+    "subCategory": "sub-fb-ads",
+    "width": 1000,
+    "height": 1500,
+    "html": "<div id=\"design-bg\" style=\"position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background: linear-gradient(135deg, rgb(15, 32, 39), rgb(32, 58, 67), rgb(44, 83, 100)); z-index: 1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 100px; left: 0px; width: 1000px; text-align: center; color: rgb(0, 131, 143); font-size: 38px; font-weight: 800; letter-spacing: 12px; font-family: Inter, sans-serif; z-index: 4; cursor: grab; border: 2px dashed transparent; user-select: none; outline: none;\" contenteditable=\"false\">TRAVEL GUIDE</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 170px auto auto 0px; width: 1000px; text-align: center; color: rgb(126, 214, 255); font-size: 130px; font-weight: 900; font-family: Georgia, serif; z-index: 4; margin: 0px; cursor: grab; padding: 10px; border: 2px dashed transparent; user-select: none; resize: both; overflow: hidden; font-style: italic; outline: none; text-shadow: rgba(126, 214, 255, 0.6) 0px 0px 15px;\" contenteditable=\"false\">Santorini</h1>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position: absolute; top: 25px; left: 60px; color: rgb(255, 255, 255); font-size: 100px; z-index: 4; padding: 10px; cursor: grab; border: 2px dashed transparent; user-select: none; resize: both; overflow: visible; outline: none;\" contenteditable=\"false\">🚀</div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; inset: 680px auto auto 80px; width: 840px; height: 700px; border-radius: 30px; box-shadow: rgba(0, 0, 0, 0.1) 0px 30px 80px; z-index: 3; cursor: grab; border: 2px dashed transparent; user-select: none; resize: both; overflow: hidden; outline: none; background-color: rgb(16, 15, 15) !important; opacity: 0.25 !important;\" contenteditable=\"false\"></div>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 730px auto auto 0px; width: 1000px; text-align: center; color: rgb(0, 131, 143); font-size: 46px !important; font-weight: 800; letter-spacing: 5px; font-family: Inter, sans-serif; z-index: 4; cursor: grab; border: 2px dashed transparent; user-select: none; outline: none;\" contenteditable=\"false\">TOP HIDDEN SPOTS</div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 861.547px auto auto 167.228px; color: rgb(200, 230, 245); font-size: 36px !important; font-family: Inter, sans-serif; z-index: 4; cursor: grab; border: 2px dashed transparent; margin: 0px; user-select: none; resize: both; overflow: auto; width: 740px; line-height: 2.1; outline: none; text-shadow: none;\" contenteditable=\"false\">âœ… Best sunset view points<br>âœ… Budget-friendly restaurants<br>âœ… Hidden beaches &amp; caves<br>âœ… Local culture &amp; food tips</p>"
+},
     {
         id: 'tpl_pinterest_3',
         name: 'Workout Plan',
