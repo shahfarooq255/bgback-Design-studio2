@@ -4231,14 +4231,6 @@
         "height": 675
     },
     {
-        "id": "tw_meme_brand",
-        "name": "Playful Brand",
-        "category": "twitter-post",
-        "categoryLabel": "ð• Twitter",
-        "width": 1080,
-        "height": 1080
-    },
-    {
         "id": "tw_quick_tip",
         "name": "Daily Tip",
         "category": "twitter-post",
