@@ -4218,7 +4218,7 @@
         "id": "tw_event_vibrant",
         "name": "Event Reminder",
         "category": "twitter-post",
-        "categoryLabel": "ð• Twitter",
+        "subCategory": "twitter-post",
         "width": 1200,
         "height": 675
     },
