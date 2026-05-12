@@ -3732,9 +3732,9 @@
         "id": "tpl_bgback_10",
         "name": "One-Click Magic 10",
         "category": "facebook-post",
-        "categoryLabel": "ðŸ“˜ Facebook Post",
-        "width": 1200,
-        "height": 630
+        "subCategory": "facebook-post",
+        "width": 1080,
+        "height": 1080
     },
     {
         "id": "tpl_bgback_11",
