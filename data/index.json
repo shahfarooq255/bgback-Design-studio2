@@ -4162,7 +4162,7 @@
         "id": "li_team_showcase",
         "name": "Team Culture",
         "category": "linkedin-post",
-        "categoryLabel": "ðŸ’¼ LinkedIn",
+        "subCategory": "linkedin-post",
         "width": 1200,
         "height": 627
     },
