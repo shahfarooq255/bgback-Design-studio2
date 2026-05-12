@@ -8514,31 +8514,14 @@ window.HD_TEMPLATES = [
     },
 
     {
-        id: 'sport_008',
-        name: 'City Marathon 2024',
-        category: 'ad-creator',
-        subCategory: 'ad-sports',
-        categoryLabel: 'âš½ Sports & Fitness',
-        width: 1080,
-        height: 1080,
-        html: `
-                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;"></div>
-                
-                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;right:0;width:400px;height:100%;background:#fde047;z-index:2;clip-path:polygon(30% 0, 100% 0, 100% 100%, 0% 100%);"></div>
-                
-                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:150px;left:80px;color:#000000 !important;font-size:180px;font-weight:900;font-family:'Outfit',sans-serif;z-index:4;margin:0;line-height:0.8;letter-spacing:-10px;">RUN<br>CITY.</h1>
-                
-                <h2 class="hd-draggable" data-type="text" style="position:absolute;top:450px;left:80px;color:#000000 !important;font-size:45px;font-weight:700;font-family:'Inter',sans-serif;z-index:4;">ANNUAL MARATHON</h2>
-                
-                <div class="hd-draggable" data-type="shape" style="position:absolute;top:550px;left:80px;width:120px;height:12px;background:#000000;z-index:4;"></div>
-                
-                <div class="hd-draggable" data-type="text" style="position:absolute;top:620px;left:80px;width:500px;color:#4b5563 !important;font-size:24px;font-weight:400;font-family:'Inter',sans-serif;z-index:4;line-height:1.6;">Join thousands of runners in the most anticipated event of the year. Push your pace.</div>
-                
-                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:100px;left:80px;color:#000000 !important;font-size:32px;font-weight:900;font-family:'Outfit',sans-serif;z-index:4;">NOVEMBER 12 | CENTRAL PARK</div>
-                
-                <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-                `
-    },
+    "id": "sport_008",
+    "name": "City Marathon 2024",
+    "category": "ad-creator",
+    "subCategory": "ad-sports",
+    "width": 1080,
+    "height": 1080,
+    "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;\"></div>\n                \n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 0px; right: 0px; width: 400px; height: 100%; background: rgb(253, 224, 71); z-index: 2; clip-path: polygon(30% 0px, 100% 0px, 100% 100%, 0% 100%); outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n                \n                <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 90.2062px auto auto 73.8145px; font-size: 180px; font-weight: 900; font-family: Outfit, sans-serif; z-index: 4; margin: 0px; line-height: 0.8; letter-spacing: -10px; color: rgb(0, 0, 0) !important; outline: none; cursor: grab;\" contenteditable=\"false\">RUN<br>CITY.</h1>\n                \n                <h2 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 450px auto auto 96.4948px; font-size: 45px; font-weight: 700; font-family: Inter, sans-serif; z-index: 4; color: rgb(0, 0, 0) !important; outline: none; cursor: grab;\" contenteditable=\"false\">ANNUAL MARATHON</h2>\n                \n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 550px; left: 80px; width: 120px; height: 12px; background: rgb(0, 0, 0); z-index: 4; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n                \n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 620px auto auto 80px; width: 556px; font-size: 34px !important; font-weight: 400; font-family: Inter, sans-serif; z-index: 4; line-height: 1.6; color: rgb(75, 85, 99) !important; outline: none; cursor: grab; height: 179px;\" contenteditable=\"false\">Join thousands of runners in the most anticipated event of the year. Push your pace.</div>\n                \n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; bottom: 100px; left: 80px; font-size: 32px; font-weight: 900; font-family: Outfit, sans-serif; z-index: 4; color: rgb(0, 0, 0) !important; outline: none; cursor: grab;\" contenteditable=\"false\">NOVEMBER 12 | CENTRAL PARK</div>"
+},
 
     {
         id: 'sport_009',
