@@ -4146,7 +4146,7 @@
         "id": "li_hiring_exec",
         "name": "Executive Hiring",
         "category": "linkedin-post",
-        "categoryLabel": "ðŸ’¼ LinkedIn",
+        "subCategory": "linkedin-post",
         "width": 1200,
         "height": 627
     },
