@@ -13496,21 +13496,14 @@ window.HD_TEMPLATES = [
         `
     },
     {
-        id: 'news_art_exhibition',
-        name: 'Art Unveiling',
-        category: 'announcement',
-        categoryLabel: '📣 News',
-        width: 1200, height: 627,
-        html: `
-        <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#000;z-index:1;"></div>
-        <div class="hd-draggable" data-type="shape" style="position:absolute;top:50px;left:50px;right:50px;bottom:50px;border:1px solid #fff;z-index:2;"></div>
-        <h1 class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:0;width:1200px;text-align:center;color:#fff;font-size:32px;font-weight:bold;letter-spacing:15px;z-index:4;">THE LOUVRE REVEAL</h1>
-        <h1 class="hd-draggable" data-type="text" style="position:absolute;top:200px;left:0;width:1200px;text-align:center;color:#fff;font-size:120px;font-weight:900;z-index:4;line-height:0.8;">NEW MASTERPIECE<br>DISCOVERED</h1>
-        <p class="hd-draggable" data-type="text" style="position:absolute;top:420px;left:200px;width:800px;text-align:center;color:#aaa;font-size:28px;z-index:4;">A lost sketch by Da Vinci has been authenticated and will be displayed for the first time.</p>
-        <p class="hd-draggable" data-type="text" style="position:absolute;top:510px;left:200px;width:800px;text-align:center;color:#777;font-size:20px;z-index:4;">Exclusive viewing available for patrons this Friday evening from 6:00 PM onwards.</p>
-        <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-        `
-    },
+    "id": "news_art_exhibition",
+    "name": "Art Unveiling",
+    "category": "announcement",
+    "subCategory": "sub-fb-ads",
+    "width": 1200,
+    "height": 627,
+    "html": "<div id=\"design-bg\" style=\"position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background: linear-gradient(135deg, rgb(54, 0, 51), rgb(11, 135, 147)); z-index: 1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; inset: 44.2543px auto auto 50px; border: 1px solid rgb(255, 255, 255); z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; top: 100px; left: 0px; width: 1200px; text-align: center; color: rgb(224, 170, 255); font-size: 32px; font-weight: bold; letter-spacing: 15px; z-index: 4; outline: none; cursor: grab; text-shadow: rgb(224, 170, 255) 0px 0px 20px;\" contenteditable=\"false\">THE LOUVRE REVEAL</h1>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 204.309px auto auto 1.43643px; width: 1200px; text-align: center; color: rgb(255, 255, 255); font-size: 90px !important; font-weight: 900; z-index: 4; line-height: 0.8; outline: none; cursor: grab;\" contenteditable=\"false\">NEW MASTERPIECE<br>DISCOVERED</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 432.929px auto auto 201.436px; width: 800px; text-align: center; color: rgb(204, 214, 246); font-size: 26px !important; z-index: 4; outline: none; cursor: grab; text-shadow: none;\" contenteditable=\"false\">A lost sketch by Da Vinci has been authenticated and will be displayed for the first time.</p>\n        \n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position: absolute; inset: 25px auto auto 60px; color: rgb(255, 255, 255); font-size: 100px; z-index: 4; padding: 10px; cursor: grab; border: 2px dashed transparent; user-select: none; resize: both; overflow: visible; outline: none;\" contenteditable=\"false\">✨</div>"
+},
     {
         id: 'news_crypto_crash',
         name: 'Crypto Alert',
