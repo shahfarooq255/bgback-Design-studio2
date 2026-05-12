@@ -4154,7 +4154,7 @@
         "id": "li_minimal_brand",
         "name": "Minimal Branding",
         "category": "linkedin-post",
-        "categoryLabel": "ðŸ’¼ LinkedIn",
+        "subCategory": "linkedin-post",
         "width": 1200,
         "height": 627
     },
