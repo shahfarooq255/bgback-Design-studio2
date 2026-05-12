@@ -4042,7 +4042,7 @@
         "id": "li_webinar_modern",
         "name": "Expert Webinar",
         "category": "linkedin-post",
-        "categoryLabel": "ðŸ’¼ LinkedIn",
+        "subCategory": "linkedin-post",
         "width": 1200,
         "height": 627
     },
