@@ -4330,7 +4330,7 @@
         "id": "tw_app_highlight",
         "name": "UI Showcase",
         "category": "twitter-post",
-        "categoryLabel": "ð• Twitter",
+        "subCategory": "twitter-post",
         "width": 1200,
         "height": 675
     },
