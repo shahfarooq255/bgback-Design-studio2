@@ -111,10 +111,10 @@
         "id": "tw_vibe_relaxed",
         "name": "Relaxed Vibe",
         "category": "twitter-post",
-        "categoryLabel": "ð• Twitter",
+        "subCategory": "twitter-post",
         "width": 1200,
         "height": 675,
-        "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#ffdfba;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:280px;left:100px;color:#b5651d;font-size:72px;font-weight:900;z-index:4;\">Weekend<br>State of Mind</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:460px;left:100px;color:#b5651d;font-size:32px;z-index:4;\">Disconnect to reconnect. Have a great one! ✨</p>\n        "
+        "html": "<div id=\"design-bg\" style=\"position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background: linear-gradient(135deg, rgb(189, 195, 199), rgb(44, 62, 80)); z-index: 1;\"></div>\n        \n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 91.3409px auto auto 78.3506px; color: rgb(255, 255, 255); font-size: 72px; font-weight: 900; z-index: 4; outline: none; cursor: grab; text-shadow: rgba(0, 0, 0, 0.3) 0px 2px 8px; line-height: 1.2 !important;\" contenteditable=\"false\">Weekend<br>State of Mind</h1>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 334.742px auto auto 78.351px; color: rgba(255, 255, 255, 0.85); font-size: 36px !important; z-index: 4; outline: none; cursor: grab; text-shadow: none;\" contenteditable=\"false\">Disconnect to reconnect. Have a great one! ✨</p>\n        <div class=\" hd-draggable\" style=\"position: absolute; inset: 511.539px auto auto 128.75px; cursor: grab; padding: 12px 40px; border: 3px solid rgb(255, 255, 255) !important; user-select: none; z-index: 5; resize: both; overflow: hidden; font-size: 32px; font-weight: bold; color: rgb(255, 255, 255); background: linear-gradient(135deg, rgb(76, 72, 72), rgb(99, 96, 95)) !important; border-radius: 50px; text-align: center; box-sizing: border-box; box-shadow: rgba(0, 0, 0, 0.3) 0px 8px 15px; min-width: 200px; outline: none;\" contenteditable=\"false\">GET STARTED</div>"
     },
     {
         "id": "tw_charity_soft",
