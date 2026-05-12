@@ -1,5 +1,60 @@
 [
     {
+  "id": "tw_glass_modern",
+  "name": "Glassy Tech Update",
+  "category": "twitter-post",
+  "categoryLabel": "🐦 Twitter",
+  "width": 1200,
+  "height": 675,
+  "html": "\n<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(circle at 0% 0%, #1a1a2e 0%, #16213e 100%);z-index:1;\"></div>\n<div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:100px;left:100px;right:100px;bottom:100px;background:rgba(255,255,255,0.05);backdrop-filter:blur(10px);border:1px solid rgba(255,255,255,0.1);border-radius:20px;z-index:2;\"></div>\n<div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:140px;left:140px;width:60px;height:5px;background:#00d2ff;z-index:3;\"></div>\n<h2 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:160px;left:140px;color:#00d2ff;font-size:32px;font-weight:700;z-index:4;margin:0;letter-spacing:2px;text-transform:uppercase;\">New Launch</h2>\n<p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:240px;left:140px;color:#fff;font-size:58px;font-weight:800;z-index:4;width:800px;line-height:1.1;\">The future of Web Development is here. Stay ahead.</p>\n<div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:140px;left:140px;color:rgba(255,255,255,0.6);font-size:22px;z-index:4;\">Read more: yourlink.com</div>\n"
+},
+{
+  "id": "tw_bold_quote",
+  "name": "Minimalist Bold Quote",
+  "category": "twitter-post",
+  "categoryLabel": "🐦 Twitter",
+  "width": 1200,
+  "height": 675,
+  "html": "\n<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;\"></div>\n<div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:60px;left:60px;color:#000;font-size:180px;font-family:serif;font-weight:900;z-index:2;opacity:0.1;line-height:0.8;\">“</div>\n<p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:150px;left:120px;color:#000;font-size:64px;font-weight:900;z-index:4;width:950px;line-height:1.2;font-style:italic;\">Great things never come from comfort zones.</p>\n<div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:400px;left:120px;width:100px;height:10px;background:#000;z-index:3;\"></div>\n<div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:430px;left:120px;color:#555;font-size:32px;font-weight:600;z-index:4;\">Author Name</div>\n<div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute;bottom:60px;right:60px;font-size:60px;z-index:4;\">✨</div>\n"
+},
+{
+  "id": "tw_bold_quote",
+  "name": "Minimalist Bold Quote",
+  "category": "twitter-post",
+  "categoryLabel": "🐦 Twitter",
+  "width": 1200,
+  "height": 675,
+  "html": "\n<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;\"></div>\n<div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:60px;left:60px;color:#000;font-size:180px;font-family:serif;font-weight:900;z-index:2;opacity:0.1;line-height:0.8;\">“</div>\n<p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:150px;left:120px;color:#000;font-size:64px;font-weight:900;z-index:4;width:950px;line-height:1.2;font-style:italic;\">Great things never come from comfort zones.</p>\n<div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:400px;left:120px;width:100px;height:10px;background:#000;z-index:3;\"></div>\n<div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:430px;left:120px;color:#555;font-size:32px;font-weight:600;z-index:4;\">Author Name</div>\n<div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute;bottom:60px;right:60px;font-size:60px;z-index:4;\">✨</div>\n"
+},
+{
+  "id": "tw_cyber_alert",
+  "name": "Cyberpunk Alert",
+  "category": "twitter-post",
+  "categoryLabel": "🐦 Twitter",
+  "width": 1200,
+  "height": 675,
+  "html": "\n<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#0f0c29;z-index:1;\"></div>\n<div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:-100px;right:-100px;width:400px;height:400px;background:linear-gradient(45deg, #ff00cc, #3333ff);filter:blur(80px);border-radius:50%;z-index:2;opacity:0.6;\"></div>\n<h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:200px;left:80px;color:#fff;font-size:85px;font-weight:900;z-index:4;margin:0;text-shadow: 4px 4px 0px #ff00cc;\">URGENT UPDATE</h1>\n<p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:330px;left:85px;color:#00ffcc;font-size:40px;font-weight:700;z-index:4;width:900px;letter-spacing:1px;\">Don't miss out on the latest API changes!</p>\n<div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;bottom:80px;left:80px;width:300px;height:60px;background:#fff;z-index:3;clip-path: polygon(0 0, 100% 0, 85% 100%, 0% 100%);\"></div>\n<div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:92px;left:105px;color:#000;font-weight:900;font-size:24px;z-index:4;\">JOIN THE WAITLIST</div>\n"
+},
+{
+  "id": "tw_stats_clean",
+  "name": "Corporate Stats",
+  "category": "twitter-post",
+  "categoryLabel": "🐦 Twitter",
+  "width": 1200,
+  "height": 675,
+  "html": "\n<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#f4f7f6;z-index:1;\"></div>\n<div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:100%;height:10px;background:#2c3e50;z-index:2;\"></div>\n<div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:80px;left:70px;color:#2c3e50;font-size:100px;font-weight:900;z-index:4;\">95%</div>\n<div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:190px;left:75px;color:#e74c3c;font-size:32px;font-weight:700;z-index:4;\">Success Rate Increased</div>\n<p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:300px;left:70px;color:#34495e;font-size:45px;font-weight:600;z-index:4;width:800px;line-height:1.4;\">Our new background removal engine is faster and more precise than ever.</p>\n<div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:80px;right:70px;width:300px;height:300px;background:#2c3e50;border-radius:30px;z-index:2;opacity:0.05;\"></div>\n"
+},
+{
+  "id": "tw_split_news",
+  "name": "Modern Split News",
+  "category": "twitter-post",
+  "categoryLabel": "🐦 Twitter",
+  "width": 1200,
+  "height": 675,
+  "html": "\n<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:1;\"></div>\n<div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:40%;height:100%;background:#1DA1F2;z-index:2;\"></div>\n<div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute;top:40%;left:12%;font-size:150px;z-index:3;\">💡</div>\n<h3 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:120px;left:45%;color:#1DA1F2;font-size:28px;font-weight:800;z-index:4;\">DESIGN TIP OF THE DAY</h3>\n<h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:180px;left:45%;color:#000;font-size:68px;font-weight:900;z-index:4;width:600px;line-height:1.1;\">Contrast is the key to clarity.</h1>\n<p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:450px;left:45%;color:#666;font-size:24px;font-weight:500;z-index:4;width:550px;\">Make your content readable by using high contrast colors and clear typography.</p>\n"
+},
+
+    {
         "id": "tw_breaking_bold",
         "name": "Breaking News",
         "category": "twitter-post",
