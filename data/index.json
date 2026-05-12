@@ -4322,7 +4322,7 @@
         "id": "tw_protip_series",
         "name": "Pro-tip #1",
         "category": "twitter-post",
-        "categoryLabel": "ð• Twitter",
+        "subCategory": "twitter-post",
         "width": 1080,
         "height": 1080
     },
