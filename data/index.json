@@ -4143,14 +4143,6 @@
         "height": 627
     },
     {
-        "id": "li_event_professional",
-        "name": "Corporate Event",
-        "category": "linkedin-post",
-        "categoryLabel": "ðŸ’¼ LinkedIn",
-        "width": 1200,
-        "height": 627
-    },
-    {
         "id": "li_hiring_exec",
         "name": "Executive Hiring",
         "category": "linkedin-post",
