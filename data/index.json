@@ -3764,7 +3764,7 @@
         "id": "tpl_bgback_14",
         "name": "Remove Anything 14",
         "category": "facebook-post",
-        "categoryLabel": "ðŸ“˜ Facebook Post",
+        "subCategory": "facebook-post",
         "width": 1200,
         "height": 630
     },
