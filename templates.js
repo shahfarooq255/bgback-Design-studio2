@@ -8390,32 +8390,14 @@ window.HD_TEMPLATES = [
     },
 
     {
-        id: 'sport_004',
-        name: 'Sports Championship',
-        category: 'ad-creator',
-        subCategory: 'ad-sports',
-        categoryLabel: 'âš½ Sports & Fitness',
-        width: 1080,
-        height: 1080,
-        html: `
-                <div id="design-bg" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#1e40af;z-index:1;"></div>
-                
-                <!-- Dynamic Angled Shapes -->
-                <div class="hd-draggable" data-type="shape" style="position:absolute;top:0;right:0;width:600px;height:100%;background:#1d4ed8;z-index:2;clip-path:polygon(20% 0, 100% 0, 100% 100%, 0% 100%);"></div>
-                
-                <h1 class="hd-draggable" data-type="text" style="position:absolute;top:100px;left:100px;color:#ffffff !important;font-size:110px;font-weight:900;font-family:'Outfit',sans-serif;z-index:4;margin:0;line-height:0.9;font-style:italic;">BASKETBALL<br>SHOWDOWN</h1>
-                
-                <div class="hd-draggable" data-type="text" style="position:absolute;top:320px;left:100px;background:#fbbf24;color:#000 !important;padding:10px 30px;font-size:24px;font-weight:800;z-index:5;font-family:'Inter',sans-serif;">FINALS 2024</div>
-                
-                <div class="hd-draggable" data-type="shape" style="position:absolute;top:100px;right:100px;width:450px;height:650px;background:url('https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=600&q=80');background-size:cover;z-index:3;border-radius:30px;border:5px solid #fbbf24;"></div>
-                
-                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:150px;left:100px;color:#ffffff !important;font-size:45px;font-weight:900;font-family:'Inter',sans-serif;z-index:4;">WARRIORS vs TITANS</div>
-                
-                <div class="hd-draggable" data-type="text" style="position:absolute;bottom:80px;left:100px;color:#fbbf24 !important;font-size:24px;font-weight:700;font-family:'Inter',sans-serif;z-index:4;">LIVE AT MADISON SQUARE GARDEN | OCT 15 | 7 PM</div>
-                
-                <div class="hd-draggable" data-type="emoji" style="position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;">🚀</div>
-                `
-    },
+    "id": "sport_004",
+    "name": "Sports Championship",
+    "category": "ad-creator",
+    "subCategory": "ad-sports",
+    "width": 1080,
+    "height": 1080,
+    "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#1e40af;z-index:1;\"></div>\n                \n                <!-- Dynamic Angled Shapes -->\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 0px; right: 0px; width: 600px; height: 100%; background: rgb(29, 78, 216); z-index: 2; clip-path: polygon(20% 0px, 100% 0px, 100% 100%, 0% 100%); outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n                \n                <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 143.299px auto auto 50.5154px; font-size: 110px; font-weight: 900; font-family: Outfit, sans-serif; z-index: 4; margin: 0px; line-height: 0.9; font-style: italic; color: rgb(255, 255, 255) !important; outline: none; cursor: grab;\" contenteditable=\"false\">BASKETBALL<br>SHOWDOWN</h1>\n                \n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 505.567px auto auto 104.124px; background: rgb(251, 191, 36); padding: 10px 30px; font-size: 24px; font-weight: 800; z-index: 5; font-family: Inter, sans-serif; color: rgb(0, 0, 0) !important; outline: none; cursor: grab;\" contenteditable=\"false\">FINALS 2024</div>\n                \n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 100px; right: 100px; width: 450px; height: 650px; background: url(&quot;https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&amp;fit=crop&amp;w=600&amp;q=80&quot;) 0% 0% / cover; z-index: 3; border-radius: 30px; border: 5px solid rgb(251, 191, 36); outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n                \n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 815.639px auto auto 89.6907px; font-size: 45px; font-weight: 900; font-family: Inter, sans-serif; z-index: 4; color: rgb(255, 255, 255) !important; outline: none; cursor: grab;\" contenteditable=\"false\">WARRIORS vs TITANS</div>\n                \n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; bottom: 80px; left: 100px; font-size: 24px; font-weight: 700; font-family: Inter, sans-serif; z-index: 4; color: rgb(251, 191, 36) !important; outline: none; cursor: grab;\" contenteditable=\"false\">LIVE AT MADISON SQUARE GARDEN | OCT 15 | 7 PM</div>"
+},
 
     {
         id: 'sport_005',
