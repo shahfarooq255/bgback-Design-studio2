@@ -4362,7 +4362,7 @@
         "id": "pin_decor_serene",
         "name": "Interior Guide",
         "category": "pinterest",
-        "categoryLabel": "ðŸ“Œ Pinterest",
+        "subCategory": "pinterest",
         "width": 1000,
         "height": 1500
     },
