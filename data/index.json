@@ -3594,7 +3594,7 @@
         "id": "tpl_pinterest_2",
         "name": "Travel Guide",
         "category": "pinterest",
-        "categoryLabel": "ðŸ“Œ Pinterest",
+        "subCategory": "pinterest",
         "width": 1000,
         "height": 1500
     },
