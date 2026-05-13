@@ -5018,7 +5018,7 @@
         "id": "brand_organic_food",
         "name": "Farm Brand Identity",
         "category": "branding",
-        "categoryLabel": "ðŸ·ï¸ Branding",
+        "subCategory": "branding",
         "width": 1080,
         "height": 1080
     },
