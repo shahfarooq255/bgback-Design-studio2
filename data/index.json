@@ -4930,7 +4930,7 @@
         "id": "brand_tech_future",
         "name": "Tech Brand Guidelines",
         "category": "branding",
-        "categoryLabel": "ðŸ·ï¸ Branding",
+        "subCategory": "branding",
         "width": 1200,
         "height": 627
     },
