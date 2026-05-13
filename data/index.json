@@ -4242,7 +4242,7 @@
         "id": "tw_flash_sale_twitter",
         "name": "Twitter Sale",
         "category": "twitter-post",
-        "categoryLabel": "ð• Twitter",
+        "subCategory": "twitter-post",
         "width": 1200,
         "height": 675
     },
