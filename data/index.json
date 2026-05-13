@@ -6775,5 +6775,13 @@
         "subCategory": "twitter-post",
         "width": 1200,
         "height": 675
+    },
+    {
+        "id": "tpl_bgback-2_advance_layout_5_4",
+        "name": "Advance Layout 5",
+        "category": "bgback-2",
+        "subCategory": "bgback-2",
+        "width": 1080,
+        "height": 1350
     }
 ]
