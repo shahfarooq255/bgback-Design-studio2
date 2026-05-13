@@ -4306,7 +4306,7 @@
         "id": "tw_customer_shoutout",
         "name": "Customer Love",
         "category": "twitter-post",
-        "categoryLabel": "ð• Twitter",
+        "subCategory": "twitter-post",
         "width": 1200,
         "height": 675
     },
