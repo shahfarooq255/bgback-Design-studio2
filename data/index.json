@@ -4442,7 +4442,7 @@
         "id": "pin_career_roadmap",
         "name": "Career Path",
         "category": "pinterest",
-        "categoryLabel": "ðŸ“Œ Pinterest",
+        "subCategory": "pinterest",
         "width": 1000,
         "height": 1500
     },
