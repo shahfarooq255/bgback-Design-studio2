@@ -4482,7 +4482,7 @@
         "id": "pin_gardening_serene",
         "name": "Green Thumb",
         "category": "pinterest",
-        "categoryLabel": "ðŸ“Œ Pinterest",
+        "subCategory": "pinterest",
         "width": 1000,
         "height": 1500
     },
