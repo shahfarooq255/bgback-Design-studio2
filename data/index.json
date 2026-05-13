@@ -4946,7 +4946,7 @@
         "id": "brand_coffee_identity",
         "name": "Artisan Cafe Brand",
         "category": "branding",
-        "categoryLabel": "ðŸ·ï¸ Branding",
+        "subCategory": "branding",
         "width": 1080,
         "height": 1080
     },
