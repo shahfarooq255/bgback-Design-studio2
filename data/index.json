@@ -5202,7 +5202,7 @@
         "id": "portrait_yoga_meditate",
         "name": "Mindfulness Portrait",
         "category": "insta_portrait",
-        "categoryLabel": "ðŸ¤³ Portrait",
+        "subCategory": "insta_portrait",
         "width": 1080,
         "height": 1350
     },
