@@ -4386,7 +4386,7 @@
         "id": "pin_tutorial_steps",
         "name": "DIY Steps",
         "category": "pinterest",
-        "categoryLabel": "ðŸ“Œ Pinterest",
+        "subCategory": "pinterest",
         "width": 1000,
         "height": 1500
     },
