@@ -4938,7 +4938,7 @@
         "id": "brand_fashion_lookbook",
         "name": "Fashion Identity",
         "category": "branding",
-        "categoryLabel": "ðŸ·ï¸ Branding",
+        "subCategory": "branding",
         "width": 1080,
         "height": 1080
     },
