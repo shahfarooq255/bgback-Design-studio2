@@ -4732,7 +4732,7 @@
         "id": "news_eco_alert",
         "name": "Climate Report",
         "category": "announcement",
-        "categoryLabel": "📣 News",
+        "subCategory": "announcement",
         "width": 1080,
         "height": 1080
     },
