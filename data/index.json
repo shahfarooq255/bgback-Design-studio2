@@ -5029,7 +5029,7 @@
         "id": "brand_creative_studio",
         "name": "Design Studio Brand",
         "category": "branding",
-        "categoryLabel": "ðŸ·ï¸ Branding",
+        "subCategory": "branding",
         "width": 1200,
         "height": 627
     },
