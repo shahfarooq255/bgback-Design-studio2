@@ -4764,7 +4764,7 @@
         "id": "news_crypto_crash",
         "name": "Crypto Alert",
         "category": "announcement",
-        "categoryLabel": "📣 News",
+        "subCategory": "announcement",
         "width": 1080,
         "height": 1080
     },
