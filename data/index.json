@@ -4650,7 +4650,7 @@
         "id": "news_breaking_red",
         "name": "Breaking Alert",
         "category": "announcement",
-        "categoryLabel": "📣 News",
+        "subCategory": "announcement",
         "width": 1200,
         "height": 627
     },
