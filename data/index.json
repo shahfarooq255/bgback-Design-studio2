@@ -4574,7 +4574,7 @@
         "id": "sale_spring_vibes",
         "name": "Spring Renewal",
         "category": "sale",
-        "categoryLabel": "🔥 Sale",
+        "subCategory": "sale",
         "width": 1080,
         "height": 1080
     },
