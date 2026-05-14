@@ -4526,7 +4526,7 @@
         "id": "sale_bogo_popup",
         "name": "BOGO Special",
         "category": "sale",
-        "categoryLabel": "🔥 Sale",
+        "subCategory": "sale",
         "width": 1080,
         "height": 1080
     },
