@@ -4900,7 +4900,7 @@
         "id": "event_art_tour",
         "name": "Museum Walk",
         "category": "event",
-        "categoryLabel": "🎉 Event",
+        "subCategory": "event",
         "width": 1080,
         "height": 1080
     },
