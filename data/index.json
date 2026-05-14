@@ -6734,7 +6734,7 @@
         "id": "vc_high_contrast_neon",
         "name": "Neon Cyberpunk",
         "category": "visiting-card",
-        "categoryLabel": "ðŸªª Visiting Card",
+        "subCategory": "visiting-card",
         "width": 1050,
         "height": 600
     },
