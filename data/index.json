@@ -4788,7 +4788,7 @@
         "id": "event_meetup_vibe",
         "name": "Community Meet",
         "category": "event",
-        "categoryLabel": "🎉 Event",
+        "subCategory": "event",
         "width": 1080,
         "height": 1080
     },
