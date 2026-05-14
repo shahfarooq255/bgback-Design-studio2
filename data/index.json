@@ -3646,7 +3646,7 @@
         "id": "tpl_story_2",
         "name": "Daily Quote",
         "category": "story",
-        "categoryLabel": "â±ï¸ Story",
+        "subCategory": "story",
         "width": 1080,
         "height": 1920
     },
