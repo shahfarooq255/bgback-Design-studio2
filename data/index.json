@@ -4668,7 +4668,7 @@
         "id": "news_minimal_flash",
         "name": "Quick Flash",
         "category": "announcement",
-        "categoryLabel": "📣 News",
+        "subCategory": "announcement",
         "width": 1080,
         "height": 1080
     },
