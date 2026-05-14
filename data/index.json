@@ -6852,5 +6852,13 @@
         "subCategory": "bgback-2",
         "width": 1080,
         "height": 1350
+    },
+    {
+        "id": "tpl_bgback-2_advance_layout_20_19",
+        "name": "Advance Layout 20",
+        "category": "bgback-2",
+        "subCategory": "bgback-2",
+        "width": 1080,
+        "height": 1350
     }
 ]
