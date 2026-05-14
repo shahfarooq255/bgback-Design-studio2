@@ -4740,7 +4740,7 @@
         "id": "news_gaming_esports",
         "name": "Tournament Win",
         "category": "announcement",
-        "categoryLabel": "📣 News",
+        "subCategory": "announcement",
         "width": 1200,
         "height": 627
     },
