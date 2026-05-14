@@ -4406,7 +4406,7 @@
         "id": "pin_travel_vibe",
         "name": "Serene Escape",
         "category": "pinterest",
-        "categoryLabel": "ðŸ“Œ Pinterest",
+        "subCategory": "pinterest",
         "width": 1000,
         "height": 1500
     },
