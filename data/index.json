@@ -4876,7 +4876,7 @@
         "id": "event_charity_run",
         "name": "Run for Cause",
         "category": "event",
-        "categoryLabel": "🎉 Event",
+        "subCategory": "event",
         "width": 1200,
         "height": 627
     },
