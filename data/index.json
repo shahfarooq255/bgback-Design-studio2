@@ -4684,7 +4684,7 @@
         "id": "news_health_alert",
         "name": "Health Advisory",
         "category": "announcement",
-        "categoryLabel": "📣 News",
+        "subCategory": "announcement",
         "width": 1080,
         "height": 1080
     },
