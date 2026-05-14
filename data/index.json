@@ -4916,7 +4916,7 @@
         "id": "event_gaming_vr",
         "name": "Metaverse Party",
         "category": "event",
-        "categoryLabel": "🎉 Event",
+        "subCategory": "event",
         "width": 1080,
         "height": 1080
     },
