@@ -4756,7 +4756,7 @@
         "id": "news_art_exhibition",
         "name": "Art Unveiling",
         "category": "announcement",
-        "categoryLabel": "📣 News",
+        "subCategory": "announcement",
         "width": 1200,
         "height": 627
     },
