@@ -4660,7 +4660,7 @@
         "id": "news_corporate_blue",
         "name": "Office Update",
         "category": "announcement",
-        "categoryLabel": "📣 News",
+        "subCategory": "announcement",
         "width": 1200,
         "height": 627
     },
