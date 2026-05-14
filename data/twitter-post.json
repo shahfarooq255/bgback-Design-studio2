@@ -147,10 +147,10 @@
         "id": "tw_hiring_compact",
         "name": "Quick Hiring",
         "category": "twitter-post",
-        "categoryLabel": "ð• Twitter",
+        "subCategory": "twitter-post",
         "width": 1200,
         "height": 675,
-        "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#000;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:10px;height:100%;background:#1DA1F2;z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:100px;left:60px;color:#fff;font-size:82px;font-weight:900;z-index:4;margin:0;\">WE ARE<br>HIRING!</h1>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:300px;left:60px;color:#1DA1F2;font-size:32px;font-weight:bold;z-index:4;\">CONTENT CREATOR</div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:360px;left:60px;color:#888;font-size:24px;width:700px;z-index:4;\">Join our team and help us build the loudest brand on social. DM your portfolio! ðŸ“¥</p>\n        "
+        "html": "<div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#000;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position: absolute; top: 0px; left: 0px; width: 10px; height: 100%; background: rgb(29, 161, 242); z-index: 2; outline: none; cursor: grab;\" contenteditable=\"false\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 40.6401px auto auto 85.3152px; color: rgb(255, 255, 255); font-size: 82px; font-weight: 900; z-index: 4; margin: 0px; outline: none; cursor: grab; line-height: 1.2 !important;\" contenteditable=\"false\">WE ARE<br>HIRING!</h1>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 293.889px auto auto 94.0446px; color: rgb(29, 161, 242); font-size: 32px; font-weight: bold; z-index: 4; outline: none; cursor: grab;\" contenteditable=\"false\">CONTENT CREATOR</div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position: absolute; inset: 387.934px auto auto 86.1882px; color: rgb(136, 136, 136); font-size: 26px !important; width: 700px; z-index: 4; outline: none; cursor: grab;\" contenteditable=\"false\">Join our team and help us build the loudest brand on social. DM your portfolio! ðŸ“¥</p>"
     },
     {
         "id": "tw_podcast_snippet",
