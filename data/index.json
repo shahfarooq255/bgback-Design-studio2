@@ -4852,7 +4852,7 @@
         "id": "event_wedding_soft",
         "name": "Save the Date",
         "category": "event",
-        "categoryLabel": "🎉 Event",
+        "subCategory": "event",
         "width": 1080,
         "height": 1080
     },
