@@ -6510,7 +6510,7 @@
         "id": "vc_double_profile",
         "name": "Double Impact",
         "category": "visiting-card",
-        "categoryLabel": "ðŸªª Visiting Card",
+        "subCategory": "visiting-card",
         "width": 1050,
         "height": 600
     },
