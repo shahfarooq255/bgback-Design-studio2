@@ -4462,7 +4462,7 @@
         "id": "pin_art_abstract",
         "name": "Artist Showcase",
         "category": "pinterest",
-        "categoryLabel": "ðŸ“Œ Pinterest",
+        "subCategory": "pinterest",
         "width": 1000,
         "height": 1500
     },
