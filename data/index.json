@@ -4558,7 +4558,7 @@
         "id": "sale_blue_monday",
         "name": "Monday Madness",
         "category": "sale",
-        "categoryLabel": "🔥 Sale",
+        "subCategory": "sale",
         "width": 1080,
         "height": 1080
     },
