@@ -3508,7 +3508,9 @@
         "id": "tpl_motivational_quote",
         "name": "Motivational Quote",
         "category": "announcement",
-        "categoryLabel": "📣 News"
+        "subCategory": "announcement",
+        "width": 1200,
+        "height": 630
     },
     {
         "id": "tpl_fun_fact",
