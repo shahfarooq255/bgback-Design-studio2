@@ -5037,7 +5037,7 @@
         "id": "brand_edu_modern",
         "name": "Education Brand",
         "category": "branding",
-        "categoryLabel": "ðŸ·ï¸ Branding",
+        "subCategory": "branding",
         "width": 1080,
         "height": 1080
     },
