@@ -4804,7 +4804,7 @@
         "id": "event_workshop_minimal",
         "name": "Craft Class",
         "category": "event",
-        "categoryLabel": "🎉 Event",
+        "subCategory": "event",
         "width": 1080,
         "height": 1080
     },
