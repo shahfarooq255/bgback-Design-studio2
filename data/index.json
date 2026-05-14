@@ -4965,7 +4965,7 @@
         "id": "brand_organic_skincare",
         "name": "Beauty Brand Identity",
         "category": "branding",
-        "categoryLabel": "ðŸ·ï¸ Branding",
+        "subCategory": "branding",
         "width": 1080,
         "height": 1080
     },
