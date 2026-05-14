@@ -4724,7 +4724,7 @@
         "id": "news_business_deal",
         "name": "Acquisition News",
         "category": "announcement",
-        "categoryLabel": "📣 News",
+        "subCategory": "announcement",
         "width": 1200,
         "height": 627
     },
