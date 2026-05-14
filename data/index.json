@@ -4708,7 +4708,7 @@
         "id": "news_weather_vibrant",
         "name": "Weather Forecast",
         "category": "announcement",
-        "categoryLabel": "📣 News",
+        "subCategory": "announcement",
         "width": 1200,
         "height": 627
     },
