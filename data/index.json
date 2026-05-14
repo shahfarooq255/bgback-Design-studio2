@@ -4820,7 +4820,7 @@
         "id": "event_tech_hack",
         "name": "Hackathon 24",
         "category": "event",
-        "categoryLabel": "🎉 Event",
+        "subCategory": "event",
         "width": 1080,
         "height": 1080
     },
