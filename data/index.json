@@ -6710,7 +6710,7 @@
         "id": "vc_neumorphic_soft",
         "name": "Soft Neumorph",
         "category": "visiting-card",
-        "categoryLabel": "ðŸªª Visiting Card",
+        "subCategory": "visiting-card",
         "width": 1050,
         "height": 600
     },
