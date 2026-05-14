@@ -3516,7 +3516,9 @@
         "id": "tpl_fun_fact",
         "name": "Fun Fact Card",
         "category": "announcement",
-        "categoryLabel": "📣 News"
+        "subCategory": "announcement",
+        "width": 1200,
+        "height": 630
     },
     {
         "id": "tpl_event_invite",
