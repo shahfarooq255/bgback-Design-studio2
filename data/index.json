@@ -6542,7 +6542,7 @@
         "id": "vc_overlap_modern",
         "name": "The Overlap Pro",
         "category": "visiting-card",
-        "categoryLabel": "ðŸªª Visiting Card",
+        "subCategory": "visiting-card",
         "width": 1050,
         "height": 600
     },
