@@ -4860,7 +4860,7 @@
         "id": "event_food_tasting",
         "name": "Flavor Fest",
         "category": "event",
-        "categoryLabel": "🎉 Event",
+        "subCategory": "event",
         "width": 1200,
         "height": 627
     },
