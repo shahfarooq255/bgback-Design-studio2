@@ -4772,7 +4772,7 @@
         "id": "event_webinar_pro",
         "name": "Masterclass Invite",
         "category": "event",
-        "categoryLabel": "🎉 Event",
+        "subCategory": "event",
         "width": 1080,
         "height": 1080
     },
