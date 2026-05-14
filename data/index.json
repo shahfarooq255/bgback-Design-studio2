@@ -4989,7 +4989,7 @@
         "id": "brand_tech_security",
         "name": "Cyber Security Brand",
         "category": "branding",
-        "categoryLabel": "ðŸ·ï¸ Branding",
+        "subCategory": "branding",
         "width": 1200,
         "height": 627
     },
