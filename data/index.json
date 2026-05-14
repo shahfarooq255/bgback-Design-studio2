@@ -4700,7 +4700,7 @@
         "id": "news_policy_minimal",
         "name": "Official Notice",
         "category": "announcement",
-        "categoryLabel": "📣 News",
+        "subCategory": "announcement",
         "width": 1080,
         "height": 1080
     },
