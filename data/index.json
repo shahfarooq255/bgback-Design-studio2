@@ -4908,7 +4908,7 @@
         "id": "event_startup_pitch",
         "name": "Venture Night",
         "category": "event",
-        "categoryLabel": "🎉 Event",
+        "subCategory": "event",
         "width": 1200,
         "height": 627
     },
