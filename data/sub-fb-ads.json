@@ -261,15 +261,6 @@
         "html": "\n                <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#111;z-index:1;\"></div>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(45deg, #111 0%, transparent 100%);z-index:2;\"></div>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;right:0;width:60%;height:100%;background:#2ecc71;clip-path:polygon(30% 0, 100% 0, 100% 100%, 0% 100%);z-index:2;opacity:0.9;\"></div>\n                <img class=\"hd-draggable\" data-type=\"image\" src=\"https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=800&q=80\" alt=\"Fitness\" style=\"position:absolute;top:0;right:-50px;width:700px;height:100%;object-fit:cover;z-index:3;mix-blend-mode:luminosity;opacity:0.8;\">\n                <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:150px;left:60px;color:#fff;font-size:110px;font-weight:900;z-index:5;margin:0;line-height:0.9;font-style:italic;\">PUSH<br><span style=\"color:#2ecc71;\">YOUR</span><br>LIMITS</h1>\n                <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:480px;left:60px;width:400px;height:120px;background:rgba(255,255,255,0.05);backdrop-filter:blur(10px);border-left:5px solid #2ecc71;z-index:4;\"></div>\n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:510px;left:90px;color:#fff;font-size:24px;width:320px;z-index:5;\">Join today and get <span style=\"font-weight:900;color:#2ecc71;\">30 DAYS FREE</span> personal training.</div>\n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:150px;left:60px;background:#2ecc71;color:#111;padding:20px 60px;font-size:28px;font-weight:900;z-index:7;transform:skew(-10deg);\">JOIN NOW</div>\n                <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:80px;left:60px;color:rgba(255,255,255,0.5);font-size:18px;z-index:5;\">WWW.YOURGYM.COM</div>\n                "
     },
     {
-        "id": "ad-sample-1",
-        "name": "Professional Ad Sample",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "width": 1080,
-        "height": 1080,
-        "html": "<div id=\"design-bg\" style=\"background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);\"></div>\n                       <div style=\"position:absolute; top:40%; left:10%; right:10%; text-align:center; color:white; font-family:Outfit, sans-serif;\">\n                           <h1 style=\"font-size:80px; margin:0; text-transform:uppercase; letter-spacing:5px;\">Professional Ad</h1>\n                           <p style=\"font-size:30px; opacity:0.8;\">Grow your business with style</p>\n                       </div>"
-    },
-    {
         "id": "tpl_bgback_2",
         "name": "Flawless Erase 2",
         "category": "facebook-post",
