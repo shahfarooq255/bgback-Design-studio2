@@ -3547,7 +3547,9 @@
         "id": "tpl_happy_holiday",
         "name": "Holiday Greeting",
         "category": "branding",
-        "categoryLabel": "ðŸ’¼ Brand"
+        "subCategory": "branding",
+        "width": 1200,
+        "height": 630
     },
     {
         "id": "tpl_portrait_1",
