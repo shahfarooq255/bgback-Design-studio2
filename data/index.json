@@ -4950,7 +4950,7 @@
         "id": "brand_startup_modern",
         "name": "SaaS Startup Brand",
         "category": "branding",
-        "categoryLabel": "ðŸ·ï¸ Branding",
+        "subCategory": "branding",
         "width": 1200,
         "height": 627
     },
