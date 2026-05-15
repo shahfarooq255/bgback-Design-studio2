@@ -3648,7 +3648,7 @@
         "id": "tpl_story_3",
         "name": "Countdown Timer",
         "category": "story",
-        "categoryLabel": "â±ï¸ Story",
+        "subCategory": "story",
         "width": 1080,
         "height": 1920
     },
