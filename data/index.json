@@ -5381,7 +5381,7 @@
         "id": "story_quote_elegant",
         "name": "Story Quote Design",
         "category": "story",
-        "categoryLabel": "ðŸŽ¬ Story",
+        "subCategory": "story",
         "width": 1080,
         "height": 1920
     },
