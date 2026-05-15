@@ -3995,7 +3995,7 @@
         "id": "tpl_bgback_fb_6",
         "name": "Neo Cyber Design",
         "category": "facebook-post",
-        "categoryLabel": "ðŸ“˜ Bgback FB",
+        "subCategory": "facebook-post",
         "width": 1200,
         "height": 630
     },
