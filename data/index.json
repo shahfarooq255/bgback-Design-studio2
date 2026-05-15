@@ -3971,7 +3971,7 @@
         "id": "tpl_bgback_fb_3",
         "name": "Content Aware Cutout",
         "category": "facebook-post",
-        "categoryLabel": "ðŸ“˜ Bgback FB",
+        "subCategory": "facebook-post",
         "width": 1200,
         "height": 630
     },
