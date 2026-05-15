@@ -5038,7 +5038,7 @@
         "id": "brand_fintech_secure",
         "name": "Bank Identity",
         "category": "branding",
-        "categoryLabel": "ðŸ·ï¸ Branding",
+        "subCategory": "branding",
         "width": 1200,
         "height": 627
     },
