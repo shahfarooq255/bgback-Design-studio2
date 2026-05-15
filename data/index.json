@@ -3541,7 +3541,9 @@
         "id": "tpl_testimonial",
         "name": "Customer Review",
         "category": "branding",
-        "categoryLabel": "ðŸ’¼ Brand"
+        "subCategory": "branding",
+        "width": 1200,
+        "height": 630
     },
     {
         "id": "tpl_happy_holiday",
