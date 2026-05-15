@@ -6865,5 +6865,13 @@
         "subCategory": "bgback-2",
         "width": 1080,
         "height": 1350
+    },
+    {
+        "id": "tpl_1778852974667",
+        "name": "Shopify Sale",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080
     }
 ]
