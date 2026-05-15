@@ -242,14 +242,6 @@
         "height": 1080
     },
     {
-        "id": "ad-sample-1",
-        "name": "Professional Ad Sample",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "width": 1080,
-        "height": 1080
-    },
-    {
         "id": "story_fashion_001",
         "name": "Minimalist Fashion Story",
         "category": "ad-creator",
