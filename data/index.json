@@ -6866,5 +6866,13 @@
         "subCategory": "sub-fb-ads",
         "width": 1080,
         "height": 1080
+    },
+    {
+        "id": "tpl_1778998532474",
+        "name": "Goleden line background",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080
     }
 ]
