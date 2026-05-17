@@ -6446,7 +6446,7 @@
         "id": "vc_tech_startup",
         "name": "Cyber Connect",
         "category": "visiting-card",
-        "categoryLabel": "ðŸªª Visiting Card",
+        "subCategory": "visiting-card",
         "width": 1050,
         "height": 600
     },
