@@ -6873,5 +6873,13 @@
         "subCategory": "sub-fb-ads",
         "width": 1080,
         "height": 1080
+    },
+    {
+        "id": "tpl_1779293248215",
+        "name": "Linkdin Dark ",
+        "category": "linkedin-post",
+        "subCategory": "sub-fb-ads",
+        "width": 1200,
+        "height": 627
     }
 ]
