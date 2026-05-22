@@ -6881,5 +6881,13 @@
         "subCategory": "sub-fb-ads",
         "width": 1200,
         "height": 627
+    },
+    {
+        "id": "tpl_1779493937824",
+        "name": "Shoe Sale",
+        "category": "ad-creator",
+        "subCategory": "ad-flash-sale",
+        "width": 1080,
+        "height": 1080
     }
 ]
