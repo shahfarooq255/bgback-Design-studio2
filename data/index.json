@@ -6889,5 +6889,13 @@
         "subCategory": "ad-flash-sale",
         "width": 1080,
         "height": 1080
+    },
+    {
+        "id": "tpl_1779540256823",
+        "name": "TOOL AD SQUARE",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080
     }
 ]
