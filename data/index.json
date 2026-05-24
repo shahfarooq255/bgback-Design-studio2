@@ -6895,5 +6895,13 @@
         "subCategory": "sub-fb-ads",
         "width": 1080,
         "height": 1080
+    },
+    {
+        "id": "tpl_1779644652108",
+        "name": "Mobile Sale Ad Image ",
+        "category": "ad-creator",
+        "subCategory": "ad-flash-sale",
+        "width": 1080,
+        "height": 1080
     }
 ]
