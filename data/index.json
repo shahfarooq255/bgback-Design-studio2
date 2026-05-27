@@ -6909,5 +6909,13 @@
         "subCategory": "ad-flash-sale",
         "width": 1080,
         "height": 1076
+    },
+    {
+        "id": "tpl_1779896040141",
+        "name": "LAPTOP SHOPE",
+        "category": "ad-creator",
+        "subCategory": "ad-flash-sale",
+        "width": 1080,
+        "height": 1080
     }
 ]
