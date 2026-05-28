@@ -6924,5 +6924,13 @@
         "subCategory": "ad-flash-sale",
         "width": 1080,
         "height": 1080
+    },
+    {
+        "id": "tpl_1779944062750",
+        "name": "CLOTH FLASH SALE",
+        "category": "ad-creator",
+        "subCategory": "ad-flash-sale",
+        "width": 1080,
+        "height": 1080
     }
 ]
