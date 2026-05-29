@@ -937,6 +937,114 @@
     "height": 1350
   },
   {
+    "id": "portrait_dental_smile_039",
+    "name": "Premium Dental Clinic Ad",
+    "category": "ad-creator",
+    "subCategory": "ad-insta-portrait",
+    "categoryLabel": "🦷 Dental Care",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "portrait_law_justice_040",
+    "name": "Corporate Law Firm Ad",
+    "category": "ad-creator",
+    "subCategory": "ad-insta-portrait",
+    "categoryLabel": "⚖️ Law Firm",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "portrait_eid_festive_041",
+    "name": "Eid Mega Sale Festive Ad",
+    "category": "ad-creator",
+    "subCategory": "ad-insta-portrait",
+    "categoryLabel": "🌙 Eid Sale",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "portrait_salon_glam_042",
+    "name": "Luxury Hair Salon Ad",
+    "category": "ad-creator",
+    "subCategory": "ad-insta-portrait",
+    "categoryLabel": "💇 Salon Glam",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "portrait_pharmacy_plus_043",
+    "name": "Modern Pharmacy Plus Ad",
+    "category": "ad-creator",
+    "subCategory": "ad-insta-portrait",
+    "categoryLabel": "💊 Pharmacy",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "portrait_ev_drive_044",
+    "name": "Electric Vehicle Launch Ad",
+    "category": "ad-creator",
+    "subCategory": "ad-insta-portrait",
+    "categoryLabel": "⚡ EV Drive",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "portrait_boutique_hotel_045",
+    "name": "Boutique Hotel Escape Ad",
+    "category": "ad-creator",
+    "subCategory": "ad-insta-portrait",
+    "categoryLabel": "🏨 Boutique Hotel",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "portrait_insurance_shield_046",
+    "name": "Trust Insurance Shield Ad",
+    "category": "ad-creator",
+    "subCategory": "ad-insta-portrait",
+    "categoryLabel": "🛡️ Insurance",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "portrait_farm_organic_047",
+    "name": "Organic Farm Fresh Ad",
+    "category": "ad-creator",
+    "subCategory": "ad-insta-portrait",
+    "categoryLabel": "🌾 Organic Farm",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "portrait_photo_studio_048",
+    "name": "Pro Photography Studio Ad",
+    "category": "ad-creator",
+    "subCategory": "ad-insta-portrait",
+    "categoryLabel": "📸 Photo Studio",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "portrait_kids_academy_049",
+    "name": "Kids Learning Academy Ad",
+    "category": "ad-creator",
+    "subCategory": "ad-insta-portrait",
+    "categoryLabel": "🎒 Kids Academy",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "portrait_black_friday_050",
+    "name": "Black Friday Mega Blast Ad",
+    "category": "ad-creator",
+    "subCategory": "ad-insta-portrait",
+    "categoryLabel": "🛒 Black Friday",
+    "width": 1080,
+    "height": 1350
+  },
+  {
     "id": "tiktok_product_001",
     "name": "TikTok Viral Product",
     "category": "ad-creator",
