@@ -7572,5 +7572,50 @@
         "subCategory": "linkedin-post",
         "width": 1200,
         "height": 627
+    },
+    {
+        "id": "flash_sale_new_fashion_001_20260530_213247",
+        "name": "Fashion Mega Flash Sale",
+        "category": "ad-creator",
+        "subCategory": "ad-flash-sale",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "⚡ Flash Sale"
+    },
+    {
+        "id": "flash_sale_new_tech_002_20260530_213247",
+        "name": "Tech Gadgets Checkbox Sale",
+        "category": "ad-creator",
+        "subCategory": "ad-flash-sale",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "⚡ Flash Sale"
+    },
+    {
+        "id": "flash_sale_new_furniture_003_20260530_213247",
+        "name": "Furniture Minimal Clearance",
+        "category": "ad-creator",
+        "subCategory": "ad-flash-sale",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "⚡ Flash Sale"
+    },
+    {
+        "id": "flash_sale_new_sneaker_004_20260530_213247",
+        "name": "Sneaker Drop Checkbox",
+        "category": "ad-creator",
+        "subCategory": "ad-flash-sale",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "⚡ Flash Sale"
+    },
+    {
+        "id": "flash_sale_new_beauty_005_20260530_213247",
+        "name": "Beauty & Cosmetics Sale",
+        "category": "ad-creator",
+        "subCategory": "ad-flash-sale",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "⚡ Flash Sale"
     }
 ]
