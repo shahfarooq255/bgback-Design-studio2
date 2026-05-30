@@ -252,222 +252,6 @@
         "height": 1080
     },
     {
-        "id": "story_fashion_001",
-        "name": "Minimalist Fashion Story",
-        "category": "ad-creator",
-        "subCategory": "ad-insta-story",
-        "categoryLabel": "✨ Fashion Story",
-        "width": 1080,
-        "height": 1920
-    },
-    {
-        "id": "story_tech_launch_001",
-        "name": "Cyber Tech Launch",
-        "category": "ad-creator",
-        "subCategory": "ad-insta-story",
-        "categoryLabel": "🚀 Tech Story",
-        "width": 1080,
-        "height": 1920
-    },
-    {
-        "id": "story_gaming_neon_004",
-        "name": "E-Sports Tournament",
-        "category": "ad-creator",
-        "subCategory": "ad-insta-story",
-        "categoryLabel": "🎮 Gaming Story",
-        "width": 1080,
-        "height": 1920
-    },
-    {
-        "id": "story_fitness_006",
-        "name": "Fitness Transformation",
-        "category": "ad-creator",
-        "subCategory": "ad-insta-story",
-        "categoryLabel": "💪 Fitness Story",
-        "width": 1080,
-        "height": 1920
-    },
-    {
-        "id": "story_fashion_drop_002",
-        "name": "Luxury Fashion Drop",
-        "category": "ad-creator",
-        "subCategory": "ad-insta-story",
-        "categoryLabel": "👗 Fashion Story",
-        "width": 1080,
-        "height": 1920
-    },
-    {
-        "id": "story_food_burger_003",
-        "name": "Burger Blast",
-        "category": "ad-creator",
-        "subCategory": "ad-insta-story",
-        "categoryLabel": "🍔 Food Story",
-        "width": 1080,
-        "height": 1920
-    },
-    {
-        "id": "story_crypto_trade_006",
-        "name": "Crypto Trading",
-        "category": "ad-creator",
-        "subCategory": "ad-insta-story",
-        "categoryLabel": "💎 Crypto Story",
-        "width": 1080,
-        "height": 1920
-    },
-    {
-        "id": "story_auto_premium_007",
-        "name": "Luxury Car Rental",
-        "category": "ad-creator",
-        "subCategory": "ad-insta-story",
-        "categoryLabel": "🚗 Auto Story",
-        "width": 1080,
-        "height": 1920
-    },
-    {
-        "id": "story_travel_adventure_009",
-        "name": "Explore the World",
-        "category": "ad-creator",
-        "subCategory": "ad-insta-story",
-        "categoryLabel": "✈️ Travel Story",
-        "width": 1080,
-        "height": 1920
-    },
-    {
-        "id": "story_webinar_pro_010",
-        "name": "Business Masterclass",
-        "category": "ad-creator",
-        "subCategory": "ad-insta-story",
-        "categoryLabel": "🏢 Career Story",
-        "width": 1080,
-        "height": 1920
-    },
-    {
-        "id": "story_podcast_vibe_011",
-        "name": "New Podcast Episode",
-        "category": "ad-creator",
-        "subCategory": "ad-insta-story",
-        "categoryLabel": "🎧 Media Story",
-        "width": 1080,
-        "height": 1920
-    },
-    {
-        "id": "story_health_organic_012",
-        "name": "Fresh Organic Bowl",
-        "category": "ad-creator",
-        "subCategory": "ad-insta-story",
-        "categoryLabel": "🥗 Health Story",
-        "width": 1080,
-        "height": 1920
-    },
-    {
-        "id": "story_interior_art_013",
-        "name": "Modern Interior Design",
-        "category": "ad-creator",
-        "subCategory": "ad-insta-story",
-        "categoryLabel": "🏠 Decor Story",
-        "width": 1080,
-        "height": 1920
-    },
-    {
-        "id": "story_app_launch_014",
-        "name": "New App Feature",
-        "category": "ad-creator",
-        "subCategory": "ad-insta-story",
-        "categoryLabel": "📱 Tech Story",
-        "width": 1080,
-        "height": 1920
-    },
-    {
-        "id": "story_beauty_glow_015",
-        "name": "Skincare Routine",
-        "category": "ad-creator",
-        "subCategory": "ad-insta-story",
-        "categoryLabel": "💄 Beauty Story",
-        "width": 1080,
-        "height": 1920
-    },
-    {
-        "id": "story_edu_mastery_016",
-        "name": "Learn Pro Skills",
-        "category": "ad-creator",
-        "subCategory": "ad-insta-story",
-        "categoryLabel": "🎓 Education Story",
-        "width": 1080,
-        "height": 1920
-    },
-    {
-        "id": "story_podcast_vibe_012",
-        "name": "Podcast Neon Glow",
-        "category": "ad-creator",
-        "subCategory": "ad-insta-story",
-        "categoryLabel": "🎧 Media Story",
-        "width": 1080,
-        "height": 1920
-    },
-    {
-        "id": "story_podcast_vibe_013",
-        "name": "Glassmorphism Podcast",
-        "category": "ad-creator",
-        "subCategory": "ad-insta-story",
-        "categoryLabel": "🎧 Media Story",
-        "width": 1080,
-        "height": 1920
-    },
-    {
-        "id": "story_podcast_vibe_014",
-        "name": "Bold Editorial Podcast",
-        "category": "ad-creator",
-        "subCategory": "ad-insta-story",
-        "categoryLabel": "🎧 Media Story",
-        "width": 1080,
-        "height": 1920
-    },
-    {
-        "id": "story_podcast_vibe_015",
-        "name": "Dark Luxury Podcast",
-        "category": "ad-creator",
-        "subCategory": "ad-insta-story",
-        "categoryLabel": "🎧 Media Story",
-        "width": 1080,
-        "height": 1920
-    },
-    {
-        "id": "story_podcast_vibe_016",
-        "name": "Retro Wave Podcast",
-        "category": "ad-creator",
-        "subCategory": "ad-insta-story",
-        "categoryLabel": "🎧 Media Story",
-        "width": 1080,
-        "height": 1920
-    },
-    {
-        "id": "story_food_001",
-        "name": "Vibrant Food Story",
-        "category": "ad-creator",
-        "subCategory": "ad-insta-story",
-        "categoryLabel": "ðŸ” Food Story",
-        "width": 1080,
-        "height": 1920
-    },
-    {
-        "id": "story_luxury_estate_001",
-        "name": "Luxury Estate Story",
-        "category": "ad-creator",
-        "subCategory": "ad-insta-story",
-        "categoryLabel": "ðŸ  Luxury Real Estate",
-        "width": 1080,
-        "height": 1920
-    },
-    {
-        "id": "story_travel_001",
-        "name": "Adventure Travel Story",
-        "category": "ad-creator",
-        "subCategory": "ad-insta-story",
-        "categoryLabel": "âœˆï¸ Travel Story",
-        "width": 1080,
-        "height": 1920
-    },
-    {
         "id": "portrait_agency_001",
         "name": "Modern Digital Agency",
         "category": "ad-creator",
@@ -7146,7 +6930,6 @@
         "width": 1050,
         "height": 600
     },
-    null,
     {
         "id": "vc_portrait_split",
         "name": "Profile Split",
@@ -7444,6 +7227,220 @@
         "width": 1080,
         "height": 1920,
         "categoryLabel": "☀️ Summer Story"
+    },
+    {
+        "id": "story_tech_launch_001",
+        "name": "Cyber Tech Launch",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🚀 Tech Story"
+    },
+    {
+        "id": "story_fashion_001",
+        "name": "Minimalist Fashion Story",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920
+    },
+    {
+        "id": "story_gaming_neon_004",
+        "name": "E-Sports Tournament",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🎮 Gaming Story"
+    },
+    {
+        "id": "story_fitness_006",
+        "name": "Fitness Transformation",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "💪 Fitness Story"
+    },
+    {
+        "id": "story_fashion_drop_002",
+        "name": "Luxury Fashion Drop",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "👗 Fashion Story"
+    },
+    {
+        "id": "story_food_burger_003",
+        "name": "Burger Blast",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🍔 Food Story"
+    },
+    {
+        "id": "story_crypto_trade_006",
+        "name": "Crypto Trading",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "💎 Crypto Story"
+    },
+    {
+        "id": "story_auto_premium_007",
+        "name": "Luxury Car Rental",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🚗 Auto Story"
+    },
+    {
+        "id": "story_travel_adventure_009",
+        "name": "Explore the World",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "✈️ Travel Story"
+    },
+    {
+        "id": "story_webinar_pro_010",
+        "name": "Business Masterclass",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🏢 Career Story"
+    },
+    {
+        "id": "story_podcast_vibe_011",
+        "name": "New Podcast Episode",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🎧 Media Story"
+    },
+    {
+        "id": "story_health_organic_012",
+        "name": "Fresh Organic Bowl",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🥗 Health Story"
+    },
+    {
+        "id": "story_interior_art_013",
+        "name": "Modern Interior Design",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🏠 Decor Story"
+    },
+    {
+        "id": "story_app_launch_014",
+        "name": "New App Feature",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "📱 Tech Story"
+    },
+    {
+        "id": "story_beauty_glow_015",
+        "name": "Skincare Routine",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920
+    },
+    {
+        "id": "story_edu_mastery_016",
+        "name": "Learn Pro Skills",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🎓 Education Story"
+    },
+    {
+        "id": "story_podcast_vibe_012",
+        "name": "Podcast Neon Glow",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🎧 Media Story"
+    },
+    {
+        "id": "story_podcast_vibe_013",
+        "name": "Glassmorphism Podcast",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🎧 Media Story"
+    },
+    {
+        "id": "story_podcast_vibe_014",
+        "name": "Bold Editorial Podcast",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🎧 Media Story"
+    },
+    {
+        "id": "story_podcast_vibe_015",
+        "name": "Dark Luxury Podcast",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🎧 Media Story"
+    },
+    {
+        "id": "story_podcast_vibe_016",
+        "name": "Retro Wave Podcast",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🎧 Media Story"
+    },
+    {
+        "id": "story_food_001",
+        "name": "Vibrant Food Story",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "ðŸ” Food Story"
+    },
+    {
+        "id": "story_luxury_estate_001",
+        "name": "Luxury Estate Story",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "ðŸ  Luxury Real Estate"
+    },
+    {
+        "id": "story_travel_001",
+        "name": "Adventure Travel Story",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "âœˆï¸ Travel Story"
     },
     {
         "id": "story_product_launch_aurora_20260530_203822",
