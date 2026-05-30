@@ -7617,5 +7617,50 @@
         "width": 1080,
         "height": 1080,
         "categoryLabel": "⚡ Flash Sale"
+    },
+    {
+        "id": "story_flash_sale_cyber_20260530_213534",
+        "name": "Cyber Flash Sale",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "⚡ Flash Sale Story"
+    },
+    {
+        "id": "post_food_pizza_deal_20260530_213534",
+        "name": "Hot Food Pizza Deal",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-post",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "🍕 Food Post (Square)"
+    },
+    {
+        "id": "story_fitness_gym_motivation_20260530_213534",
+        "name": "Fitness Gym Motivation",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "💪 Fitness/Gym Story"
+    },
+    {
+        "id": "post_hiring_now_agency_20260530_213534",
+        "name": "We Are Hiring Post",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-post",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "💼 Corporate/Hiring Post"
+    },
+    {
+        "id": "story_realestate_luxury_home_20260530_213534",
+        "name": "Luxury Real Estate Promo",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🏡 Real Estate Story"
     }
 ]
