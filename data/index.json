@@ -7445,5 +7445,23 @@
         "width": 1080,
         "height": 1920,
         "categoryLabel": "☀️ Summer Story"
+    },
+    {
+        "id": "story_product_launch_aurora_20260530_203822",
+        "name": "Aurora Product Launch",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🚀 Product Launch Story"
+    },
+    {
+        "id": "story_wedding_elegant_001_20260530_203822",
+        "name": "Elegant Wedding Invitation",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "💍 Wedding Story"
     }
 ]
