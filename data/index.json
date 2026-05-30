@@ -7427,5 +7427,23 @@
         "categoryLabel": "ðŸªª Visiting Card",
         "width": 1050,
         "height": 600
+    },
+    {
+        "id": "story_ramadan_glow_001",
+        "name": "Ramadan Glow Offer",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🌙 Ramadan Story"
+    },
+    {
+        "id": "story_summer_sale_bold_001",
+        "name": "Summer Sale Bold Neon",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "☀️ Summer Story"
     }
 ]
