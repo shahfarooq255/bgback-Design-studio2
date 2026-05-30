@@ -1045,6 +1045,114 @@
     "height": 1350
   },
   {
+    "id": "portrait_gaming_esports_051",
+    "name": "Gaming Esports Arena Ad",
+    "category": "ad-creator",
+    "subCategory": "ad-insta-portrait",
+    "categoryLabel": "🎮 Esports Arena",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "portrait_luxury_watch_052",
+    "name": "Luxury Watch Boutique Ad",
+    "category": "ad-creator",
+    "subCategory": "ad-insta-portrait",
+    "categoryLabel": "⌚ Luxury Watch",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "portrait_coffee_roastery_053",
+    "name": "Artisan Coffee Roastery Ad",
+    "category": "ad-creator",
+    "subCategory": "ad-insta-portrait",
+    "categoryLabel": "☕ Coffee Roastery",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "portrait_architecture_054",
+    "name": "Modern Architecture Firm Ad",
+    "category": "ad-creator",
+    "subCategory": "ad-insta-portrait",
+    "categoryLabel": "🏗️ Architecture",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "portrait_meditation_055",
+    "name": "Mindfulness Meditation Ad",
+    "category": "ad-creator",
+    "subCategory": "ad-insta-portrait",
+    "categoryLabel": "🧘 Meditation",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "portrait_streetwear_056",
+    "name": "Streetwear Fashion Drop Ad",
+    "category": "ad-creator",
+    "subCategory": "ad-insta-portrait",
+    "categoryLabel": "👟 Streetwear Drop",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "portrait_ebike_urban_057",
+    "name": "Electric Bike Urban Ad",
+    "category": "ad-creator",
+    "subCategory": "ad-insta-portrait",
+    "categoryLabel": "🚲 E-Bike Urban",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "portrait_wine_vineyard_058",
+    "name": "Wine Vineyard Estate Ad",
+    "category": "ad-creator",
+    "subCategory": "ad-insta-portrait",
+    "categoryLabel": "🍷 Wine Estate",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "portrait_dermatology_059",
+    "name": "Dermatology Clinic Ad",
+    "category": "ad-creator",
+    "subCategory": "ad-insta-portrait",
+    "categoryLabel": "✨ Dermatology",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "portrait_interior_design_060",
+    "name": "Interior Design Studio Ad",
+    "category": "ad-creator",
+    "subCategory": "ad-insta-portrait",
+    "categoryLabel": "🛋️ Interior Design",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "portrait_startup_accel_061",
+    "name": "Startup Accelerator Ad",
+    "category": "ad-creator",
+    "subCategory": "ad-insta-portrait",
+    "categoryLabel": "🚀 Startup Accel",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "portrait_ramadan_charity_062",
+    "name": "Ramadan Charity Campaign Ad",
+    "category": "ad-creator",
+    "subCategory": "ad-insta-portrait",
+    "categoryLabel": "🌙 Ramadan Charity",
+    "width": 1080,
+    "height": 1350
+  },
+  {
     "id": "tiktok_product_001",
     "name": "TikTok Viral Product",
     "category": "ad-creator",
@@ -2571,6 +2679,222 @@
     "category": "ad-creator",
     "subCategory": "ad-flash-sale",
     "categoryLabel": "âš¡ Flash Sale",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "id": "flash_sale_011",
+    "name": "Cyber Monday Neon Blast",
+    "category": "ad-creator",
+    "subCategory": "ad-flash-sale",
+    "categoryLabel": "⚡ Flash Sale",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "id": "flash_sale_012",
+    "name": "Holographic Prism Sale",
+    "category": "ad-creator",
+    "subCategory": "ad-flash-sale",
+    "categoryLabel": "⚡ Flash Sale",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "id": "flash_sale_013",
+    "name": "Luxury Gold Flash Sale",
+    "category": "ad-creator",
+    "subCategory": "ad-flash-sale",
+    "categoryLabel": "⚡ Flash Sale",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "id": "flash_sale_014",
+    "name": "Supermarket Grocery Burst",
+    "category": "ad-creator",
+    "subCategory": "ad-flash-sale",
+    "categoryLabel": "⚡ Flash Sale",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "id": "flash_sale_015",
+    "name": "Kids Toys Flash Fun",
+    "category": "ad-creator",
+    "subCategory": "ad-flash-sale",
+    "categoryLabel": "⚡ Flash Sale",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "id": "flash_sale_016",
+    "name": "Jewelry Sparkle Flash",
+    "category": "ad-creator",
+    "subCategory": "ad-flash-sale",
+    "categoryLabel": "⚡ Flash Sale",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "id": "flash_sale_017",
+    "name": "Furniture Warehouse Clearance",
+    "category": "ad-creator",
+    "subCategory": "ad-flash-sale",
+    "categoryLabel": "⚡ Flash Sale",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "id": "flash_sale_018",
+    "name": "Smartphone Electronics Flash",
+    "category": "ad-creator",
+    "subCategory": "ad-flash-sale",
+    "categoryLabel": "⚡ Flash Sale",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "id": "flash_sale_019",
+    "name": "Brutalist 90 Percent Off",
+    "category": "ad-creator",
+    "subCategory": "ad-flash-sale",
+    "categoryLabel": "⚡ Flash Sale",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "id": "flash_sale_020",
+    "name": "Pastel Boutique Flash",
+    "category": "ad-creator",
+    "subCategory": "ad-flash-sale",
+    "categoryLabel": "⚡ Flash Sale",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "id": "flash_sale_021",
+    "name": "Fitness Lightning Deal",
+    "category": "ad-creator",
+    "subCategory": "ad-flash-sale",
+    "categoryLabel": "⚡ Flash Sale",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "id": "flash_sale_022",
+    "name": "Food Delivery Flash Rush",
+    "category": "ad-creator",
+    "subCategory": "ad-flash-sale",
+    "categoryLabel": "⚡ Flash Sale",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "id": "flash_sale_023",
+    "name": "Back to School Rush Sale",
+    "category": "ad-creator",
+    "subCategory": "ad-flash-sale",
+    "categoryLabel": "⚡ Flash Sale",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "id": "flash_sale_024",
+    "name": "Beauty Cosmetics Glow Sale",
+    "category": "ad-creator",
+    "subCategory": "ad-flash-sale",
+    "categoryLabel": "⚡ Flash Sale",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "id": "flash_sale_025",
+    "name": "Pet Supplies Bonanza Sale",
+    "category": "ad-creator",
+    "subCategory": "ad-flash-sale",
+    "categoryLabel": "⚡ Flash Sale",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "id": "flash_sale_026",
+    "name": "Home Appliance Mega Sale",
+    "category": "ad-creator",
+    "subCategory": "ad-flash-sale",
+    "categoryLabel": "⚡ Flash Sale",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "id": "flash_sale_027",
+    "name": "Automotive Parts Flash Sale",
+    "category": "ad-creator",
+    "subCategory": "ad-flash-sale",
+    "categoryLabel": "⚡ Flash Sale",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "id": "flash_sale_028",
+    "name": "Bookstore Clearance Sale",
+    "category": "ad-creator",
+    "subCategory": "ad-flash-sale",
+    "categoryLabel": "⚡ Flash Sale",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "id": "flash_sale_029",
+    "name": "Gaming Console Drop Sale",
+    "category": "ad-creator",
+    "subCategory": "ad-flash-sale",
+    "categoryLabel": "⚡ Flash Sale",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "id": "flash_sale_030",
+    "name": "Spring Summer Fashion Sale",
+    "category": "ad-creator",
+    "subCategory": "ad-flash-sale",
+    "categoryLabel": "⚡ Flash Sale",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "id": "flash_sale_031",
+    "name": "Health Vitamin Boost Sale",
+    "category": "ad-creator",
+    "subCategory": "ad-flash-sale",
+    "categoryLabel": "⚡ Flash Sale",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "id": "flash_sale_032",
+    "name": "Smart Home IoT Flash Sale",
+    "category": "ad-creator",
+    "subCategory": "ad-flash-sale",
+    "categoryLabel": "⚡ Flash Sale",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "id": "flash_sale_033",
+    "name": "Artisan Handmade Craft Sale",
+    "category": "ad-creator",
+    "subCategory": "ad-flash-sale",
+    "categoryLabel": "⚡ Flash Sale",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "id": "flash_sale_034",
+    "name": "Warehouse Clearance Blowout",
+    "category": "ad-creator",
+    "subCategory": "ad-flash-sale",
+    "categoryLabel": "⚡ Flash Sale",
     "width": 1080,
     "height": 1080
   },
