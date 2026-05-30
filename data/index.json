@@ -7458,5 +7458,119 @@
         "subCategory": "ad-insta-story",
         "width": 1080,
         "height": 1920
+    },
+    {
+        "id": "li_hiring_pro",
+        "name": "Professional Hiring",
+        "category": "linkedin-post",
+        "subCategory": "sub-fb-ads",
+        "width": 1200,
+        "height": 627
+    },
+    {
+        "id": "li_webinar_modern",
+        "name": "Expert Webinar",
+        "category": "linkedin-post",
+        "subCategory": "linkedin-post",
+        "width": 1200,
+        "height": 627
+    },
+    {
+        "id": "li_service_showcase",
+        "name": "Service Overview",
+        "category": "linkedin-post",
+        "subCategory": "sub-fb-ads",
+        "width": 1200,
+        "height": 627
+    },
+    {
+        "id": "li_hiring_creative",
+        "name": "Creative Hiring",
+        "category": "linkedin-post",
+        "subCategory": "linkedin-post",
+        "width": 1080,
+        "height": 1080
+    },
+    {
+        "id": "li_data_insight",
+        "name": "Market Insights",
+        "category": "linkedin-post",
+        "subCategory": "linkedin-post",
+        "width": 1200,
+        "height": 627,
+        "categoryLabel": "ðŸ’¼ LinkedIn"
+    },
+    {
+        "id": "li_course_launch",
+        "name": "Educational Course",
+        "category": "linkedin-post",
+        "subCategory": "linkedin-post",
+        "width": 1200,
+        "height": 627,
+        "categoryLabel": "ðŸ’¼ LinkedIn"
+    },
+    {
+        "id": "li_hiring_dark",
+        "name": "Dark Hiring",
+        "category": "linkedin-post",
+        "subCategory": "linkedin-post",
+        "width": 1200,
+        "height": 627
+    },
+    {
+        "id": "li_webinar_neon",
+        "name": "Cyber Monday Tech",
+        "category": "linkedin-post",
+        "subCategory": "linkedin-post",
+        "width": 1080,
+        "height": 1080
+    },
+    {
+        "id": "li_podcast_alert",
+        "name": "Podcast Series",
+        "category": "linkedin-post",
+        "subCategory": "linkedin-post",
+        "width": 1200,
+        "height": 627
+    },
+    {
+        "id": "li_hiring_exec",
+        "name": "Executive Hiring",
+        "category": "linkedin-post",
+        "subCategory": "linkedin-post",
+        "width": 1200,
+        "height": 627
+    },
+    {
+        "id": "li_minimal_brand",
+        "name": "Minimal Branding",
+        "category": "linkedin-post",
+        "subCategory": "linkedin-post",
+        "width": 1200,
+        "height": 627
+    },
+    {
+        "id": "li_team_showcase",
+        "name": "Team Culture",
+        "category": "linkedin-post",
+        "subCategory": "linkedin-post",
+        "width": 1200,
+        "height": 627
+    },
+    {
+        "id": "li_award_card",
+        "name": "Award Winning",
+        "category": "linkedin-post",
+        "subCategory": "linkedin-post",
+        "width": 1200,
+        "height": 627
+    },
+    {
+        "id": "tpl_1778597829113",
+        "name": "New Design 12/05/2026",
+        "category": "linkedin-post",
+        "subCategory": "linkedin-post",
+        "width": 1200,
+        "height": 627
     }
 ]
