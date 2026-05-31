@@ -7661,5 +7661,95 @@
         "subCategory": "sub-fb-ads",
         "width": 1080,
         "height": 1080
+    },
+    {
+        "id": "yt_tutorial_002_20260531_153648",
+        "name": "Shock Reaction Tutorial",
+        "category": "ad-creator",
+        "subCategory": "ad-yt-thumb",
+        "width": 1280,
+        "height": 720,
+        "categoryLabel": "📹 YouTube Thumb"
+    },
+    {
+        "id": "yt_tutorial_003_20260531_153648",
+        "name": "Before After Comparison",
+        "category": "ad-creator",
+        "subCategory": "ad-yt-thumb",
+        "width": 1280,
+        "height": 720,
+        "categoryLabel": "📹 YouTube Thumb"
+    },
+    {
+        "id": "yt_tutorial_004_20260531_153648",
+        "name": "AI Tool Review",
+        "category": "ad-creator",
+        "subCategory": "ad-yt-thumb",
+        "width": 1280,
+        "height": 720,
+        "categoryLabel": "📹 YouTube Thumb"
+    },
+    {
+        "id": "yt_tutorial_005_20260531_153648",
+        "name": "Secret Hack",
+        "category": "ad-creator",
+        "subCategory": "ad-yt-thumb",
+        "width": 1280,
+        "height": 720,
+        "categoryLabel": "📹 YouTube Thumb"
+    },
+    {
+        "id": "yt_tutorial_006_20260531_153648",
+        "name": "Ultimate Guide",
+        "category": "ad-creator",
+        "subCategory": "ad-yt-thumb",
+        "width": 1280,
+        "height": 720,
+        "categoryLabel": "📹 YouTube Thumb"
+    },
+    {
+        "id": "yt_crypto_wealth_002_20260531_153648",
+        "name": "Crypto Finance Breakdown",
+        "category": "ad-creator",
+        "subCategory": "ad-yt-thumb",
+        "width": 1280,
+        "height": 720,
+        "categoryLabel": "📹 YouTube Thumb"
+    },
+    {
+        "id": "yt_gaming_versus_003_20260531_153648",
+        "name": "Gaming Versus / Review",
+        "category": "ad-creator",
+        "subCategory": "ad-yt-thumb",
+        "width": 1280,
+        "height": 720,
+        "categoryLabel": "📹 YouTube Thumb"
+    },
+    {
+        "id": "yt_vlog_travel_004_20260531_153648",
+        "name": "Cinematic Travel Vlog",
+        "category": "ad-creator",
+        "subCategory": "ad-yt-thumb",
+        "width": 1280,
+        "height": 720,
+        "categoryLabel": "📹 YouTube Thumb"
+    },
+    {
+        "id": "yt_coding_shock_005_20260531_153648",
+        "name": "Coding / SaaS Project Shock",
+        "category": "ad-creator",
+        "subCategory": "ad-yt-thumb",
+        "width": 1280,
+        "height": 720,
+        "categoryLabel": "📹 YouTube Thumb"
+    },
+    {
+        "id": "yt_business_case_006_20260531_153648",
+        "name": "Business Case Study / Documentary",
+        "category": "ad-creator",
+        "subCategory": "ad-yt-thumb",
+        "width": 1280,
+        "height": 720,
+        "categoryLabel": "📹 YouTube Thumb"
     }
 ]
