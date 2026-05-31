@@ -7645,8 +7645,7 @@
         "category": "ad-creator",
         "subCategory": "ad-yt-thumb",
         "width": 1280,
-        "height": 720,
-        "categoryLabel": "📹 YouTube Thumb"
+        "height": 720
     },
     {
         "id": "edu_010",
