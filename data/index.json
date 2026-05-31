@@ -7736,5 +7736,13 @@
         "width": 1080,
         "height": 1080,
         "categoryLabel": "ðŸŽ“ Education"
+    },
+    {
+        "id": "tpl_1780241703146",
+        "name": "Facebook Cloth Sale Ad 31/05/2026",
+        "category": "facebook-post",
+        "subCategory": "facebook-post",
+        "width": 1200,
+        "height": 630
     }
 ]
