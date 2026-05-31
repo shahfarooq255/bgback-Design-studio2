@@ -7655,5 +7655,13 @@
         "width": 1080,
         "height": 1920,
         "categoryLabel": "🏡 Real Estate Story"
+    },
+    {
+        "id": "tpl_1780217455632",
+        "name": "FLASH SALE SQAURE  31/05/2026",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080
     }
 ]
