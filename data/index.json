@@ -4413,7 +4413,7 @@
         "id": "tpl_bgback_fb_4",
         "name": "Change Bg Instantly",
         "category": "facebook-post",
-        "categoryLabel": "ðŸ“˜ Bgback FB",
+        "subCategory": "facebook-post",
         "width": 1200,
         "height": 630
     },
