@@ -4310,14 +4310,6 @@
         "height": 630
     },
     {
-        "id": "tpl_bgback_fb_4",
-        "name": "Change Bg Instantly",
-        "category": "facebook-post",
-        "subCategory": "facebook-post",
-        "width": 1200,
-        "height": 630
-    },
-    {
         "id": "tpl_bgback_fb_5",
         "name": "The Free Tool",
         "category": "facebook-post",
@@ -7737,8 +7729,233 @@
         "categoryLabel": "ðŸŽ“ Education"
     },
     {
+        "id": "ad_premium_lifestyle",
+        "name": "Minimalist Premium Ad",
+        "category": "facebook-post",
+        "subCategory": "facebook-post",
+        "width": 1080,
+        "height": 1080
+    },
+    {
         "id": "tpl_1780241703146",
         "name": "Facebook Cloth Sale Ad 31/05/2026",
+        "category": "facebook-post",
+        "subCategory": "facebook-post",
+        "width": 1200,
+        "height": 630
+    },
+    {
+        "id": "tpl_bgback_1",
+        "name": "Perfect Cutouts 1",
+        "category": "facebook-post",
+        "subCategory": "facebook-post",
+        "width": 1200,
+        "height": 630,
+        "categoryLabel": "ðŸ“˜ Facebook Post"
+    },
+    {
+        "id": "tpl_bgback_4",
+        "name": "Remove Anything 4",
+        "category": "facebook-post",
+        "subCategory": "facebook-post",
+        "width": 1200,
+        "height": 630,
+        "categoryLabel": "ðŸ“˜ Facebook Post"
+    },
+    {
+        "id": "tpl_bgback_5",
+        "name": "One-Click Magic 5",
+        "category": "facebook-post",
+        "subCategory": "facebook-post",
+        "width": 1200,
+        "height": 630,
+        "categoryLabel": "ðŸ“˜ Facebook Post"
+    },
+    {
+        "id": "tpl_bgback_6",
+        "name": "Perfect Cutouts 6",
+        "category": "facebook-post",
+        "subCategory": "facebook-post",
+        "width": 1200,
+        "height": 630
+    },
+    {
+        "id": "tpl_bgback_7",
+        "name": "Flawless Erase 7",
+        "category": "facebook-post",
+        "subCategory": "facebook-post",
+        "width": 1200,
+        "height": 630,
+        "categoryLabel": "ðŸ“˜ Facebook Post"
+    },
+    {
+        "id": "tpl_bgback_10",
+        "name": "One-Click Magic 10",
+        "category": "facebook-post",
+        "subCategory": "facebook-post",
+        "width": 1200,
+        "height": 630
+    },
+    {
+        "id": "tpl_bgback_11",
+        "name": "Perfect Cutouts 11",
+        "category": "facebook-post",
+        "subCategory": "facebook-post",
+        "width": 1200,
+        "height": 630,
+        "categoryLabel": "ðŸ“˜ Facebook Post"
+    },
+    {
+        "id": "tpl_bgback_12",
+        "name": "Flawless Erase 12",
+        "category": "facebook-post",
+        "subCategory": "facebook-post",
+        "width": 1200,
+        "height": 630,
+        "categoryLabel": "ðŸ“˜ Facebook Post"
+    },
+    {
+        "id": "tpl_bgback_13",
+        "name": "Pro Background Removal 13",
+        "category": "facebook-post",
+        "subCategory": "facebook-post",
+        "width": 1200,
+        "height": 630
+    },
+    {
+        "id": "tpl_bgback_14",
+        "name": "Remove Anything 14",
+        "category": "facebook-post",
+        "subCategory": "facebook-post",
+        "width": 1200,
+        "height": 630
+    },
+    {
+        "id": "tpl_bgback_15",
+        "name": "One-Click Magic 15",
+        "category": "facebook-post",
+        "subCategory": "facebook-post",
+        "width": 1200,
+        "height": 630,
+        "categoryLabel": "ðŸ“˜ Facebook Post"
+    },
+    {
+        "id": "tpl_bgback_16",
+        "name": "Perfect Cutouts 16",
+        "category": "facebook-post",
+        "subCategory": "facebook-post",
+        "width": 1200,
+        "height": 630,
+        "categoryLabel": "ðŸ“˜ Facebook Post"
+    },
+    {
+        "id": "tpl_bgback_17",
+        "name": "Flawless Erase 17",
+        "category": "facebook-post",
+        "subCategory": "facebook-post",
+        "width": 1200,
+        "height": 630,
+        "categoryLabel": "ðŸ“˜ Facebook Post"
+    },
+    {
+        "id": "tpl_bgback_19",
+        "name": "Remove Anything 19",
+        "category": "facebook-post",
+        "subCategory": "facebook-post",
+        "width": 1200,
+        "height": 630,
+        "categoryLabel": "ðŸ“˜ Facebook Post"
+    },
+    {
+        "id": "tpl_bgback_20",
+        "name": "One-Click Magic 20",
+        "category": "facebook-post",
+        "subCategory": "facebook-post",
+        "width": 1200,
+        "height": 630,
+        "categoryLabel": "ðŸ“˜ Facebook Post"
+    },
+    {
+        "id": "tpl_bgback_fb_1",
+        "name": "Ultimate 1-Click Eraser",
+        "category": "facebook-post",
+        "subCategory": "facebook-post",
+        "width": 1200,
+        "height": 630,
+        "categoryLabel": "ðŸ“˜ Bgback FB"
+    },
+    {
+        "id": "tpl_bgback_fb_2",
+        "name": "Advanced Dark BG",
+        "category": "facebook-post",
+        "subCategory": "facebook-post",
+        "width": 1200,
+        "height": 630,
+        "categoryLabel": "ðŸ“˜ Bgback FB"
+    },
+    {
+        "id": "tpl_bgback_fb_3",
+        "name": "Content Aware Cutout",
+        "category": "facebook-post",
+        "subCategory": "facebook-post",
+        "width": 1200,
+        "height": 630
+    },
+    {
+        "id": "tpl_bgback_fb_4",
+        "name": "Change Bg Instantly",
+        "category": "facebook-post",
+        "subCategory": "facebook-post",
+        "width": 1200,
+        "height": 630
+    },
+    {
+        "id": "tpl_bgback_fb_5",
+        "name": "The Free Tool",
+        "category": "facebook-post",
+        "subCategory": "facebook-post",
+        "width": 1200,
+        "height": 630,
+        "categoryLabel": "ðŸ“˜ Bgback FB"
+    },
+    {
+        "id": "tpl_bgback_fb_6",
+        "name": "Neo Cyber Design",
+        "category": "facebook-post",
+        "subCategory": "facebook-post",
+        "width": 1200,
+        "height": 630
+    },
+    {
+        "id": "tpl_bgback_fb_7",
+        "name": "Orange Burst Editor",
+        "category": "facebook-post",
+        "subCategory": "facebook-post",
+        "width": 1200,
+        "height": 630,
+        "categoryLabel": "ðŸ“˜ Bgback FB"
+    },
+    {
+        "id": "tpl_bgback_fb_8",
+        "name": "Professional Slate",
+        "category": "facebook-post",
+        "subCategory": "facebook-post",
+        "width": 1200,
+        "height": 630,
+        "categoryLabel": "ðŸ“˜ Bgback FB"
+    },
+    {
+        "id": "tpl_bgback_fb_9",
+        "name": "Flash Sale Yellow",
+        "category": "facebook-post",
+        "subCategory": "facebook-post",
+        "width": 1200,
+        "height": 630,
+        "categoryLabel": "ðŸ“˜ Bgback FB"
+    },
+    {
+        "id": "tpl_bgback_fb_10",
+        "name": "The Brand Identity",
         "category": "facebook-post",
         "subCategory": "facebook-post",
         "width": 1200,
