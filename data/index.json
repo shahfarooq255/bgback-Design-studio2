@@ -7960,5 +7960,50 @@
         "subCategory": "facebook-post",
         "width": 1200,
         "height": 630
+    },
+    {
+        "id": "yt_ai_money_003_20260601_223637",
+        "name": "AI Millionaire Secret",
+        "category": "ad-creator",
+        "subCategory": "ad-yt-thumb",
+        "width": 1280,
+        "height": 720,
+        "categoryLabel": "📹 YouTube Thumb"
+    },
+    {
+        "id": "yt_income_reveal_004_20260601_223637",
+        "name": "Income Reveal Shock",
+        "category": "ad-creator",
+        "subCategory": "ad-yt-thumb",
+        "width": 1280,
+        "height": 720,
+        "categoryLabel": "📹 YouTube Thumb"
+    },
+    {
+        "id": "yt_before_after_005_20260601_223637",
+        "name": "Before After Transformation",
+        "category": "ad-creator",
+        "subCategory": "ad-yt-thumb",
+        "width": 1280,
+        "height": 720,
+        "categoryLabel": "📹 YouTube Thumb"
+    },
+    {
+        "id": "yt_secret_tool_006_20260601_223637",
+        "name": "Secret AI Tool",
+        "category": "ad-creator",
+        "subCategory": "ad-yt-thumb",
+        "width": 1280,
+        "height": 720,
+        "categoryLabel": "📹 YouTube Thumb"
+    },
+    {
+        "id": "yt_faceless_channel_007_20260601_223637",
+        "name": "Faceless Channel Income",
+        "category": "ad-creator",
+        "subCategory": "ad-yt-thumb",
+        "width": 1280,
+        "height": 720,
+        "categoryLabel": "📹 YouTube Thumb"
     }
 ]
