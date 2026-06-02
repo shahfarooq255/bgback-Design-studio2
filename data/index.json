@@ -8005,5 +8005,95 @@
         "width": 1280,
         "height": 720,
         "categoryLabel": "📹 YouTube Thumb"
+    },
+    {
+        "id": "tiktok_before_after_001_20260602_211218",
+        "name": "TikTok Before/After",
+        "category": "ad-creator",
+        "subCategory": "ad-tiktok",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🔥 Viral Effect"
+    },
+    {
+        "id": "tiktok_3d_text_001_20260602_211218",
+        "name": "3D Pop-Up Text",
+        "category": "ad-creator",
+        "subCategory": "ad-tiktok",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "✨ 3D Style"
+    },
+    {
+        "id": "tiktok_podcast_001_20260602_211218",
+        "name": "Podcast Clips Style",
+        "category": "ad-creator",
+        "subCategory": "ad-tiktok",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🎙️ Podcast"
+    },
+    {
+        "id": "tiktok_quiz_001_20260602_211218",
+        "name": "Interactive Quiz Ad",
+        "category": "ad-creator",
+        "subCategory": "ad-tiktok",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "❓ Quiz Ad"
+    },
+    {
+        "id": "tiktok_countdown_001_20260602_211218",
+        "name": "Urgent Countdown",
+        "category": "ad-creator",
+        "subCategory": "ad-tiktok",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "⏰ Urgent"
+    },
+    {
+        "id": "tiktok_review_001_20260602_211218",
+        "name": "5-Star Review Blast",
+        "category": "ad-creator",
+        "subCategory": "ad-tiktok",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "⭐ Review"
+    },
+    {
+        "id": "tiktok_typing_001_20260602_211218",
+        "name": "Typing Text Effect",
+        "category": "ad-creator",
+        "subCategory": "ad-tiktok",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "⌨️ Viral Hook"
+    },
+    {
+        "id": "tiktok_duo_tone_001_20260602_211218",
+        "name": "TikTok Duo Tone",
+        "category": "ad-creator",
+        "subCategory": "ad-tiktok",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🎨 Duo Tone"
+    },
+    {
+        "id": "tiktok_cyberpunk_001_20260602_211218",
+        "name": "Cyberpunk Neon",
+        "category": "ad-creator",
+        "subCategory": "ad-tiktok",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🤖 Cyber"
+    },
+    {
+        "id": "tiktok_minimal_luxury_001_20260602_211218",
+        "name": "Minimal Luxury",
+        "category": "ad-creator",
+        "subCategory": "ad-tiktok",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "💎 Luxury"
     }
 ]
