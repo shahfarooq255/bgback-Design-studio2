@@ -8095,5 +8095,95 @@
         "width": 1080,
         "height": 1920,
         "categoryLabel": "💎 Luxury"
+    },
+    {
+        "id": "tiktok_glassmorphism_001_20260602_213702",
+        "name": "Glassmorphism Premium",
+        "category": "ad-creator",
+        "subCategory": "ad-tiktok",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🪟 Glass Effect"
+    },
+    {
+        "id": "tiktok_3d_floating_001_20260602_213702",
+        "name": "3D Floating Elements",
+        "category": "ad-creator",
+        "subCategory": "ad-tiktok",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "✨ 3D Floating"
+    },
+    {
+        "id": "tiktok_gradient_morph_001_20260602_213702",
+        "name": "Gradient Morph",
+        "category": "ad-creator",
+        "subCategory": "ad-tiktok",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🎨 Liquid Gradient"
+    },
+    {
+        "id": "tiktok_cutout_text_001_20260602_213702",
+        "name": "Cutout Text Effect",
+        "category": "ad-creator",
+        "subCategory": "ad-tiktok",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "✂️ Cutout Style"
+    },
+    {
+        "id": "tiktok_neon_border_001_20260602_213702",
+        "name": "Neon Border Glow",
+        "category": "ad-creator",
+        "subCategory": "ad-tiktok",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "💚 Neon Glow"
+    },
+    {
+        "id": "tiktok_bubbles_001_20260602_213702",
+        "name": "Floating Bubbles",
+        "category": "ad-creator",
+        "subCategory": "ad-tiktok",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🫧 Bubble Effect"
+    },
+    {
+        "id": "tiktok_split_screen_001_20260602_213702",
+        "name": "Split Screen Contrast",
+        "category": "ad-creator",
+        "subCategory": "ad-tiktok",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "📱 Split Screen"
+    },
+    {
+        "id": "tiktok_polaroid_001_20260602_213702",
+        "name": "Polaroid Stack",
+        "category": "ad-creator",
+        "subCategory": "ad-tiktok",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "📸 Polaroid Style"
+    },
+    {
+        "id": "tiktok_wave_pattern_001_20260602_213702",
+        "name": "Wave Pattern Design",
+        "category": "ad-creator",
+        "subCategory": "ad-tiktok",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🌊 Wave Effect"
+    },
+    {
+        "id": "tiktok_doodle_001_20260602_213702",
+        "name": "Hand-Drawn Doodle",
+        "category": "ad-creator",
+        "subCategory": "ad-tiktok",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "✏️ Doodle Style"
     }
 ]
