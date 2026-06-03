@@ -8184,5 +8184,32 @@
         "width": 1080,
         "height": 1920,
         "categoryLabel": "✏️ Doodle Style"
+    },
+    {
+        "id": "story_luxury_watch_001_20260603_201528",
+        "name": "Luxury Watch Promo",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "⌚ Luxury Story"
+    },
+    {
+        "id": "story_beauty_glass_001_20260603_201528",
+        "name": "Beauty Glassmorphism Ad",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "💄 Beauty Story"
+    },
+    {
+        "id": "story_ecommerce_sale_001_20260603_201528",
+        "name": "Mega Ecommerce Sale",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🛍️ Sale Story"
     }
 ]
