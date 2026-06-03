@@ -8443,5 +8443,13 @@
         "width": 1080,
         "height": 1920,
         "categoryLabel": "🔥 Sale Story"
+    },
+    {
+        "id": "tpl_1780504469014",
+        "name": "Dark Sun Shine",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080
     }
 ]
