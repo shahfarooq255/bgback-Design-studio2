@@ -8211,5 +8211,194 @@
         "width": 1080,
         "height": 1920,
         "categoryLabel": "🛍️ Sale Story"
+    },
+    {
+        "id": "story_fashion_001_20260603_201803",
+        "name": "Minimalist Fashion Story",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "✨ Fashion Story"
+    },
+    {
+        "id": "story_tech_launch_001_20260603_201803",
+        "name": "Cyber Tech Launch",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🚀 Tech Story"
+    },
+    {
+        "id": "story_food_promo_002_20260603_201803",
+        "name": "Delicious Food Promo",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🍔 Food Story"
+    },
+    {
+        "id": "story_sale_flash_003_20260603_201803",
+        "name": "Flash Sale Alert",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🔥 Flash Sale"
+    },
+    {
+        "id": "story_beauty_makeup_004_20260603_201803",
+        "name": "Beauty Glam Look",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "💄 Beauty Story"
+    },
+    {
+        "id": "story_fitness_gym_005_20260603_201803",
+        "name": "Gym Motivation",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "💪 Fitness Story"
+    },
+    {
+        "id": "story_travel_adventure_006_20260603_201803",
+        "name": "Travel Escape",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "✈️ Travel Story"
+    },
+    {
+        "id": "story_ecommerce_gadget_007_20260603_201803",
+        "name": "Smart Gadget Showcase",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "📱 Gadget Story"
+    },
+    {
+        "id": "story_black_friday_008_20260603_201803",
+        "name": "Black Friday Blast",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🖤 Black Friday"
+    },
+    {
+        "id": "story_luxury_watch_009_20260603_201803",
+        "name": "Luxury Timepiece",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "⌚ Luxury Story"
+    },
+    {
+        "id": "story_home_decor_010_20260603_201803",
+        "name": "Minimalist Home Decor",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🏠 Home Decor"
+    },
+    {
+        "id": "story_perfume_011_20260603_201803",
+        "name": "Luxury Perfume",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🌸 Fragrance"
+    },
+    {
+        "id": "story_shoes_sneakers_012_20260603_201803",
+        "name": "Sneaker Drop",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "👟 Sneakers"
+    },
+    {
+        "id": "story_car_luxury_013_20260603_201803",
+        "name": "Luxury Car Launch",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🏎️ Auto Story"
+    },
+    {
+        "id": "story_christmas_sale_014_20260603_201803",
+        "name": "Christmas Special",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🎄 Christmas"
+    },
+    {
+        "id": "story_cafe_promo_015_20260603_201803",
+        "name": "Cafe Morning Brew",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "☕ Cafe Story"
+    },
+    {
+        "id": "story_gaming_launch_016_20260603_201803",
+        "name": "Gaming Launch",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🎮 Gaming Story"
+    },
+    {
+        "id": "story_skincare_routine_017_20260603_201803",
+        "name": "Skincare Routine",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🧴 Skincare"
+    },
+    {
+        "id": "story_furniture_sale_018_20260603_201803",
+        "name": "Furniture Clearance",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🪑 Furniture"
+    },
+    {
+        "id": "story_phone_review_019_20260603_201803",
+        "name": "Phone Review",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "📱 Tech Review"
+    },
+    {
+        "id": "story_organic_food_020_20260603_201803",
+        "name": "Organic Food",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🥑 Organic"
     }
 ]
