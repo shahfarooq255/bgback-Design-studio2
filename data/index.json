@@ -8400,5 +8400,50 @@
         "width": 1080,
         "height": 1920,
         "categoryLabel": "🥑 Organic"
+    },
+    {
+        "id": "story_perfume_luxury_001_20260603_202444",
+        "name": "Luxury Perfume Reveal",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🌹 Perfume Story"
+    },
+    {
+        "id": "story_fitness_transform_001_20260603_202444",
+        "name": "Fitness Transformation",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "💪 Fitness Story"
+    },
+    {
+        "id": "story_saas_launch_001_20260603_202444",
+        "name": "SaaS Launch Modern",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🚀 SaaS Story"
+    },
+    {
+        "id": "story_jewelry_gold_001_20260603_202444",
+        "name": "Luxury Jewelry",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "💎 Jewelry Story"
+    },
+    {
+        "id": "story_blackfriday_001_20260603_202444",
+        "name": "Black Friday Hyper Sale",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920,
+        "categoryLabel": "🔥 Sale Story"
     }
 ]
