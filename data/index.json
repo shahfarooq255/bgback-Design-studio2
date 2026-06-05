@@ -4876,7 +4876,7 @@
         "id": "sale_modern_it",
         "name": "Tech Blowout",
         "category": "sale",
-        "categoryLabel": "🔥 Sale",
+        "subCategory": "sale",
         "width": 1080,
         "height": 1080
     },
