@@ -4940,7 +4940,7 @@
         "id": "sale_black_friday_pro",
         "name": "Elite Black Friday",
         "category": "sale",
-        "categoryLabel": "🔥 Sale",
+        "subCategory": "sale",
         "width": 1200,
         "height": 627
     },
