@@ -4924,7 +4924,7 @@
         "id": "sale_jewelry_luxury",
         "name": "Luxury Gems",
         "category": "sale",
-        "categoryLabel": "🔥 Sale",
+        "subCategory": "sale",
         "width": 1080,
         "height": 1080
     },
