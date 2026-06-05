@@ -4900,7 +4900,7 @@
         "id": "sale_red_alert",
         "name": "Clearance Alert",
         "category": "sale",
-        "categoryLabel": "🔥 Sale",
+        "subCategory": "sale",
         "width": 1080,
         "height": 1080
     },
