@@ -4852,7 +4852,7 @@
         "id": "sale_minimal_fashion",
         "name": "Chic Clearance",
         "category": "sale",
-        "categoryLabel": "🔥 Sale",
+        "subCategory": "sale",
         "width": 1080,
         "height": 1080
     },
