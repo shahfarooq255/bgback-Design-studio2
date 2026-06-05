@@ -4980,7 +4980,7 @@
         "id": "sale_winter_wonder",
         "name": "Winter Warmth",
         "category": "sale",
-        "categoryLabel": "🔥 Sale",
+        "subCategory": "sale",
         "width": 1080,
         "height": 1080
     },
