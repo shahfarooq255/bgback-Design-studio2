@@ -8452,5 +8452,13 @@
         "subCategory": "sub-fb-ads",
         "width": 1080,
         "height": 1080
+    },
+    {
+        "id": "tpl_1780679734736",
+        "name": "Supper Social Image",
+        "category": "sale",
+        "subCategory": "sale",
+        "width": 1080,
+        "height": 1080
     }
 ]
