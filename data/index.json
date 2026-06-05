@@ -3824,7 +3824,9 @@
         "id": "tpl_new_arrival",
         "name": "New Arrival",
         "category": "sale",
-        "categoryLabel": "🔥 Sale"
+        "subCategory": "sale",
+        "width": 1200,
+        "height": 630
     },
     {
         "id": "tpl_big_announcement",
