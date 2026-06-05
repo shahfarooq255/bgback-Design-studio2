@@ -4844,7 +4844,7 @@
         "id": "sale_mega_gradient",
         "name": "Mega Blowout",
         "category": "sale",
-        "categoryLabel": "🔥 Sale",
+        "subCategory": "sale",
         "width": 1080,
         "height": 1080
     },
