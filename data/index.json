@@ -207,15 +207,6 @@
         "height": 1080
     },
     {
-        "id": "ad_premium_lifestyle",
-        "name": "Minimalist Premium Ad",
-        "category": "facebook-post",
-        "categoryLabel": "📱 Facebook Post",
-        "width": 1080,
-        "height": 1080,
-        "html": "\n        <div style=\"position:absolute; top:0; left:0; width:1080px; height:1080px; background:#fcfaf7; overflow:hidden; z-index:1;\">\n            \n            <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute; top:-200px; right:-200px; width:600px; height:600px; background:#f3f0e9; border-radius:50%; z-index:2;\"></div>\n            <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute; bottom:50px; left:-50px; width:300px; height:300px; border: 2px solid #e5e1d8; border-radius:50%; z-index:2;\"></div>\n\n            <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute; top:120px; left:80px; width:920px; color:#2d2a26; font-size:110px; font-family:serif; font-weight:900; line-height:1; z-index:5; letter-spacing:-2px;\">MODERN<br><span style=\"color:#a68d6d;\">COLLECTION</span></div>\n            \n            <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute; top:360px; left:85px; width:150px; height:6px; background:#a68d6d; z-index:3;\"></div>\n\n            <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n\n            <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute; top:420px; left:85px; width:400px; color:#5c5852; font-size:28px; font-weight:500; line-height:1.6; z-index:5;\">Elevate your daily style with our new minimalist essentials. Designed for comfort, crafted for elegance.</div>\n\n            <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute; bottom:120px; left:80px; width:320px; height:100px; background:#2d2a26; border-radius:0px; z-index:3;\"></div>\n            <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute; bottom:145px; left:80px; width:320px; text-align:center; color:#ffffff; font-size:32px; font-weight:bold; z-index:5; letter-spacing:3px;\">SHOP NOW</div>\n\n            <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute; bottom:145px; right:80px; text-align:right; color:#2d2a26; font-size:35px; font-weight:900; z-index:5; letter-spacing:5px;\">LUXE.EST 2026</div>\n\n            <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute; top:40px; left:40px; width:1000px; height:1000px; border:1px solid rgba(166,141,109,0.2); pointer-events:none; z-index:2;\"></div>\n        </div>\n        "
-    },
-    {
         "id": "fb_luxury_home_001",
         "name": "Modern Luxury Real Estate",
         "category": "ad-creator",
@@ -7726,14 +7717,6 @@
         "width": 1080,
         "height": 1080,
         "categoryLabel": "ðŸŽ“ Education"
-    },
-    {
-        "id": "ad_premium_lifestyle",
-        "name": "Minimalist Premium Ad",
-        "category": "facebook-post",
-        "subCategory": "facebook-post",
-        "width": 1080,
-        "height": 1080
     },
     {
         "id": "tpl_1780241703146",
