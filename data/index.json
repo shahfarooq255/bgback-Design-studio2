@@ -5613,7 +5613,7 @@
         "id": "mobile_travel_destination",
         "name": "City Guide App",
         "category": "mobile",
-        "categoryLabel": "📱 Mobile",
+        "subCategory": "mobile",
         "width": 1080,
         "height": 1920
     },
