@@ -5765,7 +5765,7 @@
         "id": "story_music_hype",
         "name": "New Single Promo",
         "category": "story",
-        "categoryLabel": "ðŸŽ¬ Story",
+        "subCategory": "story",
         "width": 1080,
         "height": 1920
     },
