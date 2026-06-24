@@ -5797,7 +5797,7 @@
         "id": "story_podcast_quote",
         "name": "Podcast Highlight",
         "category": "story",
-        "categoryLabel": "ðŸŽ¬ Story",
+        "subCategory": "story",
         "width": 1080,
         "height": 1920
     },
