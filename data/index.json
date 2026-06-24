@@ -5645,7 +5645,7 @@
         "id": "mobile_recipe_vertical",
         "name": "Food App UI",
         "category": "mobile",
-        "categoryLabel": "📱 Mobile",
+        "subCategory": "mobile",
         "width": 1080,
         "height": 1920
     },
