@@ -5701,7 +5701,7 @@
         "id": "mobile_dark_game",
         "name": "Gamer Profile UI",
         "category": "mobile",
-        "categoryLabel": "📱 Mobile",
+        "subCategory": "mobile",
         "width": 1080,
         "height": 1920
     },
