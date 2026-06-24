@@ -5653,7 +5653,7 @@
         "id": "mobile_minimal_clock",
         "name": "Analog Clock UI",
         "category": "mobile",
-        "categoryLabel": "📱 Mobile",
+        "subCategory": "mobile",
         "width": 1080,
         "height": 1920
     },
