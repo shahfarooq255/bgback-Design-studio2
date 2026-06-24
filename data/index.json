@@ -5629,7 +5629,7 @@
         "id": "mobile_zen_dots",
         "name": "Abstract Zen Wallpaper",
         "category": "mobile",
-        "categoryLabel": "📱 Mobile",
+        "subCategory": "mobile",
         "width": 1080,
         "height": 1920
     },
