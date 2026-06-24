@@ -5781,7 +5781,7 @@
         "id": "story_skincare_pink_blur",
         "name": "Self-Care Story",
         "category": "story",
-        "categoryLabel": "ðŸŽ¬ Story",
+        "subCategory": "story",
         "width": 1080,
         "height": 1920
     },
