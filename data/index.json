@@ -3849,7 +3849,9 @@
         "id": "tpl_job_vacancy",
         "name": "We're Hiring",
         "category": "event",
-        "categoryLabel": "🎉 Event"
+        "subCategory": "event",
+        "width": 1200,
+        "height": 630
     },
     {
         "id": "tpl_achievement",
