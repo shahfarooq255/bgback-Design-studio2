@@ -7047,7 +7047,7 @@
         "id": "vc_pastel_soft",
         "name": "Nordic Pastel",
         "category": "visiting-card",
-        "categoryLabel": "ðŸªª Visiting Card",
+        "subCategory": "visiting-card",
         "width": 1050,
         "height": 600
     },
