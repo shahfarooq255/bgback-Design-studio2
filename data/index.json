@@ -5869,7 +5869,7 @@
         "id": "story_morning_sun",
         "name": "Rise & Shine Story",
         "category": "story",
-        "categoryLabel": "ðŸŽ¬ Story",
+        "subCategory": "story",
         "width": 1080,
         "height": 1920
     },
