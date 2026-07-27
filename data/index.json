@@ -8432,5 +8432,329 @@
         "subCategory": "sale",
         "width": 1080,
         "height": 1080
+    },
+    {
+        "id": "new_arrival_007_20260727_191118",
+        "name": "Cyberpunk Neon Glow",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_008_20260727_191118",
+        "name": "Luxury Split Fashion",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_009_20260727_191118",
+        "name": "Vibrant Geometric Pop",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_010_20260727_191118",
+        "name": "Warm Gold Luxury Reveal",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_011_20260727_191118",
+        "name": "Neo-Brutalist Pop Streetwear",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_012_20260727_191118",
+        "name": "Emerald Botanical Wellness",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_013_20260727_191118",
+        "name": "Hyper Energy Sports",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_014_20260727_191118",
+        "name": "Gourmet Food Delight",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_015_20260727_191118",
+        "name": "Futuristic Glass Mesh",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_016_20260727_191118",
+        "name": "Dark Emerald Matrix",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_017_20260727_191118",
+        "name": "Playful Soft Pastel",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_018_20260727_191118",
+        "name": "Vintage Leather Classic",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_019_20260727_191118",
+        "name": "Neon Cyberpunk NFT Reveal",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_020_20260727_191118",
+        "name": "Nordic Minimal Interior",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_021_20260727_191118",
+        "name": "Neumorphic Soft Peach Skincare",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_022_20260727_191118",
+        "name": "Sunset Gradient Summer Fashion",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_023_20260727_191118",
+        "name": "Luxury Motors Dark Edition",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_024_20260727_191118",
+        "name": "Eco Coffee Brew Lifestyle",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_025_20260727_191118",
+        "name": "Dark Cyber Minimal Kicks",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_026_20260727_191118",
+        "name": "Luxury Fragrance Gold Glow",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_027_20260727_191118",
+        "name": "Electric Mobility Future",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_028_20260727_191118",
+        "name": "Cyber Electronics Drop",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_029_20260727_191118",
+        "name": "Sustainable Earth Fashion",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_030_20260727_191118",
+        "name": "High Energy Pulse Drink",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_031_20260727_191118",
+        "name": "VR Metaverse Gear Drop",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_032_20260727_191118",
+        "name": "Luxury Organic Honey Gold",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_033_20260727_191118",
+        "name": "Pro Fitness Gym Gear",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_034_20260727_191118",
+        "name": "Next-Gen Smartwatch Drop",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_035_20260727_191118",
+        "name": "Luxury Artisan Jewelry Glow",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_036_20260727_191118",
+        "name": "Cold Brew Espresso Splash",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_037_20260727_191118",
+        "name": "Cyberpunk Gaming Audio Drop",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_038_20260727_191118",
+        "name": "Botanical Organic Tea Wellness",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_039_20260727_191118",
+        "name": "Smart Home Automation Hub",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_040_20260727_191118",
+        "name": "Smart Security AI Cam",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_041_20260727_191118",
+        "name": "Luxury Organic Rose Skincare",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "new_arrival_042_20260727_191118",
+        "name": "Neon Activewear Sports Apparel",
+        "category": "ad-creator",
+        "subCategory": "ad-new-arrivals",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ New Arrivals"
     }
 ]
