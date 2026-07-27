@@ -8756,5 +8756,185 @@
         "width": 1080,
         "height": 1080,
         "categoryLabel": "✨ New Arrivals"
+    },
+    {
+        "id": "event_004_20260727_192355",
+        "name": "Neon Music Fest Invite",
+        "category": "ad-creator",
+        "subCategory": "ad-event-inv",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "🎉 Event Invites"
+    },
+    {
+        "id": "event_005_20260727_192355",
+        "name": "Luxury Wedding Invite",
+        "category": "ad-creator",
+        "subCategory": "ad-event-inv",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "🎉 Event Invites"
+    },
+    {
+        "id": "event_006_20260727_192355",
+        "name": "Tech Summit 2026 Invite",
+        "category": "ad-creator",
+        "subCategory": "ad-event-inv",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "🎉 Event Invites"
+    },
+    {
+        "id": "event_007_20260727_192355",
+        "name": "Grand Opening Invite",
+        "category": "ad-creator",
+        "subCategory": "ad-event-inv",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "🎉 Event Invites"
+    },
+    {
+        "id": "event_008_20260727_192355",
+        "name": "Charity Dinner Gala",
+        "category": "ad-creator",
+        "subCategory": "ad-event-inv",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "🎉 Event Invites"
+    },
+    {
+        "id": "event_009_20260727_192355",
+        "name": "Excellence Awards Invite",
+        "category": "ad-creator",
+        "subCategory": "ad-event-inv",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "🎉 Event Invites"
+    },
+    {
+        "id": "event_010_20260727_192355",
+        "name": "Art Exhibition Invite",
+        "category": "ad-creator",
+        "subCategory": "ad-event-inv",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "🎉 Event Invites"
+    },
+    {
+        "id": "event_011_20260727_192355",
+        "name": "Fashion Week Invite",
+        "category": "ad-creator",
+        "subCategory": "ad-event-inv",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "🎉 Event Invites"
+    },
+    {
+        "id": "event_012_20260727_192355",
+        "name": "Startup Pitch Night Invite",
+        "category": "ad-creator",
+        "subCategory": "ad-event-inv",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "🎉 Event Invites"
+    },
+    {
+        "id": "event_013_20260727_192355",
+        "name": "New Year Gala Invite",
+        "category": "ad-creator",
+        "subCategory": "ad-event-inv",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "🎉 Event Invites"
+    },
+    {
+        "id": "event_014_20260727_192355",
+        "name": "Global Webinar Invite",
+        "category": "ad-creator",
+        "subCategory": "ad-event-inv",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "🎉 Event Invites"
+    },
+    {
+        "id": "event_015_20260727_192355",
+        "name": "Boutique Launch Invite",
+        "category": "ad-creator",
+        "subCategory": "ad-event-inv",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "🎉 Event Invites"
+    },
+    {
+        "id": "event_016_20260727_192355",
+        "name": "Music Night Invite",
+        "category": "ad-creator",
+        "subCategory": "ad-event-inv",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "🎉 Event Invites"
+    },
+    {
+        "id": "event_017_20260727_192355",
+        "name": "Art Exhibition Invite",
+        "category": "ad-creator",
+        "subCategory": "ad-event-inv",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "🎉 Event Invites"
+    },
+    {
+        "id": "event_018_20260727_192355",
+        "name": "Charity Dinner Invite",
+        "category": "ad-creator",
+        "subCategory": "ad-event-inv",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "🎉 Event Invites"
+    },
+    {
+        "id": "event_019_20260727_192355",
+        "name": "Mediterranean Wedding Invite",
+        "category": "ad-creator",
+        "subCategory": "ad-event-inv",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "🎉 Event Invites"
+    },
+    {
+        "id": "event_020_20260727_192355",
+        "name": "Urban Networking Mixer",
+        "category": "ad-creator",
+        "subCategory": "ad-event-inv",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "🎉 Event Invites"
+    },
+    {
+        "id": "event_021_20260727_192355",
+        "name": "Jazz Night Performance",
+        "category": "ad-creator",
+        "subCategory": "ad-event-inv",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "🎉 Event Invites"
+    },
+    {
+        "id": "event_022_20260727_192355",
+        "name": "Wellness Retreat Invite",
+        "category": "ad-creator",
+        "subCategory": "ad-event-inv",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "🎉 Event Invites"
+    },
+    {
+        "id": "event_023_20260727_192355",
+        "name": "Corporate Business Gala",
+        "category": "ad-creator",
+        "subCategory": "ad-event-inv",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "🎉 Event Invites"
     }
 ]
