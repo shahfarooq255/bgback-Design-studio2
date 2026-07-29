@@ -8935,5 +8935,13 @@
         "width": 1080,
         "height": 1080,
         "categoryLabel": "🎉 Event Invites"
+    },
+    {
+        "id": "fb_flash_sale_002_20260729_211035",
+        "name": "Digital Marketing Agency Banner",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080
     }
 ]
