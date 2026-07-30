@@ -1,247 +1,5 @@
 [
     {
-        "id": "fb_flash_sale_001",
-        "name": "Bold Flash Sale",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "fb_aurora_neon_012",
-        "name": "Aurora Neon Glow Sale",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "fb_brutalist_bold_013",
-        "name": "Brutalist Typography Sale",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "fb_cinematic_dark_014",
-        "name": "Cinematic Dark Promo",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "categoryLabel": "🎬 Cinematic Ad",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "fb_pastel_soft_015",
-        "name": "Pastel Soft Sale Card",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "fb_holo_dark_016",
-        "name": "Dark Holographic Promo",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "categoryLabel": "✨ Holo Promo",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "fb_countdown_sale_002",
-        "name": "Countdown Flash Sale",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "categoryLabel": "⏰ Flash Sale",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "fb_gold_luxury_003",
-        "name": "Gold Luxury Brand Ad",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "categoryLabel": "👑 Luxury Ad",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "fb_split_bold_004",
-        "name": "Split Color Bold Sale",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "fb_glass_dark_005",
-        "name": "Dark Glassmorphism Promo",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "categoryLabel": "💎 Premium Ad",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "fb_diagonal_flash_006",
-        "name": "Diagonal Flash Banner",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "categoryLabel": "⚡ Flash Banner",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "fb_neon_grid_007",
-        "name": "Neon Grid Sale Ad",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "categoryLabel": "🟩 Neon Sale",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "fb_minimal_bold_008",
-        "name": "Minimal Bold White Sale",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "categoryLabel": "🤍 Minimal Sale",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "fb_retro_vintage_009",
-        "name": "Retro Vintage Flash Sale",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "fb_stack_offer_010",
-        "name": "3D Stack Exclusive Offer",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "categoryLabel": "📦 Stack Offer",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "fb_geo_gradient_011",
-        "name": "Geometric Gradient Sale",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "categoryLabel": "🔷 Geo Sale",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "fb_product_premium_001",
-        "name": "Clean Product Showcase",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "fb_webinar_event_001",
-        "name": "Webinar Invitation",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "categoryLabel": "ðŸ“… Event Ad",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "fb_service_minimal_001",
-        "name": "Minimalist Service Promo",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "fb_app_promo_001",
-        "name": "Tech App Promo",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "categoryLabel": "📱 App Promo",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "fb_tech_cloud_001",
-        "name": "Cloud Tech Service Ad",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "fb_gadget_promo_001",
-        "name": "Modern Gadget Showcase",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "categoryLabel": "🎧 Product Ad",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "fb_neon_tech_001",
-        "name": "Neon Tech Flash Sale",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "categoryLabel": "🔥 Flash Sale",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "fb_fashion_glam_001",
-        "name": "Elegant Fashion Showcase",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "categoryLabel": "✨ Fashion",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "fb_luxury_home_001",
-        "name": "Modern Luxury Real Estate",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "categoryLabel": "ðŸ  Real Estate",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "fb_burger_promo_001",
-        "name": "Delicious Burger Promo",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "categoryLabel": "ðŸ” Food Ad",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "fb_fitness_gym_001",
-        "name": "Energetic Gym Promo",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "categoryLabel": "💪 Fitness",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "ad-sample-1",
-        "name": "Professional Ad Sample",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "width": 1080,
-        "height": 1080
-    },
-    {
         "id": "portrait_agency_001",
         "name": "Modern Digital Agency",
         "category": "ad-creator",
@@ -3987,22 +3745,6 @@
         "height": 630
     },
     {
-        "id": "tpl_bgback_2",
-        "name": "Flawless Erase 2",
-        "category": "facebook-post",
-        "subCategory": "sub-fb-ads",
-        "width": 1200,
-        "height": 630
-    },
-    {
-        "id": "tpl_bgback_3",
-        "name": "Pro Background Removal 3",
-        "category": "facebook-post",
-        "subCategory": "sub-fb-ads",
-        "width": 1200,
-        "height": 630
-    },
-    {
         "id": "tpl_bgback_4",
         "name": "Remove Anything 4",
         "category": "facebook-post",
@@ -4369,22 +4111,6 @@
         "height": 627
     },
     {
-        "id": "li_achievement",
-        "name": "Milestone Celebration",
-        "category": "linkedin-post",
-        "subCategory": "sub-fb-ads",
-        "width": 1087,
-        "height": 1080
-    },
-    {
-        "id": "li_quote_minimal",
-        "name": "Professional Quote",
-        "category": "linkedin-post",
-        "subCategory": "sub-fb-ads",
-        "width": 1200,
-        "height": 627
-    },
-    {
         "id": "li_service_showcase",
         "name": "Service Overview",
         "category": "linkedin-post",
@@ -4401,14 +4127,6 @@
         "height": 1080
     },
     {
-        "id": "li_client_testimonial",
-        "name": "Client Success",
-        "category": "linkedin-post",
-        "subCategory": "sub-fb-ads",
-        "width": 1200,
-        "height": 627
-    },
-    {
         "id": "li_data_insight",
         "name": "Market Insights",
         "category": "linkedin-post",
@@ -4417,26 +4135,10 @@
         "height": 627
     },
     {
-        "id": "li_tips_roundup",
-        "name": "Weekly Tips",
-        "category": "linkedin-post",
-        "subCategory": "sub-fb-ads",
-        "width": 1080,
-        "height": 1080
-    },
-    {
         "id": "li_course_launch",
         "name": "Educational Course",
         "category": "linkedin-post",
         "categoryLabel": "ðŸ’¼ LinkedIn",
-        "width": 1200,
-        "height": 627
-    },
-    {
-        "id": "li_webinar_speaker",
-        "name": "Speaker Feature",
-        "category": "linkedin-post",
-        "subCategory": "sub-fb-ads",
         "width": 1200,
         "height": 627
     },
@@ -4461,14 +4163,6 @@
         "name": "Podcast Series",
         "category": "linkedin-post",
         "categoryLabel": "ðŸ’¼ LinkedIn",
-        "width": 1200,
-        "height": 627
-    },
-    {
-        "id": "li_newsletter_promo",
-        "name": "Monthly Newsletter",
-        "category": "linkedin-post",
-        "subCategory": "sub-fb-ads",
         "width": 1200,
         "height": 627
     },
@@ -4520,14 +4214,6 @@
         "width": 1200,
         "height": 675,
         "html": "\n        <div id=\"design-bg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;background:#000000;z-index:1;\"></div>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:0;left:0;width:100%;height:140px;background:#1DA1F2;z-index:2;\"></div>\n        <h1 class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:30px;left:60px;color:#fff;font-size:72px;font-weight:900;z-index:4;margin:0;letter-spacing:-2px;\">BREAKING NEWS</h1>\n        <div class=\"hd-draggable\" data-type=\"shape\" style=\"position:absolute;top:140px;left:0;width:20px;height:535px;background:#1DA1F2;z-index:2;\"></div>\n        <p class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;top:200px;left:70px;color:#fff;font-size:52px;font-weight:800;z-index:4;width:1000px;line-height:1.2;\">A massive shift in digital landscape is happening right now. Are you ready?</p>\n        <div class=\"hd-draggable\" data-type=\"text\" style=\"position:absolute;bottom:60px;left:70px;background:#fff;color:#000;padding:10px 30px;font-weight:900;font-size:24px;z-index:4;\">#Breaking #TechNews</div>\n        <div class=\"hd-draggable\" data-type=\"emoji\" style=\"position:absolute; top:25px; left:60px; color:#ffffff; font-size:100px; z-index:4; padding:10px; cursor:grab; border:2px dashed transparent; user-select:none; resize:both; overflow:visible;\">🚀</div>\n        "
-    },
-    {
-        "id": "tw_quote_vibrant",
-        "name": "Vibrant Quote",
-        "category": "twitter-post",
-        "subCategory": "sub-fb-ads",
-        "width": 1200,
-        "height": 675
     },
     {
         "id": "tw_alert_minimal",
@@ -5266,14 +4952,6 @@
         "height": 1080
     },
     {
-        "id": "brand_minimal_luxury",
-        "name": "Elegant Logo Presentation",
-        "category": "branding",
-        "subCategory": "sub-fb-ads",
-        "width": 1080,
-        "height": 1080
-    },
-    {
         "id": "brand_tech_future",
         "name": "Tech Brand Guidelines",
         "category": "branding",
@@ -5899,14 +5577,6 @@
         "height": 800
     },
     {
-        "id": "logo_zen_orbit",
-        "name": "Zen Orbit",
-        "category": "logo",
-        "subCategory": "sub-fb-ads",
-        "width": 800,
-        "height": 800
-    },
-    {
         "id": "logo_stellar_peak",
         "name": "Stellar Peak",
         "category": "logo",
@@ -5923,26 +5593,10 @@
         "height": 800
     },
     {
-        "id": "logo_digital_hex",
-        "name": "Digital Hex",
-        "category": "logo",
-        "subCategory": "sub-fb-ads",
-        "width": 800,
-        "height": 800
-    },
-    {
         "id": "logo_velocity_stream",
         "name": "Velocity Stream",
         "category": "logo",
         "categoryLabel": "ðŸ’Ž Logo",
-        "width": 800,
-        "height": 800
-    },
-    {
-        "id": "logo_crystal_core",
-        "name": "Crystal Core",
-        "category": "logo",
-        "subCategory": "sub-fb-ads",
         "width": 800,
         "height": 800
     },
@@ -6067,34 +5721,10 @@
         "height": 800
     },
     {
-        "id": "logo_zenith_nexus",
-        "name": "Zenith Nexus",
-        "category": "logo",
-        "subCategory": "sub-fb-ads",
-        "width": 800,
-        "height": 800
-    },
-    {
-        "id": "logo_aurora_tech",
-        "name": "Aurora Tech",
-        "category": "logo",
-        "subCategory": "sub-fb-ads",
-        "width": 800,
-        "height": 800
-    },
-    {
         "id": "logo_golden_crest",
         "name": "Royal Crest",
         "category": "logo",
         "categoryLabel": "ðŸ’Ž Logo",
-        "width": 800,
-        "height": 800
-    },
-    {
-        "id": "logo_eco_minimal",
-        "name": "Eco Harmony",
-        "category": "logo",
-        "subCategory": "sub-fb-ads",
         "width": 800,
         "height": 800
     },
@@ -6111,14 +5741,6 @@
         "name": "Prism Architect",
         "category": "logo",
         "categoryLabel": "ðŸ’Ž Logo",
-        "width": 800,
-        "height": 800
-    },
-    {
-        "id": "logo_velvet_bloom",
-        "name": "Velvet Bloom",
-        "category": "logo",
-        "subCategory": "sub-fb-ads",
         "width": 800,
         "height": 800
     },
@@ -6147,42 +5769,10 @@
         "height": 800
     },
     {
-        "id": "logo_diamond_luxe",
-        "name": "Diamond Luxe",
-        "category": "logo",
-        "subCategory": "sub-fb-ads",
-        "width": 800,
-        "height": 800
-    },
-    {
-        "id": "logo_bio_health",
-        "name": "Bio Health",
-        "category": "logo",
-        "subCategory": "sub-fb-ads",
-        "width": 800,
-        "height": 800
-    },
-    {
         "id": "logo_pixel_gaming",
         "name": "Pixel Gaming",
         "category": "logo",
         "categoryLabel": "ðŸ’Ž Logo",
-        "width": 800,
-        "height": 800
-    },
-    {
-        "id": "logo_legal_shield",
-        "name": "Legal Shield",
-        "category": "logo",
-        "subCategory": "sub-fb-ads",
-        "width": 800,
-        "height": 800
-    },
-    {
-        "id": "logo_wave_studio",
-        "name": "Wave Studio",
-        "category": "logo",
-        "subCategory": "sub-fb-ads",
         "width": 800,
         "height": 800
     },
@@ -6195,50 +5785,10 @@
         "height": 800
     },
     {
-        "id": "logo_honey_hive",
-        "name": "Honey Hive",
-        "category": "logo",
-        "subCategory": "sub-fb-ads",
-        "width": 800,
-        "height": 800
-    },
-    {
-        "id": "logo_cloud_care",
-        "name": "Cloud Care",
-        "category": "logo",
-        "subCategory": "sub-fb-ads",
-        "width": 800,
-        "height": 800
-    },
-    {
         "id": "logo_bold_fashion",
         "name": "Bold Fashion",
         "category": "logo",
         "categoryLabel": "ðŸ’Ž Logo",
-        "width": 800,
-        "height": 800
-    },
-    {
-        "id": "logo_zenith_star",
-        "name": "Zenith Star",
-        "category": "logo",
-        "subCategory": "sub-fb-ads",
-        "width": 800,
-        "height": 800
-    },
-    {
-        "id": "logo_aero_swift",
-        "name": "Aero Swift",
-        "category": "logo",
-        "subCategory": "sub-fb-ads",
-        "width": 800,
-        "height": 800
-    },
-    {
-        "id": "logo_iron_forge",
-        "name": "Iron Forge",
-        "category": "logo",
-        "subCategory": "sub-fb-ads",
         "width": 800,
         "height": 800
     },
@@ -6255,14 +5805,6 @@
         "name": "Heritage Stone",
         "category": "logo",
         "categoryLabel": "ðŸ’Ž Logo",
-        "width": 800,
-        "height": 800
-    },
-    {
-        "id": "logo_chef_kiss",
-        "name": "Bistro Noir",
-        "category": "logo",
-        "subCategory": "sub-fb-ads",
         "width": 800,
         "height": 800
     },
@@ -7334,26 +6876,10 @@
         "height": 1920
     },
     {
-        "id": "li_hiring_pro",
-        "name": "Professional Hiring",
-        "category": "linkedin-post",
-        "subCategory": "sub-fb-ads",
-        "width": 1200,
-        "height": 627
-    },
-    {
         "id": "li_webinar_modern",
         "name": "Expert Webinar",
         "category": "linkedin-post",
         "subCategory": "linkedin-post",
-        "width": 1200,
-        "height": 627
-    },
-    {
-        "id": "li_service_showcase",
-        "name": "Service Overview",
-        "category": "linkedin-post",
-        "subCategory": "sub-fb-ads",
         "width": 1200,
         "height": 627
     },
@@ -7536,14 +7062,6 @@
         "width": 1080,
         "height": 1920,
         "categoryLabel": "🏡 Real Estate Story"
-    },
-    {
-        "id": "tpl_1780217455632",
-        "name": "FLASH SALE SQAURE  31/05/2026",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "width": 1080,
-        "height": 1080
     },
     {
         "id": "yt_tutorial_002_20260531_153648",
@@ -8418,14 +7936,6 @@
         "categoryLabel": "🔥 Sale Story"
     },
     {
-        "id": "tpl_1780504469014",
-        "name": "Dark Sun Shine",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "width": 1080,
-        "height": 1080
-    },
-    {
         "id": "tpl_1780679734736",
         "name": "Supper Social Image",
         "category": "sale",
@@ -8937,16 +8447,8 @@
         "categoryLabel": "🎉 Event Invites"
     },
     {
-        "id": "fb_flash_sale_002_20260729_211035",
-        "name": "Digital Marketing Agency Banner",
-        "category": "ad-creator",
-        "subCategory": "sub-fb-ads",
-        "width": 1080,
-        "height": 1080
-    },
-    {
-        "id": "fb_flash_sale_002_20260729_211912",
-        "name": "Digital Marketing Agency Banner",
+        "id": "fb_flash_sale_001",
+        "name": "Bold Flash Sale",
         "category": "ad-creator",
         "subCategory": "sub-fb-ads",
         "width": 1080,
@@ -8955,6 +8457,495 @@
     {
         "id": "fb_flash_sale_002_20260729_212627",
         "name": "Digital Marketing Agency Banner",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080
+    },
+    {
+        "id": "fb_aurora_neon_012",
+        "name": "Aurora Neon Glow Sale",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080
+    },
+    {
+        "id": "fb_brutalist_bold_013",
+        "name": "Brutalist Typography Sale",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080
+    },
+    {
+        "id": "fb_cinematic_dark_014",
+        "name": "Cinematic Dark Promo",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "🎬 Cinematic Ad"
+    },
+    {
+        "id": "fb_pastel_soft_015",
+        "name": "Pastel Soft Sale Card",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080
+    },
+    {
+        "id": "fb_holo_dark_016",
+        "name": "Dark Holographic Promo",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ Holo Promo"
+    },
+    {
+        "id": "fb_countdown_sale_002",
+        "name": "Countdown Flash Sale",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "⏰ Flash Sale"
+    },
+    {
+        "id": "fb_gold_luxury_003",
+        "name": "Gold Luxury Brand Ad",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "👑 Luxury Ad"
+    },
+    {
+        "id": "fb_split_bold_004",
+        "name": "Split Color Bold Sale",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080
+    },
+    {
+        "id": "fb_glass_dark_005",
+        "name": "Dark Glassmorphism Promo",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "💎 Premium Ad"
+    },
+    {
+        "id": "fb_diagonal_flash_006",
+        "name": "Diagonal Flash Banner",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080
+    },
+    {
+        "id": "fb_neon_grid_007",
+        "name": "Neon Grid Sale Ad",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "🟩 Neon Sale"
+    },
+    {
+        "id": "fb_minimal_bold_008",
+        "name": "Minimal Bold White Sale",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "🤍 Minimal Sale"
+    },
+    {
+        "id": "fb_retro_vintage_009",
+        "name": "Retro Vintage Flash Sale",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080
+    },
+    {
+        "id": "fb_stack_offer_010",
+        "name": "3D Stack Exclusive Offer",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "📦 Stack Offer"
+    },
+    {
+        "id": "fb_geo_gradient_011",
+        "name": "Geometric Gradient Sale",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "🔷 Geo Sale"
+    },
+    {
+        "id": "fb_product_premium_001",
+        "name": "Clean Product Showcase",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080
+    },
+    {
+        "id": "fb_webinar_event_001",
+        "name": "Webinar Invitation",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "ðŸ“… Event Ad"
+    },
+    {
+        "id": "fb_service_minimal_001",
+        "name": "Minimalist Service Promo",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080
+    },
+    {
+        "id": "fb_app_promo_001",
+        "name": "Tech App Promo",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "📱 App Promo"
+    },
+    {
+        "id": "fb_tech_cloud_001",
+        "name": "Cloud Tech Service Ad",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080
+    },
+    {
+        "id": "fb_gadget_promo_001",
+        "name": "Modern Gadget Showcase",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "🎧 Product Ad"
+    },
+    {
+        "id": "fb_neon_tech_001",
+        "name": "Neon Tech Flash Sale",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "🔥 Flash Sale"
+    },
+    {
+        "id": "fb_fashion_glam_001",
+        "name": "Elegant Fashion Showcase",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "✨ Fashion"
+    },
+    {
+        "id": "fb_luxury_home_001",
+        "name": "Modern Luxury Real Estate",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "ðŸ  Real Estate"
+    },
+    {
+        "id": "fb_burger_promo_001",
+        "name": "Delicious Burger Promo",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "ðŸ” Food Ad"
+    },
+    {
+        "id": "fb_fitness_gym_001",
+        "name": "Energetic Gym Promo",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080,
+        "categoryLabel": "💪 Fitness"
+    },
+    {
+        "id": "tpl_bgback_2",
+        "name": "Flawless Erase 2",
+        "category": "facebook-post",
+        "subCategory": "sub-fb-ads",
+        "width": 1200,
+        "height": 630
+    },
+    {
+        "id": "tpl_bgback_3",
+        "name": "Pro Background Removal 3",
+        "category": "facebook-post",
+        "subCategory": "sub-fb-ads",
+        "width": 1200,
+        "height": 630
+    },
+    {
+        "id": "li_achievement",
+        "name": "Milestone Celebration",
+        "category": "linkedin-post",
+        "subCategory": "sub-fb-ads",
+        "width": 1087,
+        "height": 1080
+    },
+    {
+        "id": "li_client_testimonial",
+        "name": "Client Success",
+        "category": "linkedin-post",
+        "subCategory": "sub-fb-ads",
+        "width": 1200,
+        "height": 627
+    },
+    {
+        "id": "li_tips_roundup",
+        "name": "Weekly Tips",
+        "category": "linkedin-post",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080
+    },
+    {
+        "id": "li_webinar_speaker",
+        "name": "Speaker Feature",
+        "category": "linkedin-post",
+        "subCategory": "sub-fb-ads",
+        "width": 1200,
+        "height": 627
+    },
+    {
+        "id": "li_newsletter_promo",
+        "name": "Monthly Newsletter",
+        "category": "linkedin-post",
+        "subCategory": "sub-fb-ads",
+        "width": 1200,
+        "height": 627
+    },
+    {
+        "id": "tw_quote_vibrant",
+        "name": "Vibrant Quote",
+        "category": "twitter-post",
+        "subCategory": "sub-fb-ads",
+        "width": 1200,
+        "height": 675
+    },
+    {
+        "id": "brand_minimal_luxury",
+        "name": "Elegant Logo Presentation",
+        "category": "branding",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080
+    },
+    {
+        "id": "logo_zen_orbit",
+        "name": "Zen Orbit",
+        "category": "logo",
+        "subCategory": "sub-fb-ads",
+        "width": 800,
+        "height": 800
+    },
+    {
+        "id": "logo_digital_hex",
+        "name": "Digital Hex",
+        "category": "logo",
+        "subCategory": "sub-fb-ads",
+        "width": 800,
+        "height": 800
+    },
+    {
+        "id": "logo_crystal_core",
+        "name": "Crystal Core",
+        "category": "logo",
+        "subCategory": "sub-fb-ads",
+        "width": 800,
+        "height": 800
+    },
+    {
+        "id": "logo_zenith_nexus",
+        "name": "Zenith Nexus",
+        "category": "logo",
+        "subCategory": "sub-fb-ads",
+        "width": 800,
+        "height": 800
+    },
+    {
+        "id": "logo_aurora_tech",
+        "name": "Aurora Tech",
+        "category": "logo",
+        "subCategory": "sub-fb-ads",
+        "width": 800,
+        "height": 800
+    },
+    {
+        "id": "logo_eco_minimal",
+        "name": "Eco Harmony",
+        "category": "logo",
+        "subCategory": "sub-fb-ads",
+        "width": 800,
+        "height": 800
+    },
+    {
+        "id": "logo_velvet_bloom",
+        "name": "Velvet Bloom",
+        "category": "logo",
+        "subCategory": "sub-fb-ads",
+        "width": 800,
+        "height": 800
+    },
+    {
+        "id": "logo_diamond_luxe",
+        "name": "Diamond Luxe",
+        "category": "logo",
+        "subCategory": "sub-fb-ads",
+        "width": 800,
+        "height": 800
+    },
+    {
+        "id": "logo_bio_health",
+        "name": "Bio Health",
+        "category": "logo",
+        "subCategory": "sub-fb-ads",
+        "width": 800,
+        "height": 800
+    },
+    {
+        "id": "logo_legal_shield",
+        "name": "Legal Shield",
+        "category": "logo",
+        "subCategory": "sub-fb-ads",
+        "width": 800,
+        "height": 800
+    },
+    {
+        "id": "logo_wave_studio",
+        "name": "Wave Studio",
+        "category": "logo",
+        "subCategory": "sub-fb-ads",
+        "width": 800,
+        "height": 800
+    },
+    {
+        "id": "logo_honey_hive",
+        "name": "Honey Hive",
+        "category": "logo",
+        "subCategory": "sub-fb-ads",
+        "width": 800,
+        "height": 800
+    },
+    {
+        "id": "logo_cloud_care",
+        "name": "Cloud Care",
+        "category": "logo",
+        "subCategory": "sub-fb-ads",
+        "width": 800,
+        "height": 800
+    },
+    {
+        "id": "logo_zenith_star",
+        "name": "Zenith Star",
+        "category": "logo",
+        "subCategory": "sub-fb-ads",
+        "width": 800,
+        "height": 800
+    },
+    {
+        "id": "logo_aero_swift",
+        "name": "Aero Swift",
+        "category": "logo",
+        "subCategory": "sub-fb-ads",
+        "width": 800,
+        "height": 800
+    },
+    {
+        "id": "logo_chef_kiss",
+        "name": "Bistro Noir",
+        "category": "logo",
+        "subCategory": "sub-fb-ads",
+        "width": 800,
+        "height": 800
+    },
+    {
+        "id": "logo_iron_forge",
+        "name": "Iron Forge",
+        "category": "logo",
+        "subCategory": "sub-fb-ads",
+        "width": 800,
+        "height": 800
+    },
+    {
+        "id": "li_service_showcase",
+        "name": "Service Overview",
+        "category": "linkedin-post",
+        "subCategory": "sub-fb-ads",
+        "width": 1200,
+        "height": 627
+    },
+    {
+        "id": "tpl_1778852974667",
+        "name": "Shopify Sale",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080
+    },
+    {
+        "id": "tpl_1778998532474",
+        "name": "Goleden line background",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080
+    },
+    {
+        "id": "tpl_1779293248215",
+        "name": "Linkdin Dark ",
+        "category": "linkedin-post",
+        "subCategory": "sub-fb-ads",
+        "width": 1200,
+        "height": 627
+    },
+    {
+        "id": "tpl_1779540256823",
+        "name": "TOOL AD SQUARE",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080
+    },
+    {
+        "id": "tpl_1780217455632",
+        "name": "FLASH SALE SQAURE  31/05/2026",
+        "category": "ad-creator",
+        "subCategory": "sub-fb-ads",
+        "width": 1080,
+        "height": 1080
+    },
+    {
+        "id": "tpl_1780504469014",
+        "name": "Dark Sun Shine",
         "category": "ad-creator",
         "subCategory": "sub-fb-ads",
         "width": 1080,
