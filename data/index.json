@@ -9518,5 +9518,13 @@
         "subCategory": "sub-fb-ads",
         "width": 1080,
         "height": 1080
+    },
+    {
+        "id": "invoice_046",
+        "name": "Cyberpunk Neon Pink Studio Receipt",
+        "category": "ad-creator",
+        "subCategory": "ad-invoices",
+        "width": 1080,
+        "height": 1080
     }
 ]
