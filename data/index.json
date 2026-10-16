@@ -9510,5 +9510,13 @@
         "subCategory": "ad-insta-story",
         "width": 1080,
         "height": 1920
+    },
+    {
+        "id": "story_hiring_pro_white_luxe_069",
+        "name": "Professional Hiring Announcement White Luxe",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920
     }
 ]
