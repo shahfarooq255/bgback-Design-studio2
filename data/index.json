@@ -9486,5 +9486,13 @@
         "subCategory": "ad-insta-story",
         "width": 1080,
         "height": 1920
+    },
+    {
+        "id": "story_food_burger_sizzling_034",
+        "name": "Sizzling Gourmet Burger Promo",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920
     }
 ]
