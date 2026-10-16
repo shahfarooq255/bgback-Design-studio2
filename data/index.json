@@ -9494,5 +9494,13 @@
         "subCategory": "ad-insta-story",
         "width": 1080,
         "height": 1920
+    },
+    {
+        "id": "story_podium_product_pro_022",
+        "name": "Luxury Product Showcase Story",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920
     }
 ]
