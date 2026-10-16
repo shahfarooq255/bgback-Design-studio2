@@ -9502,5 +9502,13 @@
         "subCategory": "ad-insta-story",
         "width": 1080,
         "height": 1920
+    },
+    {
+        "id": "story_realestate_showcase_emerald_031",
+        "name": "Luxury Real Estate Showcase",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920
     }
 ]
