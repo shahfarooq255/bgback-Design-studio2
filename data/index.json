@@ -9526,5 +9526,13 @@
         "subCategory": "ad-invoices",
         "width": 1080,
         "height": 1080
+    },
+    {
+        "id": "story_hiring_emerald_spotlight_041",
+        "name": "Emerald Luxe Studio Spotlight",
+        "category": "ad-creator",
+        "subCategory": "ad-insta-story",
+        "width": 1080,
+        "height": 1920
     }
 ]
